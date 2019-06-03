@@ -1,0 +1,1962 @@
+2010 Federal Election Senate First Preferences By Polling Place for Division 194 [Event:15508 Phase:FinalResults Generated:2013-01-22T15:04:00 Cycle:109e02bb-5f15-4808-984f-b47255b191fb Created:2013-01-22T14:55:43 Environment:PROD Site:PARKES Server:NTR01 Version:6.0.10.10009]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlaceNm,Ticket,CandidateID,BallotPosition,CandidateDetails,PartyNm,OrdinaryVotes
+TAS,194,Denison,8440,Abbotsfield,A,22057,0,A Ticket Votes,Senator On-Line,8
+TAS,194,Denison,8440,Abbotsfield,A,21856,1,"MURRAY, Julie",Senator On-Line,5
+TAS,194,Denison,8440,Abbotsfield,A,21858,2,"WIENER, Sven",Senator On-Line,1
+TAS,194,Denison,8440,Abbotsfield,B,22053,0,B Ticket Votes,Australian Democrats,3
+TAS,194,Denison,8440,Abbotsfield,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,8440,Abbotsfield,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8440,Abbotsfield,C,22052,0,C Ticket Votes,Liberal,257
+TAS,194,Denison,8440,Abbotsfield,C,21538,1,"ABETZ, Eric",Liberal,31
+TAS,194,Denison,8440,Abbotsfield,C,21558,2,"PARRY, Stephen Shane",Liberal,5
+TAS,194,Denison,8440,Abbotsfield,C,21628,3,"BARNETT, Guy",Liberal,11
+TAS,194,Denison,8440,Abbotsfield,D,22055,0,D Ticket Votes,Australian Labor Party,816
+TAS,194,Denison,8440,Abbotsfield,D,21041,1,"POLLEY, Helen",Australian Labor Party,37
+TAS,194,Denison,8440,Abbotsfield,D,21459,2,"URQUHART, Anne",Australian Labor Party,6
+TAS,194,Denison,8440,Abbotsfield,D,21488,3,"SINGH, Lisa",Australian Labor Party,72
+TAS,194,Denison,8440,Abbotsfield,E,22059,0,E Ticket Votes,Shooters and Fishers,36
+TAS,194,Denison,8440,Abbotsfield,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,9
+TAS,194,Denison,8440,Abbotsfield,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8440,Abbotsfield,F,22051,0,F Ticket Votes,Australian Greens,145
+TAS,194,Denison,8440,Abbotsfield,F,20801,1,"MILNE, Christine",Australian Greens,30
+TAS,194,Denison,8440,Abbotsfield,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,194,Denison,8440,Abbotsfield,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,194,Denison,8440,Abbotsfield,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,8440,Abbotsfield,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,194,Denison,8440,Abbotsfield,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8440,Abbotsfield,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,10
+TAS,194,Denison,8440,Abbotsfield,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8440,Abbotsfield,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8440,Abbotsfield,I,22058,0,I Ticket Votes,Family First,22
+TAS,194,Denison,8440,Abbotsfield,I,21916,1,"ZUBIC, Jim",Family First,2
+TAS,194,Denison,8440,Abbotsfield,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,194,Denison,8440,Abbotsfield,J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,194,Denison,8440,Abbotsfield,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8440,Abbotsfield,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8440,Abbotsfield,UG,21964,1,"OTTAVI, Dino",Independent,4
+TAS,194,Denison,8440,Abbotsfield,ZZ,0,99,INFORMAL,,80
+TAS,194,Denison,8441,Albuera,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,194,Denison,8441,Albuera,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,8441,Albuera,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8441,Albuera,B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,194,Denison,8441,Albuera,B,21756,1,"HUTTON, Paulene",Australian Democrats,4
+TAS,194,Denison,8441,Albuera,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8441,Albuera,C,22052,0,C Ticket Votes,Liberal,114
+TAS,194,Denison,8441,Albuera,C,21538,1,"ABETZ, Eric",Liberal,17
+TAS,194,Denison,8441,Albuera,C,21558,2,"PARRY, Stephen Shane",Liberal,8
+TAS,194,Denison,8441,Albuera,C,21628,3,"BARNETT, Guy",Liberal,12
+TAS,194,Denison,8441,Albuera,D,22055,0,D Ticket Votes,Australian Labor Party,105
+TAS,194,Denison,8441,Albuera,D,21041,1,"POLLEY, Helen",Australian Labor Party,9
+TAS,194,Denison,8441,Albuera,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,194,Denison,8441,Albuera,D,21488,3,"SINGH, Lisa",Australian Labor Party,24
+TAS,194,Denison,8441,Albuera,E,22059,0,E Ticket Votes,Shooters and Fishers,2
+TAS,194,Denison,8441,Albuera,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,194,Denison,8441,Albuera,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8441,Albuera,F,22051,0,F Ticket Votes,Australian Greens,133
+TAS,194,Denison,8441,Albuera,F,20801,1,"MILNE, Christine",Australian Greens,113
+TAS,194,Denison,8441,Albuera,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,3
+TAS,194,Denison,8441,Albuera,F,20805,3,"ANN, Penelope",Australian Greens,2
+TAS,194,Denison,8441,Albuera,G,22056,0,G Ticket Votes,Secular Party of Australia,2
+TAS,194,Denison,8441,Albuera,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,2
+TAS,194,Denison,8441,Albuera,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,194,Denison,8441,Albuera,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8441,Albuera,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8441,Albuera,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8441,Albuera,I,22058,0,I Ticket Votes,Family First,0
+TAS,194,Denison,8441,Albuera,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,194,Denison,8441,Albuera,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8441,Albuera,J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,194,Denison,8441,Albuera,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,194,Denison,8441,Albuera,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8441,Albuera,UG,21964,1,"OTTAVI, Dino",Independent,4
+TAS,194,Denison,8441,Albuera,ZZ,0,99,INFORMAL,,5
+TAS,194,Denison,8442,Battery Point,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,194,Denison,8442,Battery Point,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,8442,Battery Point,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8442,Battery Point,B,22053,0,B Ticket Votes,Australian Democrats,5
+TAS,194,Denison,8442,Battery Point,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,8442,Battery Point,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8442,Battery Point,C,22052,0,C Ticket Votes,Liberal,343
+TAS,194,Denison,8442,Battery Point,C,21538,1,"ABETZ, Eric",Liberal,29
+TAS,194,Denison,8442,Battery Point,C,21558,2,"PARRY, Stephen Shane",Liberal,11
+TAS,194,Denison,8442,Battery Point,C,21628,3,"BARNETT, Guy",Liberal,42
+TAS,194,Denison,8442,Battery Point,D,22055,0,D Ticket Votes,Australian Labor Party,165
+TAS,194,Denison,8442,Battery Point,D,21041,1,"POLLEY, Helen",Australian Labor Party,28
+TAS,194,Denison,8442,Battery Point,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,194,Denison,8442,Battery Point,D,21488,3,"SINGH, Lisa",Australian Labor Party,74
+TAS,194,Denison,8442,Battery Point,E,22059,0,E Ticket Votes,Shooters and Fishers,4
+TAS,194,Denison,8442,Battery Point,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,194,Denison,8442,Battery Point,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8442,Battery Point,F,22051,0,F Ticket Votes,Australian Greens,318
+TAS,194,Denison,8442,Battery Point,F,20801,1,"MILNE, Christine",Australian Greens,184
+TAS,194,Denison,8442,Battery Point,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,11
+TAS,194,Denison,8442,Battery Point,F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,194,Denison,8442,Battery Point,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,194,Denison,8442,Battery Point,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,2
+TAS,194,Denison,8442,Battery Point,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8442,Battery Point,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8442,Battery Point,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,3
+TAS,194,Denison,8442,Battery Point,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8442,Battery Point,I,22058,0,I Ticket Votes,Family First,7
+TAS,194,Denison,8442,Battery Point,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,194,Denison,8442,Battery Point,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,194,Denison,8442,Battery Point,J,22054,0,J Ticket Votes,The Climate Sceptics,3
+TAS,194,Denison,8442,Battery Point,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8442,Battery Point,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,1
+TAS,194,Denison,8442,Battery Point,UG,21964,1,"OTTAVI, Dino",Independent,14
+TAS,194,Denison,8442,Battery Point,ZZ,0,99,INFORMAL,,19
+TAS,194,Denison,8443,Bowen Road,A,22057,0,A Ticket Votes,Senator On-Line,6
+TAS,194,Denison,8443,Bowen Road,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,194,Denison,8443,Bowen Road,A,21858,2,"WIENER, Sven",Senator On-Line,2
+TAS,194,Denison,8443,Bowen Road,B,22053,0,B Ticket Votes,Australian Democrats,6
+TAS,194,Denison,8443,Bowen Road,B,21756,1,"HUTTON, Paulene",Australian Democrats,2
+TAS,194,Denison,8443,Bowen Road,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8443,Bowen Road,C,22052,0,C Ticket Votes,Liberal,222
+TAS,194,Denison,8443,Bowen Road,C,21538,1,"ABETZ, Eric",Liberal,26
+TAS,194,Denison,8443,Bowen Road,C,21558,2,"PARRY, Stephen Shane",Liberal,4
+TAS,194,Denison,8443,Bowen Road,C,21628,3,"BARNETT, Guy",Liberal,14
+TAS,194,Denison,8443,Bowen Road,D,22055,0,D Ticket Votes,Australian Labor Party,577
+TAS,194,Denison,8443,Bowen Road,D,21041,1,"POLLEY, Helen",Australian Labor Party,35
+TAS,194,Denison,8443,Bowen Road,D,21459,2,"URQUHART, Anne",Australian Labor Party,5
+TAS,194,Denison,8443,Bowen Road,D,21488,3,"SINGH, Lisa",Australian Labor Party,91
+TAS,194,Denison,8443,Bowen Road,E,22059,0,E Ticket Votes,Shooters and Fishers,16
+TAS,194,Denison,8443,Bowen Road,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,4
+TAS,194,Denison,8443,Bowen Road,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8443,Bowen Road,F,22051,0,F Ticket Votes,Australian Greens,217
+TAS,194,Denison,8443,Bowen Road,F,20801,1,"MILNE, Christine",Australian Greens,118
+TAS,194,Denison,8443,Bowen Road,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,5
+TAS,194,Denison,8443,Bowen Road,F,20805,3,"ANN, Penelope",Australian Greens,7
+TAS,194,Denison,8443,Bowen Road,G,22056,0,G Ticket Votes,Secular Party of Australia,2
+TAS,194,Denison,8443,Bowen Road,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,194,Denison,8443,Bowen Road,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8443,Bowen Road,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,7
+TAS,194,Denison,8443,Bowen Road,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,5
+TAS,194,Denison,8443,Bowen Road,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8443,Bowen Road,I,22058,0,I Ticket Votes,Family First,24
+TAS,194,Denison,8443,Bowen Road,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,194,Denison,8443,Bowen Road,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,2
+TAS,194,Denison,8443,Bowen Road,J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,194,Denison,8443,Bowen Road,J,21743,1,"WALLER, Frank",The Climate Sceptics,2
+TAS,194,Denison,8443,Bowen Road,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8443,Bowen Road,UG,21964,1,"OTTAVI, Dino",Independent,8
+TAS,194,Denison,8443,Bowen Road,ZZ,0,99,INFORMAL,,57
+TAS,194,Denison,8444,Brent Street,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,194,Denison,8444,Brent Street,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,8444,Brent Street,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8444,Brent Street,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,194,Denison,8444,Brent Street,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,194,Denison,8444,Brent Street,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8444,Brent Street,C,22052,0,C Ticket Votes,Liberal,90
+TAS,194,Denison,8444,Brent Street,C,21538,1,"ABETZ, Eric",Liberal,9
+TAS,194,Denison,8444,Brent Street,C,21558,2,"PARRY, Stephen Shane",Liberal,2
+TAS,194,Denison,8444,Brent Street,C,21628,3,"BARNETT, Guy",Liberal,10
+TAS,194,Denison,8444,Brent Street,D,22055,0,D Ticket Votes,Australian Labor Party,154
+TAS,194,Denison,8444,Brent Street,D,21041,1,"POLLEY, Helen",Australian Labor Party,15
+TAS,194,Denison,8444,Brent Street,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,194,Denison,8444,Brent Street,D,21488,3,"SINGH, Lisa",Australian Labor Party,26
+TAS,194,Denison,8444,Brent Street,E,22059,0,E Ticket Votes,Shooters and Fishers,3
+TAS,194,Denison,8444,Brent Street,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,194,Denison,8444,Brent Street,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8444,Brent Street,F,22051,0,F Ticket Votes,Australian Greens,39
+TAS,194,Denison,8444,Brent Street,F,20801,1,"MILNE, Christine",Australian Greens,12
+TAS,194,Denison,8444,Brent Street,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,194,Denison,8444,Brent Street,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,194,Denison,8444,Brent Street,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,8444,Brent Street,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,8444,Brent Street,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,194,Denison,8444,Brent Street,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8444,Brent Street,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8444,Brent Street,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8444,Brent Street,I,22058,0,I Ticket Votes,Family First,7
+TAS,194,Denison,8444,Brent Street,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,194,Denison,8444,Brent Street,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8444,Brent Street,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,194,Denison,8444,Brent Street,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,194,Denison,8444,Brent Street,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8444,Brent Street,UG,21964,1,"OTTAVI, Dino",Independent,2
+TAS,194,Denison,8444,Brent Street,ZZ,0,99,INFORMAL,,4
+TAS,194,Denison,8445,Cascades,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,194,Denison,8445,Cascades,A,21856,1,"MURRAY, Julie",Senator On-Line,3
+TAS,194,Denison,8445,Cascades,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8445,Cascades,B,22053,0,B Ticket Votes,Australian Democrats,5
+TAS,194,Denison,8445,Cascades,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,194,Denison,8445,Cascades,B,21759,2,"NEAL, Timothy",Australian Democrats,2
+TAS,194,Denison,8445,Cascades,C,22052,0,C Ticket Votes,Liberal,119
+TAS,194,Denison,8445,Cascades,C,21538,1,"ABETZ, Eric",Liberal,27
+TAS,194,Denison,8445,Cascades,C,21558,2,"PARRY, Stephen Shane",Liberal,4
+TAS,194,Denison,8445,Cascades,C,21628,3,"BARNETT, Guy",Liberal,18
+TAS,194,Denison,8445,Cascades,D,22055,0,D Ticket Votes,Australian Labor Party,163
+TAS,194,Denison,8445,Cascades,D,21041,1,"POLLEY, Helen",Australian Labor Party,26
+TAS,194,Denison,8445,Cascades,D,21459,2,"URQUHART, Anne",Australian Labor Party,3
+TAS,194,Denison,8445,Cascades,D,21488,3,"SINGH, Lisa",Australian Labor Party,50
+TAS,194,Denison,8445,Cascades,E,22059,0,E Ticket Votes,Shooters and Fishers,4
+TAS,194,Denison,8445,Cascades,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,4
+TAS,194,Denison,8445,Cascades,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8445,Cascades,F,22051,0,F Ticket Votes,Australian Greens,275
+TAS,194,Denison,8445,Cascades,F,20801,1,"MILNE, Christine",Australian Greens,209
+TAS,194,Denison,8445,Cascades,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,4
+TAS,194,Denison,8445,Cascades,F,20805,3,"ANN, Penelope",Australian Greens,5
+TAS,194,Denison,8445,Cascades,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,194,Denison,8445,Cascades,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,2
+TAS,194,Denison,8445,Cascades,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,2
+TAS,194,Denison,8445,Cascades,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,3
+TAS,194,Denison,8445,Cascades,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,4
+TAS,194,Denison,8445,Cascades,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8445,Cascades,I,22058,0,I Ticket Votes,Family First,4
+TAS,194,Denison,8445,Cascades,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,8445,Cascades,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8445,Cascades,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,194,Denison,8445,Cascades,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8445,Cascades,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8445,Cascades,UG,21964,1,"OTTAVI, Dino",Independent,6
+TAS,194,Denison,8445,Cascades,ZZ,0,99,INFORMAL,,22
+TAS,194,Denison,8446,Chigwell,A,22057,0,A Ticket Votes,Senator On-Line,8
+TAS,194,Denison,8446,Chigwell,A,21856,1,"MURRAY, Julie",Senator On-Line,6
+TAS,194,Denison,8446,Chigwell,A,21858,2,"WIENER, Sven",Senator On-Line,2
+TAS,194,Denison,8446,Chigwell,B,22053,0,B Ticket Votes,Australian Democrats,9
+TAS,194,Denison,8446,Chigwell,B,21756,1,"HUTTON, Paulene",Australian Democrats,4
+TAS,194,Denison,8446,Chigwell,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8446,Chigwell,C,22052,0,C Ticket Votes,Liberal,295
+TAS,194,Denison,8446,Chigwell,C,21538,1,"ABETZ, Eric",Liberal,33
+TAS,194,Denison,8446,Chigwell,C,21558,2,"PARRY, Stephen Shane",Liberal,3
+TAS,194,Denison,8446,Chigwell,C,21628,3,"BARNETT, Guy",Liberal,21
+TAS,194,Denison,8446,Chigwell,D,22055,0,D Ticket Votes,Australian Labor Party,866
+TAS,194,Denison,8446,Chigwell,D,21041,1,"POLLEY, Helen",Australian Labor Party,40
+TAS,194,Denison,8446,Chigwell,D,21459,2,"URQUHART, Anne",Australian Labor Party,6
+TAS,194,Denison,8446,Chigwell,D,21488,3,"SINGH, Lisa",Australian Labor Party,72
+TAS,194,Denison,8446,Chigwell,E,22059,0,E Ticket Votes,Shooters and Fishers,32
+TAS,194,Denison,8446,Chigwell,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,8
+TAS,194,Denison,8446,Chigwell,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,194,Denison,8446,Chigwell,F,22051,0,F Ticket Votes,Australian Greens,179
+TAS,194,Denison,8446,Chigwell,F,20801,1,"MILNE, Christine",Australian Greens,37
+TAS,194,Denison,8446,Chigwell,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,1
+TAS,194,Denison,8446,Chigwell,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,194,Denison,8446,Chigwell,G,22056,0,G Ticket Votes,Secular Party of Australia,2
+TAS,194,Denison,8446,Chigwell,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,8446,Chigwell,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8446,Chigwell,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,16
+TAS,194,Denison,8446,Chigwell,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8446,Chigwell,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8446,Chigwell,I,22058,0,I Ticket Votes,Family First,27
+TAS,194,Denison,8446,Chigwell,I,21916,1,"ZUBIC, Jim",Family First,4
+TAS,194,Denison,8446,Chigwell,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8446,Chigwell,J,22054,0,J Ticket Votes,The Climate Sceptics,3
+TAS,194,Denison,8446,Chigwell,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,194,Denison,8446,Chigwell,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8446,Chigwell,UG,21964,1,"OTTAVI, Dino",Independent,2
+TAS,194,Denison,8446,Chigwell,ZZ,0,99,INFORMAL,,86
+TAS,194,Denison,8447,Claremont,A,22057,0,A Ticket Votes,Senator On-Line,8
+TAS,194,Denison,8447,Claremont,A,21856,1,"MURRAY, Julie",Senator On-Line,10
+TAS,194,Denison,8447,Claremont,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8447,Claremont,B,22053,0,B Ticket Votes,Australian Democrats,11
+TAS,194,Denison,8447,Claremont,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,194,Denison,8447,Claremont,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,194,Denison,8447,Claremont,C,22052,0,C Ticket Votes,Liberal,305
+TAS,194,Denison,8447,Claremont,C,21538,1,"ABETZ, Eric",Liberal,37
+TAS,194,Denison,8447,Claremont,C,21558,2,"PARRY, Stephen Shane",Liberal,9
+TAS,194,Denison,8447,Claremont,C,21628,3,"BARNETT, Guy",Liberal,18
+TAS,194,Denison,8447,Claremont,D,22055,0,D Ticket Votes,Australian Labor Party,780
+TAS,194,Denison,8447,Claremont,D,21041,1,"POLLEY, Helen",Australian Labor Party,54
+TAS,194,Denison,8447,Claremont,D,21459,2,"URQUHART, Anne",Australian Labor Party,7
+TAS,194,Denison,8447,Claremont,D,21488,3,"SINGH, Lisa",Australian Labor Party,81
+TAS,194,Denison,8447,Claremont,E,22059,0,E Ticket Votes,Shooters and Fishers,30
+TAS,194,Denison,8447,Claremont,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,5
+TAS,194,Denison,8447,Claremont,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,2
+TAS,194,Denison,8447,Claremont,F,22051,0,F Ticket Votes,Australian Greens,195
+TAS,194,Denison,8447,Claremont,F,20801,1,"MILNE, Christine",Australian Greens,57
+TAS,194,Denison,8447,Claremont,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,3
+TAS,194,Denison,8447,Claremont,F,20805,3,"ANN, Penelope",Australian Greens,1
+TAS,194,Denison,8447,Claremont,G,22056,0,G Ticket Votes,Secular Party of Australia,3
+TAS,194,Denison,8447,Claremont,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,8447,Claremont,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8447,Claremont,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,9
+TAS,194,Denison,8447,Claremont,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,2
+TAS,194,Denison,8447,Claremont,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8447,Claremont,I,22058,0,I Ticket Votes,Family First,12
+TAS,194,Denison,8447,Claremont,I,21916,1,"ZUBIC, Jim",Family First,4
+TAS,194,Denison,8447,Claremont,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,194,Denison,8447,Claremont,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,194,Denison,8447,Claremont,J,21743,1,"WALLER, Frank",The Climate Sceptics,2
+TAS,194,Denison,8447,Claremont,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8447,Claremont,UG,21964,1,"OTTAVI, Dino",Independent,8
+TAS,194,Denison,8447,Claremont,ZZ,0,99,INFORMAL,,88
+TAS,194,Denison,8448,Collinsvale,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,194,Denison,8448,Collinsvale,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,8448,Collinsvale,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8448,Collinsvale,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,194,Denison,8448,Collinsvale,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,8448,Collinsvale,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8448,Collinsvale,C,22052,0,C Ticket Votes,Liberal,46
+TAS,194,Denison,8448,Collinsvale,C,21538,1,"ABETZ, Eric",Liberal,4
+TAS,194,Denison,8448,Collinsvale,C,21558,2,"PARRY, Stephen Shane",Liberal,2
+TAS,194,Denison,8448,Collinsvale,C,21628,3,"BARNETT, Guy",Liberal,6
+TAS,194,Denison,8448,Collinsvale,D,22055,0,D Ticket Votes,Australian Labor Party,122
+TAS,194,Denison,8448,Collinsvale,D,21041,1,"POLLEY, Helen",Australian Labor Party,11
+TAS,194,Denison,8448,Collinsvale,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,194,Denison,8448,Collinsvale,D,21488,3,"SINGH, Lisa",Australian Labor Party,16
+TAS,194,Denison,8448,Collinsvale,E,22059,0,E Ticket Votes,Shooters and Fishers,11
+TAS,194,Denison,8448,Collinsvale,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,3
+TAS,194,Denison,8448,Collinsvale,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,194,Denison,8448,Collinsvale,F,22051,0,F Ticket Votes,Australian Greens,76
+TAS,194,Denison,8448,Collinsvale,F,20801,1,"MILNE, Christine",Australian Greens,21
+TAS,194,Denison,8448,Collinsvale,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,194,Denison,8448,Collinsvale,F,20805,3,"ANN, Penelope",Australian Greens,2
+TAS,194,Denison,8448,Collinsvale,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,8448,Collinsvale,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,8448,Collinsvale,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8448,Collinsvale,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8448,Collinsvale,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8448,Collinsvale,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8448,Collinsvale,I,22058,0,I Ticket Votes,Family First,5
+TAS,194,Denison,8448,Collinsvale,I,21916,1,"ZUBIC, Jim",Family First,3
+TAS,194,Denison,8448,Collinsvale,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8448,Collinsvale,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,8448,Collinsvale,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8448,Collinsvale,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8448,Collinsvale,UG,21964,1,"OTTAVI, Dino",Independent,4
+TAS,194,Denison,8448,Collinsvale,ZZ,0,99,INFORMAL,,16
+TAS,194,Denison,8450,Cosgrove,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,194,Denison,8450,Cosgrove,A,21856,1,"MURRAY, Julie",Senator On-Line,4
+TAS,194,Denison,8450,Cosgrove,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8450,Cosgrove,B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,194,Denison,8450,Cosgrove,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,8450,Cosgrove,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8450,Cosgrove,C,22052,0,C Ticket Votes,Liberal,120
+TAS,194,Denison,8450,Cosgrove,C,21538,1,"ABETZ, Eric",Liberal,11
+TAS,194,Denison,8450,Cosgrove,C,21558,2,"PARRY, Stephen Shane",Liberal,4
+TAS,194,Denison,8450,Cosgrove,C,21628,3,"BARNETT, Guy",Liberal,10
+TAS,194,Denison,8450,Cosgrove,D,22055,0,D Ticket Votes,Australian Labor Party,298
+TAS,194,Denison,8450,Cosgrove,D,21041,1,"POLLEY, Helen",Australian Labor Party,19
+TAS,194,Denison,8450,Cosgrove,D,21459,2,"URQUHART, Anne",Australian Labor Party,3
+TAS,194,Denison,8450,Cosgrove,D,21488,3,"SINGH, Lisa",Australian Labor Party,37
+TAS,194,Denison,8450,Cosgrove,E,22059,0,E Ticket Votes,Shooters and Fishers,11
+TAS,194,Denison,8450,Cosgrove,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,3
+TAS,194,Denison,8450,Cosgrove,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8450,Cosgrove,F,22051,0,F Ticket Votes,Australian Greens,88
+TAS,194,Denison,8450,Cosgrove,F,20801,1,"MILNE, Christine",Australian Greens,22
+TAS,194,Denison,8450,Cosgrove,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,1
+TAS,194,Denison,8450,Cosgrove,F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,194,Denison,8450,Cosgrove,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,194,Denison,8450,Cosgrove,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,8450,Cosgrove,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8450,Cosgrove,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,2
+TAS,194,Denison,8450,Cosgrove,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,3
+TAS,194,Denison,8450,Cosgrove,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8450,Cosgrove,I,22058,0,I Ticket Votes,Family First,4
+TAS,194,Denison,8450,Cosgrove,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,194,Denison,8450,Cosgrove,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8450,Cosgrove,J,22054,0,J Ticket Votes,The Climate Sceptics,3
+TAS,194,Denison,8450,Cosgrove,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8450,Cosgrove,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8450,Cosgrove,UG,21964,1,"OTTAVI, Dino",Independent,8
+TAS,194,Denison,8450,Cosgrove,ZZ,0,99,INFORMAL,,31
+TAS,194,Denison,8451,Creek Road,A,22057,0,A Ticket Votes,Senator On-Line,3
+TAS,194,Denison,8451,Creek Road,A,21856,1,"MURRAY, Julie",Senator On-Line,7
+TAS,194,Denison,8451,Creek Road,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8451,Creek Road,B,22053,0,B Ticket Votes,Australian Democrats,6
+TAS,194,Denison,8451,Creek Road,B,21756,1,"HUTTON, Paulene",Australian Democrats,2
+TAS,194,Denison,8451,Creek Road,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8451,Creek Road,C,22052,0,C Ticket Votes,Liberal,342
+TAS,194,Denison,8451,Creek Road,C,21538,1,"ABETZ, Eric",Liberal,50
+TAS,194,Denison,8451,Creek Road,C,21558,2,"PARRY, Stephen Shane",Liberal,7
+TAS,194,Denison,8451,Creek Road,C,21628,3,"BARNETT, Guy",Liberal,35
+TAS,194,Denison,8451,Creek Road,D,22055,0,D Ticket Votes,Australian Labor Party,433
+TAS,194,Denison,8451,Creek Road,D,21041,1,"POLLEY, Helen",Australian Labor Party,37
+TAS,194,Denison,8451,Creek Road,D,21459,2,"URQUHART, Anne",Australian Labor Party,7
+TAS,194,Denison,8451,Creek Road,D,21488,3,"SINGH, Lisa",Australian Labor Party,114
+TAS,194,Denison,8451,Creek Road,E,22059,0,E Ticket Votes,Shooters and Fishers,18
+TAS,194,Denison,8451,Creek Road,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,194,Denison,8451,Creek Road,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8451,Creek Road,F,22051,0,F Ticket Votes,Australian Greens,334
+TAS,194,Denison,8451,Creek Road,F,20801,1,"MILNE, Christine",Australian Greens,172
+TAS,194,Denison,8451,Creek Road,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,7
+TAS,194,Denison,8451,Creek Road,F,20805,3,"ANN, Penelope",Australian Greens,8
+TAS,194,Denison,8451,Creek Road,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,8451,Creek Road,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,3
+TAS,194,Denison,8451,Creek Road,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,194,Denison,8451,Creek Road,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,7
+TAS,194,Denison,8451,Creek Road,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8451,Creek Road,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8451,Creek Road,I,22058,0,I Ticket Votes,Family First,11
+TAS,194,Denison,8451,Creek Road,I,21916,1,"ZUBIC, Jim",Family First,5
+TAS,194,Denison,8451,Creek Road,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8451,Creek Road,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,8451,Creek Road,J,21743,1,"WALLER, Frank",The Climate Sceptics,2
+TAS,194,Denison,8451,Creek Road,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8451,Creek Road,UG,21964,1,"OTTAVI, Dino",Independent,16
+TAS,194,Denison,8451,Creek Road,ZZ,0,99,INFORMAL,,54
+TAS,194,Denison,8452,Cross Street,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,194,Denison,8452,Cross Street,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,8452,Cross Street,A,21858,2,"WIENER, Sven",Senator On-Line,1
+TAS,194,Denison,8452,Cross Street,B,22053,0,B Ticket Votes,Australian Democrats,6
+TAS,194,Denison,8452,Cross Street,B,21756,1,"HUTTON, Paulene",Australian Democrats,4
+TAS,194,Denison,8452,Cross Street,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8452,Cross Street,C,22052,0,C Ticket Votes,Liberal,345
+TAS,194,Denison,8452,Cross Street,C,21538,1,"ABETZ, Eric",Liberal,43
+TAS,194,Denison,8452,Cross Street,C,21558,2,"PARRY, Stephen Shane",Liberal,10
+TAS,194,Denison,8452,Cross Street,C,21628,3,"BARNETT, Guy",Liberal,26
+TAS,194,Denison,8452,Cross Street,D,22055,0,D Ticket Votes,Australian Labor Party,518
+TAS,194,Denison,8452,Cross Street,D,21041,1,"POLLEY, Helen",Australian Labor Party,48
+TAS,194,Denison,8452,Cross Street,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,194,Denison,8452,Cross Street,D,21488,3,"SINGH, Lisa",Australian Labor Party,139
+TAS,194,Denison,8452,Cross Street,E,22059,0,E Ticket Votes,Shooters and Fishers,14
+TAS,194,Denison,8452,Cross Street,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,7
+TAS,194,Denison,8452,Cross Street,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,194,Denison,8452,Cross Street,F,22051,0,F Ticket Votes,Australian Greens,320
+TAS,194,Denison,8452,Cross Street,F,20801,1,"MILNE, Christine",Australian Greens,209
+TAS,194,Denison,8452,Cross Street,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,6
+TAS,194,Denison,8452,Cross Street,F,20805,3,"ANN, Penelope",Australian Greens,2
+TAS,194,Denison,8452,Cross Street,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,194,Denison,8452,Cross Street,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,3
+TAS,194,Denison,8452,Cross Street,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8452,Cross Street,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,6
+TAS,194,Denison,8452,Cross Street,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,9
+TAS,194,Denison,8452,Cross Street,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8452,Cross Street,I,22058,0,I Ticket Votes,Family First,13
+TAS,194,Denison,8452,Cross Street,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,8452,Cross Street,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,194,Denison,8452,Cross Street,J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,194,Denison,8452,Cross Street,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,194,Denison,8452,Cross Street,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8452,Cross Street,UG,21964,1,"OTTAVI, Dino",Independent,25
+TAS,194,Denison,8452,Cross Street,ZZ,0,99,INFORMAL,,49
+TAS,194,Denison,8453,Dynnyrne,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,194,Denison,8453,Dynnyrne,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,194,Denison,8453,Dynnyrne,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8453,Dynnyrne,B,22053,0,B Ticket Votes,Australian Democrats,0
+TAS,194,Denison,8453,Dynnyrne,B,21756,1,"HUTTON, Paulene",Australian Democrats,2
+TAS,194,Denison,8453,Dynnyrne,B,21759,2,"NEAL, Timothy",Australian Democrats,2
+TAS,194,Denison,8453,Dynnyrne,C,22052,0,C Ticket Votes,Liberal,231
+TAS,194,Denison,8453,Dynnyrne,C,21538,1,"ABETZ, Eric",Liberal,24
+TAS,194,Denison,8453,Dynnyrne,C,21558,2,"PARRY, Stephen Shane",Liberal,12
+TAS,194,Denison,8453,Dynnyrne,C,21628,3,"BARNETT, Guy",Liberal,24
+TAS,194,Denison,8453,Dynnyrne,D,22055,0,D Ticket Votes,Australian Labor Party,202
+TAS,194,Denison,8453,Dynnyrne,D,21041,1,"POLLEY, Helen",Australian Labor Party,24
+TAS,194,Denison,8453,Dynnyrne,D,21459,2,"URQUHART, Anne",Australian Labor Party,6
+TAS,194,Denison,8453,Dynnyrne,D,21488,3,"SINGH, Lisa",Australian Labor Party,70
+TAS,194,Denison,8453,Dynnyrne,E,22059,0,E Ticket Votes,Shooters and Fishers,4
+TAS,194,Denison,8453,Dynnyrne,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,194,Denison,8453,Dynnyrne,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,3
+TAS,194,Denison,8453,Dynnyrne,F,22051,0,F Ticket Votes,Australian Greens,251
+TAS,194,Denison,8453,Dynnyrne,F,20801,1,"MILNE, Christine",Australian Greens,166
+TAS,194,Denison,8453,Dynnyrne,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,8
+TAS,194,Denison,8453,Dynnyrne,F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,194,Denison,8453,Dynnyrne,G,22056,0,G Ticket Votes,Secular Party of Australia,4
+TAS,194,Denison,8453,Dynnyrne,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,5
+TAS,194,Denison,8453,Dynnyrne,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,194,Denison,8453,Dynnyrne,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,3
+TAS,194,Denison,8453,Dynnyrne,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8453,Dynnyrne,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8453,Dynnyrne,I,22058,0,I Ticket Votes,Family First,5
+TAS,194,Denison,8453,Dynnyrne,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,194,Denison,8453,Dynnyrne,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8453,Dynnyrne,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,8453,Dynnyrne,J,21743,1,"WALLER, Frank",The Climate Sceptics,2
+TAS,194,Denison,8453,Dynnyrne,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8453,Dynnyrne,UG,21964,1,"OTTAVI, Dino",Independent,6
+TAS,194,Denison,8453,Dynnyrne,ZZ,0,99,INFORMAL,,24
+TAS,194,Denison,8454,Elizabeth Street,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,194,Denison,8454,Elizabeth Street,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,194,Denison,8454,Elizabeth Street,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8454,Elizabeth Street,B,22053,0,B Ticket Votes,Australian Democrats,3
+TAS,194,Denison,8454,Elizabeth Street,B,21756,1,"HUTTON, Paulene",Australian Democrats,2
+TAS,194,Denison,8454,Elizabeth Street,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8454,Elizabeth Street,C,22052,0,C Ticket Votes,Liberal,139
+TAS,194,Denison,8454,Elizabeth Street,C,21538,1,"ABETZ, Eric",Liberal,15
+TAS,194,Denison,8454,Elizabeth Street,C,21558,2,"PARRY, Stephen Shane",Liberal,3
+TAS,194,Denison,8454,Elizabeth Street,C,21628,3,"BARNETT, Guy",Liberal,11
+TAS,194,Denison,8454,Elizabeth Street,D,22055,0,D Ticket Votes,Australian Labor Party,232
+TAS,194,Denison,8454,Elizabeth Street,D,21041,1,"POLLEY, Helen",Australian Labor Party,17
+TAS,194,Denison,8454,Elizabeth Street,D,21459,2,"URQUHART, Anne",Australian Labor Party,3
+TAS,194,Denison,8454,Elizabeth Street,D,21488,3,"SINGH, Lisa",Australian Labor Party,60
+TAS,194,Denison,8454,Elizabeth Street,E,22059,0,E Ticket Votes,Shooters and Fishers,6
+TAS,194,Denison,8454,Elizabeth Street,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,194,Denison,8454,Elizabeth Street,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8454,Elizabeth Street,F,22051,0,F Ticket Votes,Australian Greens,235
+TAS,194,Denison,8454,Elizabeth Street,F,20801,1,"MILNE, Christine",Australian Greens,157
+TAS,194,Denison,8454,Elizabeth Street,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,5
+TAS,194,Denison,8454,Elizabeth Street,F,20805,3,"ANN, Penelope",Australian Greens,2
+TAS,194,Denison,8454,Elizabeth Street,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,194,Denison,8454,Elizabeth Street,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,4
+TAS,194,Denison,8454,Elizabeth Street,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8454,Elizabeth Street,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,5
+TAS,194,Denison,8454,Elizabeth Street,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8454,Elizabeth Street,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8454,Elizabeth Street,I,22058,0,I Ticket Votes,Family First,8
+TAS,194,Denison,8454,Elizabeth Street,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,194,Denison,8454,Elizabeth Street,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8454,Elizabeth Street,J,22054,0,J Ticket Votes,The Climate Sceptics,3
+TAS,194,Denison,8454,Elizabeth Street,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8454,Elizabeth Street,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8454,Elizabeth Street,UG,21964,1,"OTTAVI, Dino",Independent,10
+TAS,194,Denison,8454,Elizabeth Street,ZZ,0,99,INFORMAL,,20
+TAS,194,Denison,8455,Elwick,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,194,Denison,8455,Elwick,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,194,Denison,8455,Elwick,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8455,Elwick,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,194,Denison,8455,Elwick,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,8455,Elwick,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8455,Elwick,C,22052,0,C Ticket Votes,Liberal,84
+TAS,194,Denison,8455,Elwick,C,21538,1,"ABETZ, Eric",Liberal,4
+TAS,194,Denison,8455,Elwick,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,194,Denison,8455,Elwick,C,21628,3,"BARNETT, Guy",Liberal,2
+TAS,194,Denison,8455,Elwick,D,22055,0,D Ticket Votes,Australian Labor Party,184
+TAS,194,Denison,8455,Elwick,D,21041,1,"POLLEY, Helen",Australian Labor Party,13
+TAS,194,Denison,8455,Elwick,D,21459,2,"URQUHART, Anne",Australian Labor Party,3
+TAS,194,Denison,8455,Elwick,D,21488,3,"SINGH, Lisa",Australian Labor Party,34
+TAS,194,Denison,8455,Elwick,E,22059,0,E Ticket Votes,Shooters and Fishers,2
+TAS,194,Denison,8455,Elwick,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,194,Denison,8455,Elwick,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8455,Elwick,F,22051,0,F Ticket Votes,Australian Greens,53
+TAS,194,Denison,8455,Elwick,F,20801,1,"MILNE, Christine",Australian Greens,24
+TAS,194,Denison,8455,Elwick,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,194,Denison,8455,Elwick,F,20805,3,"ANN, Penelope",Australian Greens,1
+TAS,194,Denison,8455,Elwick,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,8455,Elwick,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,8455,Elwick,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8455,Elwick,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,7
+TAS,194,Denison,8455,Elwick,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8455,Elwick,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8455,Elwick,I,22058,0,I Ticket Votes,Family First,7
+TAS,194,Denison,8455,Elwick,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,8455,Elwick,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8455,Elwick,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,8455,Elwick,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8455,Elwick,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8455,Elwick,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,194,Denison,8455,Elwick,ZZ,0,99,INFORMAL,,19
+TAS,194,Denison,8456,Fern Tree,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,194,Denison,8456,Fern Tree,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,8456,Fern Tree,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8456,Fern Tree,B,22053,0,B Ticket Votes,Australian Democrats,0
+TAS,194,Denison,8456,Fern Tree,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,194,Denison,8456,Fern Tree,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8456,Fern Tree,C,22052,0,C Ticket Votes,Liberal,50
+TAS,194,Denison,8456,Fern Tree,C,21538,1,"ABETZ, Eric",Liberal,10
+TAS,194,Denison,8456,Fern Tree,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,194,Denison,8456,Fern Tree,C,21628,3,"BARNETT, Guy",Liberal,12
+TAS,194,Denison,8456,Fern Tree,D,22055,0,D Ticket Votes,Australian Labor Party,73
+TAS,194,Denison,8456,Fern Tree,D,21041,1,"POLLEY, Helen",Australian Labor Party,9
+TAS,194,Denison,8456,Fern Tree,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,194,Denison,8456,Fern Tree,D,21488,3,"SINGH, Lisa",Australian Labor Party,19
+TAS,194,Denison,8456,Fern Tree,E,22059,0,E Ticket Votes,Shooters and Fishers,1
+TAS,194,Denison,8456,Fern Tree,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,3
+TAS,194,Denison,8456,Fern Tree,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,194,Denison,8456,Fern Tree,F,22051,0,F Ticket Votes,Australian Greens,164
+TAS,194,Denison,8456,Fern Tree,F,20801,1,"MILNE, Christine",Australian Greens,140
+TAS,194,Denison,8456,Fern Tree,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,8
+TAS,194,Denison,8456,Fern Tree,F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,194,Denison,8456,Fern Tree,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,194,Denison,8456,Fern Tree,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,3
+TAS,194,Denison,8456,Fern Tree,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,194,Denison,8456,Fern Tree,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8456,Fern Tree,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8456,Fern Tree,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8456,Fern Tree,I,22058,0,I Ticket Votes,Family First,3
+TAS,194,Denison,8456,Fern Tree,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,8456,Fern Tree,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8456,Fern Tree,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,8456,Fern Tree,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8456,Fern Tree,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,1
+TAS,194,Denison,8456,Fern Tree,UG,21964,1,"OTTAVI, Dino",Independent,8
+TAS,194,Denison,8456,Fern Tree,ZZ,0,99,INFORMAL,,6
+TAS,194,Denison,8457,Glenorchy,A,22057,0,A Ticket Votes,Senator On-Line,10
+TAS,194,Denison,8457,Glenorchy,A,21856,1,"MURRAY, Julie",Senator On-Line,4
+TAS,194,Denison,8457,Glenorchy,A,21858,2,"WIENER, Sven",Senator On-Line,1
+TAS,194,Denison,8457,Glenorchy,B,22053,0,B Ticket Votes,Australian Democrats,7
+TAS,194,Denison,8457,Glenorchy,B,21756,1,"HUTTON, Paulene",Australian Democrats,2
+TAS,194,Denison,8457,Glenorchy,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,194,Denison,8457,Glenorchy,C,22052,0,C Ticket Votes,Liberal,482
+TAS,194,Denison,8457,Glenorchy,C,21538,1,"ABETZ, Eric",Liberal,63
+TAS,194,Denison,8457,Glenorchy,C,21558,2,"PARRY, Stephen Shane",Liberal,10
+TAS,194,Denison,8457,Glenorchy,C,21628,3,"BARNETT, Guy",Liberal,30
+TAS,194,Denison,8457,Glenorchy,D,22055,0,D Ticket Votes,Australian Labor Party,1254
+TAS,194,Denison,8457,Glenorchy,D,21041,1,"POLLEY, Helen",Australian Labor Party,58
+TAS,194,Denison,8457,Glenorchy,D,21459,2,"URQUHART, Anne",Australian Labor Party,14
+TAS,194,Denison,8457,Glenorchy,D,21488,3,"SINGH, Lisa",Australian Labor Party,109
+TAS,194,Denison,8457,Glenorchy,E,22059,0,E Ticket Votes,Shooters and Fishers,37
+TAS,194,Denison,8457,Glenorchy,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,9
+TAS,194,Denison,8457,Glenorchy,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8457,Glenorchy,F,22051,0,F Ticket Votes,Australian Greens,262
+TAS,194,Denison,8457,Glenorchy,F,20801,1,"MILNE, Christine",Australian Greens,94
+TAS,194,Denison,8457,Glenorchy,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,2
+TAS,194,Denison,8457,Glenorchy,F,20805,3,"ANN, Penelope",Australian Greens,2
+TAS,194,Denison,8457,Glenorchy,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,8457,Glenorchy,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,3
+TAS,194,Denison,8457,Glenorchy,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8457,Glenorchy,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,15
+TAS,194,Denison,8457,Glenorchy,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,4
+TAS,194,Denison,8457,Glenorchy,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8457,Glenorchy,I,22058,0,I Ticket Votes,Family First,36
+TAS,194,Denison,8457,Glenorchy,I,21916,1,"ZUBIC, Jim",Family First,4
+TAS,194,Denison,8457,Glenorchy,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,3
+TAS,194,Denison,8457,Glenorchy,J,22054,0,J Ticket Votes,The Climate Sceptics,6
+TAS,194,Denison,8457,Glenorchy,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8457,Glenorchy,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8457,Glenorchy,UG,21964,1,"OTTAVI, Dino",Independent,10
+TAS,194,Denison,8457,Glenorchy,ZZ,0,99,INFORMAL,,131
+TAS,194,Denison,8458,Glenorchy East,A,22057,0,A Ticket Votes,Senator On-Line,7
+TAS,194,Denison,8458,Glenorchy East,A,21856,1,"MURRAY, Julie",Senator On-Line,4
+TAS,194,Denison,8458,Glenorchy East,A,21858,2,"WIENER, Sven",Senator On-Line,1
+TAS,194,Denison,8458,Glenorchy East,B,22053,0,B Ticket Votes,Australian Democrats,8
+TAS,194,Denison,8458,Glenorchy East,B,21756,1,"HUTTON, Paulene",Australian Democrats,4
+TAS,194,Denison,8458,Glenorchy East,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,194,Denison,8458,Glenorchy East,C,22052,0,C Ticket Votes,Liberal,323
+TAS,194,Denison,8458,Glenorchy East,C,21538,1,"ABETZ, Eric",Liberal,40
+TAS,194,Denison,8458,Glenorchy East,C,21558,2,"PARRY, Stephen Shane",Liberal,6
+TAS,194,Denison,8458,Glenorchy East,C,21628,3,"BARNETT, Guy",Liberal,24
+TAS,194,Denison,8458,Glenorchy East,D,22055,0,D Ticket Votes,Australian Labor Party,778
+TAS,194,Denison,8458,Glenorchy East,D,21041,1,"POLLEY, Helen",Australian Labor Party,49
+TAS,194,Denison,8458,Glenorchy East,D,21459,2,"URQUHART, Anne",Australian Labor Party,5
+TAS,194,Denison,8458,Glenorchy East,D,21488,3,"SINGH, Lisa",Australian Labor Party,107
+TAS,194,Denison,8458,Glenorchy East,E,22059,0,E Ticket Votes,Shooters and Fishers,7
+TAS,194,Denison,8458,Glenorchy East,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,194,Denison,8458,Glenorchy East,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,194,Denison,8458,Glenorchy East,F,22051,0,F Ticket Votes,Australian Greens,209
+TAS,194,Denison,8458,Glenorchy East,F,20801,1,"MILNE, Christine",Australian Greens,69
+TAS,194,Denison,8458,Glenorchy East,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,6
+TAS,194,Denison,8458,Glenorchy East,F,20805,3,"ANN, Penelope",Australian Greens,5
+TAS,194,Denison,8458,Glenorchy East,G,22056,0,G Ticket Votes,Secular Party of Australia,2
+TAS,194,Denison,8458,Glenorchy East,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,194,Denison,8458,Glenorchy East,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,194,Denison,8458,Glenorchy East,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,9
+TAS,194,Denison,8458,Glenorchy East,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,2
+TAS,194,Denison,8458,Glenorchy East,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8458,Glenorchy East,I,22058,0,I Ticket Votes,Family First,11
+TAS,194,Denison,8458,Glenorchy East,I,21916,1,"ZUBIC, Jim",Family First,4
+TAS,194,Denison,8458,Glenorchy East,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8458,Glenorchy East,J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,194,Denison,8458,Glenorchy East,J,21743,1,"WALLER, Frank",The Climate Sceptics,3
+TAS,194,Denison,8458,Glenorchy East,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8458,Glenorchy East,UG,21964,1,"OTTAVI, Dino",Independent,16
+TAS,194,Denison,8458,Glenorchy East,ZZ,0,99,INFORMAL,,81
+TAS,194,Denison,8459,Goodwood,A,22057,0,A Ticket Votes,Senator On-Line,3
+TAS,194,Denison,8459,Goodwood,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,194,Denison,8459,Goodwood,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8459,Goodwood,B,22053,0,B Ticket Votes,Australian Democrats,3
+TAS,194,Denison,8459,Goodwood,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,194,Denison,8459,Goodwood,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8459,Goodwood,C,22052,0,C Ticket Votes,Liberal,92
+TAS,194,Denison,8459,Goodwood,C,21538,1,"ABETZ, Eric",Liberal,9
+TAS,194,Denison,8459,Goodwood,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,194,Denison,8459,Goodwood,C,21628,3,"BARNETT, Guy",Liberal,6
+TAS,194,Denison,8459,Goodwood,D,22055,0,D Ticket Votes,Australian Labor Party,337
+TAS,194,Denison,8459,Goodwood,D,21041,1,"POLLEY, Helen",Australian Labor Party,21
+TAS,194,Denison,8459,Goodwood,D,21459,2,"URQUHART, Anne",Australian Labor Party,3
+TAS,194,Denison,8459,Goodwood,D,21488,3,"SINGH, Lisa",Australian Labor Party,38
+TAS,194,Denison,8459,Goodwood,E,22059,0,E Ticket Votes,Shooters and Fishers,12
+TAS,194,Denison,8459,Goodwood,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,194,Denison,8459,Goodwood,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8459,Goodwood,F,22051,0,F Ticket Votes,Australian Greens,72
+TAS,194,Denison,8459,Goodwood,F,20801,1,"MILNE, Christine",Australian Greens,20
+TAS,194,Denison,8459,Goodwood,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,1
+TAS,194,Denison,8459,Goodwood,F,20805,3,"ANN, Penelope",Australian Greens,2
+TAS,194,Denison,8459,Goodwood,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,194,Denison,8459,Goodwood,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,8459,Goodwood,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,2
+TAS,194,Denison,8459,Goodwood,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,5
+TAS,194,Denison,8459,Goodwood,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8459,Goodwood,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8459,Goodwood,I,22058,0,I Ticket Votes,Family First,9
+TAS,194,Denison,8459,Goodwood,I,21916,1,"ZUBIC, Jim",Family First,4
+TAS,194,Denison,8459,Goodwood,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,194,Denison,8459,Goodwood,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,194,Denison,8459,Goodwood,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8459,Goodwood,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,1
+TAS,194,Denison,8459,Goodwood,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,194,Denison,8459,Goodwood,ZZ,0,99,INFORMAL,,36
+TAS,194,Denison,8461,Hobart,A,22057,0,A Ticket Votes,Senator On-Line,4
+TAS,194,Denison,8461,Hobart,A,21856,1,"MURRAY, Julie",Senator On-Line,4
+TAS,194,Denison,8461,Hobart,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8461,Hobart,B,22053,0,B Ticket Votes,Australian Democrats,3
+TAS,194,Denison,8461,Hobart,B,21756,1,"HUTTON, Paulene",Australian Democrats,2
+TAS,194,Denison,8461,Hobart,B,21759,2,"NEAL, Timothy",Australian Democrats,2
+TAS,194,Denison,8461,Hobart,C,22052,0,C Ticket Votes,Liberal,145
+TAS,194,Denison,8461,Hobart,C,21538,1,"ABETZ, Eric",Liberal,20
+TAS,194,Denison,8461,Hobart,C,21558,2,"PARRY, Stephen Shane",Liberal,2
+TAS,194,Denison,8461,Hobart,C,21628,3,"BARNETT, Guy",Liberal,12
+TAS,194,Denison,8461,Hobart,D,22055,0,D Ticket Votes,Australian Labor Party,190
+TAS,194,Denison,8461,Hobart,D,21041,1,"POLLEY, Helen",Australian Labor Party,15
+TAS,194,Denison,8461,Hobart,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,194,Denison,8461,Hobart,D,21488,3,"SINGH, Lisa",Australian Labor Party,35
+TAS,194,Denison,8461,Hobart,E,22059,0,E Ticket Votes,Shooters and Fishers,7
+TAS,194,Denison,8461,Hobart,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,194,Denison,8461,Hobart,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8461,Hobart,F,22051,0,F Ticket Votes,Australian Greens,224
+TAS,194,Denison,8461,Hobart,F,20801,1,"MILNE, Christine",Australian Greens,121
+TAS,194,Denison,8461,Hobart,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,6
+TAS,194,Denison,8461,Hobart,F,20805,3,"ANN, Penelope",Australian Greens,6
+TAS,194,Denison,8461,Hobart,G,22056,0,G Ticket Votes,Secular Party of Australia,2
+TAS,194,Denison,8461,Hobart,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,5
+TAS,194,Denison,8461,Hobart,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,194,Denison,8461,Hobart,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,3
+TAS,194,Denison,8461,Hobart,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8461,Hobart,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8461,Hobart,I,22058,0,I Ticket Votes,Family First,6
+TAS,194,Denison,8461,Hobart,I,21916,1,"ZUBIC, Jim",Family First,2
+TAS,194,Denison,8461,Hobart,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8461,Hobart,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,8461,Hobart,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,194,Denison,8461,Hobart,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8461,Hobart,UG,21964,1,"OTTAVI, Dino",Independent,7
+TAS,194,Denison,8461,Hobart,ZZ,0,99,INFORMAL,,15
+TAS,194,Denison,8462,Hobart Central,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,194,Denison,8462,Hobart Central,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,194,Denison,8462,Hobart Central,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8462,Hobart Central,B,22053,0,B Ticket Votes,Australian Democrats,0
+TAS,194,Denison,8462,Hobart Central,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,194,Denison,8462,Hobart Central,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8462,Hobart Central,C,22052,0,C Ticket Votes,Liberal,43
+TAS,194,Denison,8462,Hobart Central,C,21538,1,"ABETZ, Eric",Liberal,6
+TAS,194,Denison,8462,Hobart Central,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,194,Denison,8462,Hobart Central,C,21628,3,"BARNETT, Guy",Liberal,2
+TAS,194,Denison,8462,Hobart Central,D,22055,0,D Ticket Votes,Australian Labor Party,43
+TAS,194,Denison,8462,Hobart Central,D,21041,1,"POLLEY, Helen",Australian Labor Party,4
+TAS,194,Denison,8462,Hobart Central,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,194,Denison,8462,Hobart Central,D,21488,3,"SINGH, Lisa",Australian Labor Party,16
+TAS,194,Denison,8462,Hobart Central,E,22059,0,E Ticket Votes,Shooters and Fishers,1
+TAS,194,Denison,8462,Hobart Central,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,194,Denison,8462,Hobart Central,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8462,Hobart Central,F,22051,0,F Ticket Votes,Australian Greens,61
+TAS,194,Denison,8462,Hobart Central,F,20801,1,"MILNE, Christine",Australian Greens,35
+TAS,194,Denison,8462,Hobart Central,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,1
+TAS,194,Denison,8462,Hobart Central,F,20805,3,"ANN, Penelope",Australian Greens,2
+TAS,194,Denison,8462,Hobart Central,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,8462,Hobart Central,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,194,Denison,8462,Hobart Central,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8462,Hobart Central,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8462,Hobart Central,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8462,Hobart Central,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8462,Hobart Central,I,22058,0,I Ticket Votes,Family First,2
+TAS,194,Denison,8462,Hobart Central,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,8462,Hobart Central,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8462,Hobart Central,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,8462,Hobart Central,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8462,Hobart Central,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8462,Hobart Central,UG,21964,1,"OTTAVI, Dino",Independent,5
+TAS,194,Denison,8462,Hobart Central,ZZ,0,99,INFORMAL,,1
+TAS,194,Denison,8464,Hobart South,A,22057,0,A Ticket Votes,Senator On-Line,3
+TAS,194,Denison,8464,Hobart South,A,21856,1,"MURRAY, Julie",Senator On-Line,4
+TAS,194,Denison,8464,Hobart South,A,21858,2,"WIENER, Sven",Senator On-Line,1
+TAS,194,Denison,8464,Hobart South,B,22053,0,B Ticket Votes,Australian Democrats,3
+TAS,194,Denison,8464,Hobart South,B,21756,1,"HUTTON, Paulene",Australian Democrats,3
+TAS,194,Denison,8464,Hobart South,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8464,Hobart South,C,22052,0,C Ticket Votes,Liberal,250
+TAS,194,Denison,8464,Hobart South,C,21538,1,"ABETZ, Eric",Liberal,27
+TAS,194,Denison,8464,Hobart South,C,21558,2,"PARRY, Stephen Shane",Liberal,12
+TAS,194,Denison,8464,Hobart South,C,21628,3,"BARNETT, Guy",Liberal,31
+TAS,194,Denison,8464,Hobart South,D,22055,0,D Ticket Votes,Australian Labor Party,257
+TAS,194,Denison,8464,Hobart South,D,21041,1,"POLLEY, Helen",Australian Labor Party,34
+TAS,194,Denison,8464,Hobart South,D,21459,2,"URQUHART, Anne",Australian Labor Party,9
+TAS,194,Denison,8464,Hobart South,D,21488,3,"SINGH, Lisa",Australian Labor Party,86
+TAS,194,Denison,8464,Hobart South,E,22059,0,E Ticket Votes,Shooters and Fishers,6
+TAS,194,Denison,8464,Hobart South,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,194,Denison,8464,Hobart South,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8464,Hobart South,F,22051,0,F Ticket Votes,Australian Greens,411
+TAS,194,Denison,8464,Hobart South,F,20801,1,"MILNE, Christine",Australian Greens,292
+TAS,194,Denison,8464,Hobart South,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,9
+TAS,194,Denison,8464,Hobart South,F,20805,3,"ANN, Penelope",Australian Greens,6
+TAS,194,Denison,8464,Hobart South,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,8464,Hobart South,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,194,Denison,8464,Hobart South,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,2
+TAS,194,Denison,8464,Hobart South,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,4
+TAS,194,Denison,8464,Hobart South,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,6
+TAS,194,Denison,8464,Hobart South,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8464,Hobart South,I,22058,0,I Ticket Votes,Family First,1
+TAS,194,Denison,8464,Hobart South,I,21916,1,"ZUBIC, Jim",Family First,2
+TAS,194,Denison,8464,Hobart South,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,2
+TAS,194,Denison,8464,Hobart South,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,8464,Hobart South,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,194,Denison,8464,Hobart South,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8464,Hobart South,UG,21964,1,"OTTAVI, Dino",Independent,13
+TAS,194,Denison,8464,Hobart South,ZZ,0,99,INFORMAL,,34
+TAS,194,Denison,8465,Hobart West,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,194,Denison,8465,Hobart West,A,21856,1,"MURRAY, Julie",Senator On-Line,2
+TAS,194,Denison,8465,Hobart West,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8465,Hobart West,B,22053,0,B Ticket Votes,Australian Democrats,4
+TAS,194,Denison,8465,Hobart West,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,8465,Hobart West,B,21759,2,"NEAL, Timothy",Australian Democrats,2
+TAS,194,Denison,8465,Hobart West,C,22052,0,C Ticket Votes,Liberal,114
+TAS,194,Denison,8465,Hobart West,C,21538,1,"ABETZ, Eric",Liberal,17
+TAS,194,Denison,8465,Hobart West,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,194,Denison,8465,Hobart West,C,21628,3,"BARNETT, Guy",Liberal,9
+TAS,194,Denison,8465,Hobart West,D,22055,0,D Ticket Votes,Australian Labor Party,171
+TAS,194,Denison,8465,Hobart West,D,21041,1,"POLLEY, Helen",Australian Labor Party,15
+TAS,194,Denison,8465,Hobart West,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,194,Denison,8465,Hobart West,D,21488,3,"SINGH, Lisa",Australian Labor Party,62
+TAS,194,Denison,8465,Hobart West,E,22059,0,E Ticket Votes,Shooters and Fishers,2
+TAS,194,Denison,8465,Hobart West,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,194,Denison,8465,Hobart West,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8465,Hobart West,F,22051,0,F Ticket Votes,Australian Greens,301
+TAS,194,Denison,8465,Hobart West,F,20801,1,"MILNE, Christine",Australian Greens,198
+TAS,194,Denison,8465,Hobart West,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,10
+TAS,194,Denison,8465,Hobart West,F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,194,Denison,8465,Hobart West,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,8465,Hobart West,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,5
+TAS,194,Denison,8465,Hobart West,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,2
+TAS,194,Denison,8465,Hobart West,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,2
+TAS,194,Denison,8465,Hobart West,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8465,Hobart West,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8465,Hobart West,I,22058,0,I Ticket Votes,Family First,1
+TAS,194,Denison,8465,Hobart West,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,194,Denison,8465,Hobart West,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8465,Hobart West,J,22054,0,J Ticket Votes,The Climate Sceptics,4
+TAS,194,Denison,8465,Hobart West,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8465,Hobart West,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8465,Hobart West,UG,21964,1,"OTTAVI, Dino",Independent,3
+TAS,194,Denison,8465,Hobart West,ZZ,0,99,INFORMAL,,10
+TAS,194,Denison,8466,Lansdowne Crescent,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,194,Denison,8466,Lansdowne Crescent,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,8466,Lansdowne Crescent,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8466,Lansdowne Crescent,B,22053,0,B Ticket Votes,Australian Democrats,3
+TAS,194,Denison,8466,Lansdowne Crescent,B,21756,1,"HUTTON, Paulene",Australian Democrats,4
+TAS,194,Denison,8466,Lansdowne Crescent,B,21759,2,"NEAL, Timothy",Australian Democrats,3
+TAS,194,Denison,8466,Lansdowne Crescent,C,22052,0,C Ticket Votes,Liberal,224
+TAS,194,Denison,8466,Lansdowne Crescent,C,21538,1,"ABETZ, Eric",Liberal,27
+TAS,194,Denison,8466,Lansdowne Crescent,C,21558,2,"PARRY, Stephen Shane",Liberal,9
+TAS,194,Denison,8466,Lansdowne Crescent,C,21628,3,"BARNETT, Guy",Liberal,25
+TAS,194,Denison,8466,Lansdowne Crescent,D,22055,0,D Ticket Votes,Australian Labor Party,245
+TAS,194,Denison,8466,Lansdowne Crescent,D,21041,1,"POLLEY, Helen",Australian Labor Party,27
+TAS,194,Denison,8466,Lansdowne Crescent,D,21459,2,"URQUHART, Anne",Australian Labor Party,4
+TAS,194,Denison,8466,Lansdowne Crescent,D,21488,3,"SINGH, Lisa",Australian Labor Party,99
+TAS,194,Denison,8466,Lansdowne Crescent,E,22059,0,E Ticket Votes,Shooters and Fishers,10
+TAS,194,Denison,8466,Lansdowne Crescent,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,4
+TAS,194,Denison,8466,Lansdowne Crescent,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8466,Lansdowne Crescent,F,22051,0,F Ticket Votes,Australian Greens,283
+TAS,194,Denison,8466,Lansdowne Crescent,F,20801,1,"MILNE, Christine",Australian Greens,282
+TAS,194,Denison,8466,Lansdowne Crescent,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,11
+TAS,194,Denison,8466,Lansdowne Crescent,F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,194,Denison,8466,Lansdowne Crescent,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,8466,Lansdowne Crescent,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,5
+TAS,194,Denison,8466,Lansdowne Crescent,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,194,Denison,8466,Lansdowne Crescent,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,5
+TAS,194,Denison,8466,Lansdowne Crescent,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,2
+TAS,194,Denison,8466,Lansdowne Crescent,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8466,Lansdowne Crescent,I,22058,0,I Ticket Votes,Family First,5
+TAS,194,Denison,8466,Lansdowne Crescent,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,8466,Lansdowne Crescent,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8466,Lansdowne Crescent,J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,194,Denison,8466,Lansdowne Crescent,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8466,Lansdowne Crescent,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8466,Lansdowne Crescent,UG,21964,1,"OTTAVI, Dino",Independent,9
+TAS,194,Denison,8466,Lansdowne Crescent,ZZ,0,99,INFORMAL,,19
+TAS,194,Denison,8467,Lenah Valley,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,194,Denison,8467,Lenah Valley,A,21856,1,"MURRAY, Julie",Senator On-Line,4
+TAS,194,Denison,8467,Lenah Valley,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8467,Lenah Valley,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,194,Denison,8467,Lenah Valley,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,194,Denison,8467,Lenah Valley,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,194,Denison,8467,Lenah Valley,C,22052,0,C Ticket Votes,Liberal,288
+TAS,194,Denison,8467,Lenah Valley,C,21538,1,"ABETZ, Eric",Liberal,35
+TAS,194,Denison,8467,Lenah Valley,C,21558,2,"PARRY, Stephen Shane",Liberal,11
+TAS,194,Denison,8467,Lenah Valley,C,21628,3,"BARNETT, Guy",Liberal,23
+TAS,194,Denison,8467,Lenah Valley,D,22055,0,D Ticket Votes,Australian Labor Party,405
+TAS,194,Denison,8467,Lenah Valley,D,21041,1,"POLLEY, Helen",Australian Labor Party,39
+TAS,194,Denison,8467,Lenah Valley,D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,194,Denison,8467,Lenah Valley,D,21488,3,"SINGH, Lisa",Australian Labor Party,76
+TAS,194,Denison,8467,Lenah Valley,E,22059,0,E Ticket Votes,Shooters and Fishers,11
+TAS,194,Denison,8467,Lenah Valley,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,3
+TAS,194,Denison,8467,Lenah Valley,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,194,Denison,8467,Lenah Valley,F,22051,0,F Ticket Votes,Australian Greens,208
+TAS,194,Denison,8467,Lenah Valley,F,20801,1,"MILNE, Christine",Australian Greens,127
+TAS,194,Denison,8467,Lenah Valley,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,6
+TAS,194,Denison,8467,Lenah Valley,F,20805,3,"ANN, Penelope",Australian Greens,5
+TAS,194,Denison,8467,Lenah Valley,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,8467,Lenah Valley,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,8467,Lenah Valley,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8467,Lenah Valley,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,3
+TAS,194,Denison,8467,Lenah Valley,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8467,Lenah Valley,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8467,Lenah Valley,I,22058,0,I Ticket Votes,Family First,11
+TAS,194,Denison,8467,Lenah Valley,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,8467,Lenah Valley,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,194,Denison,8467,Lenah Valley,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,8467,Lenah Valley,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,194,Denison,8467,Lenah Valley,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8467,Lenah Valley,UG,21964,1,"OTTAVI, Dino",Independent,20
+TAS,194,Denison,8467,Lenah Valley,ZZ,0,99,INFORMAL,,25
+TAS,194,Denison,8468,Lower Sandy Bay,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,194,Denison,8468,Lower Sandy Bay,A,21856,1,"MURRAY, Julie",Senator On-Line,2
+TAS,194,Denison,8468,Lower Sandy Bay,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8468,Lower Sandy Bay,B,22053,0,B Ticket Votes,Australian Democrats,6
+TAS,194,Denison,8468,Lower Sandy Bay,B,21756,1,"HUTTON, Paulene",Australian Democrats,2
+TAS,194,Denison,8468,Lower Sandy Bay,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8468,Lower Sandy Bay,C,22052,0,C Ticket Votes,Liberal,773
+TAS,194,Denison,8468,Lower Sandy Bay,C,21538,1,"ABETZ, Eric",Liberal,76
+TAS,194,Denison,8468,Lower Sandy Bay,C,21558,2,"PARRY, Stephen Shane",Liberal,16
+TAS,194,Denison,8468,Lower Sandy Bay,C,21628,3,"BARNETT, Guy",Liberal,93
+TAS,194,Denison,8468,Lower Sandy Bay,D,22055,0,D Ticket Votes,Australian Labor Party,345
+TAS,194,Denison,8468,Lower Sandy Bay,D,21041,1,"POLLEY, Helen",Australian Labor Party,43
+TAS,194,Denison,8468,Lower Sandy Bay,D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,194,Denison,8468,Lower Sandy Bay,D,21488,3,"SINGH, Lisa",Australian Labor Party,74
+TAS,194,Denison,8468,Lower Sandy Bay,E,22059,0,E Ticket Votes,Shooters and Fishers,9
+TAS,194,Denison,8468,Lower Sandy Bay,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,194,Denison,8468,Lower Sandy Bay,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8468,Lower Sandy Bay,F,22051,0,F Ticket Votes,Australian Greens,315
+TAS,194,Denison,8468,Lower Sandy Bay,F,20801,1,"MILNE, Christine",Australian Greens,147
+TAS,194,Denison,8468,Lower Sandy Bay,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,6
+TAS,194,Denison,8468,Lower Sandy Bay,F,20805,3,"ANN, Penelope",Australian Greens,5
+TAS,194,Denison,8468,Lower Sandy Bay,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,194,Denison,8468,Lower Sandy Bay,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,2
+TAS,194,Denison,8468,Lower Sandy Bay,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8468,Lower Sandy Bay,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,3
+TAS,194,Denison,8468,Lower Sandy Bay,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8468,Lower Sandy Bay,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8468,Lower Sandy Bay,I,22058,0,I Ticket Votes,Family First,6
+TAS,194,Denison,8468,Lower Sandy Bay,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,194,Denison,8468,Lower Sandy Bay,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8468,Lower Sandy Bay,J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,194,Denison,8468,Lower Sandy Bay,J,21743,1,"WALLER, Frank",The Climate Sceptics,4
+TAS,194,Denison,8468,Lower Sandy Bay,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8468,Lower Sandy Bay,UG,21964,1,"OTTAVI, Dino",Independent,11
+TAS,194,Denison,8468,Lower Sandy Bay,ZZ,0,99,INFORMAL,,21
+TAS,194,Denison,8469,Lutana,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,194,Denison,8469,Lutana,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,194,Denison,8469,Lutana,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8469,Lutana,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,194,Denison,8469,Lutana,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,194,Denison,8469,Lutana,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,194,Denison,8469,Lutana,C,22052,0,C Ticket Votes,Liberal,192
+TAS,194,Denison,8469,Lutana,C,21538,1,"ABETZ, Eric",Liberal,21
+TAS,194,Denison,8469,Lutana,C,21558,2,"PARRY, Stephen Shane",Liberal,5
+TAS,194,Denison,8469,Lutana,C,21628,3,"BARNETT, Guy",Liberal,12
+TAS,194,Denison,8469,Lutana,D,22055,0,D Ticket Votes,Australian Labor Party,413
+TAS,194,Denison,8469,Lutana,D,21041,1,"POLLEY, Helen",Australian Labor Party,17
+TAS,194,Denison,8469,Lutana,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,194,Denison,8469,Lutana,D,21488,3,"SINGH, Lisa",Australian Labor Party,48
+TAS,194,Denison,8469,Lutana,E,22059,0,E Ticket Votes,Shooters and Fishers,14
+TAS,194,Denison,8469,Lutana,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,4
+TAS,194,Denison,8469,Lutana,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8469,Lutana,F,22051,0,F Ticket Votes,Australian Greens,127
+TAS,194,Denison,8469,Lutana,F,20801,1,"MILNE, Christine",Australian Greens,63
+TAS,194,Denison,8469,Lutana,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,194,Denison,8469,Lutana,F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,194,Denison,8469,Lutana,G,22056,0,G Ticket Votes,Secular Party of Australia,2
+TAS,194,Denison,8469,Lutana,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,8469,Lutana,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8469,Lutana,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,5
+TAS,194,Denison,8469,Lutana,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8469,Lutana,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8469,Lutana,I,22058,0,I Ticket Votes,Family First,11
+TAS,194,Denison,8469,Lutana,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,194,Denison,8469,Lutana,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,194,Denison,8469,Lutana,J,22054,0,J Ticket Votes,The Climate Sceptics,3
+TAS,194,Denison,8469,Lutana,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8469,Lutana,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8469,Lutana,UG,21964,1,"OTTAVI, Dino",Independent,4
+TAS,194,Denison,8469,Lutana,ZZ,0,99,INFORMAL,,34
+TAS,194,Denison,8470,Montrose,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,194,Denison,8470,Montrose,A,21856,1,"MURRAY, Julie",Senator On-Line,3
+TAS,194,Denison,8470,Montrose,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8470,Montrose,B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,194,Denison,8470,Montrose,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,8470,Montrose,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8470,Montrose,C,22052,0,C Ticket Votes,Liberal,149
+TAS,194,Denison,8470,Montrose,C,21538,1,"ABETZ, Eric",Liberal,16
+TAS,194,Denison,8470,Montrose,C,21558,2,"PARRY, Stephen Shane",Liberal,3
+TAS,194,Denison,8470,Montrose,C,21628,3,"BARNETT, Guy",Liberal,4
+TAS,194,Denison,8470,Montrose,D,22055,0,D Ticket Votes,Australian Labor Party,310
+TAS,194,Denison,8470,Montrose,D,21041,1,"POLLEY, Helen",Australian Labor Party,18
+TAS,194,Denison,8470,Montrose,D,21459,2,"URQUHART, Anne",Australian Labor Party,3
+TAS,194,Denison,8470,Montrose,D,21488,3,"SINGH, Lisa",Australian Labor Party,32
+TAS,194,Denison,8470,Montrose,E,22059,0,E Ticket Votes,Shooters and Fishers,9
+TAS,194,Denison,8470,Montrose,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,3
+TAS,194,Denison,8470,Montrose,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8470,Montrose,F,22051,0,F Ticket Votes,Australian Greens,83
+TAS,194,Denison,8470,Montrose,F,20801,1,"MILNE, Christine",Australian Greens,28
+TAS,194,Denison,8470,Montrose,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,1
+TAS,194,Denison,8470,Montrose,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,194,Denison,8470,Montrose,G,22056,0,G Ticket Votes,Secular Party of Australia,3
+TAS,194,Denison,8470,Montrose,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,8470,Montrose,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8470,Montrose,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8470,Montrose,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8470,Montrose,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8470,Montrose,I,22058,0,I Ticket Votes,Family First,5
+TAS,194,Denison,8470,Montrose,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,8470,Montrose,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8470,Montrose,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,8470,Montrose,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8470,Montrose,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8470,Montrose,UG,21964,1,"OTTAVI, Dino",Independent,11
+TAS,194,Denison,8470,Montrose,ZZ,0,99,INFORMAL,,35
+TAS,194,Denison,8471,Moonah,A,22057,0,A Ticket Votes,Senator On-Line,5
+TAS,194,Denison,8471,Moonah,A,21856,1,"MURRAY, Julie",Senator On-Line,7
+TAS,194,Denison,8471,Moonah,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8471,Moonah,B,22053,0,B Ticket Votes,Australian Democrats,3
+TAS,194,Denison,8471,Moonah,B,21756,1,"HUTTON, Paulene",Australian Democrats,5
+TAS,194,Denison,8471,Moonah,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,194,Denison,8471,Moonah,C,22052,0,C Ticket Votes,Liberal,386
+TAS,194,Denison,8471,Moonah,C,21538,1,"ABETZ, Eric",Liberal,65
+TAS,194,Denison,8471,Moonah,C,21558,2,"PARRY, Stephen Shane",Liberal,8
+TAS,194,Denison,8471,Moonah,C,21628,3,"BARNETT, Guy",Liberal,28
+TAS,194,Denison,8471,Moonah,D,22055,0,D Ticket Votes,Australian Labor Party,656
+TAS,194,Denison,8471,Moonah,D,21041,1,"POLLEY, Helen",Australian Labor Party,47
+TAS,194,Denison,8471,Moonah,D,21459,2,"URQUHART, Anne",Australian Labor Party,8
+TAS,194,Denison,8471,Moonah,D,21488,3,"SINGH, Lisa",Australian Labor Party,100
+TAS,194,Denison,8471,Moonah,E,22059,0,E Ticket Votes,Shooters and Fishers,14
+TAS,194,Denison,8471,Moonah,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,7
+TAS,194,Denison,8471,Moonah,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8471,Moonah,F,22051,0,F Ticket Votes,Australian Greens,244
+TAS,194,Denison,8471,Moonah,F,20801,1,"MILNE, Christine",Australian Greens,103
+TAS,194,Denison,8471,Moonah,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,5
+TAS,194,Denison,8471,Moonah,F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,194,Denison,8471,Moonah,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,194,Denison,8471,Moonah,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,8471,Moonah,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8471,Moonah,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,14
+TAS,194,Denison,8471,Moonah,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,4
+TAS,194,Denison,8471,Moonah,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8471,Moonah,I,22058,0,I Ticket Votes,Family First,15
+TAS,194,Denison,8471,Moonah,I,21916,1,"ZUBIC, Jim",Family First,6
+TAS,194,Denison,8471,Moonah,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,3
+TAS,194,Denison,8471,Moonah,J,22054,0,J Ticket Votes,The Climate Sceptics,8
+TAS,194,Denison,8471,Moonah,J,21743,1,"WALLER, Frank",The Climate Sceptics,4
+TAS,194,Denison,8471,Moonah,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8471,Moonah,UG,21964,1,"OTTAVI, Dino",Independent,13
+TAS,194,Denison,8471,Moonah,ZZ,0,99,INFORMAL,,82
+TAS,194,Denison,8472,Moonah North,A,22057,0,A Ticket Votes,Senator On-Line,3
+TAS,194,Denison,8472,Moonah North,A,21856,1,"MURRAY, Julie",Senator On-Line,2
+TAS,194,Denison,8472,Moonah North,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8472,Moonah North,B,22053,0,B Ticket Votes,Australian Democrats,8
+TAS,194,Denison,8472,Moonah North,B,21756,1,"HUTTON, Paulene",Australian Democrats,2
+TAS,194,Denison,8472,Moonah North,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8472,Moonah North,C,22052,0,C Ticket Votes,Liberal,204
+TAS,194,Denison,8472,Moonah North,C,21538,1,"ABETZ, Eric",Liberal,15
+TAS,194,Denison,8472,Moonah North,C,21558,2,"PARRY, Stephen Shane",Liberal,3
+TAS,194,Denison,8472,Moonah North,C,21628,3,"BARNETT, Guy",Liberal,10
+TAS,194,Denison,8472,Moonah North,D,22055,0,D Ticket Votes,Australian Labor Party,465
+TAS,194,Denison,8472,Moonah North,D,21041,1,"POLLEY, Helen",Australian Labor Party,25
+TAS,194,Denison,8472,Moonah North,D,21459,2,"URQUHART, Anne",Australian Labor Party,3
+TAS,194,Denison,8472,Moonah North,D,21488,3,"SINGH, Lisa",Australian Labor Party,65
+TAS,194,Denison,8472,Moonah North,E,22059,0,E Ticket Votes,Shooters and Fishers,20
+TAS,194,Denison,8472,Moonah North,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,194,Denison,8472,Moonah North,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8472,Moonah North,F,22051,0,F Ticket Votes,Australian Greens,175
+TAS,194,Denison,8472,Moonah North,F,20801,1,"MILNE, Christine",Australian Greens,45
+TAS,194,Denison,8472,Moonah North,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,3
+TAS,194,Denison,8472,Moonah North,F,20805,3,"ANN, Penelope",Australian Greens,3
+TAS,194,Denison,8472,Moonah North,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,8472,Moonah North,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,2
+TAS,194,Denison,8472,Moonah North,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8472,Moonah North,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,3
+TAS,194,Denison,8472,Moonah North,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,2
+TAS,194,Denison,8472,Moonah North,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8472,Moonah North,I,22058,0,I Ticket Votes,Family First,15
+TAS,194,Denison,8472,Moonah North,I,21916,1,"ZUBIC, Jim",Family First,3
+TAS,194,Denison,8472,Moonah North,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,194,Denison,8472,Moonah North,J,22054,0,J Ticket Votes,The Climate Sceptics,5
+TAS,194,Denison,8472,Moonah North,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,194,Denison,8472,Moonah North,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8472,Moonah North,UG,21964,1,"OTTAVI, Dino",Independent,8
+TAS,194,Denison,8472,Moonah North,ZZ,0,99,INFORMAL,,47
+TAS,194,Denison,8473,Mount Nelson,A,22057,0,A Ticket Votes,Senator On-Line,3
+TAS,194,Denison,8473,Mount Nelson,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,8473,Mount Nelson,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8473,Mount Nelson,B,22053,0,B Ticket Votes,Australian Democrats,7
+TAS,194,Denison,8473,Mount Nelson,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,194,Denison,8473,Mount Nelson,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,194,Denison,8473,Mount Nelson,C,22052,0,C Ticket Votes,Liberal,366
+TAS,194,Denison,8473,Mount Nelson,C,21538,1,"ABETZ, Eric",Liberal,46
+TAS,194,Denison,8473,Mount Nelson,C,21558,2,"PARRY, Stephen Shane",Liberal,10
+TAS,194,Denison,8473,Mount Nelson,C,21628,3,"BARNETT, Guy",Liberal,36
+TAS,194,Denison,8473,Mount Nelson,D,22055,0,D Ticket Votes,Australian Labor Party,285
+TAS,194,Denison,8473,Mount Nelson,D,21041,1,"POLLEY, Helen",Australian Labor Party,31
+TAS,194,Denison,8473,Mount Nelson,D,21459,2,"URQUHART, Anne",Australian Labor Party,3
+TAS,194,Denison,8473,Mount Nelson,D,21488,3,"SINGH, Lisa",Australian Labor Party,75
+TAS,194,Denison,8473,Mount Nelson,E,22059,0,E Ticket Votes,Shooters and Fishers,12
+TAS,194,Denison,8473,Mount Nelson,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,194,Denison,8473,Mount Nelson,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,194,Denison,8473,Mount Nelson,F,22051,0,F Ticket Votes,Australian Greens,309
+TAS,194,Denison,8473,Mount Nelson,F,20801,1,"MILNE, Christine",Australian Greens,196
+TAS,194,Denison,8473,Mount Nelson,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,6
+TAS,194,Denison,8473,Mount Nelson,F,20805,3,"ANN, Penelope",Australian Greens,3
+TAS,194,Denison,8473,Mount Nelson,G,22056,0,G Ticket Votes,Secular Party of Australia,2
+TAS,194,Denison,8473,Mount Nelson,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,194,Denison,8473,Mount Nelson,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8473,Mount Nelson,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,4
+TAS,194,Denison,8473,Mount Nelson,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,2
+TAS,194,Denison,8473,Mount Nelson,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8473,Mount Nelson,I,22058,0,I Ticket Votes,Family First,11
+TAS,194,Denison,8473,Mount Nelson,I,21916,1,"ZUBIC, Jim",Family First,6
+TAS,194,Denison,8473,Mount Nelson,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,194,Denison,8473,Mount Nelson,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,8473,Mount Nelson,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,194,Denison,8473,Mount Nelson,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,1
+TAS,194,Denison,8473,Mount Nelson,UG,21964,1,"OTTAVI, Dino",Independent,9
+TAS,194,Denison,8473,Mount Nelson,ZZ,0,99,INFORMAL,,15
+TAS,194,Denison,8474,Mount Stuart,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,194,Denison,8474,Mount Stuart,A,21856,1,"MURRAY, Julie",Senator On-Line,4
+TAS,194,Denison,8474,Mount Stuart,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8474,Mount Stuart,B,22053,0,B Ticket Votes,Australian Democrats,0
+TAS,194,Denison,8474,Mount Stuart,B,21756,1,"HUTTON, Paulene",Australian Democrats,2
+TAS,194,Denison,8474,Mount Stuart,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8474,Mount Stuart,C,22052,0,C Ticket Votes,Liberal,167
+TAS,194,Denison,8474,Mount Stuart,C,21538,1,"ABETZ, Eric",Liberal,20
+TAS,194,Denison,8474,Mount Stuart,C,21558,2,"PARRY, Stephen Shane",Liberal,3
+TAS,194,Denison,8474,Mount Stuart,C,21628,3,"BARNETT, Guy",Liberal,22
+TAS,194,Denison,8474,Mount Stuart,D,22055,0,D Ticket Votes,Australian Labor Party,179
+TAS,194,Denison,8474,Mount Stuart,D,21041,1,"POLLEY, Helen",Australian Labor Party,19
+TAS,194,Denison,8474,Mount Stuart,D,21459,2,"URQUHART, Anne",Australian Labor Party,5
+TAS,194,Denison,8474,Mount Stuart,D,21488,3,"SINGH, Lisa",Australian Labor Party,63
+TAS,194,Denison,8474,Mount Stuart,E,22059,0,E Ticket Votes,Shooters and Fishers,2
+TAS,194,Denison,8474,Mount Stuart,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,194,Denison,8474,Mount Stuart,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8474,Mount Stuart,F,22051,0,F Ticket Votes,Australian Greens,197
+TAS,194,Denison,8474,Mount Stuart,F,20801,1,"MILNE, Christine",Australian Greens,143
+TAS,194,Denison,8474,Mount Stuart,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,5
+TAS,194,Denison,8474,Mount Stuart,F,20805,3,"ANN, Penelope",Australian Greens,2
+TAS,194,Denison,8474,Mount Stuart,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,194,Denison,8474,Mount Stuart,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,194,Denison,8474,Mount Stuart,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8474,Mount Stuart,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,6
+TAS,194,Denison,8474,Mount Stuart,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8474,Mount Stuart,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8474,Mount Stuart,I,22058,0,I Ticket Votes,Family First,3
+TAS,194,Denison,8474,Mount Stuart,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,8474,Mount Stuart,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8474,Mount Stuart,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,194,Denison,8474,Mount Stuart,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,194,Denison,8474,Mount Stuart,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8474,Mount Stuart,UG,21964,1,"OTTAVI, Dino",Independent,15
+TAS,194,Denison,8474,Mount Stuart,ZZ,0,99,INFORMAL,,11
+TAS,194,Denison,8475,Newdegate,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,194,Denison,8475,Newdegate,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,194,Denison,8475,Newdegate,A,21858,2,"WIENER, Sven",Senator On-Line,1
+TAS,194,Denison,8475,Newdegate,B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,194,Denison,8475,Newdegate,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,8475,Newdegate,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8475,Newdegate,C,22052,0,C Ticket Votes,Liberal,276
+TAS,194,Denison,8475,Newdegate,C,21538,1,"ABETZ, Eric",Liberal,35
+TAS,194,Denison,8475,Newdegate,C,21558,2,"PARRY, Stephen Shane",Liberal,8
+TAS,194,Denison,8475,Newdegate,C,21628,3,"BARNETT, Guy",Liberal,29
+TAS,194,Denison,8475,Newdegate,D,22055,0,D Ticket Votes,Australian Labor Party,338
+TAS,194,Denison,8475,Newdegate,D,21041,1,"POLLEY, Helen",Australian Labor Party,38
+TAS,194,Denison,8475,Newdegate,D,21459,2,"URQUHART, Anne",Australian Labor Party,12
+TAS,194,Denison,8475,Newdegate,D,21488,3,"SINGH, Lisa",Australian Labor Party,85
+TAS,194,Denison,8475,Newdegate,E,22059,0,E Ticket Votes,Shooters and Fishers,6
+TAS,194,Denison,8475,Newdegate,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,194,Denison,8475,Newdegate,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8475,Newdegate,F,22051,0,F Ticket Votes,Australian Greens,299
+TAS,194,Denison,8475,Newdegate,F,20801,1,"MILNE, Christine",Australian Greens,188
+TAS,194,Denison,8475,Newdegate,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,6
+TAS,194,Denison,8475,Newdegate,F,20805,3,"ANN, Penelope",Australian Greens,6
+TAS,194,Denison,8475,Newdegate,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,194,Denison,8475,Newdegate,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,8475,Newdegate,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8475,Newdegate,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,2
+TAS,194,Denison,8475,Newdegate,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,3
+TAS,194,Denison,8475,Newdegate,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8475,Newdegate,I,22058,0,I Ticket Votes,Family First,6
+TAS,194,Denison,8475,Newdegate,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,194,Denison,8475,Newdegate,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8475,Newdegate,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,8475,Newdegate,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8475,Newdegate,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8475,Newdegate,UG,21964,1,"OTTAVI, Dino",Independent,11
+TAS,194,Denison,8475,Newdegate,ZZ,0,99,INFORMAL,,32
+TAS,194,Denison,8476,New Town,A,22057,0,A Ticket Votes,Senator On-Line,4
+TAS,194,Denison,8476,New Town,A,21856,1,"MURRAY, Julie",Senator On-Line,3
+TAS,194,Denison,8476,New Town,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8476,New Town,B,22053,0,B Ticket Votes,Australian Democrats,6
+TAS,194,Denison,8476,New Town,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,194,Denison,8476,New Town,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,194,Denison,8476,New Town,C,22052,0,C Ticket Votes,Liberal,297
+TAS,194,Denison,8476,New Town,C,21538,1,"ABETZ, Eric",Liberal,32
+TAS,194,Denison,8476,New Town,C,21558,2,"PARRY, Stephen Shane",Liberal,10
+TAS,194,Denison,8476,New Town,C,21628,3,"BARNETT, Guy",Liberal,22
+TAS,194,Denison,8476,New Town,D,22055,0,D Ticket Votes,Australian Labor Party,282
+TAS,194,Denison,8476,New Town,D,21041,1,"POLLEY, Helen",Australian Labor Party,33
+TAS,194,Denison,8476,New Town,D,21459,2,"URQUHART, Anne",Australian Labor Party,6
+TAS,194,Denison,8476,New Town,D,21488,3,"SINGH, Lisa",Australian Labor Party,86
+TAS,194,Denison,8476,New Town,E,22059,0,E Ticket Votes,Shooters and Fishers,10
+TAS,194,Denison,8476,New Town,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,194,Denison,8476,New Town,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8476,New Town,F,22051,0,F Ticket Votes,Australian Greens,276
+TAS,194,Denison,8476,New Town,F,20801,1,"MILNE, Christine",Australian Greens,189
+TAS,194,Denison,8476,New Town,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,3
+TAS,194,Denison,8476,New Town,F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,194,Denison,8476,New Town,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,8476,New Town,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,194,Denison,8476,New Town,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8476,New Town,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8476,New Town,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8476,New Town,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8476,New Town,I,22058,0,I Ticket Votes,Family First,3
+TAS,194,Denison,8476,New Town,I,21916,1,"ZUBIC, Jim",Family First,2
+TAS,194,Denison,8476,New Town,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8476,New Town,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,8476,New Town,J,21743,1,"WALLER, Frank",The Climate Sceptics,3
+TAS,194,Denison,8476,New Town,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8476,New Town,UG,21964,1,"OTTAVI, Dino",Independent,10
+TAS,194,Denison,8476,New Town,ZZ,0,99,INFORMAL,,22
+TAS,194,Denison,8478,Roseneath,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,194,Denison,8478,Roseneath,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,8478,Roseneath,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8478,Roseneath,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,194,Denison,8478,Roseneath,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,8478,Roseneath,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8478,Roseneath,C,22052,0,C Ticket Votes,Liberal,43
+TAS,194,Denison,8478,Roseneath,C,21538,1,"ABETZ, Eric",Liberal,6
+TAS,194,Denison,8478,Roseneath,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,194,Denison,8478,Roseneath,C,21628,3,"BARNETT, Guy",Liberal,2
+TAS,194,Denison,8478,Roseneath,D,22055,0,D Ticket Votes,Australian Labor Party,206
+TAS,194,Denison,8478,Roseneath,D,21041,1,"POLLEY, Helen",Australian Labor Party,9
+TAS,194,Denison,8478,Roseneath,D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,194,Denison,8478,Roseneath,D,21488,3,"SINGH, Lisa",Australian Labor Party,14
+TAS,194,Denison,8478,Roseneath,E,22059,0,E Ticket Votes,Shooters and Fishers,9
+TAS,194,Denison,8478,Roseneath,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,194,Denison,8478,Roseneath,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8478,Roseneath,F,22051,0,F Ticket Votes,Australian Greens,23
+TAS,194,Denison,8478,Roseneath,F,20801,1,"MILNE, Christine",Australian Greens,16
+TAS,194,Denison,8478,Roseneath,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,194,Denison,8478,Roseneath,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,194,Denison,8478,Roseneath,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,8478,Roseneath,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,8478,Roseneath,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8478,Roseneath,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8478,Roseneath,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8478,Roseneath,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8478,Roseneath,I,22058,0,I Ticket Votes,Family First,6
+TAS,194,Denison,8478,Roseneath,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,194,Denison,8478,Roseneath,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8478,Roseneath,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,8478,Roseneath,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8478,Roseneath,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8478,Roseneath,UG,21964,1,"OTTAVI, Dino",Independent,2
+TAS,194,Denison,8478,Roseneath,ZZ,0,99,INFORMAL,,15
+TAS,194,Denison,8479,Rosetta,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,194,Denison,8479,Rosetta,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,8479,Rosetta,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8479,Rosetta,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,194,Denison,8479,Rosetta,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,8479,Rosetta,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8479,Rosetta,C,22052,0,C Ticket Votes,Liberal,104
+TAS,194,Denison,8479,Rosetta,C,21538,1,"ABETZ, Eric",Liberal,29
+TAS,194,Denison,8479,Rosetta,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,194,Denison,8479,Rosetta,C,21628,3,"BARNETT, Guy",Liberal,7
+TAS,194,Denison,8479,Rosetta,D,22055,0,D Ticket Votes,Australian Labor Party,200
+TAS,194,Denison,8479,Rosetta,D,21041,1,"POLLEY, Helen",Australian Labor Party,8
+TAS,194,Denison,8479,Rosetta,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,194,Denison,8479,Rosetta,D,21488,3,"SINGH, Lisa",Australian Labor Party,41
+TAS,194,Denison,8479,Rosetta,E,22059,0,E Ticket Votes,Shooters and Fishers,9
+TAS,194,Denison,8479,Rosetta,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,4
+TAS,194,Denison,8479,Rosetta,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,194,Denison,8479,Rosetta,F,22051,0,F Ticket Votes,Australian Greens,56
+TAS,194,Denison,8479,Rosetta,F,20801,1,"MILNE, Christine",Australian Greens,33
+TAS,194,Denison,8479,Rosetta,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,1
+TAS,194,Denison,8479,Rosetta,F,20805,3,"ANN, Penelope",Australian Greens,2
+TAS,194,Denison,8479,Rosetta,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,8479,Rosetta,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,194,Denison,8479,Rosetta,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8479,Rosetta,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,3
+TAS,194,Denison,8479,Rosetta,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8479,Rosetta,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8479,Rosetta,I,22058,0,I Ticket Votes,Family First,5
+TAS,194,Denison,8479,Rosetta,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,8479,Rosetta,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8479,Rosetta,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,8479,Rosetta,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8479,Rosetta,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8479,Rosetta,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,194,Denison,8479,Rosetta,ZZ,0,99,INFORMAL,,15
+TAS,194,Denison,8481,St Peters,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,194,Denison,8481,St Peters,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,8481,St Peters,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8481,St Peters,B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,194,Denison,8481,St Peters,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,194,Denison,8481,St Peters,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8481,St Peters,C,22052,0,C Ticket Votes,Liberal,110
+TAS,194,Denison,8481,St Peters,C,21538,1,"ABETZ, Eric",Liberal,17
+TAS,194,Denison,8481,St Peters,C,21558,2,"PARRY, Stephen Shane",Liberal,4
+TAS,194,Denison,8481,St Peters,C,21628,3,"BARNETT, Guy",Liberal,8
+TAS,194,Denison,8481,St Peters,D,22055,0,D Ticket Votes,Australian Labor Party,126
+TAS,194,Denison,8481,St Peters,D,21041,1,"POLLEY, Helen",Australian Labor Party,12
+TAS,194,Denison,8481,St Peters,D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,194,Denison,8481,St Peters,D,21488,3,"SINGH, Lisa",Australian Labor Party,32
+TAS,194,Denison,8481,St Peters,E,22059,0,E Ticket Votes,Shooters and Fishers,2
+TAS,194,Denison,8481,St Peters,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,194,Denison,8481,St Peters,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8481,St Peters,F,22051,0,F Ticket Votes,Australian Greens,170
+TAS,194,Denison,8481,St Peters,F,20801,1,"MILNE, Christine",Australian Greens,89
+TAS,194,Denison,8481,St Peters,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,2
+TAS,194,Denison,8481,St Peters,F,20805,3,"ANN, Penelope",Australian Greens,2
+TAS,194,Denison,8481,St Peters,G,22056,0,G Ticket Votes,Secular Party of Australia,2
+TAS,194,Denison,8481,St Peters,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,8481,St Peters,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8481,St Peters,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8481,St Peters,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8481,St Peters,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8481,St Peters,I,22058,0,I Ticket Votes,Family First,4
+TAS,194,Denison,8481,St Peters,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,194,Denison,8481,St Peters,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8481,St Peters,J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,194,Denison,8481,St Peters,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8481,St Peters,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8481,St Peters,UG,21964,1,"OTTAVI, Dino",Independent,5
+TAS,194,Denison,8481,St Peters,ZZ,0,99,INFORMAL,,8
+TAS,194,Denison,8482,Sandy Bay,A,22057,0,A Ticket Votes,Senator On-Line,3
+TAS,194,Denison,8482,Sandy Bay,A,21856,1,"MURRAY, Julie",Senator On-Line,4
+TAS,194,Denison,8482,Sandy Bay,A,21858,2,"WIENER, Sven",Senator On-Line,1
+TAS,194,Denison,8482,Sandy Bay,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,194,Denison,8482,Sandy Bay,B,21756,1,"HUTTON, Paulene",Australian Democrats,6
+TAS,194,Denison,8482,Sandy Bay,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8482,Sandy Bay,C,22052,0,C Ticket Votes,Liberal,463
+TAS,194,Denison,8482,Sandy Bay,C,21538,1,"ABETZ, Eric",Liberal,64
+TAS,194,Denison,8482,Sandy Bay,C,21558,2,"PARRY, Stephen Shane",Liberal,17
+TAS,194,Denison,8482,Sandy Bay,C,21628,3,"BARNETT, Guy",Liberal,54
+TAS,194,Denison,8482,Sandy Bay,D,22055,0,D Ticket Votes,Australian Labor Party,241
+TAS,194,Denison,8482,Sandy Bay,D,21041,1,"POLLEY, Helen",Australian Labor Party,31
+TAS,194,Denison,8482,Sandy Bay,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,194,Denison,8482,Sandy Bay,D,21488,3,"SINGH, Lisa",Australian Labor Party,87
+TAS,194,Denison,8482,Sandy Bay,E,22059,0,E Ticket Votes,Shooters and Fishers,6
+TAS,194,Denison,8482,Sandy Bay,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,7
+TAS,194,Denison,8482,Sandy Bay,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8482,Sandy Bay,F,22051,0,F Ticket Votes,Australian Greens,305
+TAS,194,Denison,8482,Sandy Bay,F,20801,1,"MILNE, Christine",Australian Greens,183
+TAS,194,Denison,8482,Sandy Bay,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,8
+TAS,194,Denison,8482,Sandy Bay,F,20805,3,"ANN, Penelope",Australian Greens,3
+TAS,194,Denison,8482,Sandy Bay,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,194,Denison,8482,Sandy Bay,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,6
+TAS,194,Denison,8482,Sandy Bay,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,194,Denison,8482,Sandy Bay,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,4
+TAS,194,Denison,8482,Sandy Bay,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,4
+TAS,194,Denison,8482,Sandy Bay,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,2
+TAS,194,Denison,8482,Sandy Bay,I,22058,0,I Ticket Votes,Family First,6
+TAS,194,Denison,8482,Sandy Bay,I,21916,1,"ZUBIC, Jim",Family First,3
+TAS,194,Denison,8482,Sandy Bay,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8482,Sandy Bay,J,22054,0,J Ticket Votes,The Climate Sceptics,4
+TAS,194,Denison,8482,Sandy Bay,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,194,Denison,8482,Sandy Bay,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8482,Sandy Bay,UG,21964,1,"OTTAVI, Dino",Independent,9
+TAS,194,Denison,8482,Sandy Bay,ZZ,0,99,INFORMAL,,23
+TAS,194,Denison,8483,Sandy Bay Beach,A,22057,0,A Ticket Votes,Senator On-Line,3
+TAS,194,Denison,8483,Sandy Bay Beach,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,194,Denison,8483,Sandy Bay Beach,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8483,Sandy Bay Beach,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,194,Denison,8483,Sandy Bay Beach,B,21756,1,"HUTTON, Paulene",Australian Democrats,3
+TAS,194,Denison,8483,Sandy Bay Beach,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8483,Sandy Bay Beach,C,22052,0,C Ticket Votes,Liberal,328
+TAS,194,Denison,8483,Sandy Bay Beach,C,21538,1,"ABETZ, Eric",Liberal,48
+TAS,194,Denison,8483,Sandy Bay Beach,C,21558,2,"PARRY, Stephen Shane",Liberal,7
+TAS,194,Denison,8483,Sandy Bay Beach,C,21628,3,"BARNETT, Guy",Liberal,51
+TAS,194,Denison,8483,Sandy Bay Beach,D,22055,0,D Ticket Votes,Australian Labor Party,109
+TAS,194,Denison,8483,Sandy Bay Beach,D,21041,1,"POLLEY, Helen",Australian Labor Party,11
+TAS,194,Denison,8483,Sandy Bay Beach,D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,194,Denison,8483,Sandy Bay Beach,D,21488,3,"SINGH, Lisa",Australian Labor Party,20
+TAS,194,Denison,8483,Sandy Bay Beach,E,22059,0,E Ticket Votes,Shooters and Fishers,1
+TAS,194,Denison,8483,Sandy Bay Beach,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,194,Denison,8483,Sandy Bay Beach,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8483,Sandy Bay Beach,F,22051,0,F Ticket Votes,Australian Greens,93
+TAS,194,Denison,8483,Sandy Bay Beach,F,20801,1,"MILNE, Christine",Australian Greens,74
+TAS,194,Denison,8483,Sandy Bay Beach,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,5
+TAS,194,Denison,8483,Sandy Bay Beach,F,20805,3,"ANN, Penelope",Australian Greens,1
+TAS,194,Denison,8483,Sandy Bay Beach,G,22056,0,G Ticket Votes,Secular Party of Australia,2
+TAS,194,Denison,8483,Sandy Bay Beach,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,8483,Sandy Bay Beach,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,194,Denison,8483,Sandy Bay Beach,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8483,Sandy Bay Beach,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,2
+TAS,194,Denison,8483,Sandy Bay Beach,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8483,Sandy Bay Beach,I,22058,0,I Ticket Votes,Family First,0
+TAS,194,Denison,8483,Sandy Bay Beach,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,194,Denison,8483,Sandy Bay Beach,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8483,Sandy Bay Beach,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,8483,Sandy Bay Beach,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8483,Sandy Bay Beach,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8483,Sandy Bay Beach,UG,21964,1,"OTTAVI, Dino",Independent,6
+TAS,194,Denison,8483,Sandy Bay Beach,ZZ,0,99,INFORMAL,,6
+TAS,194,Denison,8484,Swan,A,22057,0,A Ticket Votes,Senator On-Line,3
+TAS,194,Denison,8484,Swan,A,21856,1,"MURRAY, Julie",Senator On-Line,3
+TAS,194,Denison,8484,Swan,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8484,Swan,B,22053,0,B Ticket Votes,Australian Democrats,4
+TAS,194,Denison,8484,Swan,B,21756,1,"HUTTON, Paulene",Australian Democrats,4
+TAS,194,Denison,8484,Swan,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,194,Denison,8484,Swan,C,22052,0,C Ticket Votes,Liberal,148
+TAS,194,Denison,8484,Swan,C,21538,1,"ABETZ, Eric",Liberal,17
+TAS,194,Denison,8484,Swan,C,21558,2,"PARRY, Stephen Shane",Liberal,4
+TAS,194,Denison,8484,Swan,C,21628,3,"BARNETT, Guy",Liberal,16
+TAS,194,Denison,8484,Swan,D,22055,0,D Ticket Votes,Australian Labor Party,252
+TAS,194,Denison,8484,Swan,D,21041,1,"POLLEY, Helen",Australian Labor Party,26
+TAS,194,Denison,8484,Swan,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,194,Denison,8484,Swan,D,21488,3,"SINGH, Lisa",Australian Labor Party,70
+TAS,194,Denison,8484,Swan,E,22059,0,E Ticket Votes,Shooters and Fishers,4
+TAS,194,Denison,8484,Swan,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,194,Denison,8484,Swan,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8484,Swan,F,22051,0,F Ticket Votes,Australian Greens,230
+TAS,194,Denison,8484,Swan,F,20801,1,"MILNE, Christine",Australian Greens,169
+TAS,194,Denison,8484,Swan,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,7
+TAS,194,Denison,8484,Swan,F,20805,3,"ANN, Penelope",Australian Greens,5
+TAS,194,Denison,8484,Swan,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,194,Denison,8484,Swan,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,2
+TAS,194,Denison,8484,Swan,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,194,Denison,8484,Swan,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,2
+TAS,194,Denison,8484,Swan,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8484,Swan,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8484,Swan,I,22058,0,I Ticket Votes,Family First,3
+TAS,194,Denison,8484,Swan,I,21916,1,"ZUBIC, Jim",Family First,2
+TAS,194,Denison,8484,Swan,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8484,Swan,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,194,Denison,8484,Swan,J,21743,1,"WALLER, Frank",The Climate Sceptics,2
+TAS,194,Denison,8484,Swan,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8484,Swan,UG,21964,1,"OTTAVI, Dino",Independent,20
+TAS,194,Denison,8484,Swan,ZZ,0,99,INFORMAL,,24
+TAS,194,Denison,8485,Tolosa,A,22057,0,A Ticket Votes,Senator On-Line,4
+TAS,194,Denison,8485,Tolosa,A,21856,1,"MURRAY, Julie",Senator On-Line,3
+TAS,194,Denison,8485,Tolosa,A,21858,2,"WIENER, Sven",Senator On-Line,1
+TAS,194,Denison,8485,Tolosa,B,22053,0,B Ticket Votes,Australian Democrats,6
+TAS,194,Denison,8485,Tolosa,B,21756,1,"HUTTON, Paulene",Australian Democrats,6
+TAS,194,Denison,8485,Tolosa,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,194,Denison,8485,Tolosa,C,22052,0,C Ticket Votes,Liberal,326
+TAS,194,Denison,8485,Tolosa,C,21538,1,"ABETZ, Eric",Liberal,33
+TAS,194,Denison,8485,Tolosa,C,21558,2,"PARRY, Stephen Shane",Liberal,6
+TAS,194,Denison,8485,Tolosa,C,21628,3,"BARNETT, Guy",Liberal,10
+TAS,194,Denison,8485,Tolosa,D,22055,0,D Ticket Votes,Australian Labor Party,754
+TAS,194,Denison,8485,Tolosa,D,21041,1,"POLLEY, Helen",Australian Labor Party,40
+TAS,194,Denison,8485,Tolosa,D,21459,2,"URQUHART, Anne",Australian Labor Party,3
+TAS,194,Denison,8485,Tolosa,D,21488,3,"SINGH, Lisa",Australian Labor Party,64
+TAS,194,Denison,8485,Tolosa,E,22059,0,E Ticket Votes,Shooters and Fishers,14
+TAS,194,Denison,8485,Tolosa,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,5
+TAS,194,Denison,8485,Tolosa,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,194,Denison,8485,Tolosa,F,22051,0,F Ticket Votes,Australian Greens,159
+TAS,194,Denison,8485,Tolosa,F,20801,1,"MILNE, Christine",Australian Greens,58
+TAS,194,Denison,8485,Tolosa,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,1
+TAS,194,Denison,8485,Tolosa,F,20805,3,"ANN, Penelope",Australian Greens,6
+TAS,194,Denison,8485,Tolosa,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,194,Denison,8485,Tolosa,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,194,Denison,8485,Tolosa,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,2
+TAS,194,Denison,8485,Tolosa,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,12
+TAS,194,Denison,8485,Tolosa,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8485,Tolosa,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8485,Tolosa,I,22058,0,I Ticket Votes,Family First,22
+TAS,194,Denison,8485,Tolosa,I,21916,1,"ZUBIC, Jim",Family First,2
+TAS,194,Denison,8485,Tolosa,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8485,Tolosa,J,22054,0,J Ticket Votes,The Climate Sceptics,4
+TAS,194,Denison,8485,Tolosa,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,194,Denison,8485,Tolosa,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8485,Tolosa,UG,21964,1,"OTTAVI, Dino",Independent,11
+TAS,194,Denison,8485,Tolosa,ZZ,0,99,INFORMAL,,96
+TAS,194,Denison,8486,Waimea Heights,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,194,Denison,8486,Waimea Heights,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,8486,Waimea Heights,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8486,Waimea Heights,B,22053,0,B Ticket Votes,Australian Democrats,3
+TAS,194,Denison,8486,Waimea Heights,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,8486,Waimea Heights,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8486,Waimea Heights,C,22052,0,C Ticket Votes,Liberal,253
+TAS,194,Denison,8486,Waimea Heights,C,21538,1,"ABETZ, Eric",Liberal,34
+TAS,194,Denison,8486,Waimea Heights,C,21558,2,"PARRY, Stephen Shane",Liberal,13
+TAS,194,Denison,8486,Waimea Heights,C,21628,3,"BARNETT, Guy",Liberal,34
+TAS,194,Denison,8486,Waimea Heights,D,22055,0,D Ticket Votes,Australian Labor Party,102
+TAS,194,Denison,8486,Waimea Heights,D,21041,1,"POLLEY, Helen",Australian Labor Party,9
+TAS,194,Denison,8486,Waimea Heights,D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,194,Denison,8486,Waimea Heights,D,21488,3,"SINGH, Lisa",Australian Labor Party,26
+TAS,194,Denison,8486,Waimea Heights,E,22059,0,E Ticket Votes,Shooters and Fishers,3
+TAS,194,Denison,8486,Waimea Heights,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,194,Denison,8486,Waimea Heights,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8486,Waimea Heights,F,22051,0,F Ticket Votes,Australian Greens,136
+TAS,194,Denison,8486,Waimea Heights,F,20801,1,"MILNE, Christine",Australian Greens,77
+TAS,194,Denison,8486,Waimea Heights,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,5
+TAS,194,Denison,8486,Waimea Heights,F,20805,3,"ANN, Penelope",Australian Greens,3
+TAS,194,Denison,8486,Waimea Heights,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,194,Denison,8486,Waimea Heights,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,2
+TAS,194,Denison,8486,Waimea Heights,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,194,Denison,8486,Waimea Heights,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8486,Waimea Heights,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8486,Waimea Heights,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8486,Waimea Heights,I,22058,0,I Ticket Votes,Family First,1
+TAS,194,Denison,8486,Waimea Heights,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,194,Denison,8486,Waimea Heights,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8486,Waimea Heights,J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,194,Denison,8486,Waimea Heights,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,194,Denison,8486,Waimea Heights,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,2
+TAS,194,Denison,8486,Waimea Heights,UG,21964,1,"OTTAVI, Dino",Independent,6
+TAS,194,Denison,8486,Waimea Heights,ZZ,0,99,INFORMAL,,7
+TAS,194,Denison,8487,Windermere,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,194,Denison,8487,Windermere,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,194,Denison,8487,Windermere,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8487,Windermere,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,194,Denison,8487,Windermere,B,21756,1,"HUTTON, Paulene",Australian Democrats,2
+TAS,194,Denison,8487,Windermere,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8487,Windermere,C,22052,0,C Ticket Votes,Liberal,165
+TAS,194,Denison,8487,Windermere,C,21538,1,"ABETZ, Eric",Liberal,23
+TAS,194,Denison,8487,Windermere,C,21558,2,"PARRY, Stephen Shane",Liberal,5
+TAS,194,Denison,8487,Windermere,C,21628,3,"BARNETT, Guy",Liberal,7
+TAS,194,Denison,8487,Windermere,D,22055,0,D Ticket Votes,Australian Labor Party,324
+TAS,194,Denison,8487,Windermere,D,21041,1,"POLLEY, Helen",Australian Labor Party,21
+TAS,194,Denison,8487,Windermere,D,21459,2,"URQUHART, Anne",Australian Labor Party,4
+TAS,194,Denison,8487,Windermere,D,21488,3,"SINGH, Lisa",Australian Labor Party,38
+TAS,194,Denison,8487,Windermere,E,22059,0,E Ticket Votes,Shooters and Fishers,4
+TAS,194,Denison,8487,Windermere,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,3
+TAS,194,Denison,8487,Windermere,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8487,Windermere,F,22051,0,F Ticket Votes,Australian Greens,79
+TAS,194,Denison,8487,Windermere,F,20801,1,"MILNE, Christine",Australian Greens,30
+TAS,194,Denison,8487,Windermere,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,194,Denison,8487,Windermere,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,194,Denison,8487,Windermere,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,194,Denison,8487,Windermere,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,8487,Windermere,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8487,Windermere,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,2
+TAS,194,Denison,8487,Windermere,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8487,Windermere,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,8487,Windermere,I,22058,0,I Ticket Votes,Family First,10
+TAS,194,Denison,8487,Windermere,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,194,Denison,8487,Windermere,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8487,Windermere,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,8487,Windermere,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,8487,Windermere,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8487,Windermere,UG,21964,1,"OTTAVI, Dino",Independent,2
+TAS,194,Denison,8487,Windermere,ZZ,0,99,INFORMAL,,26
+TAS,194,Denison,8495,Austins Ferry,A,22057,0,A Ticket Votes,Senator On-Line,3
+TAS,194,Denison,8495,Austins Ferry,A,21856,1,"MURRAY, Julie",Senator On-Line,6
+TAS,194,Denison,8495,Austins Ferry,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8495,Austins Ferry,B,22053,0,B Ticket Votes,Australian Democrats,6
+TAS,194,Denison,8495,Austins Ferry,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,8495,Austins Ferry,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8495,Austins Ferry,C,22052,0,C Ticket Votes,Liberal,389
+TAS,194,Denison,8495,Austins Ferry,C,21538,1,"ABETZ, Eric",Liberal,48
+TAS,194,Denison,8495,Austins Ferry,C,21558,2,"PARRY, Stephen Shane",Liberal,7
+TAS,194,Denison,8495,Austins Ferry,C,21628,3,"BARNETT, Guy",Liberal,29
+TAS,194,Denison,8495,Austins Ferry,D,22055,0,D Ticket Votes,Australian Labor Party,763
+TAS,194,Denison,8495,Austins Ferry,D,21041,1,"POLLEY, Helen",Australian Labor Party,53
+TAS,194,Denison,8495,Austins Ferry,D,21459,2,"URQUHART, Anne",Australian Labor Party,13
+TAS,194,Denison,8495,Austins Ferry,D,21488,3,"SINGH, Lisa",Australian Labor Party,105
+TAS,194,Denison,8495,Austins Ferry,E,22059,0,E Ticket Votes,Shooters and Fishers,23
+TAS,194,Denison,8495,Austins Ferry,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,8
+TAS,194,Denison,8495,Austins Ferry,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,194,Denison,8495,Austins Ferry,F,22051,0,F Ticket Votes,Australian Greens,140
+TAS,194,Denison,8495,Austins Ferry,F,20801,1,"MILNE, Christine",Australian Greens,69
+TAS,194,Denison,8495,Austins Ferry,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,4
+TAS,194,Denison,8495,Austins Ferry,F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,194,Denison,8495,Austins Ferry,G,22056,0,G Ticket Votes,Secular Party of Australia,2
+TAS,194,Denison,8495,Austins Ferry,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,8495,Austins Ferry,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,8495,Austins Ferry,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,5
+TAS,194,Denison,8495,Austins Ferry,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,3
+TAS,194,Denison,8495,Austins Ferry,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8495,Austins Ferry,I,22058,0,I Ticket Votes,Family First,12
+TAS,194,Denison,8495,Austins Ferry,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,8495,Austins Ferry,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,8495,Austins Ferry,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,8495,Austins Ferry,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,194,Denison,8495,Austins Ferry,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8495,Austins Ferry,UG,21964,1,"OTTAVI, Dino",Independent,9
+TAS,194,Denison,8495,Austins Ferry,ZZ,0,99,INFORMAL,,76
+TAS,194,Denison,8542,Taroona,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,194,Denison,8542,Taroona,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,8542,Taroona,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,8542,Taroona,B,22053,0,B Ticket Votes,Australian Democrats,6
+TAS,194,Denison,8542,Taroona,B,21756,1,"HUTTON, Paulene",Australian Democrats,3
+TAS,194,Denison,8542,Taroona,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,8542,Taroona,C,22052,0,C Ticket Votes,Liberal,322
+TAS,194,Denison,8542,Taroona,C,21538,1,"ABETZ, Eric",Liberal,48
+TAS,194,Denison,8542,Taroona,C,21558,2,"PARRY, Stephen Shane",Liberal,9
+TAS,194,Denison,8542,Taroona,C,21628,3,"BARNETT, Guy",Liberal,28
+TAS,194,Denison,8542,Taroona,D,22055,0,D Ticket Votes,Australian Labor Party,240
+TAS,194,Denison,8542,Taroona,D,21041,1,"POLLEY, Helen",Australian Labor Party,32
+TAS,194,Denison,8542,Taroona,D,21459,2,"URQUHART, Anne",Australian Labor Party,7
+TAS,194,Denison,8542,Taroona,D,21488,3,"SINGH, Lisa",Australian Labor Party,62
+TAS,194,Denison,8542,Taroona,E,22059,0,E Ticket Votes,Shooters and Fishers,7
+TAS,194,Denison,8542,Taroona,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,6
+TAS,194,Denison,8542,Taroona,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,8542,Taroona,F,22051,0,F Ticket Votes,Australian Greens,368
+TAS,194,Denison,8542,Taroona,F,20801,1,"MILNE, Christine",Australian Greens,294
+TAS,194,Denison,8542,Taroona,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,14
+TAS,194,Denison,8542,Taroona,F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,194,Denison,8542,Taroona,G,22056,0,G Ticket Votes,Secular Party of Australia,2
+TAS,194,Denison,8542,Taroona,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,2
+TAS,194,Denison,8542,Taroona,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,194,Denison,8542,Taroona,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,8
+TAS,194,Denison,8542,Taroona,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,2
+TAS,194,Denison,8542,Taroona,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,8542,Taroona,I,22058,0,I Ticket Votes,Family First,8
+TAS,194,Denison,8542,Taroona,I,21916,1,"ZUBIC, Jim",Family First,2
+TAS,194,Denison,8542,Taroona,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,194,Denison,8542,Taroona,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,194,Denison,8542,Taroona,J,21743,1,"WALLER, Frank",The Climate Sceptics,3
+TAS,194,Denison,8542,Taroona,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,8542,Taroona,UG,21964,1,"OTTAVI, Dino",Independent,8
+TAS,194,Denison,8542,Taroona,ZZ,0,99,INFORMAL,,20
+TAS,194,Denison,13315,Special Hospital Team 1,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,194,Denison,13315,Special Hospital Team 1,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,13315,Special Hospital Team 1,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,13315,Special Hospital Team 1,B,22053,0,B Ticket Votes,Australian Democrats,0
+TAS,194,Denison,13315,Special Hospital Team 1,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,13315,Special Hospital Team 1,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,13315,Special Hospital Team 1,C,22052,0,C Ticket Votes,Liberal,15
+TAS,194,Denison,13315,Special Hospital Team 1,C,21538,1,"ABETZ, Eric",Liberal,0
+TAS,194,Denison,13315,Special Hospital Team 1,C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,194,Denison,13315,Special Hospital Team 1,C,21628,3,"BARNETT, Guy",Liberal,1
+TAS,194,Denison,13315,Special Hospital Team 1,D,22055,0,D Ticket Votes,Australian Labor Party,20
+TAS,194,Denison,13315,Special Hospital Team 1,D,21041,1,"POLLEY, Helen",Australian Labor Party,1
+TAS,194,Denison,13315,Special Hospital Team 1,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,194,Denison,13315,Special Hospital Team 1,D,21488,3,"SINGH, Lisa",Australian Labor Party,0
+TAS,194,Denison,13315,Special Hospital Team 1,E,22059,0,E Ticket Votes,Shooters and Fishers,0
+TAS,194,Denison,13315,Special Hospital Team 1,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,194,Denison,13315,Special Hospital Team 1,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,13315,Special Hospital Team 1,F,22051,0,F Ticket Votes,Australian Greens,8
+TAS,194,Denison,13315,Special Hospital Team 1,F,20801,1,"MILNE, Christine",Australian Greens,2
+TAS,194,Denison,13315,Special Hospital Team 1,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,1
+TAS,194,Denison,13315,Special Hospital Team 1,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,194,Denison,13315,Special Hospital Team 1,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,13315,Special Hospital Team 1,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,13315,Special Hospital Team 1,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,13315,Special Hospital Team 1,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,13315,Special Hospital Team 1,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,13315,Special Hospital Team 1,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,13315,Special Hospital Team 1,I,22058,0,I Ticket Votes,Family First,0
+TAS,194,Denison,13315,Special Hospital Team 1,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,13315,Special Hospital Team 1,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,13315,Special Hospital Team 1,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,194,Denison,13315,Special Hospital Team 1,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,13315,Special Hospital Team 1,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,13315,Special Hospital Team 1,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,194,Denison,13315,Special Hospital Team 1,ZZ,0,99,INFORMAL,,0
+TAS,194,Denison,13316,Special Hospital Team 2,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,194,Denison,13316,Special Hospital Team 2,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,13316,Special Hospital Team 2,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,13316,Special Hospital Team 2,B,22053,0,B Ticket Votes,Australian Democrats,0
+TAS,194,Denison,13316,Special Hospital Team 2,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,13316,Special Hospital Team 2,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,13316,Special Hospital Team 2,C,22052,0,C Ticket Votes,Liberal,36
+TAS,194,Denison,13316,Special Hospital Team 2,C,21538,1,"ABETZ, Eric",Liberal,3
+TAS,194,Denison,13316,Special Hospital Team 2,C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,194,Denison,13316,Special Hospital Team 2,C,21628,3,"BARNETT, Guy",Liberal,0
+TAS,194,Denison,13316,Special Hospital Team 2,D,22055,0,D Ticket Votes,Australian Labor Party,60
+TAS,194,Denison,13316,Special Hospital Team 2,D,21041,1,"POLLEY, Helen",Australian Labor Party,0
+TAS,194,Denison,13316,Special Hospital Team 2,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,194,Denison,13316,Special Hospital Team 2,D,21488,3,"SINGH, Lisa",Australian Labor Party,3
+TAS,194,Denison,13316,Special Hospital Team 2,E,22059,0,E Ticket Votes,Shooters and Fishers,3
+TAS,194,Denison,13316,Special Hospital Team 2,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,194,Denison,13316,Special Hospital Team 2,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,13316,Special Hospital Team 2,F,22051,0,F Ticket Votes,Australian Greens,7
+TAS,194,Denison,13316,Special Hospital Team 2,F,20801,1,"MILNE, Christine",Australian Greens,2
+TAS,194,Denison,13316,Special Hospital Team 2,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,194,Denison,13316,Special Hospital Team 2,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,194,Denison,13316,Special Hospital Team 2,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,194,Denison,13316,Special Hospital Team 2,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,13316,Special Hospital Team 2,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,13316,Special Hospital Team 2,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,3
+TAS,194,Denison,13316,Special Hospital Team 2,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,13316,Special Hospital Team 2,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,13316,Special Hospital Team 2,I,22058,0,I Ticket Votes,Family First,1
+TAS,194,Denison,13316,Special Hospital Team 2,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,13316,Special Hospital Team 2,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,13316,Special Hospital Team 2,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,13316,Special Hospital Team 2,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,13316,Special Hospital Team 2,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,13316,Special Hospital Team 2,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,194,Denison,13316,Special Hospital Team 2,ZZ,0,99,INFORMAL,,5
+TAS,194,Denison,13317,Special Hospital Team 3,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,194,Denison,13317,Special Hospital Team 3,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,13317,Special Hospital Team 3,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,13317,Special Hospital Team 3,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,194,Denison,13317,Special Hospital Team 3,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,13317,Special Hospital Team 3,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,13317,Special Hospital Team 3,C,22052,0,C Ticket Votes,Liberal,113
+TAS,194,Denison,13317,Special Hospital Team 3,C,21538,1,"ABETZ, Eric",Liberal,7
+TAS,194,Denison,13317,Special Hospital Team 3,C,21558,2,"PARRY, Stephen Shane",Liberal,3
+TAS,194,Denison,13317,Special Hospital Team 3,C,21628,3,"BARNETT, Guy",Liberal,5
+TAS,194,Denison,13317,Special Hospital Team 3,D,22055,0,D Ticket Votes,Australian Labor Party,49
+TAS,194,Denison,13317,Special Hospital Team 3,D,21041,1,"POLLEY, Helen",Australian Labor Party,5
+TAS,194,Denison,13317,Special Hospital Team 3,D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,194,Denison,13317,Special Hospital Team 3,D,21488,3,"SINGH, Lisa",Australian Labor Party,3
+TAS,194,Denison,13317,Special Hospital Team 3,E,22059,0,E Ticket Votes,Shooters and Fishers,0
+TAS,194,Denison,13317,Special Hospital Team 3,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,194,Denison,13317,Special Hospital Team 3,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,13317,Special Hospital Team 3,F,22051,0,F Ticket Votes,Australian Greens,37
+TAS,194,Denison,13317,Special Hospital Team 3,F,20801,1,"MILNE, Christine",Australian Greens,10
+TAS,194,Denison,13317,Special Hospital Team 3,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,1
+TAS,194,Denison,13317,Special Hospital Team 3,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,194,Denison,13317,Special Hospital Team 3,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,13317,Special Hospital Team 3,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,13317,Special Hospital Team 3,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,13317,Special Hospital Team 3,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,3
+TAS,194,Denison,13317,Special Hospital Team 3,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,13317,Special Hospital Team 3,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,13317,Special Hospital Team 3,I,22058,0,I Ticket Votes,Family First,0
+TAS,194,Denison,13317,Special Hospital Team 3,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,13317,Special Hospital Team 3,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,13317,Special Hospital Team 3,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,194,Denison,13317,Special Hospital Team 3,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,13317,Special Hospital Team 3,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,13317,Special Hospital Team 3,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,194,Denison,13317,Special Hospital Team 3,ZZ,0,99,INFORMAL,,6
+TAS,194,Denison,13318,Special Hospital Team 4,A,22057,0,A Ticket Votes,Senator On-Line,4
+TAS,194,Denison,13318,Special Hospital Team 4,A,21856,1,"MURRAY, Julie",Senator On-Line,2
+TAS,194,Denison,13318,Special Hospital Team 4,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,13318,Special Hospital Team 4,B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,194,Denison,13318,Special Hospital Team 4,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,13318,Special Hospital Team 4,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,13318,Special Hospital Team 4,C,22052,0,C Ticket Votes,Liberal,75
+TAS,194,Denison,13318,Special Hospital Team 4,C,21538,1,"ABETZ, Eric",Liberal,3
+TAS,194,Denison,13318,Special Hospital Team 4,C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,194,Denison,13318,Special Hospital Team 4,C,21628,3,"BARNETT, Guy",Liberal,1
+TAS,194,Denison,13318,Special Hospital Team 4,D,22055,0,D Ticket Votes,Australian Labor Party,78
+TAS,194,Denison,13318,Special Hospital Team 4,D,21041,1,"POLLEY, Helen",Australian Labor Party,1
+TAS,194,Denison,13318,Special Hospital Team 4,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,194,Denison,13318,Special Hospital Team 4,D,21488,3,"SINGH, Lisa",Australian Labor Party,2
+TAS,194,Denison,13318,Special Hospital Team 4,E,22059,0,E Ticket Votes,Shooters and Fishers,1
+TAS,194,Denison,13318,Special Hospital Team 4,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,194,Denison,13318,Special Hospital Team 4,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,13318,Special Hospital Team 4,F,22051,0,F Ticket Votes,Australian Greens,14
+TAS,194,Denison,13318,Special Hospital Team 4,F,20801,1,"MILNE, Christine",Australian Greens,2
+TAS,194,Denison,13318,Special Hospital Team 4,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,194,Denison,13318,Special Hospital Team 4,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,194,Denison,13318,Special Hospital Team 4,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,13318,Special Hospital Team 4,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,13318,Special Hospital Team 4,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,13318,Special Hospital Team 4,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,13318,Special Hospital Team 4,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,13318,Special Hospital Team 4,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,13318,Special Hospital Team 4,I,22058,0,I Ticket Votes,Family First,4
+TAS,194,Denison,13318,Special Hospital Team 4,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,13318,Special Hospital Team 4,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,13318,Special Hospital Team 4,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,194,Denison,13318,Special Hospital Team 4,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,13318,Special Hospital Team 4,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,13318,Special Hospital Team 4,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,194,Denison,13318,Special Hospital Team 4,ZZ,0,99,INFORMAL,,2
+TAS,194,Denison,30185,Divisional Office (PREPOLL),A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),B,22053,0,B Ticket Votes,Australian Democrats,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),C,22052,0,C Ticket Votes,Liberal,2
+TAS,194,Denison,30185,Divisional Office (PREPOLL),C,21538,1,"ABETZ, Eric",Liberal,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),C,21628,3,"BARNETT, Guy",Liberal,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),D,22055,0,D Ticket Votes,Australian Labor Party,3
+TAS,194,Denison,30185,Divisional Office (PREPOLL),D,21041,1,"POLLEY, Helen",Australian Labor Party,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),D,21488,3,"SINGH, Lisa",Australian Labor Party,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),E,22059,0,E Ticket Votes,Shooters and Fishers,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),F,22051,0,F Ticket Votes,Australian Greens,3
+TAS,194,Denison,30185,Divisional Office (PREPOLL),F,20801,1,"MILNE, Christine",Australian Greens,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),I,22058,0,I Ticket Votes,Family First,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,194,Denison,30185,Divisional Office (PREPOLL),ZZ,0,99,INFORMAL,,0
+TAS,194,Denison,31107,Hobart DENISON PPVC,A,22057,0,A Ticket Votes,Senator On-Line,5
+TAS,194,Denison,31107,Hobart DENISON PPVC,A,21856,1,"MURRAY, Julie",Senator On-Line,3
+TAS,194,Denison,31107,Hobart DENISON PPVC,A,21858,2,"WIENER, Sven",Senator On-Line,1
+TAS,194,Denison,31107,Hobart DENISON PPVC,B,22053,0,B Ticket Votes,Australian Democrats,8
+TAS,194,Denison,31107,Hobart DENISON PPVC,B,21756,1,"HUTTON, Paulene",Australian Democrats,4
+TAS,194,Denison,31107,Hobart DENISON PPVC,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,194,Denison,31107,Hobart DENISON PPVC,C,22052,0,C Ticket Votes,Liberal,673
+TAS,194,Denison,31107,Hobart DENISON PPVC,C,21538,1,"ABETZ, Eric",Liberal,78
+TAS,194,Denison,31107,Hobart DENISON PPVC,C,21558,2,"PARRY, Stephen Shane",Liberal,24
+TAS,194,Denison,31107,Hobart DENISON PPVC,C,21628,3,"BARNETT, Guy",Liberal,78
+TAS,194,Denison,31107,Hobart DENISON PPVC,D,22055,0,D Ticket Votes,Australian Labor Party,612
+TAS,194,Denison,31107,Hobart DENISON PPVC,D,21041,1,"POLLEY, Helen",Australian Labor Party,50
+TAS,194,Denison,31107,Hobart DENISON PPVC,D,21459,2,"URQUHART, Anne",Australian Labor Party,10
+TAS,194,Denison,31107,Hobart DENISON PPVC,D,21488,3,"SINGH, Lisa",Australian Labor Party,153
+TAS,194,Denison,31107,Hobart DENISON PPVC,E,22059,0,E Ticket Votes,Shooters and Fishers,17
+TAS,194,Denison,31107,Hobart DENISON PPVC,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,3
+TAS,194,Denison,31107,Hobart DENISON PPVC,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,194,Denison,31107,Hobart DENISON PPVC,F,22051,0,F Ticket Votes,Australian Greens,529
+TAS,194,Denison,31107,Hobart DENISON PPVC,F,20801,1,"MILNE, Christine",Australian Greens,380
+TAS,194,Denison,31107,Hobart DENISON PPVC,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,14
+TAS,194,Denison,31107,Hobart DENISON PPVC,F,20805,3,"ANN, Penelope",Australian Greens,13
+TAS,194,Denison,31107,Hobart DENISON PPVC,G,22056,0,G Ticket Votes,Secular Party of Australia,5
+TAS,194,Denison,31107,Hobart DENISON PPVC,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,3
+TAS,194,Denison,31107,Hobart DENISON PPVC,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,31107,Hobart DENISON PPVC,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,7
+TAS,194,Denison,31107,Hobart DENISON PPVC,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,6
+TAS,194,Denison,31107,Hobart DENISON PPVC,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,31107,Hobart DENISON PPVC,I,22058,0,I Ticket Votes,Family First,11
+TAS,194,Denison,31107,Hobart DENISON PPVC,I,21916,1,"ZUBIC, Jim",Family First,2
+TAS,194,Denison,31107,Hobart DENISON PPVC,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,31107,Hobart DENISON PPVC,J,22054,0,J Ticket Votes,The Climate Sceptics,10
+TAS,194,Denison,31107,Hobart DENISON PPVC,J,21743,1,"WALLER, Frank",The Climate Sceptics,6
+TAS,194,Denison,31107,Hobart DENISON PPVC,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,31107,Hobart DENISON PPVC,UG,21964,1,"OTTAVI, Dino",Independent,20
+TAS,194,Denison,31107,Hobart DENISON PPVC,ZZ,0,99,INFORMAL,,45
+TAS,194,Denison,46852,Kingston (Denison),A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,194,Denison,46852,Kingston (Denison),A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,194,Denison,46852,Kingston (Denison),A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,46852,Kingston (Denison),B,22053,0,B Ticket Votes,Australian Democrats,6
+TAS,194,Denison,46852,Kingston (Denison),B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,194,Denison,46852,Kingston (Denison),B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,194,Denison,46852,Kingston (Denison),C,22052,0,C Ticket Votes,Liberal,179
+TAS,194,Denison,46852,Kingston (Denison),C,21538,1,"ABETZ, Eric",Liberal,28
+TAS,194,Denison,46852,Kingston (Denison),C,21558,2,"PARRY, Stephen Shane",Liberal,3
+TAS,194,Denison,46852,Kingston (Denison),C,21628,3,"BARNETT, Guy",Liberal,16
+TAS,194,Denison,46852,Kingston (Denison),D,22055,0,D Ticket Votes,Australian Labor Party,247
+TAS,194,Denison,46852,Kingston (Denison),D,21041,1,"POLLEY, Helen",Australian Labor Party,15
+TAS,194,Denison,46852,Kingston (Denison),D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,194,Denison,46852,Kingston (Denison),D,21488,3,"SINGH, Lisa",Australian Labor Party,26
+TAS,194,Denison,46852,Kingston (Denison),E,22059,0,E Ticket Votes,Shooters and Fishers,12
+TAS,194,Denison,46852,Kingston (Denison),E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,194,Denison,46852,Kingston (Denison),E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,2
+TAS,194,Denison,46852,Kingston (Denison),F,22051,0,F Ticket Votes,Australian Greens,163
+TAS,194,Denison,46852,Kingston (Denison),F,20801,1,"MILNE, Christine",Australian Greens,80
+TAS,194,Denison,46852,Kingston (Denison),F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,5
+TAS,194,Denison,46852,Kingston (Denison),F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,194,Denison,46852,Kingston (Denison),G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,46852,Kingston (Denison),G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,46852,Kingston (Denison),G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,46852,Kingston (Denison),H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,46852,Kingston (Denison),H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,46852,Kingston (Denison),H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,46852,Kingston (Denison),I,22058,0,I Ticket Votes,Family First,5
+TAS,194,Denison,46852,Kingston (Denison),I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,46852,Kingston (Denison),I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,194,Denison,46852,Kingston (Denison),J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,194,Denison,46852,Kingston (Denison),J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,46852,Kingston (Denison),J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,46852,Kingston (Denison),UG,21964,1,"OTTAVI, Dino",Independent,3
+TAS,194,Denison,46852,Kingston (Denison),ZZ,0,99,INFORMAL,,25
+TAS,194,Denison,46859,Sandfly (Denison),A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,194,Denison,46859,Sandfly (Denison),A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,46859,Sandfly (Denison),A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,46859,Sandfly (Denison),B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,194,Denison,46859,Sandfly (Denison),B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,46859,Sandfly (Denison),B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,46859,Sandfly (Denison),C,22052,0,C Ticket Votes,Liberal,52
+TAS,194,Denison,46859,Sandfly (Denison),C,21538,1,"ABETZ, Eric",Liberal,10
+TAS,194,Denison,46859,Sandfly (Denison),C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,194,Denison,46859,Sandfly (Denison),C,21628,3,"BARNETT, Guy",Liberal,3
+TAS,194,Denison,46859,Sandfly (Denison),D,22055,0,D Ticket Votes,Australian Labor Party,47
+TAS,194,Denison,46859,Sandfly (Denison),D,21041,1,"POLLEY, Helen",Australian Labor Party,5
+TAS,194,Denison,46859,Sandfly (Denison),D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,194,Denison,46859,Sandfly (Denison),D,21488,3,"SINGH, Lisa",Australian Labor Party,12
+TAS,194,Denison,46859,Sandfly (Denison),E,22059,0,E Ticket Votes,Shooters and Fishers,5
+TAS,194,Denison,46859,Sandfly (Denison),E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,194,Denison,46859,Sandfly (Denison),E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,2
+TAS,194,Denison,46859,Sandfly (Denison),F,22051,0,F Ticket Votes,Australian Greens,59
+TAS,194,Denison,46859,Sandfly (Denison),F,20801,1,"MILNE, Christine",Australian Greens,27
+TAS,194,Denison,46859,Sandfly (Denison),F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,1
+TAS,194,Denison,46859,Sandfly (Denison),F,20805,3,"ANN, Penelope",Australian Greens,1
+TAS,194,Denison,46859,Sandfly (Denison),G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,46859,Sandfly (Denison),G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,46859,Sandfly (Denison),G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,46859,Sandfly (Denison),H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,46859,Sandfly (Denison),H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,46859,Sandfly (Denison),H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,46859,Sandfly (Denison),I,22058,0,I Ticket Votes,Family First,0
+TAS,194,Denison,46859,Sandfly (Denison),I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,194,Denison,46859,Sandfly (Denison),I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,46859,Sandfly (Denison),J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,46859,Sandfly (Denison),J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,194,Denison,46859,Sandfly (Denison),J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,46859,Sandfly (Denison),UG,21964,1,"OTTAVI, Dino",Independent,2
+TAS,194,Denison,46859,Sandfly (Denison),ZZ,0,99,INFORMAL,,6
+TAS,194,Denison,58683,Rosny DENISON PPVC,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,B,22053,0,B Ticket Votes,Australian Democrats,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,C,22052,0,C Ticket Votes,Liberal,30
+TAS,194,Denison,58683,Rosny DENISON PPVC,C,21538,1,"ABETZ, Eric",Liberal,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,C,21628,3,"BARNETT, Guy",Liberal,1
+TAS,194,Denison,58683,Rosny DENISON PPVC,D,22055,0,D Ticket Votes,Australian Labor Party,30
+TAS,194,Denison,58683,Rosny DENISON PPVC,D,21041,1,"POLLEY, Helen",Australian Labor Party,3
+TAS,194,Denison,58683,Rosny DENISON PPVC,D,21459,2,"URQUHART, Anne",Australian Labor Party,5
+TAS,194,Denison,58683,Rosny DENISON PPVC,D,21488,3,"SINGH, Lisa",Australian Labor Party,6
+TAS,194,Denison,58683,Rosny DENISON PPVC,E,22059,0,E Ticket Votes,Shooters and Fishers,1
+TAS,194,Denison,58683,Rosny DENISON PPVC,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,F,22051,0,F Ticket Votes,Australian Greens,28
+TAS,194,Denison,58683,Rosny DENISON PPVC,F,20801,1,"MILNE, Christine",Australian Greens,7
+TAS,194,Denison,58683,Rosny DENISON PPVC,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,194,Denison,58683,Rosny DENISON PPVC,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,I,22058,0,I Ticket Votes,Family First,1
+TAS,194,Denison,58683,Rosny DENISON PPVC,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,194,Denison,58683,Rosny DENISON PPVC,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,58683,Rosny DENISON PPVC,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,194,Denison,58683,Rosny DENISON PPVC,ZZ,0,99,INFORMAL,,3
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,A,21856,1,"MURRAY, Julie",Senator On-Line,2
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,B,22053,0,B Ticket Votes,Australian Democrats,6
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,B,21756,1,"HUTTON, Paulene",Australian Democrats,4
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,C,22052,0,C Ticket Votes,Liberal,316
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,C,21538,1,"ABETZ, Eric",Liberal,56
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,C,21558,2,"PARRY, Stephen Shane",Liberal,4
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,C,21628,3,"BARNETT, Guy",Liberal,19
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,D,22055,0,D Ticket Votes,Australian Labor Party,686
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,D,21041,1,"POLLEY, Helen",Australian Labor Party,43
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,D,21459,2,"URQUHART, Anne",Australian Labor Party,8
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,D,21488,3,"SINGH, Lisa",Australian Labor Party,83
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,E,22059,0,E Ticket Votes,Shooters and Fishers,17
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,7
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,F,22051,0,F Ticket Votes,Australian Greens,146
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,F,20801,1,"MILNE, Christine",Australian Greens,57
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,1
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,F,20805,3,"ANN, Penelope",Australian Greens,2
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,9
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,2
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,I,22058,0,I Ticket Votes,Family First,15
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,J,22054,0,J Ticket Votes,The Climate Sceptics,3
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,UG,21964,1,"OTTAVI, Dino",Independent,8
+TAS,194,Denison,58685,Glenorchy DENISON PPVC,ZZ,0,99,INFORMAL,,53
+TAS,194,Denison,58686,Kingston DENISON PPVC,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,B,22053,0,B Ticket Votes,Australian Democrats,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,C,22052,0,C Ticket Votes,Liberal,34
+TAS,194,Denison,58686,Kingston DENISON PPVC,C,21538,1,"ABETZ, Eric",Liberal,6
+TAS,194,Denison,58686,Kingston DENISON PPVC,C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,C,21628,3,"BARNETT, Guy",Liberal,2
+TAS,194,Denison,58686,Kingston DENISON PPVC,D,22055,0,D Ticket Votes,Australian Labor Party,22
+TAS,194,Denison,58686,Kingston DENISON PPVC,D,21041,1,"POLLEY, Helen",Australian Labor Party,3
+TAS,194,Denison,58686,Kingston DENISON PPVC,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,D,21488,3,"SINGH, Lisa",Australian Labor Party,7
+TAS,194,Denison,58686,Kingston DENISON PPVC,E,22059,0,E Ticket Votes,Shooters and Fishers,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,194,Denison,58686,Kingston DENISON PPVC,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,F,22051,0,F Ticket Votes,Australian Greens,26
+TAS,194,Denison,58686,Kingston DENISON PPVC,F,20801,1,"MILNE, Christine",Australian Greens,7
+TAS,194,Denison,58686,Kingston DENISON PPVC,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,1
+TAS,194,Denison,58686,Kingston DENISON PPVC,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,2
+TAS,194,Denison,58686,Kingston DENISON PPVC,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,I,22058,0,I Ticket Votes,Family First,1
+TAS,194,Denison,58686,Kingston DENISON PPVC,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,194,Denison,58686,Kingston DENISON PPVC,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,194,Denison,58686,Kingston DENISON PPVC,ZZ,0,99,INFORMAL,,2

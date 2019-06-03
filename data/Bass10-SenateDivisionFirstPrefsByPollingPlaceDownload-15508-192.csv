@@ -1,0 +1,2032 @@
+2010 Federal Election Senate First Preferences By Polling Place for Division 192 [Event:15508 Phase:FinalResults Generated:2013-01-22T15:03:59 Cycle:109e02bb-5f15-4808-984f-b47255b191fb Created:2013-01-22T14:55:43 Environment:PROD Site:PARKES Server:NTR01 Version:6.0.10.10009]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlaceNm,Ticket,CandidateID,BallotPosition,CandidateDetails,PartyNm,OrdinaryVotes
+TAS,192,Bass,8288,Newnham,A,22057,0,A Ticket Votes,Senator On-Line,8
+TAS,192,Bass,8288,Newnham,A,21856,1,"MURRAY, Julie",Senator On-Line,6
+TAS,192,Bass,8288,Newnham,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8288,Newnham,B,22053,0,B Ticket Votes,Australian Democrats,3
+TAS,192,Bass,8288,Newnham,B,21756,1,"HUTTON, Paulene",Australian Democrats,6
+TAS,192,Bass,8288,Newnham,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,192,Bass,8288,Newnham,C,22052,0,C Ticket Votes,Liberal,550
+TAS,192,Bass,8288,Newnham,C,21538,1,"ABETZ, Eric",Liberal,39
+TAS,192,Bass,8288,Newnham,C,21558,2,"PARRY, Stephen Shane",Liberal,4
+TAS,192,Bass,8288,Newnham,C,21628,3,"BARNETT, Guy",Liberal,66
+TAS,192,Bass,8288,Newnham,D,22055,0,D Ticket Votes,Australian Labor Party,1294
+TAS,192,Bass,8288,Newnham,D,21041,1,"POLLEY, Helen",Australian Labor Party,111
+TAS,192,Bass,8288,Newnham,D,21459,2,"URQUHART, Anne",Australian Labor Party,10
+TAS,192,Bass,8288,Newnham,D,21488,3,"SINGH, Lisa",Australian Labor Party,21
+TAS,192,Bass,8288,Newnham,E,22059,0,E Ticket Votes,Shooters and Fishers,29
+TAS,192,Bass,8288,Newnham,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,5
+TAS,192,Bass,8288,Newnham,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,3
+TAS,192,Bass,8288,Newnham,F,22051,0,F Ticket Votes,Australian Greens,241
+TAS,192,Bass,8288,Newnham,F,20801,1,"MILNE, Christine",Australian Greens,73
+TAS,192,Bass,8288,Newnham,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,9
+TAS,192,Bass,8288,Newnham,F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,192,Bass,8288,Newnham,G,22056,0,G Ticket Votes,Secular Party of Australia,3
+TAS,192,Bass,8288,Newnham,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8288,Newnham,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8288,Newnham,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,15
+TAS,192,Bass,8288,Newnham,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,3
+TAS,192,Bass,8288,Newnham,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8288,Newnham,I,22058,0,I Ticket Votes,Family First,26
+TAS,192,Bass,8288,Newnham,I,21916,1,"ZUBIC, Jim",Family First,3
+TAS,192,Bass,8288,Newnham,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8288,Newnham,J,22054,0,J Ticket Votes,The Climate Sceptics,6
+TAS,192,Bass,8288,Newnham,J,21743,1,"WALLER, Frank",The Climate Sceptics,2
+TAS,192,Bass,8288,Newnham,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8288,Newnham,UG,21964,1,"OTTAVI, Dino",Independent,4
+TAS,192,Bass,8288,Newnham,ZZ,0,99,INFORMAL,,127
+TAS,192,Bass,8289,Blessington Upper,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,192,Bass,8289,Blessington Upper,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,192,Bass,8289,Blessington Upper,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8289,Blessington Upper,B,22053,0,B Ticket Votes,Australian Democrats,0
+TAS,192,Bass,8289,Blessington Upper,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8289,Blessington Upper,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8289,Blessington Upper,C,22052,0,C Ticket Votes,Liberal,25
+TAS,192,Bass,8289,Blessington Upper,C,21538,1,"ABETZ, Eric",Liberal,2
+TAS,192,Bass,8289,Blessington Upper,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,192,Bass,8289,Blessington Upper,C,21628,3,"BARNETT, Guy",Liberal,7
+TAS,192,Bass,8289,Blessington Upper,D,22055,0,D Ticket Votes,Australian Labor Party,29
+TAS,192,Bass,8289,Blessington Upper,D,21041,1,"POLLEY, Helen",Australian Labor Party,4
+TAS,192,Bass,8289,Blessington Upper,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,192,Bass,8289,Blessington Upper,D,21488,3,"SINGH, Lisa",Australian Labor Party,0
+TAS,192,Bass,8289,Blessington Upper,E,22059,0,E Ticket Votes,Shooters and Fishers,4
+TAS,192,Bass,8289,Blessington Upper,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,192,Bass,8289,Blessington Upper,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,8289,Blessington Upper,F,22051,0,F Ticket Votes,Australian Greens,16
+TAS,192,Bass,8289,Blessington Upper,F,20801,1,"MILNE, Christine",Australian Greens,2
+TAS,192,Bass,8289,Blessington Upper,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,192,Bass,8289,Blessington Upper,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8289,Blessington Upper,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,192,Bass,8289,Blessington Upper,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8289,Blessington Upper,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8289,Blessington Upper,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,8289,Blessington Upper,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8289,Blessington Upper,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8289,Blessington Upper,I,22058,0,I Ticket Votes,Family First,1
+TAS,192,Bass,8289,Blessington Upper,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,8289,Blessington Upper,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8289,Blessington Upper,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,8289,Blessington Upper,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8289,Blessington Upper,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8289,Blessington Upper,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,192,Bass,8289,Blessington Upper,ZZ,0,99,INFORMAL,,2
+TAS,192,Bass,8290,Branxholm,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,192,Bass,8290,Branxholm,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,192,Bass,8290,Branxholm,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8290,Branxholm,B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,192,Bass,8290,Branxholm,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8290,Branxholm,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8290,Branxholm,C,22052,0,C Ticket Votes,Liberal,62
+TAS,192,Bass,8290,Branxholm,C,21538,1,"ABETZ, Eric",Liberal,9
+TAS,192,Bass,8290,Branxholm,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,192,Bass,8290,Branxholm,C,21628,3,"BARNETT, Guy",Liberal,11
+TAS,192,Bass,8290,Branxholm,D,22055,0,D Ticket Votes,Australian Labor Party,62
+TAS,192,Bass,8290,Branxholm,D,21041,1,"POLLEY, Helen",Australian Labor Party,9
+TAS,192,Bass,8290,Branxholm,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,192,Bass,8290,Branxholm,D,21488,3,"SINGH, Lisa",Australian Labor Party,2
+TAS,192,Bass,8290,Branxholm,E,22059,0,E Ticket Votes,Shooters and Fishers,3
+TAS,192,Bass,8290,Branxholm,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,192,Bass,8290,Branxholm,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,8290,Branxholm,F,22051,0,F Ticket Votes,Australian Greens,14
+TAS,192,Bass,8290,Branxholm,F,20801,1,"MILNE, Christine",Australian Greens,14
+TAS,192,Bass,8290,Branxholm,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,1
+TAS,192,Bass,8290,Branxholm,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8290,Branxholm,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8290,Branxholm,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8290,Branxholm,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8290,Branxholm,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8290,Branxholm,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8290,Branxholm,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8290,Branxholm,I,22058,0,I Ticket Votes,Family First,4
+TAS,192,Bass,8290,Branxholm,I,21916,1,"ZUBIC, Jim",Family First,2
+TAS,192,Bass,8290,Branxholm,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8290,Branxholm,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,192,Bass,8290,Branxholm,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8290,Branxholm,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8290,Branxholm,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8290,Branxholm,ZZ,0,99,INFORMAL,,9
+TAS,192,Bass,8291,Bridport,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,192,Bass,8291,Bridport,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,192,Bass,8291,Bridport,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8291,Bridport,B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,192,Bass,8291,Bridport,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,192,Bass,8291,Bridport,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8291,Bridport,C,22052,0,C Ticket Votes,Liberal,400
+TAS,192,Bass,8291,Bridport,C,21538,1,"ABETZ, Eric",Liberal,35
+TAS,192,Bass,8291,Bridport,C,21558,2,"PARRY, Stephen Shane",Liberal,5
+TAS,192,Bass,8291,Bridport,C,21628,3,"BARNETT, Guy",Liberal,85
+TAS,192,Bass,8291,Bridport,D,22055,0,D Ticket Votes,Australian Labor Party,288
+TAS,192,Bass,8291,Bridport,D,21041,1,"POLLEY, Helen",Australian Labor Party,42
+TAS,192,Bass,8291,Bridport,D,21459,2,"URQUHART, Anne",Australian Labor Party,3
+TAS,192,Bass,8291,Bridport,D,21488,3,"SINGH, Lisa",Australian Labor Party,20
+TAS,192,Bass,8291,Bridport,E,22059,0,E Ticket Votes,Shooters and Fishers,20
+TAS,192,Bass,8291,Bridport,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,9
+TAS,192,Bass,8291,Bridport,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,192,Bass,8291,Bridport,F,22051,0,F Ticket Votes,Australian Greens,108
+TAS,192,Bass,8291,Bridport,F,20801,1,"MILNE, Christine",Australian Greens,32
+TAS,192,Bass,8291,Bridport,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,7
+TAS,192,Bass,8291,Bridport,F,20805,3,"ANN, Penelope",Australian Greens,1
+TAS,192,Bass,8291,Bridport,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,192,Bass,8291,Bridport,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8291,Bridport,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8291,Bridport,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,2
+TAS,192,Bass,8291,Bridport,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8291,Bridport,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8291,Bridport,I,22058,0,I Ticket Votes,Family First,7
+TAS,192,Bass,8291,Bridport,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,192,Bass,8291,Bridport,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8291,Bridport,J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,192,Bass,8291,Bridport,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8291,Bridport,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8291,Bridport,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,192,Bass,8291,Bridport,ZZ,0,99,INFORMAL,,45
+TAS,192,Bass,8293,West Launceston,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,192,Bass,8293,West Launceston,A,21856,1,"MURRAY, Julie",Senator On-Line,6
+TAS,192,Bass,8293,West Launceston,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8293,West Launceston,B,22053,0,B Ticket Votes,Australian Democrats,3
+TAS,192,Bass,8293,West Launceston,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,192,Bass,8293,West Launceston,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,192,Bass,8293,West Launceston,C,22052,0,C Ticket Votes,Liberal,452
+TAS,192,Bass,8293,West Launceston,C,21538,1,"ABETZ, Eric",Liberal,41
+TAS,192,Bass,8293,West Launceston,C,21558,2,"PARRY, Stephen Shane",Liberal,3
+TAS,192,Bass,8293,West Launceston,C,21628,3,"BARNETT, Guy",Liberal,88
+TAS,192,Bass,8293,West Launceston,D,22055,0,D Ticket Votes,Australian Labor Party,526
+TAS,192,Bass,8293,West Launceston,D,21041,1,"POLLEY, Helen",Australian Labor Party,78
+TAS,192,Bass,8293,West Launceston,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,192,Bass,8293,West Launceston,D,21488,3,"SINGH, Lisa",Australian Labor Party,27
+TAS,192,Bass,8293,West Launceston,E,22059,0,E Ticket Votes,Shooters and Fishers,14
+TAS,192,Bass,8293,West Launceston,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,192,Bass,8293,West Launceston,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,192,Bass,8293,West Launceston,F,22051,0,F Ticket Votes,Australian Greens,389
+TAS,192,Bass,8293,West Launceston,F,20801,1,"MILNE, Christine",Australian Greens,149
+TAS,192,Bass,8293,West Launceston,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,13
+TAS,192,Bass,8293,West Launceston,F,20805,3,"ANN, Penelope",Australian Greens,3
+TAS,192,Bass,8293,West Launceston,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,192,Bass,8293,West Launceston,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,2
+TAS,192,Bass,8293,West Launceston,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,2
+TAS,192,Bass,8293,West Launceston,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,7
+TAS,192,Bass,8293,West Launceston,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,8293,West Launceston,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8293,West Launceston,I,22058,0,I Ticket Votes,Family First,13
+TAS,192,Bass,8293,West Launceston,I,21916,1,"ZUBIC, Jim",Family First,4
+TAS,192,Bass,8293,West Launceston,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8293,West Launceston,J,22054,0,J Ticket Votes,The Climate Sceptics,6
+TAS,192,Bass,8293,West Launceston,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8293,West Launceston,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,1
+TAS,192,Bass,8293,West Launceston,UG,21964,1,"OTTAVI, Dino",Independent,5
+TAS,192,Bass,8293,West Launceston,ZZ,0,99,INFORMAL,,39
+TAS,192,Bass,8294,Sandhill,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,192,Bass,8294,Sandhill,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,192,Bass,8294,Sandhill,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8294,Sandhill,B,22053,0,B Ticket Votes,Australian Democrats,0
+TAS,192,Bass,8294,Sandhill,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8294,Sandhill,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8294,Sandhill,C,22052,0,C Ticket Votes,Liberal,92
+TAS,192,Bass,8294,Sandhill,C,21538,1,"ABETZ, Eric",Liberal,2
+TAS,192,Bass,8294,Sandhill,C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,192,Bass,8294,Sandhill,C,21628,3,"BARNETT, Guy",Liberal,19
+TAS,192,Bass,8294,Sandhill,D,22055,0,D Ticket Votes,Australian Labor Party,88
+TAS,192,Bass,8294,Sandhill,D,21041,1,"POLLEY, Helen",Australian Labor Party,11
+TAS,192,Bass,8294,Sandhill,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,192,Bass,8294,Sandhill,D,21488,3,"SINGH, Lisa",Australian Labor Party,3
+TAS,192,Bass,8294,Sandhill,E,22059,0,E Ticket Votes,Shooters and Fishers,1
+TAS,192,Bass,8294,Sandhill,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,192,Bass,8294,Sandhill,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,192,Bass,8294,Sandhill,F,22051,0,F Ticket Votes,Australian Greens,30
+TAS,192,Bass,8294,Sandhill,F,20801,1,"MILNE, Christine",Australian Greens,20
+TAS,192,Bass,8294,Sandhill,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,2
+TAS,192,Bass,8294,Sandhill,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8294,Sandhill,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,192,Bass,8294,Sandhill,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8294,Sandhill,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8294,Sandhill,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,8294,Sandhill,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8294,Sandhill,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8294,Sandhill,I,22058,0,I Ticket Votes,Family First,0
+TAS,192,Bass,8294,Sandhill,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,192,Bass,8294,Sandhill,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8294,Sandhill,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,8294,Sandhill,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8294,Sandhill,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8294,Sandhill,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8294,Sandhill,ZZ,0,99,INFORMAL,,9
+TAS,192,Bass,8295,Derby,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,192,Bass,8295,Derby,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,192,Bass,8295,Derby,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8295,Derby,B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,192,Bass,8295,Derby,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,192,Bass,8295,Derby,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8295,Derby,C,22052,0,C Ticket Votes,Liberal,31
+TAS,192,Bass,8295,Derby,C,21538,1,"ABETZ, Eric",Liberal,8
+TAS,192,Bass,8295,Derby,C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,192,Bass,8295,Derby,C,21628,3,"BARNETT, Guy",Liberal,3
+TAS,192,Bass,8295,Derby,D,22055,0,D Ticket Votes,Australian Labor Party,43
+TAS,192,Bass,8295,Derby,D,21041,1,"POLLEY, Helen",Australian Labor Party,9
+TAS,192,Bass,8295,Derby,D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,192,Bass,8295,Derby,D,21488,3,"SINGH, Lisa",Australian Labor Party,1
+TAS,192,Bass,8295,Derby,E,22059,0,E Ticket Votes,Shooters and Fishers,1
+TAS,192,Bass,8295,Derby,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,192,Bass,8295,Derby,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,8295,Derby,F,22051,0,F Ticket Votes,Australian Greens,28
+TAS,192,Bass,8295,Derby,F,20801,1,"MILNE, Christine",Australian Greens,8
+TAS,192,Bass,8295,Derby,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,1
+TAS,192,Bass,8295,Derby,F,20805,3,"ANN, Penelope",Australian Greens,1
+TAS,192,Bass,8295,Derby,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,192,Bass,8295,Derby,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8295,Derby,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8295,Derby,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,8295,Derby,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8295,Derby,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8295,Derby,I,22058,0,I Ticket Votes,Family First,0
+TAS,192,Bass,8295,Derby,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,8295,Derby,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8295,Derby,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,8295,Derby,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8295,Derby,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8295,Derby,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8295,Derby,ZZ,0,99,INFORMAL,,4
+TAS,192,Bass,8296,Dilston,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,192,Bass,8296,Dilston,A,21856,1,"MURRAY, Julie",Senator On-Line,2
+TAS,192,Bass,8296,Dilston,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8296,Dilston,B,22053,0,B Ticket Votes,Australian Democrats,6
+TAS,192,Bass,8296,Dilston,B,21756,1,"HUTTON, Paulene",Australian Democrats,2
+TAS,192,Bass,8296,Dilston,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8296,Dilston,C,22052,0,C Ticket Votes,Liberal,236
+TAS,192,Bass,8296,Dilston,C,21538,1,"ABETZ, Eric",Liberal,7
+TAS,192,Bass,8296,Dilston,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,192,Bass,8296,Dilston,C,21628,3,"BARNETT, Guy",Liberal,36
+TAS,192,Bass,8296,Dilston,D,22055,0,D Ticket Votes,Australian Labor Party,214
+TAS,192,Bass,8296,Dilston,D,21041,1,"POLLEY, Helen",Australian Labor Party,22
+TAS,192,Bass,8296,Dilston,D,21459,2,"URQUHART, Anne",Australian Labor Party,3
+TAS,192,Bass,8296,Dilston,D,21488,3,"SINGH, Lisa",Australian Labor Party,8
+TAS,192,Bass,8296,Dilston,E,22059,0,E Ticket Votes,Shooters and Fishers,13
+TAS,192,Bass,8296,Dilston,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,3
+TAS,192,Bass,8296,Dilston,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,192,Bass,8296,Dilston,F,22051,0,F Ticket Votes,Australian Greens,134
+TAS,192,Bass,8296,Dilston,F,20801,1,"MILNE, Christine",Australian Greens,36
+TAS,192,Bass,8296,Dilston,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,6
+TAS,192,Bass,8296,Dilston,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8296,Dilston,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8296,Dilston,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,192,Bass,8296,Dilston,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,192,Bass,8296,Dilston,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,8296,Dilston,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8296,Dilston,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8296,Dilston,I,22058,0,I Ticket Votes,Family First,5
+TAS,192,Bass,8296,Dilston,I,21916,1,"ZUBIC, Jim",Family First,3
+TAS,192,Bass,8296,Dilston,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,192,Bass,8296,Dilston,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,8296,Dilston,J,21743,1,"WALLER, Frank",The Climate Sceptics,2
+TAS,192,Bass,8296,Dilston,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8296,Dilston,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,192,Bass,8296,Dilston,ZZ,0,99,INFORMAL,,17
+TAS,192,Bass,8297,Elphin,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,192,Bass,8297,Elphin,A,21856,1,"MURRAY, Julie",Senator On-Line,2
+TAS,192,Bass,8297,Elphin,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8297,Elphin,B,22053,0,B Ticket Votes,Australian Democrats,4
+TAS,192,Bass,8297,Elphin,B,21756,1,"HUTTON, Paulene",Australian Democrats,2
+TAS,192,Bass,8297,Elphin,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,192,Bass,8297,Elphin,C,22052,0,C Ticket Votes,Liberal,281
+TAS,192,Bass,8297,Elphin,C,21538,1,"ABETZ, Eric",Liberal,9
+TAS,192,Bass,8297,Elphin,C,21558,2,"PARRY, Stephen Shane",Liberal,3
+TAS,192,Bass,8297,Elphin,C,21628,3,"BARNETT, Guy",Liberal,72
+TAS,192,Bass,8297,Elphin,D,22055,0,D Ticket Votes,Australian Labor Party,232
+TAS,192,Bass,8297,Elphin,D,21041,1,"POLLEY, Helen",Australian Labor Party,22
+TAS,192,Bass,8297,Elphin,D,21459,2,"URQUHART, Anne",Australian Labor Party,4
+TAS,192,Bass,8297,Elphin,D,21488,3,"SINGH, Lisa",Australian Labor Party,13
+TAS,192,Bass,8297,Elphin,E,22059,0,E Ticket Votes,Shooters and Fishers,5
+TAS,192,Bass,8297,Elphin,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,192,Bass,8297,Elphin,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,2
+TAS,192,Bass,8297,Elphin,F,22051,0,F Ticket Votes,Australian Greens,113
+TAS,192,Bass,8297,Elphin,F,20801,1,"MILNE, Christine",Australian Greens,43
+TAS,192,Bass,8297,Elphin,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,3
+TAS,192,Bass,8297,Elphin,F,20805,3,"ANN, Penelope",Australian Greens,1
+TAS,192,Bass,8297,Elphin,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,192,Bass,8297,Elphin,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8297,Elphin,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,192,Bass,8297,Elphin,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,3
+TAS,192,Bass,8297,Elphin,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,8297,Elphin,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8297,Elphin,I,22058,0,I Ticket Votes,Family First,5
+TAS,192,Bass,8297,Elphin,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,192,Bass,8297,Elphin,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8297,Elphin,J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,192,Bass,8297,Elphin,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8297,Elphin,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8297,Elphin,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8297,Elphin,ZZ,0,99,INFORMAL,,17
+TAS,192,Bass,8300,General Hospital,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,192,Bass,8300,General Hospital,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,192,Bass,8300,General Hospital,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8300,General Hospital,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,192,Bass,8300,General Hospital,B,21756,1,"HUTTON, Paulene",Australian Democrats,3
+TAS,192,Bass,8300,General Hospital,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8300,General Hospital,C,22052,0,C Ticket Votes,Liberal,179
+TAS,192,Bass,8300,General Hospital,C,21538,1,"ABETZ, Eric",Liberal,18
+TAS,192,Bass,8300,General Hospital,C,21558,2,"PARRY, Stephen Shane",Liberal,2
+TAS,192,Bass,8300,General Hospital,C,21628,3,"BARNETT, Guy",Liberal,33
+TAS,192,Bass,8300,General Hospital,D,22055,0,D Ticket Votes,Australian Labor Party,282
+TAS,192,Bass,8300,General Hospital,D,21041,1,"POLLEY, Helen",Australian Labor Party,26
+TAS,192,Bass,8300,General Hospital,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,192,Bass,8300,General Hospital,D,21488,3,"SINGH, Lisa",Australian Labor Party,8
+TAS,192,Bass,8300,General Hospital,E,22059,0,E Ticket Votes,Shooters and Fishers,9
+TAS,192,Bass,8300,General Hospital,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,192,Bass,8300,General Hospital,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,192,Bass,8300,General Hospital,F,22051,0,F Ticket Votes,Australian Greens,154
+TAS,192,Bass,8300,General Hospital,F,20801,1,"MILNE, Christine",Australian Greens,44
+TAS,192,Bass,8300,General Hospital,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,10
+TAS,192,Bass,8300,General Hospital,F,20805,3,"ANN, Penelope",Australian Greens,3
+TAS,192,Bass,8300,General Hospital,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,192,Bass,8300,General Hospital,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,192,Bass,8300,General Hospital,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,192,Bass,8300,General Hospital,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,2
+TAS,192,Bass,8300,General Hospital,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8300,General Hospital,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8300,General Hospital,I,22058,0,I Ticket Votes,Family First,3
+TAS,192,Bass,8300,General Hospital,I,21916,1,"ZUBIC, Jim",Family First,2
+TAS,192,Bass,8300,General Hospital,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8300,General Hospital,J,22054,0,J Ticket Votes,The Climate Sceptics,3
+TAS,192,Bass,8300,General Hospital,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8300,General Hospital,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8300,General Hospital,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8300,General Hospital,ZZ,0,99,INFORMAL,,23
+TAS,192,Bass,8301,George Town,A,22057,0,A Ticket Votes,Senator On-Line,5
+TAS,192,Bass,8301,George Town,A,21856,1,"MURRAY, Julie",Senator On-Line,4
+TAS,192,Bass,8301,George Town,A,21858,2,"WIENER, Sven",Senator On-Line,1
+TAS,192,Bass,8301,George Town,B,22053,0,B Ticket Votes,Australian Democrats,5
+TAS,192,Bass,8301,George Town,B,21756,1,"HUTTON, Paulene",Australian Democrats,2
+TAS,192,Bass,8301,George Town,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8301,George Town,C,22052,0,C Ticket Votes,Liberal,353
+TAS,192,Bass,8301,George Town,C,21538,1,"ABETZ, Eric",Liberal,24
+TAS,192,Bass,8301,George Town,C,21558,2,"PARRY, Stephen Shane",Liberal,5
+TAS,192,Bass,8301,George Town,C,21628,3,"BARNETT, Guy",Liberal,35
+TAS,192,Bass,8301,George Town,D,22055,0,D Ticket Votes,Australian Labor Party,785
+TAS,192,Bass,8301,George Town,D,21041,1,"POLLEY, Helen",Australian Labor Party,87
+TAS,192,Bass,8301,George Town,D,21459,2,"URQUHART, Anne",Australian Labor Party,3
+TAS,192,Bass,8301,George Town,D,21488,3,"SINGH, Lisa",Australian Labor Party,17
+TAS,192,Bass,8301,George Town,E,22059,0,E Ticket Votes,Shooters and Fishers,30
+TAS,192,Bass,8301,George Town,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,9
+TAS,192,Bass,8301,George Town,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,192,Bass,8301,George Town,F,22051,0,F Ticket Votes,Australian Greens,171
+TAS,192,Bass,8301,George Town,F,20801,1,"MILNE, Christine",Australian Greens,52
+TAS,192,Bass,8301,George Town,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,14
+TAS,192,Bass,8301,George Town,F,20805,3,"ANN, Penelope",Australian Greens,2
+TAS,192,Bass,8301,George Town,G,22056,0,G Ticket Votes,Secular Party of Australia,3
+TAS,192,Bass,8301,George Town,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8301,George Town,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,192,Bass,8301,George Town,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,9
+TAS,192,Bass,8301,George Town,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8301,George Town,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8301,George Town,I,22058,0,I Ticket Votes,Family First,23
+TAS,192,Bass,8301,George Town,I,21916,1,"ZUBIC, Jim",Family First,3
+TAS,192,Bass,8301,George Town,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,192,Bass,8301,George Town,J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,192,Bass,8301,George Town,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,192,Bass,8301,George Town,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8301,George Town,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8301,George Town,ZZ,0,99,INFORMAL,,81
+TAS,192,Bass,8302,George Town South,A,22057,0,A Ticket Votes,Senator On-Line,4
+TAS,192,Bass,8302,George Town South,A,21856,1,"MURRAY, Julie",Senator On-Line,3
+TAS,192,Bass,8302,George Town South,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8302,George Town South,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,192,Bass,8302,George Town South,B,21756,1,"HUTTON, Paulene",Australian Democrats,2
+TAS,192,Bass,8302,George Town South,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8302,George Town South,C,22052,0,C Ticket Votes,Liberal,204
+TAS,192,Bass,8302,George Town South,C,21538,1,"ABETZ, Eric",Liberal,16
+TAS,192,Bass,8302,George Town South,C,21558,2,"PARRY, Stephen Shane",Liberal,3
+TAS,192,Bass,8302,George Town South,C,21628,3,"BARNETT, Guy",Liberal,15
+TAS,192,Bass,8302,George Town South,D,22055,0,D Ticket Votes,Australian Labor Party,500
+TAS,192,Bass,8302,George Town South,D,21041,1,"POLLEY, Helen",Australian Labor Party,43
+TAS,192,Bass,8302,George Town South,D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,192,Bass,8302,George Town South,D,21488,3,"SINGH, Lisa",Australian Labor Party,6
+TAS,192,Bass,8302,George Town South,E,22059,0,E Ticket Votes,Shooters and Fishers,25
+TAS,192,Bass,8302,George Town South,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,3
+TAS,192,Bass,8302,George Town South,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,192,Bass,8302,George Town South,F,22051,0,F Ticket Votes,Australian Greens,96
+TAS,192,Bass,8302,George Town South,F,20801,1,"MILNE, Christine",Australian Greens,20
+TAS,192,Bass,8302,George Town South,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,3
+TAS,192,Bass,8302,George Town South,F,20805,3,"ANN, Penelope",Australian Greens,1
+TAS,192,Bass,8302,George Town South,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,192,Bass,8302,George Town South,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,192,Bass,8302,George Town South,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8302,George Town South,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,3
+TAS,192,Bass,8302,George Town South,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8302,George Town South,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8302,George Town South,I,22058,0,I Ticket Votes,Family First,10
+TAS,192,Bass,8302,George Town South,I,21916,1,"ZUBIC, Jim",Family First,3
+TAS,192,Bass,8302,George Town South,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8302,George Town South,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,8302,George Town South,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8302,George Town South,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8302,George Town South,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,192,Bass,8302,George Town South,ZZ,0,99,INFORMAL,,39
+TAS,192,Bass,8303,Gladstone,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,192,Bass,8303,Gladstone,A,21856,1,"MURRAY, Julie",Senator On-Line,3
+TAS,192,Bass,8303,Gladstone,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8303,Gladstone,B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,192,Bass,8303,Gladstone,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8303,Gladstone,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8303,Gladstone,C,22052,0,C Ticket Votes,Liberal,48
+TAS,192,Bass,8303,Gladstone,C,21538,1,"ABETZ, Eric",Liberal,5
+TAS,192,Bass,8303,Gladstone,C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,192,Bass,8303,Gladstone,C,21628,3,"BARNETT, Guy",Liberal,4
+TAS,192,Bass,8303,Gladstone,D,22055,0,D Ticket Votes,Australian Labor Party,50
+TAS,192,Bass,8303,Gladstone,D,21041,1,"POLLEY, Helen",Australian Labor Party,3
+TAS,192,Bass,8303,Gladstone,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,192,Bass,8303,Gladstone,D,21488,3,"SINGH, Lisa",Australian Labor Party,0
+TAS,192,Bass,8303,Gladstone,E,22059,0,E Ticket Votes,Shooters and Fishers,3
+TAS,192,Bass,8303,Gladstone,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,192,Bass,8303,Gladstone,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,8303,Gladstone,F,22051,0,F Ticket Votes,Australian Greens,17
+TAS,192,Bass,8303,Gladstone,F,20801,1,"MILNE, Christine",Australian Greens,1
+TAS,192,Bass,8303,Gladstone,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,192,Bass,8303,Gladstone,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8303,Gladstone,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8303,Gladstone,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8303,Gladstone,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8303,Gladstone,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,8303,Gladstone,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8303,Gladstone,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8303,Gladstone,I,22058,0,I Ticket Votes,Family First,1
+TAS,192,Bass,8303,Gladstone,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,8303,Gladstone,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8303,Gladstone,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,192,Bass,8303,Gladstone,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8303,Gladstone,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8303,Gladstone,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8303,Gladstone,ZZ,0,99,INFORMAL,,5
+TAS,192,Bass,8304,Hillwood,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,192,Bass,8304,Hillwood,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,192,Bass,8304,Hillwood,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8304,Hillwood,B,22053,0,B Ticket Votes,Australian Democrats,3
+TAS,192,Bass,8304,Hillwood,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8304,Hillwood,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8304,Hillwood,C,22052,0,C Ticket Votes,Liberal,115
+TAS,192,Bass,8304,Hillwood,C,21538,1,"ABETZ, Eric",Liberal,5
+TAS,192,Bass,8304,Hillwood,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,192,Bass,8304,Hillwood,C,21628,3,"BARNETT, Guy",Liberal,10
+TAS,192,Bass,8304,Hillwood,D,22055,0,D Ticket Votes,Australian Labor Party,130
+TAS,192,Bass,8304,Hillwood,D,21041,1,"POLLEY, Helen",Australian Labor Party,4
+TAS,192,Bass,8304,Hillwood,D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,192,Bass,8304,Hillwood,D,21488,3,"SINGH, Lisa",Australian Labor Party,1
+TAS,192,Bass,8304,Hillwood,E,22059,0,E Ticket Votes,Shooters and Fishers,3
+TAS,192,Bass,8304,Hillwood,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,192,Bass,8304,Hillwood,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,8304,Hillwood,F,22051,0,F Ticket Votes,Australian Greens,77
+TAS,192,Bass,8304,Hillwood,F,20801,1,"MILNE, Christine",Australian Greens,27
+TAS,192,Bass,8304,Hillwood,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,6
+TAS,192,Bass,8304,Hillwood,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8304,Hillwood,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8304,Hillwood,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8304,Hillwood,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8304,Hillwood,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,8304,Hillwood,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8304,Hillwood,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8304,Hillwood,I,22058,0,I Ticket Votes,Family First,1
+TAS,192,Bass,8304,Hillwood,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,8304,Hillwood,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,2
+TAS,192,Bass,8304,Hillwood,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,8304,Hillwood,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8304,Hillwood,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8304,Hillwood,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8304,Hillwood,ZZ,0,99,INFORMAL,,11
+TAS,192,Bass,8305,Inveresk,A,22057,0,A Ticket Votes,Senator On-Line,5
+TAS,192,Bass,8305,Inveresk,A,21856,1,"MURRAY, Julie",Senator On-Line,4
+TAS,192,Bass,8305,Inveresk,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8305,Inveresk,B,22053,0,B Ticket Votes,Australian Democrats,4
+TAS,192,Bass,8305,Inveresk,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8305,Inveresk,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,192,Bass,8305,Inveresk,C,22052,0,C Ticket Votes,Liberal,228
+TAS,192,Bass,8305,Inveresk,C,21538,1,"ABETZ, Eric",Liberal,19
+TAS,192,Bass,8305,Inveresk,C,21558,2,"PARRY, Stephen Shane",Liberal,6
+TAS,192,Bass,8305,Inveresk,C,21628,3,"BARNETT, Guy",Liberal,19
+TAS,192,Bass,8305,Inveresk,D,22055,0,D Ticket Votes,Australian Labor Party,466
+TAS,192,Bass,8305,Inveresk,D,21041,1,"POLLEY, Helen",Australian Labor Party,42
+TAS,192,Bass,8305,Inveresk,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,192,Bass,8305,Inveresk,D,21488,3,"SINGH, Lisa",Australian Labor Party,21
+TAS,192,Bass,8305,Inveresk,E,22059,0,E Ticket Votes,Shooters and Fishers,15
+TAS,192,Bass,8305,Inveresk,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,3
+TAS,192,Bass,8305,Inveresk,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,4
+TAS,192,Bass,8305,Inveresk,F,22051,0,F Ticket Votes,Australian Greens,166
+TAS,192,Bass,8305,Inveresk,F,20801,1,"MILNE, Christine",Australian Greens,52
+TAS,192,Bass,8305,Inveresk,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,9
+TAS,192,Bass,8305,Inveresk,F,20805,3,"ANN, Penelope",Australian Greens,3
+TAS,192,Bass,8305,Inveresk,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8305,Inveresk,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8305,Inveresk,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8305,Inveresk,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,4
+TAS,192,Bass,8305,Inveresk,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8305,Inveresk,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8305,Inveresk,I,22058,0,I Ticket Votes,Family First,11
+TAS,192,Bass,8305,Inveresk,I,21916,1,"ZUBIC, Jim",Family First,3
+TAS,192,Bass,8305,Inveresk,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8305,Inveresk,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,192,Bass,8305,Inveresk,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,192,Bass,8305,Inveresk,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,2
+TAS,192,Bass,8305,Inveresk,UG,21964,1,"OTTAVI, Dino",Independent,2
+TAS,192,Bass,8305,Inveresk,ZZ,0,99,INFORMAL,,79
+TAS,192,Bass,8306,Invermay,A,22057,0,A Ticket Votes,Senator On-Line,4
+TAS,192,Bass,8306,Invermay,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,192,Bass,8306,Invermay,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8306,Invermay,B,22053,0,B Ticket Votes,Australian Democrats,8
+TAS,192,Bass,8306,Invermay,B,21756,1,"HUTTON, Paulene",Australian Democrats,3
+TAS,192,Bass,8306,Invermay,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,192,Bass,8306,Invermay,C,22052,0,C Ticket Votes,Liberal,287
+TAS,192,Bass,8306,Invermay,C,21538,1,"ABETZ, Eric",Liberal,17
+TAS,192,Bass,8306,Invermay,C,21558,2,"PARRY, Stephen Shane",Liberal,4
+TAS,192,Bass,8306,Invermay,C,21628,3,"BARNETT, Guy",Liberal,25
+TAS,192,Bass,8306,Invermay,D,22055,0,D Ticket Votes,Australian Labor Party,491
+TAS,192,Bass,8306,Invermay,D,21041,1,"POLLEY, Helen",Australian Labor Party,54
+TAS,192,Bass,8306,Invermay,D,21459,2,"URQUHART, Anne",Australian Labor Party,3
+TAS,192,Bass,8306,Invermay,D,21488,3,"SINGH, Lisa",Australian Labor Party,21
+TAS,192,Bass,8306,Invermay,E,22059,0,E Ticket Votes,Shooters and Fishers,25
+TAS,192,Bass,8306,Invermay,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,192,Bass,8306,Invermay,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,3
+TAS,192,Bass,8306,Invermay,F,22051,0,F Ticket Votes,Australian Greens,229
+TAS,192,Bass,8306,Invermay,F,20801,1,"MILNE, Christine",Australian Greens,65
+TAS,192,Bass,8306,Invermay,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,10
+TAS,192,Bass,8306,Invermay,F,20805,3,"ANN, Penelope",Australian Greens,1
+TAS,192,Bass,8306,Invermay,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8306,Invermay,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8306,Invermay,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,192,Bass,8306,Invermay,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,7
+TAS,192,Bass,8306,Invermay,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8306,Invermay,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8306,Invermay,I,22058,0,I Ticket Votes,Family First,13
+TAS,192,Bass,8306,Invermay,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,192,Bass,8306,Invermay,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8306,Invermay,J,22054,0,J Ticket Votes,The Climate Sceptics,4
+TAS,192,Bass,8306,Invermay,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,192,Bass,8306,Invermay,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8306,Invermay,UG,21964,1,"OTTAVI, Dino",Independent,3
+TAS,192,Bass,8306,Invermay,ZZ,0,99,INFORMAL,,65
+TAS,192,Bass,8308,Karoola,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,192,Bass,8308,Karoola,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,192,Bass,8308,Karoola,A,21858,2,"WIENER, Sven",Senator On-Line,1
+TAS,192,Bass,8308,Karoola,B,22053,0,B Ticket Votes,Australian Democrats,0
+TAS,192,Bass,8308,Karoola,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,192,Bass,8308,Karoola,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8308,Karoola,C,22052,0,C Ticket Votes,Liberal,71
+TAS,192,Bass,8308,Karoola,C,21538,1,"ABETZ, Eric",Liberal,3
+TAS,192,Bass,8308,Karoola,C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,192,Bass,8308,Karoola,C,21628,3,"BARNETT, Guy",Liberal,7
+TAS,192,Bass,8308,Karoola,D,22055,0,D Ticket Votes,Australian Labor Party,106
+TAS,192,Bass,8308,Karoola,D,21041,1,"POLLEY, Helen",Australian Labor Party,14
+TAS,192,Bass,8308,Karoola,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,192,Bass,8308,Karoola,D,21488,3,"SINGH, Lisa",Australian Labor Party,2
+TAS,192,Bass,8308,Karoola,E,22059,0,E Ticket Votes,Shooters and Fishers,4
+TAS,192,Bass,8308,Karoola,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,192,Bass,8308,Karoola,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,3
+TAS,192,Bass,8308,Karoola,F,22051,0,F Ticket Votes,Australian Greens,36
+TAS,192,Bass,8308,Karoola,F,20801,1,"MILNE, Christine",Australian Greens,11
+TAS,192,Bass,8308,Karoola,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,3
+TAS,192,Bass,8308,Karoola,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8308,Karoola,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8308,Karoola,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8308,Karoola,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8308,Karoola,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8308,Karoola,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8308,Karoola,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8308,Karoola,I,22058,0,I Ticket Votes,Family First,3
+TAS,192,Bass,8308,Karoola,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,8308,Karoola,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8308,Karoola,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,192,Bass,8308,Karoola,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8308,Karoola,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8308,Karoola,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8308,Karoola,ZZ,0,99,INFORMAL,,10
+TAS,192,Bass,8309,Kings Meadows,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,192,Bass,8309,Kings Meadows,A,21856,1,"MURRAY, Julie",Senator On-Line,9
+TAS,192,Bass,8309,Kings Meadows,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8309,Kings Meadows,B,22053,0,B Ticket Votes,Australian Democrats,8
+TAS,192,Bass,8309,Kings Meadows,B,21756,1,"HUTTON, Paulene",Australian Democrats,2
+TAS,192,Bass,8309,Kings Meadows,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8309,Kings Meadows,C,22052,0,C Ticket Votes,Liberal,631
+TAS,192,Bass,8309,Kings Meadows,C,21538,1,"ABETZ, Eric",Liberal,37
+TAS,192,Bass,8309,Kings Meadows,C,21558,2,"PARRY, Stephen Shane",Liberal,7
+TAS,192,Bass,8309,Kings Meadows,C,21628,3,"BARNETT, Guy",Liberal,97
+TAS,192,Bass,8309,Kings Meadows,D,22055,0,D Ticket Votes,Australian Labor Party,891
+TAS,192,Bass,8309,Kings Meadows,D,21041,1,"POLLEY, Helen",Australian Labor Party,122
+TAS,192,Bass,8309,Kings Meadows,D,21459,2,"URQUHART, Anne",Australian Labor Party,12
+TAS,192,Bass,8309,Kings Meadows,D,21488,3,"SINGH, Lisa",Australian Labor Party,26
+TAS,192,Bass,8309,Kings Meadows,E,22059,0,E Ticket Votes,Shooters and Fishers,19
+TAS,192,Bass,8309,Kings Meadows,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,10
+TAS,192,Bass,8309,Kings Meadows,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,2
+TAS,192,Bass,8309,Kings Meadows,F,22051,0,F Ticket Votes,Australian Greens,252
+TAS,192,Bass,8309,Kings Meadows,F,20801,1,"MILNE, Christine",Australian Greens,67
+TAS,192,Bass,8309,Kings Meadows,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,11
+TAS,192,Bass,8309,Kings Meadows,F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,192,Bass,8309,Kings Meadows,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8309,Kings Meadows,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,192,Bass,8309,Kings Meadows,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8309,Kings Meadows,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,6
+TAS,192,Bass,8309,Kings Meadows,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,3
+TAS,192,Bass,8309,Kings Meadows,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8309,Kings Meadows,I,22058,0,I Ticket Votes,Family First,24
+TAS,192,Bass,8309,Kings Meadows,I,21916,1,"ZUBIC, Jim",Family First,6
+TAS,192,Bass,8309,Kings Meadows,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,192,Bass,8309,Kings Meadows,J,22054,0,J Ticket Votes,The Climate Sceptics,6
+TAS,192,Bass,8309,Kings Meadows,J,21743,1,"WALLER, Frank",The Climate Sceptics,2
+TAS,192,Bass,8309,Kings Meadows,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8309,Kings Meadows,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,192,Bass,8309,Kings Meadows,ZZ,0,99,INFORMAL,,106
+TAS,192,Bass,8310,Lady Barron,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,192,Bass,8310,Lady Barron,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,192,Bass,8310,Lady Barron,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8310,Lady Barron,B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,192,Bass,8310,Lady Barron,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8310,Lady Barron,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8310,Lady Barron,C,22052,0,C Ticket Votes,Liberal,33
+TAS,192,Bass,8310,Lady Barron,C,21538,1,"ABETZ, Eric",Liberal,9
+TAS,192,Bass,8310,Lady Barron,C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,192,Bass,8310,Lady Barron,C,21628,3,"BARNETT, Guy",Liberal,10
+TAS,192,Bass,8310,Lady Barron,D,22055,0,D Ticket Votes,Australian Labor Party,27
+TAS,192,Bass,8310,Lady Barron,D,21041,1,"POLLEY, Helen",Australian Labor Party,5
+TAS,192,Bass,8310,Lady Barron,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,192,Bass,8310,Lady Barron,D,21488,3,"SINGH, Lisa",Australian Labor Party,0
+TAS,192,Bass,8310,Lady Barron,E,22059,0,E Ticket Votes,Shooters and Fishers,8
+TAS,192,Bass,8310,Lady Barron,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,192,Bass,8310,Lady Barron,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,8310,Lady Barron,F,22051,0,F Ticket Votes,Australian Greens,26
+TAS,192,Bass,8310,Lady Barron,F,20801,1,"MILNE, Christine",Australian Greens,5
+TAS,192,Bass,8310,Lady Barron,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,1
+TAS,192,Bass,8310,Lady Barron,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8310,Lady Barron,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8310,Lady Barron,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8310,Lady Barron,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8310,Lady Barron,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8310,Lady Barron,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8310,Lady Barron,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8310,Lady Barron,I,22058,0,I Ticket Votes,Family First,2
+TAS,192,Bass,8310,Lady Barron,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,8310,Lady Barron,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8310,Lady Barron,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,8310,Lady Barron,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8310,Lady Barron,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8310,Lady Barron,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8310,Lady Barron,ZZ,0,99,INFORMAL,,3
+TAS,192,Bass,8311,Launceston,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,192,Bass,8311,Launceston,A,21856,1,"MURRAY, Julie",Senator On-Line,2
+TAS,192,Bass,8311,Launceston,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8311,Launceston,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,192,Bass,8311,Launceston,B,21756,1,"HUTTON, Paulene",Australian Democrats,3
+TAS,192,Bass,8311,Launceston,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,192,Bass,8311,Launceston,C,22052,0,C Ticket Votes,Liberal,272
+TAS,192,Bass,8311,Launceston,C,21538,1,"ABETZ, Eric",Liberal,31
+TAS,192,Bass,8311,Launceston,C,21558,2,"PARRY, Stephen Shane",Liberal,5
+TAS,192,Bass,8311,Launceston,C,21628,3,"BARNETT, Guy",Liberal,62
+TAS,192,Bass,8311,Launceston,D,22055,0,D Ticket Votes,Australian Labor Party,292
+TAS,192,Bass,8311,Launceston,D,21041,1,"POLLEY, Helen",Australian Labor Party,45
+TAS,192,Bass,8311,Launceston,D,21459,2,"URQUHART, Anne",Australian Labor Party,3
+TAS,192,Bass,8311,Launceston,D,21488,3,"SINGH, Lisa",Australian Labor Party,23
+TAS,192,Bass,8311,Launceston,E,22059,0,E Ticket Votes,Shooters and Fishers,17
+TAS,192,Bass,8311,Launceston,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,192,Bass,8311,Launceston,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,8311,Launceston,F,22051,0,F Ticket Votes,Australian Greens,266
+TAS,192,Bass,8311,Launceston,F,20801,1,"MILNE, Christine",Australian Greens,100
+TAS,192,Bass,8311,Launceston,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,13
+TAS,192,Bass,8311,Launceston,F,20805,3,"ANN, Penelope",Australian Greens,1
+TAS,192,Bass,8311,Launceston,G,22056,0,G Ticket Votes,Secular Party of Australia,6
+TAS,192,Bass,8311,Launceston,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,192,Bass,8311,Launceston,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8311,Launceston,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,6
+TAS,192,Bass,8311,Launceston,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8311,Launceston,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8311,Launceston,I,22058,0,I Ticket Votes,Family First,7
+TAS,192,Bass,8311,Launceston,I,21916,1,"ZUBIC, Jim",Family First,4
+TAS,192,Bass,8311,Launceston,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,192,Bass,8311,Launceston,J,22054,0,J Ticket Votes,The Climate Sceptics,4
+TAS,192,Bass,8311,Launceston,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8311,Launceston,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8311,Launceston,UG,21964,1,"OTTAVI, Dino",Independent,3
+TAS,192,Bass,8311,Launceston,ZZ,0,99,INFORMAL,,37
+TAS,192,Bass,8312,Launceston Central,A,22057,0,A Ticket Votes,Senator On-Line,3
+TAS,192,Bass,8312,Launceston Central,A,21856,1,"MURRAY, Julie",Senator On-Line,2
+TAS,192,Bass,8312,Launceston Central,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8312,Launceston Central,B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,192,Bass,8312,Launceston Central,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8312,Launceston Central,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8312,Launceston Central,C,22052,0,C Ticket Votes,Liberal,170
+TAS,192,Bass,8312,Launceston Central,C,21538,1,"ABETZ, Eric",Liberal,13
+TAS,192,Bass,8312,Launceston Central,C,21558,2,"PARRY, Stephen Shane",Liberal,2
+TAS,192,Bass,8312,Launceston Central,C,21628,3,"BARNETT, Guy",Liberal,33
+TAS,192,Bass,8312,Launceston Central,D,22055,0,D Ticket Votes,Australian Labor Party,176
+TAS,192,Bass,8312,Launceston Central,D,21041,1,"POLLEY, Helen",Australian Labor Party,23
+TAS,192,Bass,8312,Launceston Central,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,192,Bass,8312,Launceston Central,D,21488,3,"SINGH, Lisa",Australian Labor Party,8
+TAS,192,Bass,8312,Launceston Central,E,22059,0,E Ticket Votes,Shooters and Fishers,5
+TAS,192,Bass,8312,Launceston Central,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,192,Bass,8312,Launceston Central,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,8312,Launceston Central,F,22051,0,F Ticket Votes,Australian Greens,131
+TAS,192,Bass,8312,Launceston Central,F,20801,1,"MILNE, Christine",Australian Greens,47
+TAS,192,Bass,8312,Launceston Central,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,11
+TAS,192,Bass,8312,Launceston Central,F,20805,3,"ANN, Penelope",Australian Greens,1
+TAS,192,Bass,8312,Launceston Central,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8312,Launceston Central,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8312,Launceston Central,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,2
+TAS,192,Bass,8312,Launceston Central,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,4
+TAS,192,Bass,8312,Launceston Central,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,8312,Launceston Central,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8312,Launceston Central,I,22058,0,I Ticket Votes,Family First,6
+TAS,192,Bass,8312,Launceston Central,I,21916,1,"ZUBIC, Jim",Family First,4
+TAS,192,Bass,8312,Launceston Central,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,192,Bass,8312,Launceston Central,J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,192,Bass,8312,Launceston Central,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,192,Bass,8312,Launceston Central,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8312,Launceston Central,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,192,Bass,8312,Launceston Central,ZZ,0,99,INFORMAL,,14
+TAS,192,Bass,8313,East Launceston,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,192,Bass,8313,East Launceston,A,21856,1,"MURRAY, Julie",Senator On-Line,2
+TAS,192,Bass,8313,East Launceston,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8313,East Launceston,B,22053,0,B Ticket Votes,Australian Democrats,5
+TAS,192,Bass,8313,East Launceston,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8313,East Launceston,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,192,Bass,8313,East Launceston,C,22052,0,C Ticket Votes,Liberal,282
+TAS,192,Bass,8313,East Launceston,C,21538,1,"ABETZ, Eric",Liberal,22
+TAS,192,Bass,8313,East Launceston,C,21558,2,"PARRY, Stephen Shane",Liberal,7
+TAS,192,Bass,8313,East Launceston,C,21628,3,"BARNETT, Guy",Liberal,72
+TAS,192,Bass,8313,East Launceston,D,22055,0,D Ticket Votes,Australian Labor Party,204
+TAS,192,Bass,8313,East Launceston,D,21041,1,"POLLEY, Helen",Australian Labor Party,40
+TAS,192,Bass,8313,East Launceston,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,192,Bass,8313,East Launceston,D,21488,3,"SINGH, Lisa",Australian Labor Party,18
+TAS,192,Bass,8313,East Launceston,E,22059,0,E Ticket Votes,Shooters and Fishers,6
+TAS,192,Bass,8313,East Launceston,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,192,Bass,8313,East Launceston,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,5
+TAS,192,Bass,8313,East Launceston,F,22051,0,F Ticket Votes,Australian Greens,157
+TAS,192,Bass,8313,East Launceston,F,20801,1,"MILNE, Christine",Australian Greens,78
+TAS,192,Bass,8313,East Launceston,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,7
+TAS,192,Bass,8313,East Launceston,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8313,East Launceston,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8313,East Launceston,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8313,East Launceston,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,192,Bass,8313,East Launceston,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,2
+TAS,192,Bass,8313,East Launceston,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8313,East Launceston,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8313,East Launceston,I,22058,0,I Ticket Votes,Family First,3
+TAS,192,Bass,8313,East Launceston,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,192,Bass,8313,East Launceston,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8313,East Launceston,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,8313,East Launceston,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8313,East Launceston,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8313,East Launceston,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,192,Bass,8313,East Launceston,ZZ,0,99,INFORMAL,,10
+TAS,192,Bass,8314,Five Ways,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,192,Bass,8314,Five Ways,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,192,Bass,8314,Five Ways,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8314,Five Ways,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,192,Bass,8314,Five Ways,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8314,Five Ways,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8314,Five Ways,C,22052,0,C Ticket Votes,Liberal,297
+TAS,192,Bass,8314,Five Ways,C,21538,1,"ABETZ, Eric",Liberal,22
+TAS,192,Bass,8314,Five Ways,C,21558,2,"PARRY, Stephen Shane",Liberal,5
+TAS,192,Bass,8314,Five Ways,C,21628,3,"BARNETT, Guy",Liberal,53
+TAS,192,Bass,8314,Five Ways,D,22055,0,D Ticket Votes,Australian Labor Party,378
+TAS,192,Bass,8314,Five Ways,D,21041,1,"POLLEY, Helen",Australian Labor Party,60
+TAS,192,Bass,8314,Five Ways,D,21459,2,"URQUHART, Anne",Australian Labor Party,7
+TAS,192,Bass,8314,Five Ways,D,21488,3,"SINGH, Lisa",Australian Labor Party,14
+TAS,192,Bass,8314,Five Ways,E,22059,0,E Ticket Votes,Shooters and Fishers,11
+TAS,192,Bass,8314,Five Ways,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,4
+TAS,192,Bass,8314,Five Ways,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,192,Bass,8314,Five Ways,F,22051,0,F Ticket Votes,Australian Greens,161
+TAS,192,Bass,8314,Five Ways,F,20801,1,"MILNE, Christine",Australian Greens,51
+TAS,192,Bass,8314,Five Ways,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,8
+TAS,192,Bass,8314,Five Ways,F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,192,Bass,8314,Five Ways,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8314,Five Ways,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8314,Five Ways,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8314,Five Ways,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,5
+TAS,192,Bass,8314,Five Ways,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8314,Five Ways,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8314,Five Ways,I,22058,0,I Ticket Votes,Family First,15
+TAS,192,Bass,8314,Five Ways,I,21916,1,"ZUBIC, Jim",Family First,2
+TAS,192,Bass,8314,Five Ways,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8314,Five Ways,J,22054,0,J Ticket Votes,The Climate Sceptics,7
+TAS,192,Bass,8314,Five Ways,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8314,Five Ways,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,1
+TAS,192,Bass,8314,Five Ways,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,192,Bass,8314,Five Ways,ZZ,0,99,INFORMAL,,48
+TAS,192,Bass,8316,Lebrina,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,192,Bass,8316,Lebrina,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,192,Bass,8316,Lebrina,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8316,Lebrina,B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,192,Bass,8316,Lebrina,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8316,Lebrina,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8316,Lebrina,C,22052,0,C Ticket Votes,Liberal,62
+TAS,192,Bass,8316,Lebrina,C,21538,1,"ABETZ, Eric",Liberal,6
+TAS,192,Bass,8316,Lebrina,C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,192,Bass,8316,Lebrina,C,21628,3,"BARNETT, Guy",Liberal,7
+TAS,192,Bass,8316,Lebrina,D,22055,0,D Ticket Votes,Australian Labor Party,65
+TAS,192,Bass,8316,Lebrina,D,21041,1,"POLLEY, Helen",Australian Labor Party,10
+TAS,192,Bass,8316,Lebrina,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,192,Bass,8316,Lebrina,D,21488,3,"SINGH, Lisa",Australian Labor Party,4
+TAS,192,Bass,8316,Lebrina,E,22059,0,E Ticket Votes,Shooters and Fishers,4
+TAS,192,Bass,8316,Lebrina,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,4
+TAS,192,Bass,8316,Lebrina,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,2
+TAS,192,Bass,8316,Lebrina,F,22051,0,F Ticket Votes,Australian Greens,43
+TAS,192,Bass,8316,Lebrina,F,20801,1,"MILNE, Christine",Australian Greens,9
+TAS,192,Bass,8316,Lebrina,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,3
+TAS,192,Bass,8316,Lebrina,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8316,Lebrina,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8316,Lebrina,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8316,Lebrina,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8316,Lebrina,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8316,Lebrina,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8316,Lebrina,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8316,Lebrina,I,22058,0,I Ticket Votes,Family First,2
+TAS,192,Bass,8316,Lebrina,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,8316,Lebrina,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8316,Lebrina,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,8316,Lebrina,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8316,Lebrina,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8316,Lebrina,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8316,Lebrina,ZZ,0,99,INFORMAL,,7
+TAS,192,Bass,8319,Lilydale,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,192,Bass,8319,Lilydale,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,192,Bass,8319,Lilydale,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8319,Lilydale,B,22053,0,B Ticket Votes,Australian Democrats,4
+TAS,192,Bass,8319,Lilydale,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8319,Lilydale,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8319,Lilydale,C,22052,0,C Ticket Votes,Liberal,163
+TAS,192,Bass,8319,Lilydale,C,21538,1,"ABETZ, Eric",Liberal,14
+TAS,192,Bass,8319,Lilydale,C,21558,2,"PARRY, Stephen Shane",Liberal,3
+TAS,192,Bass,8319,Lilydale,C,21628,3,"BARNETT, Guy",Liberal,30
+TAS,192,Bass,8319,Lilydale,D,22055,0,D Ticket Votes,Australian Labor Party,198
+TAS,192,Bass,8319,Lilydale,D,21041,1,"POLLEY, Helen",Australian Labor Party,33
+TAS,192,Bass,8319,Lilydale,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,192,Bass,8319,Lilydale,D,21488,3,"SINGH, Lisa",Australian Labor Party,11
+TAS,192,Bass,8319,Lilydale,E,22059,0,E Ticket Votes,Shooters and Fishers,14
+TAS,192,Bass,8319,Lilydale,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,3
+TAS,192,Bass,8319,Lilydale,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,8319,Lilydale,F,22051,0,F Ticket Votes,Australian Greens,162
+TAS,192,Bass,8319,Lilydale,F,20801,1,"MILNE, Christine",Australian Greens,64
+TAS,192,Bass,8319,Lilydale,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,3
+TAS,192,Bass,8319,Lilydale,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8319,Lilydale,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,192,Bass,8319,Lilydale,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8319,Lilydale,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8319,Lilydale,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,4
+TAS,192,Bass,8319,Lilydale,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8319,Lilydale,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8319,Lilydale,I,22058,0,I Ticket Votes,Family First,7
+TAS,192,Bass,8319,Lilydale,I,21916,1,"ZUBIC, Jim",Family First,2
+TAS,192,Bass,8319,Lilydale,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,192,Bass,8319,Lilydale,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,192,Bass,8319,Lilydale,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8319,Lilydale,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8319,Lilydale,UG,21964,1,"OTTAVI, Dino",Independent,2
+TAS,192,Bass,8319,Lilydale,ZZ,0,99,INFORMAL,,22
+TAS,192,Bass,8321,Mowbray,A,22057,0,A Ticket Votes,Senator On-Line,6
+TAS,192,Bass,8321,Mowbray,A,21856,1,"MURRAY, Julie",Senator On-Line,9
+TAS,192,Bass,8321,Mowbray,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8321,Mowbray,B,22053,0,B Ticket Votes,Australian Democrats,6
+TAS,192,Bass,8321,Mowbray,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,192,Bass,8321,Mowbray,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,192,Bass,8321,Mowbray,C,22052,0,C Ticket Votes,Liberal,345
+TAS,192,Bass,8321,Mowbray,C,21538,1,"ABETZ, Eric",Liberal,21
+TAS,192,Bass,8321,Mowbray,C,21558,2,"PARRY, Stephen Shane",Liberal,3
+TAS,192,Bass,8321,Mowbray,C,21628,3,"BARNETT, Guy",Liberal,42
+TAS,192,Bass,8321,Mowbray,D,22055,0,D Ticket Votes,Australian Labor Party,787
+TAS,192,Bass,8321,Mowbray,D,21041,1,"POLLEY, Helen",Australian Labor Party,71
+TAS,192,Bass,8321,Mowbray,D,21459,2,"URQUHART, Anne",Australian Labor Party,4
+TAS,192,Bass,8321,Mowbray,D,21488,3,"SINGH, Lisa",Australian Labor Party,15
+TAS,192,Bass,8321,Mowbray,E,22059,0,E Ticket Votes,Shooters and Fishers,22
+TAS,192,Bass,8321,Mowbray,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,9
+TAS,192,Bass,8321,Mowbray,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,8321,Mowbray,F,22051,0,F Ticket Votes,Australian Greens,207
+TAS,192,Bass,8321,Mowbray,F,20801,1,"MILNE, Christine",Australian Greens,70
+TAS,192,Bass,8321,Mowbray,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,16
+TAS,192,Bass,8321,Mowbray,F,20805,3,"ANN, Penelope",Australian Greens,1
+TAS,192,Bass,8321,Mowbray,G,22056,0,G Ticket Votes,Secular Party of Australia,4
+TAS,192,Bass,8321,Mowbray,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8321,Mowbray,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,192,Bass,8321,Mowbray,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,6
+TAS,192,Bass,8321,Mowbray,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8321,Mowbray,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8321,Mowbray,I,22058,0,I Ticket Votes,Family First,28
+TAS,192,Bass,8321,Mowbray,I,21916,1,"ZUBIC, Jim",Family First,4
+TAS,192,Bass,8321,Mowbray,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8321,Mowbray,J,22054,0,J Ticket Votes,The Climate Sceptics,3
+TAS,192,Bass,8321,Mowbray,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8321,Mowbray,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8321,Mowbray,UG,21964,1,"OTTAVI, Dino",Independent,5
+TAS,192,Bass,8321,Mowbray,ZZ,0,99,INFORMAL,,80
+TAS,192,Bass,8322,Targa,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,192,Bass,8322,Targa,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,192,Bass,8322,Targa,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8322,Targa,B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,192,Bass,8322,Targa,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,192,Bass,8322,Targa,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8322,Targa,C,22052,0,C Ticket Votes,Liberal,14
+TAS,192,Bass,8322,Targa,C,21538,1,"ABETZ, Eric",Liberal,3
+TAS,192,Bass,8322,Targa,C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,192,Bass,8322,Targa,C,21628,3,"BARNETT, Guy",Liberal,5
+TAS,192,Bass,8322,Targa,D,22055,0,D Ticket Votes,Australian Labor Party,22
+TAS,192,Bass,8322,Targa,D,21041,1,"POLLEY, Helen",Australian Labor Party,3
+TAS,192,Bass,8322,Targa,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,192,Bass,8322,Targa,D,21488,3,"SINGH, Lisa",Australian Labor Party,1
+TAS,192,Bass,8322,Targa,E,22059,0,E Ticket Votes,Shooters and Fishers,4
+TAS,192,Bass,8322,Targa,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,192,Bass,8322,Targa,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,8322,Targa,F,22051,0,F Ticket Votes,Australian Greens,6
+TAS,192,Bass,8322,Targa,F,20801,1,"MILNE, Christine",Australian Greens,7
+TAS,192,Bass,8322,Targa,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,192,Bass,8322,Targa,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8322,Targa,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8322,Targa,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8322,Targa,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8322,Targa,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8322,Targa,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8322,Targa,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8322,Targa,I,22058,0,I Ticket Votes,Family First,1
+TAS,192,Bass,8322,Targa,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,8322,Targa,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8322,Targa,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,192,Bass,8322,Targa,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8322,Targa,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8322,Targa,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8322,Targa,ZZ,0,99,INFORMAL,,6
+TAS,192,Bass,8326,Newstead,A,22057,0,A Ticket Votes,Senator On-Line,3
+TAS,192,Bass,8326,Newstead,A,21856,1,"MURRAY, Julie",Senator On-Line,2
+TAS,192,Bass,8326,Newstead,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8326,Newstead,B,22053,0,B Ticket Votes,Australian Democrats,10
+TAS,192,Bass,8326,Newstead,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8326,Newstead,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8326,Newstead,C,22052,0,C Ticket Votes,Liberal,623
+TAS,192,Bass,8326,Newstead,C,21538,1,"ABETZ, Eric",Liberal,23
+TAS,192,Bass,8326,Newstead,C,21558,2,"PARRY, Stephen Shane",Liberal,6
+TAS,192,Bass,8326,Newstead,C,21628,3,"BARNETT, Guy",Liberal,122
+TAS,192,Bass,8326,Newstead,D,22055,0,D Ticket Votes,Australian Labor Party,515
+TAS,192,Bass,8326,Newstead,D,21041,1,"POLLEY, Helen",Australian Labor Party,57
+TAS,192,Bass,8326,Newstead,D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,192,Bass,8326,Newstead,D,21488,3,"SINGH, Lisa",Australian Labor Party,28
+TAS,192,Bass,8326,Newstead,E,22059,0,E Ticket Votes,Shooters and Fishers,18
+TAS,192,Bass,8326,Newstead,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,3
+TAS,192,Bass,8326,Newstead,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,9
+TAS,192,Bass,8326,Newstead,F,22051,0,F Ticket Votes,Australian Greens,293
+TAS,192,Bass,8326,Newstead,F,20801,1,"MILNE, Christine",Australian Greens,104
+TAS,192,Bass,8326,Newstead,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,15
+TAS,192,Bass,8326,Newstead,F,20805,3,"ANN, Penelope",Australian Greens,2
+TAS,192,Bass,8326,Newstead,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,192,Bass,8326,Newstead,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8326,Newstead,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,2
+TAS,192,Bass,8326,Newstead,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,3
+TAS,192,Bass,8326,Newstead,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,2
+TAS,192,Bass,8326,Newstead,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8326,Newstead,I,22058,0,I Ticket Votes,Family First,11
+TAS,192,Bass,8326,Newstead,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,8326,Newstead,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,192,Bass,8326,Newstead,J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,192,Bass,8326,Newstead,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,192,Bass,8326,Newstead,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8326,Newstead,UG,21964,1,"OTTAVI, Dino",Independent,3
+TAS,192,Bass,8326,Newstead,ZZ,0,99,INFORMAL,,52
+TAS,192,Bass,8328,Norwood,A,22057,0,A Ticket Votes,Senator On-Line,3
+TAS,192,Bass,8328,Norwood,A,21856,1,"MURRAY, Julie",Senator On-Line,2
+TAS,192,Bass,8328,Norwood,A,21858,2,"WIENER, Sven",Senator On-Line,2
+TAS,192,Bass,8328,Norwood,B,22053,0,B Ticket Votes,Australian Democrats,11
+TAS,192,Bass,8328,Norwood,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8328,Norwood,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,192,Bass,8328,Norwood,C,22052,0,C Ticket Votes,Liberal,859
+TAS,192,Bass,8328,Norwood,C,21538,1,"ABETZ, Eric",Liberal,52
+TAS,192,Bass,8328,Norwood,C,21558,2,"PARRY, Stephen Shane",Liberal,14
+TAS,192,Bass,8328,Norwood,C,21628,3,"BARNETT, Guy",Liberal,197
+TAS,192,Bass,8328,Norwood,D,22055,0,D Ticket Votes,Australian Labor Party,739
+TAS,192,Bass,8328,Norwood,D,21041,1,"POLLEY, Helen",Australian Labor Party,92
+TAS,192,Bass,8328,Norwood,D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,192,Bass,8328,Norwood,D,21488,3,"SINGH, Lisa",Australian Labor Party,23
+TAS,192,Bass,8328,Norwood,E,22059,0,E Ticket Votes,Shooters and Fishers,27
+TAS,192,Bass,8328,Norwood,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,10
+TAS,192,Bass,8328,Norwood,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,5
+TAS,192,Bass,8328,Norwood,F,22051,0,F Ticket Votes,Australian Greens,272
+TAS,192,Bass,8328,Norwood,F,20801,1,"MILNE, Christine",Australian Greens,86
+TAS,192,Bass,8328,Norwood,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,10
+TAS,192,Bass,8328,Norwood,F,20805,3,"ANN, Penelope",Australian Greens,1
+TAS,192,Bass,8328,Norwood,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,192,Bass,8328,Norwood,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8328,Norwood,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,2
+TAS,192,Bass,8328,Norwood,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,5
+TAS,192,Bass,8328,Norwood,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8328,Norwood,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,8328,Norwood,I,22058,0,I Ticket Votes,Family First,14
+TAS,192,Bass,8328,Norwood,I,21916,1,"ZUBIC, Jim",Family First,2
+TAS,192,Bass,8328,Norwood,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,192,Bass,8328,Norwood,J,22054,0,J Ticket Votes,The Climate Sceptics,3
+TAS,192,Bass,8328,Norwood,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,192,Bass,8328,Norwood,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8328,Norwood,UG,21964,1,"OTTAVI, Dino",Independent,3
+TAS,192,Bass,8328,Norwood,ZZ,0,99,INFORMAL,,70
+TAS,192,Bass,8329,Nunamara,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,192,Bass,8329,Nunamara,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,192,Bass,8329,Nunamara,A,21858,2,"WIENER, Sven",Senator On-Line,2
+TAS,192,Bass,8329,Nunamara,B,22053,0,B Ticket Votes,Australian Democrats,0
+TAS,192,Bass,8329,Nunamara,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8329,Nunamara,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8329,Nunamara,C,22052,0,C Ticket Votes,Liberal,62
+TAS,192,Bass,8329,Nunamara,C,21538,1,"ABETZ, Eric",Liberal,6
+TAS,192,Bass,8329,Nunamara,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,192,Bass,8329,Nunamara,C,21628,3,"BARNETT, Guy",Liberal,4
+TAS,192,Bass,8329,Nunamara,D,22055,0,D Ticket Votes,Australian Labor Party,69
+TAS,192,Bass,8329,Nunamara,D,21041,1,"POLLEY, Helen",Australian Labor Party,10
+TAS,192,Bass,8329,Nunamara,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,192,Bass,8329,Nunamara,D,21488,3,"SINGH, Lisa",Australian Labor Party,1
+TAS,192,Bass,8329,Nunamara,E,22059,0,E Ticket Votes,Shooters and Fishers,6
+TAS,192,Bass,8329,Nunamara,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,192,Bass,8329,Nunamara,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,8329,Nunamara,F,22051,0,F Ticket Votes,Australian Greens,47
+TAS,192,Bass,8329,Nunamara,F,20801,1,"MILNE, Christine",Australian Greens,15
+TAS,192,Bass,8329,Nunamara,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,3
+TAS,192,Bass,8329,Nunamara,F,20805,3,"ANN, Penelope",Australian Greens,1
+TAS,192,Bass,8329,Nunamara,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8329,Nunamara,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8329,Nunamara,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8329,Nunamara,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8329,Nunamara,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8329,Nunamara,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8329,Nunamara,I,22058,0,I Ticket Votes,Family First,1
+TAS,192,Bass,8329,Nunamara,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,8329,Nunamara,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8329,Nunamara,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,8329,Nunamara,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8329,Nunamara,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8329,Nunamara,UG,21964,1,"OTTAVI, Dino",Independent,3
+TAS,192,Bass,8329,Nunamara,ZZ,0,99,INFORMAL,,6
+TAS,192,Bass,8330,South Launceston,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,192,Bass,8330,South Launceston,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,192,Bass,8330,South Launceston,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8330,South Launceston,B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,192,Bass,8330,South Launceston,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,192,Bass,8330,South Launceston,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8330,South Launceston,C,22052,0,C Ticket Votes,Liberal,146
+TAS,192,Bass,8330,South Launceston,C,21538,1,"ABETZ, Eric",Liberal,11
+TAS,192,Bass,8330,South Launceston,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,192,Bass,8330,South Launceston,C,21628,3,"BARNETT, Guy",Liberal,27
+TAS,192,Bass,8330,South Launceston,D,22055,0,D Ticket Votes,Australian Labor Party,170
+TAS,192,Bass,8330,South Launceston,D,21041,1,"POLLEY, Helen",Australian Labor Party,14
+TAS,192,Bass,8330,South Launceston,D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,192,Bass,8330,South Launceston,D,21488,3,"SINGH, Lisa",Australian Labor Party,8
+TAS,192,Bass,8330,South Launceston,E,22059,0,E Ticket Votes,Shooters and Fishers,7
+TAS,192,Bass,8330,South Launceston,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,192,Bass,8330,South Launceston,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,8330,South Launceston,F,22051,0,F Ticket Votes,Australian Greens,88
+TAS,192,Bass,8330,South Launceston,F,20801,1,"MILNE, Christine",Australian Greens,27
+TAS,192,Bass,8330,South Launceston,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,5
+TAS,192,Bass,8330,South Launceston,F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,192,Bass,8330,South Launceston,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8330,South Launceston,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8330,South Launceston,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8330,South Launceston,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8330,South Launceston,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8330,South Launceston,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8330,South Launceston,I,22058,0,I Ticket Votes,Family First,2
+TAS,192,Bass,8330,South Launceston,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,192,Bass,8330,South Launceston,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8330,South Launceston,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,192,Bass,8330,South Launceston,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8330,South Launceston,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8330,South Launceston,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8330,South Launceston,ZZ,0,99,INFORMAL,,10
+TAS,192,Bass,8332,Pipers River,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,192,Bass,8332,Pipers River,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,192,Bass,8332,Pipers River,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8332,Pipers River,B,22053,0,B Ticket Votes,Australian Democrats,0
+TAS,192,Bass,8332,Pipers River,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8332,Pipers River,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8332,Pipers River,C,22052,0,C Ticket Votes,Liberal,67
+TAS,192,Bass,8332,Pipers River,C,21538,1,"ABETZ, Eric",Liberal,11
+TAS,192,Bass,8332,Pipers River,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,192,Bass,8332,Pipers River,C,21628,3,"BARNETT, Guy",Liberal,14
+TAS,192,Bass,8332,Pipers River,D,22055,0,D Ticket Votes,Australian Labor Party,70
+TAS,192,Bass,8332,Pipers River,D,21041,1,"POLLEY, Helen",Australian Labor Party,13
+TAS,192,Bass,8332,Pipers River,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,192,Bass,8332,Pipers River,D,21488,3,"SINGH, Lisa",Australian Labor Party,2
+TAS,192,Bass,8332,Pipers River,E,22059,0,E Ticket Votes,Shooters and Fishers,7
+TAS,192,Bass,8332,Pipers River,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,3
+TAS,192,Bass,8332,Pipers River,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,8332,Pipers River,F,22051,0,F Ticket Votes,Australian Greens,38
+TAS,192,Bass,8332,Pipers River,F,20801,1,"MILNE, Christine",Australian Greens,9
+TAS,192,Bass,8332,Pipers River,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,3
+TAS,192,Bass,8332,Pipers River,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8332,Pipers River,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8332,Pipers River,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8332,Pipers River,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8332,Pipers River,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8332,Pipers River,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8332,Pipers River,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8332,Pipers River,I,22058,0,I Ticket Votes,Family First,3
+TAS,192,Bass,8332,Pipers River,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,8332,Pipers River,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8332,Pipers River,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,8332,Pipers River,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8332,Pipers River,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8332,Pipers River,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,192,Bass,8332,Pipers River,ZZ,0,99,INFORMAL,,12
+TAS,192,Bass,8333,Prospect,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,192,Bass,8333,Prospect,A,21856,1,"MURRAY, Julie",Senator On-Line,4
+TAS,192,Bass,8333,Prospect,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8333,Prospect,B,22053,0,B Ticket Votes,Australian Democrats,8
+TAS,192,Bass,8333,Prospect,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,192,Bass,8333,Prospect,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8333,Prospect,C,22052,0,C Ticket Votes,Liberal,660
+TAS,192,Bass,8333,Prospect,C,21538,1,"ABETZ, Eric",Liberal,40
+TAS,192,Bass,8333,Prospect,C,21558,2,"PARRY, Stephen Shane",Liberal,6
+TAS,192,Bass,8333,Prospect,C,21628,3,"BARNETT, Guy",Liberal,79
+TAS,192,Bass,8333,Prospect,D,22055,0,D Ticket Votes,Australian Labor Party,756
+TAS,192,Bass,8333,Prospect,D,21041,1,"POLLEY, Helen",Australian Labor Party,67
+TAS,192,Bass,8333,Prospect,D,21459,2,"URQUHART, Anne",Australian Labor Party,7
+TAS,192,Bass,8333,Prospect,D,21488,3,"SINGH, Lisa",Australian Labor Party,21
+TAS,192,Bass,8333,Prospect,E,22059,0,E Ticket Votes,Shooters and Fishers,21
+TAS,192,Bass,8333,Prospect,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,4
+TAS,192,Bass,8333,Prospect,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,3
+TAS,192,Bass,8333,Prospect,F,22051,0,F Ticket Votes,Australian Greens,199
+TAS,192,Bass,8333,Prospect,F,20801,1,"MILNE, Christine",Australian Greens,67
+TAS,192,Bass,8333,Prospect,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,6
+TAS,192,Bass,8333,Prospect,F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,192,Bass,8333,Prospect,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,192,Bass,8333,Prospect,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,2
+TAS,192,Bass,8333,Prospect,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8333,Prospect,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,8
+TAS,192,Bass,8333,Prospect,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,8333,Prospect,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8333,Prospect,I,22058,0,I Ticket Votes,Family First,14
+TAS,192,Bass,8333,Prospect,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,192,Bass,8333,Prospect,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8333,Prospect,J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,192,Bass,8333,Prospect,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8333,Prospect,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8333,Prospect,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,192,Bass,8333,Prospect,ZZ,0,99,INFORMAL,,69
+TAS,192,Bass,8334,Ravenswood,A,22057,0,A Ticket Votes,Senator On-Line,12
+TAS,192,Bass,8334,Ravenswood,A,21856,1,"MURRAY, Julie",Senator On-Line,10
+TAS,192,Bass,8334,Ravenswood,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8334,Ravenswood,B,22053,0,B Ticket Votes,Australian Democrats,7
+TAS,192,Bass,8334,Ravenswood,B,21756,1,"HUTTON, Paulene",Australian Democrats,3
+TAS,192,Bass,8334,Ravenswood,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,192,Bass,8334,Ravenswood,C,22052,0,C Ticket Votes,Liberal,360
+TAS,192,Bass,8334,Ravenswood,C,21538,1,"ABETZ, Eric",Liberal,19
+TAS,192,Bass,8334,Ravenswood,C,21558,2,"PARRY, Stephen Shane",Liberal,3
+TAS,192,Bass,8334,Ravenswood,C,21628,3,"BARNETT, Guy",Liberal,26
+TAS,192,Bass,8334,Ravenswood,D,22055,0,D Ticket Votes,Australian Labor Party,999
+TAS,192,Bass,8334,Ravenswood,D,21041,1,"POLLEY, Helen",Australian Labor Party,90
+TAS,192,Bass,8334,Ravenswood,D,21459,2,"URQUHART, Anne",Australian Labor Party,7
+TAS,192,Bass,8334,Ravenswood,D,21488,3,"SINGH, Lisa",Australian Labor Party,17
+TAS,192,Bass,8334,Ravenswood,E,22059,0,E Ticket Votes,Shooters and Fishers,41
+TAS,192,Bass,8334,Ravenswood,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,4
+TAS,192,Bass,8334,Ravenswood,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,192,Bass,8334,Ravenswood,F,22051,0,F Ticket Votes,Australian Greens,184
+TAS,192,Bass,8334,Ravenswood,F,20801,1,"MILNE, Christine",Australian Greens,35
+TAS,192,Bass,8334,Ravenswood,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,5
+TAS,192,Bass,8334,Ravenswood,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8334,Ravenswood,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,192,Bass,8334,Ravenswood,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8334,Ravenswood,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8334,Ravenswood,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,13
+TAS,192,Bass,8334,Ravenswood,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8334,Ravenswood,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8334,Ravenswood,I,22058,0,I Ticket Votes,Family First,41
+TAS,192,Bass,8334,Ravenswood,I,21916,1,"ZUBIC, Jim",Family First,5
+TAS,192,Bass,8334,Ravenswood,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,192,Bass,8334,Ravenswood,J,22054,0,J Ticket Votes,The Climate Sceptics,6
+TAS,192,Bass,8334,Ravenswood,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8334,Ravenswood,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8334,Ravenswood,UG,21964,1,"OTTAVI, Dino",Independent,3
+TAS,192,Bass,8334,Ravenswood,ZZ,0,99,INFORMAL,,147
+TAS,192,Bass,8335,Ringarooma,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,192,Bass,8335,Ringarooma,A,21856,1,"MURRAY, Julie",Senator On-Line,2
+TAS,192,Bass,8335,Ringarooma,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8335,Ringarooma,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,192,Bass,8335,Ringarooma,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8335,Ringarooma,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,192,Bass,8335,Ringarooma,C,22052,0,C Ticket Votes,Liberal,124
+TAS,192,Bass,8335,Ringarooma,C,21538,1,"ABETZ, Eric",Liberal,9
+TAS,192,Bass,8335,Ringarooma,C,21558,2,"PARRY, Stephen Shane",Liberal,3
+TAS,192,Bass,8335,Ringarooma,C,21628,3,"BARNETT, Guy",Liberal,23
+TAS,192,Bass,8335,Ringarooma,D,22055,0,D Ticket Votes,Australian Labor Party,116
+TAS,192,Bass,8335,Ringarooma,D,21041,1,"POLLEY, Helen",Australian Labor Party,16
+TAS,192,Bass,8335,Ringarooma,D,21459,2,"URQUHART, Anne",Australian Labor Party,3
+TAS,192,Bass,8335,Ringarooma,D,21488,3,"SINGH, Lisa",Australian Labor Party,3
+TAS,192,Bass,8335,Ringarooma,E,22059,0,E Ticket Votes,Shooters and Fishers,8
+TAS,192,Bass,8335,Ringarooma,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,192,Bass,8335,Ringarooma,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,8335,Ringarooma,F,22051,0,F Ticket Votes,Australian Greens,18
+TAS,192,Bass,8335,Ringarooma,F,20801,1,"MILNE, Christine",Australian Greens,11
+TAS,192,Bass,8335,Ringarooma,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,192,Bass,8335,Ringarooma,F,20805,3,"ANN, Penelope",Australian Greens,1
+TAS,192,Bass,8335,Ringarooma,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8335,Ringarooma,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,2
+TAS,192,Bass,8335,Ringarooma,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8335,Ringarooma,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,2
+TAS,192,Bass,8335,Ringarooma,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8335,Ringarooma,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8335,Ringarooma,I,22058,0,I Ticket Votes,Family First,1
+TAS,192,Bass,8335,Ringarooma,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,192,Bass,8335,Ringarooma,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8335,Ringarooma,J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,192,Bass,8335,Ringarooma,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8335,Ringarooma,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8335,Ringarooma,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8335,Ringarooma,ZZ,0,99,INFORMAL,,10
+TAS,192,Bass,8336,Riverside,A,22057,0,A Ticket Votes,Senator On-Line,7
+TAS,192,Bass,8336,Riverside,A,21856,1,"MURRAY, Julie",Senator On-Line,2
+TAS,192,Bass,8336,Riverside,A,21858,2,"WIENER, Sven",Senator On-Line,1
+TAS,192,Bass,8336,Riverside,B,22053,0,B Ticket Votes,Australian Democrats,16
+TAS,192,Bass,8336,Riverside,B,21756,1,"HUTTON, Paulene",Australian Democrats,3
+TAS,192,Bass,8336,Riverside,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8336,Riverside,C,22052,0,C Ticket Votes,Liberal,836
+TAS,192,Bass,8336,Riverside,C,21538,1,"ABETZ, Eric",Liberal,55
+TAS,192,Bass,8336,Riverside,C,21558,2,"PARRY, Stephen Shane",Liberal,10
+TAS,192,Bass,8336,Riverside,C,21628,3,"BARNETT, Guy",Liberal,200
+TAS,192,Bass,8336,Riverside,D,22055,0,D Ticket Votes,Australian Labor Party,679
+TAS,192,Bass,8336,Riverside,D,21041,1,"POLLEY, Helen",Australian Labor Party,90
+TAS,192,Bass,8336,Riverside,D,21459,2,"URQUHART, Anne",Australian Labor Party,4
+TAS,192,Bass,8336,Riverside,D,21488,3,"SINGH, Lisa",Australian Labor Party,24
+TAS,192,Bass,8336,Riverside,E,22059,0,E Ticket Votes,Shooters and Fishers,27
+TAS,192,Bass,8336,Riverside,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,5
+TAS,192,Bass,8336,Riverside,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,192,Bass,8336,Riverside,F,22051,0,F Ticket Votes,Australian Greens,364
+TAS,192,Bass,8336,Riverside,F,20801,1,"MILNE, Christine",Australian Greens,141
+TAS,192,Bass,8336,Riverside,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,14
+TAS,192,Bass,8336,Riverside,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8336,Riverside,G,22056,0,G Ticket Votes,Secular Party of Australia,2
+TAS,192,Bass,8336,Riverside,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,192,Bass,8336,Riverside,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8336,Riverside,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,9
+TAS,192,Bass,8336,Riverside,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,2
+TAS,192,Bass,8336,Riverside,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8336,Riverside,I,22058,0,I Ticket Votes,Family First,16
+TAS,192,Bass,8336,Riverside,I,21916,1,"ZUBIC, Jim",Family First,5
+TAS,192,Bass,8336,Riverside,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8336,Riverside,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,192,Bass,8336,Riverside,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,192,Bass,8336,Riverside,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8336,Riverside,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,192,Bass,8336,Riverside,ZZ,0,99,INFORMAL,,66
+TAS,192,Bass,8338,Riverside West,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,192,Bass,8338,Riverside West,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,192,Bass,8338,Riverside West,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8338,Riverside West,B,22053,0,B Ticket Votes,Australian Democrats,5
+TAS,192,Bass,8338,Riverside West,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8338,Riverside West,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8338,Riverside West,C,22052,0,C Ticket Votes,Liberal,371
+TAS,192,Bass,8338,Riverside West,C,21538,1,"ABETZ, Eric",Liberal,23
+TAS,192,Bass,8338,Riverside West,C,21558,2,"PARRY, Stephen Shane",Liberal,3
+TAS,192,Bass,8338,Riverside West,C,21628,3,"BARNETT, Guy",Liberal,79
+TAS,192,Bass,8338,Riverside West,D,22055,0,D Ticket Votes,Australian Labor Party,349
+TAS,192,Bass,8338,Riverside West,D,21041,1,"POLLEY, Helen",Australian Labor Party,36
+TAS,192,Bass,8338,Riverside West,D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,192,Bass,8338,Riverside West,D,21488,3,"SINGH, Lisa",Australian Labor Party,10
+TAS,192,Bass,8338,Riverside West,E,22059,0,E Ticket Votes,Shooters and Fishers,13
+TAS,192,Bass,8338,Riverside West,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,192,Bass,8338,Riverside West,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,4
+TAS,192,Bass,8338,Riverside West,F,22051,0,F Ticket Votes,Australian Greens,158
+TAS,192,Bass,8338,Riverside West,F,20801,1,"MILNE, Christine",Australian Greens,53
+TAS,192,Bass,8338,Riverside West,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,10
+TAS,192,Bass,8338,Riverside West,F,20805,3,"ANN, Penelope",Australian Greens,2
+TAS,192,Bass,8338,Riverside West,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8338,Riverside West,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,192,Bass,8338,Riverside West,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8338,Riverside West,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,4
+TAS,192,Bass,8338,Riverside West,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8338,Riverside West,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8338,Riverside West,I,22058,0,I Ticket Votes,Family First,15
+TAS,192,Bass,8338,Riverside West,I,21916,1,"ZUBIC, Jim",Family First,3
+TAS,192,Bass,8338,Riverside West,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,192,Bass,8338,Riverside West,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,8338,Riverside West,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8338,Riverside West,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8338,Riverside West,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,192,Bass,8338,Riverside West,ZZ,0,99,INFORMAL,,38
+TAS,192,Bass,8339,St Leonards,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,192,Bass,8339,St Leonards,A,21856,1,"MURRAY, Julie",Senator On-Line,3
+TAS,192,Bass,8339,St Leonards,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8339,St Leonards,B,22053,0,B Ticket Votes,Australian Democrats,5
+TAS,192,Bass,8339,St Leonards,B,21756,1,"HUTTON, Paulene",Australian Democrats,2
+TAS,192,Bass,8339,St Leonards,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,192,Bass,8339,St Leonards,C,22052,0,C Ticket Votes,Liberal,351
+TAS,192,Bass,8339,St Leonards,C,21538,1,"ABETZ, Eric",Liberal,18
+TAS,192,Bass,8339,St Leonards,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,192,Bass,8339,St Leonards,C,21628,3,"BARNETT, Guy",Liberal,50
+TAS,192,Bass,8339,St Leonards,D,22055,0,D Ticket Votes,Australian Labor Party,426
+TAS,192,Bass,8339,St Leonards,D,21041,1,"POLLEY, Helen",Australian Labor Party,33
+TAS,192,Bass,8339,St Leonards,D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,192,Bass,8339,St Leonards,D,21488,3,"SINGH, Lisa",Australian Labor Party,12
+TAS,192,Bass,8339,St Leonards,E,22059,0,E Ticket Votes,Shooters and Fishers,24
+TAS,192,Bass,8339,St Leonards,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,3
+TAS,192,Bass,8339,St Leonards,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,8339,St Leonards,F,22051,0,F Ticket Votes,Australian Greens,125
+TAS,192,Bass,8339,St Leonards,F,20801,1,"MILNE, Christine",Australian Greens,39
+TAS,192,Bass,8339,St Leonards,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,5
+TAS,192,Bass,8339,St Leonards,F,20805,3,"ANN, Penelope",Australian Greens,1
+TAS,192,Bass,8339,St Leonards,G,22056,0,G Ticket Votes,Secular Party of Australia,2
+TAS,192,Bass,8339,St Leonards,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,192,Bass,8339,St Leonards,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,2
+TAS,192,Bass,8339,St Leonards,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,4
+TAS,192,Bass,8339,St Leonards,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8339,St Leonards,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8339,St Leonards,I,22058,0,I Ticket Votes,Family First,14
+TAS,192,Bass,8339,St Leonards,I,21916,1,"ZUBIC, Jim",Family First,3
+TAS,192,Bass,8339,St Leonards,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,192,Bass,8339,St Leonards,J,22054,0,J Ticket Votes,The Climate Sceptics,3
+TAS,192,Bass,8339,St Leonards,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,192,Bass,8339,St Leonards,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,1
+TAS,192,Bass,8339,St Leonards,UG,21964,1,"OTTAVI, Dino",Independent,2
+TAS,192,Bass,8339,St Leonards,ZZ,0,99,INFORMAL,,27
+TAS,192,Bass,8340,Scottsdale,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,192,Bass,8340,Scottsdale,A,21856,1,"MURRAY, Julie",Senator On-Line,5
+TAS,192,Bass,8340,Scottsdale,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8340,Scottsdale,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,192,Bass,8340,Scottsdale,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,192,Bass,8340,Scottsdale,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8340,Scottsdale,C,22052,0,C Ticket Votes,Liberal,629
+TAS,192,Bass,8340,Scottsdale,C,21538,1,"ABETZ, Eric",Liberal,65
+TAS,192,Bass,8340,Scottsdale,C,21558,2,"PARRY, Stephen Shane",Liberal,7
+TAS,192,Bass,8340,Scottsdale,C,21628,3,"BARNETT, Guy",Liberal,110
+TAS,192,Bass,8340,Scottsdale,D,22055,0,D Ticket Votes,Australian Labor Party,663
+TAS,192,Bass,8340,Scottsdale,D,21041,1,"POLLEY, Helen",Australian Labor Party,77
+TAS,192,Bass,8340,Scottsdale,D,21459,2,"URQUHART, Anne",Australian Labor Party,7
+TAS,192,Bass,8340,Scottsdale,D,21488,3,"SINGH, Lisa",Australian Labor Party,20
+TAS,192,Bass,8340,Scottsdale,E,22059,0,E Ticket Votes,Shooters and Fishers,36
+TAS,192,Bass,8340,Scottsdale,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,8
+TAS,192,Bass,8340,Scottsdale,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,192,Bass,8340,Scottsdale,F,22051,0,F Ticket Votes,Australian Greens,108
+TAS,192,Bass,8340,Scottsdale,F,20801,1,"MILNE, Christine",Australian Greens,27
+TAS,192,Bass,8340,Scottsdale,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,5
+TAS,192,Bass,8340,Scottsdale,F,20805,3,"ANN, Penelope",Australian Greens,3
+TAS,192,Bass,8340,Scottsdale,G,22056,0,G Ticket Votes,Secular Party of Australia,2
+TAS,192,Bass,8340,Scottsdale,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8340,Scottsdale,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8340,Scottsdale,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,3
+TAS,192,Bass,8340,Scottsdale,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,8340,Scottsdale,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8340,Scottsdale,I,22058,0,I Ticket Votes,Family First,15
+TAS,192,Bass,8340,Scottsdale,I,21916,1,"ZUBIC, Jim",Family First,3
+TAS,192,Bass,8340,Scottsdale,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8340,Scottsdale,J,22054,0,J Ticket Votes,The Climate Sceptics,4
+TAS,192,Bass,8340,Scottsdale,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8340,Scottsdale,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8340,Scottsdale,UG,21964,1,"OTTAVI, Dino",Independent,4
+TAS,192,Bass,8340,Scottsdale,ZZ,0,99,INFORMAL,,51
+TAS,192,Bass,8342,Trevallyn,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,192,Bass,8342,Trevallyn,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,192,Bass,8342,Trevallyn,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8342,Trevallyn,B,22053,0,B Ticket Votes,Australian Democrats,5
+TAS,192,Bass,8342,Trevallyn,B,21756,1,"HUTTON, Paulene",Australian Democrats,4
+TAS,192,Bass,8342,Trevallyn,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8342,Trevallyn,C,22052,0,C Ticket Votes,Liberal,430
+TAS,192,Bass,8342,Trevallyn,C,21538,1,"ABETZ, Eric",Liberal,36
+TAS,192,Bass,8342,Trevallyn,C,21558,2,"PARRY, Stephen Shane",Liberal,7
+TAS,192,Bass,8342,Trevallyn,C,21628,3,"BARNETT, Guy",Liberal,135
+TAS,192,Bass,8342,Trevallyn,D,22055,0,D Ticket Votes,Australian Labor Party,377
+TAS,192,Bass,8342,Trevallyn,D,21041,1,"POLLEY, Helen",Australian Labor Party,80
+TAS,192,Bass,8342,Trevallyn,D,21459,2,"URQUHART, Anne",Australian Labor Party,7
+TAS,192,Bass,8342,Trevallyn,D,21488,3,"SINGH, Lisa",Australian Labor Party,25
+TAS,192,Bass,8342,Trevallyn,E,22059,0,E Ticket Votes,Shooters and Fishers,13
+TAS,192,Bass,8342,Trevallyn,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,192,Bass,8342,Trevallyn,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,2
+TAS,192,Bass,8342,Trevallyn,F,22051,0,F Ticket Votes,Australian Greens,391
+TAS,192,Bass,8342,Trevallyn,F,20801,1,"MILNE, Christine",Australian Greens,162
+TAS,192,Bass,8342,Trevallyn,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,32
+TAS,192,Bass,8342,Trevallyn,F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,192,Bass,8342,Trevallyn,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8342,Trevallyn,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,192,Bass,8342,Trevallyn,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8342,Trevallyn,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,8342,Trevallyn,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,8342,Trevallyn,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8342,Trevallyn,I,22058,0,I Ticket Votes,Family First,23
+TAS,192,Bass,8342,Trevallyn,I,21916,1,"ZUBIC, Jim",Family First,6
+TAS,192,Bass,8342,Trevallyn,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8342,Trevallyn,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,192,Bass,8342,Trevallyn,J,21743,1,"WALLER, Frank",The Climate Sceptics,2
+TAS,192,Bass,8342,Trevallyn,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8342,Trevallyn,UG,21964,1,"OTTAVI, Dino",Independent,6
+TAS,192,Bass,8342,Trevallyn,ZZ,0,99,INFORMAL,,40
+TAS,192,Bass,8344,Waverley,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,192,Bass,8344,Waverley,A,21856,1,"MURRAY, Julie",Senator On-Line,5
+TAS,192,Bass,8344,Waverley,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8344,Waverley,B,22053,0,B Ticket Votes,Australian Democrats,5
+TAS,192,Bass,8344,Waverley,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,192,Bass,8344,Waverley,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8344,Waverley,C,22052,0,C Ticket Votes,Liberal,165
+TAS,192,Bass,8344,Waverley,C,21538,1,"ABETZ, Eric",Liberal,11
+TAS,192,Bass,8344,Waverley,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,192,Bass,8344,Waverley,C,21628,3,"BARNETT, Guy",Liberal,10
+TAS,192,Bass,8344,Waverley,D,22055,0,D Ticket Votes,Australian Labor Party,470
+TAS,192,Bass,8344,Waverley,D,21041,1,"POLLEY, Helen",Australian Labor Party,35
+TAS,192,Bass,8344,Waverley,D,21459,2,"URQUHART, Anne",Australian Labor Party,3
+TAS,192,Bass,8344,Waverley,D,21488,3,"SINGH, Lisa",Australian Labor Party,10
+TAS,192,Bass,8344,Waverley,E,22059,0,E Ticket Votes,Shooters and Fishers,28
+TAS,192,Bass,8344,Waverley,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,2
+TAS,192,Bass,8344,Waverley,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,4
+TAS,192,Bass,8344,Waverley,F,22051,0,F Ticket Votes,Australian Greens,86
+TAS,192,Bass,8344,Waverley,F,20801,1,"MILNE, Christine",Australian Greens,17
+TAS,192,Bass,8344,Waverley,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,5
+TAS,192,Bass,8344,Waverley,F,20805,3,"ANN, Penelope",Australian Greens,1
+TAS,192,Bass,8344,Waverley,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,192,Bass,8344,Waverley,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8344,Waverley,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8344,Waverley,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,5
+TAS,192,Bass,8344,Waverley,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,8344,Waverley,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8344,Waverley,I,22058,0,I Ticket Votes,Family First,23
+TAS,192,Bass,8344,Waverley,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,8344,Waverley,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,192,Bass,8344,Waverley,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,192,Bass,8344,Waverley,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8344,Waverley,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8344,Waverley,UG,21964,1,"OTTAVI, Dino",Independent,2
+TAS,192,Bass,8344,Waverley,ZZ,0,99,INFORMAL,,63
+TAS,192,Bass,8345,Weymouth,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,192,Bass,8345,Weymouth,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,192,Bass,8345,Weymouth,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8345,Weymouth,B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,192,Bass,8345,Weymouth,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8345,Weymouth,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8345,Weymouth,C,22052,0,C Ticket Votes,Liberal,40
+TAS,192,Bass,8345,Weymouth,C,21538,1,"ABETZ, Eric",Liberal,1
+TAS,192,Bass,8345,Weymouth,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,192,Bass,8345,Weymouth,C,21628,3,"BARNETT, Guy",Liberal,6
+TAS,192,Bass,8345,Weymouth,D,22055,0,D Ticket Votes,Australian Labor Party,54
+TAS,192,Bass,8345,Weymouth,D,21041,1,"POLLEY, Helen",Australian Labor Party,5
+TAS,192,Bass,8345,Weymouth,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,192,Bass,8345,Weymouth,D,21488,3,"SINGH, Lisa",Australian Labor Party,2
+TAS,192,Bass,8345,Weymouth,E,22059,0,E Ticket Votes,Shooters and Fishers,2
+TAS,192,Bass,8345,Weymouth,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,192,Bass,8345,Weymouth,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,192,Bass,8345,Weymouth,F,22051,0,F Ticket Votes,Australian Greens,6
+TAS,192,Bass,8345,Weymouth,F,20801,1,"MILNE, Christine",Australian Greens,10
+TAS,192,Bass,8345,Weymouth,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,1
+TAS,192,Bass,8345,Weymouth,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8345,Weymouth,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8345,Weymouth,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8345,Weymouth,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8345,Weymouth,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,8345,Weymouth,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8345,Weymouth,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8345,Weymouth,I,22058,0,I Ticket Votes,Family First,2
+TAS,192,Bass,8345,Weymouth,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,8345,Weymouth,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8345,Weymouth,J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,192,Bass,8345,Weymouth,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8345,Weymouth,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8345,Weymouth,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8345,Weymouth,ZZ,0,99,INFORMAL,,6
+TAS,192,Bass,8347,Whitemark,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,192,Bass,8347,Whitemark,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,192,Bass,8347,Whitemark,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8347,Whitemark,B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,192,Bass,8347,Whitemark,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8347,Whitemark,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8347,Whitemark,C,22052,0,C Ticket Votes,Liberal,108
+TAS,192,Bass,8347,Whitemark,C,21538,1,"ABETZ, Eric",Liberal,10
+TAS,192,Bass,8347,Whitemark,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,192,Bass,8347,Whitemark,C,21628,3,"BARNETT, Guy",Liberal,16
+TAS,192,Bass,8347,Whitemark,D,22055,0,D Ticket Votes,Australian Labor Party,56
+TAS,192,Bass,8347,Whitemark,D,21041,1,"POLLEY, Helen",Australian Labor Party,1
+TAS,192,Bass,8347,Whitemark,D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,192,Bass,8347,Whitemark,D,21488,3,"SINGH, Lisa",Australian Labor Party,3
+TAS,192,Bass,8347,Whitemark,E,22059,0,E Ticket Votes,Shooters and Fishers,16
+TAS,192,Bass,8347,Whitemark,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,6
+TAS,192,Bass,8347,Whitemark,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,8347,Whitemark,F,22051,0,F Ticket Votes,Australian Greens,52
+TAS,192,Bass,8347,Whitemark,F,20801,1,"MILNE, Christine",Australian Greens,17
+TAS,192,Bass,8347,Whitemark,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,192,Bass,8347,Whitemark,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8347,Whitemark,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,192,Bass,8347,Whitemark,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8347,Whitemark,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8347,Whitemark,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,8347,Whitemark,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8347,Whitemark,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8347,Whitemark,I,22058,0,I Ticket Votes,Family First,0
+TAS,192,Bass,8347,Whitemark,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,8347,Whitemark,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8347,Whitemark,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,8347,Whitemark,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8347,Whitemark,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8347,Whitemark,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8347,Whitemark,ZZ,0,99,INFORMAL,,10
+TAS,192,Bass,8348,Windmill Hill,A,22057,0,A Ticket Votes,Senator On-Line,2
+TAS,192,Bass,8348,Windmill Hill,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,192,Bass,8348,Windmill Hill,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8348,Windmill Hill,B,22053,0,B Ticket Votes,Australian Democrats,1
+TAS,192,Bass,8348,Windmill Hill,B,21756,1,"HUTTON, Paulene",Australian Democrats,2
+TAS,192,Bass,8348,Windmill Hill,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8348,Windmill Hill,C,22052,0,C Ticket Votes,Liberal,289
+TAS,192,Bass,8348,Windmill Hill,C,21538,1,"ABETZ, Eric",Liberal,18
+TAS,192,Bass,8348,Windmill Hill,C,21558,2,"PARRY, Stephen Shane",Liberal,6
+TAS,192,Bass,8348,Windmill Hill,C,21628,3,"BARNETT, Guy",Liberal,63
+TAS,192,Bass,8348,Windmill Hill,D,22055,0,D Ticket Votes,Australian Labor Party,203
+TAS,192,Bass,8348,Windmill Hill,D,21041,1,"POLLEY, Helen",Australian Labor Party,24
+TAS,192,Bass,8348,Windmill Hill,D,21459,2,"URQUHART, Anne",Australian Labor Party,3
+TAS,192,Bass,8348,Windmill Hill,D,21488,3,"SINGH, Lisa",Australian Labor Party,13
+TAS,192,Bass,8348,Windmill Hill,E,22059,0,E Ticket Votes,Shooters and Fishers,3
+TAS,192,Bass,8348,Windmill Hill,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,192,Bass,8348,Windmill Hill,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,192,Bass,8348,Windmill Hill,F,22051,0,F Ticket Votes,Australian Greens,144
+TAS,192,Bass,8348,Windmill Hill,F,20801,1,"MILNE, Christine",Australian Greens,67
+TAS,192,Bass,8348,Windmill Hill,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,10
+TAS,192,Bass,8348,Windmill Hill,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8348,Windmill Hill,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8348,Windmill Hill,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8348,Windmill Hill,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,192,Bass,8348,Windmill Hill,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,2
+TAS,192,Bass,8348,Windmill Hill,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8348,Windmill Hill,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8348,Windmill Hill,I,22058,0,I Ticket Votes,Family First,6
+TAS,192,Bass,8348,Windmill Hill,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,192,Bass,8348,Windmill Hill,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8348,Windmill Hill,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,192,Bass,8348,Windmill Hill,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8348,Windmill Hill,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8348,Windmill Hill,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8348,Windmill Hill,ZZ,0,99,INFORMAL,,13
+TAS,192,Bass,8349,Winnaleah,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,192,Bass,8349,Winnaleah,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,192,Bass,8349,Winnaleah,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8349,Winnaleah,B,22053,0,B Ticket Votes,Australian Democrats,0
+TAS,192,Bass,8349,Winnaleah,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8349,Winnaleah,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8349,Winnaleah,C,22052,0,C Ticket Votes,Liberal,81
+TAS,192,Bass,8349,Winnaleah,C,21538,1,"ABETZ, Eric",Liberal,9
+TAS,192,Bass,8349,Winnaleah,C,21558,2,"PARRY, Stephen Shane",Liberal,3
+TAS,192,Bass,8349,Winnaleah,C,21628,3,"BARNETT, Guy",Liberal,15
+TAS,192,Bass,8349,Winnaleah,D,22055,0,D Ticket Votes,Australian Labor Party,53
+TAS,192,Bass,8349,Winnaleah,D,21041,1,"POLLEY, Helen",Australian Labor Party,7
+TAS,192,Bass,8349,Winnaleah,D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,192,Bass,8349,Winnaleah,D,21488,3,"SINGH, Lisa",Australian Labor Party,1
+TAS,192,Bass,8349,Winnaleah,E,22059,0,E Ticket Votes,Shooters and Fishers,8
+TAS,192,Bass,8349,Winnaleah,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,192,Bass,8349,Winnaleah,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,192,Bass,8349,Winnaleah,F,22051,0,F Ticket Votes,Australian Greens,18
+TAS,192,Bass,8349,Winnaleah,F,20801,1,"MILNE, Christine",Australian Greens,3
+TAS,192,Bass,8349,Winnaleah,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,192,Bass,8349,Winnaleah,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8349,Winnaleah,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8349,Winnaleah,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8349,Winnaleah,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8349,Winnaleah,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8349,Winnaleah,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8349,Winnaleah,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8349,Winnaleah,I,22058,0,I Ticket Votes,Family First,1
+TAS,192,Bass,8349,Winnaleah,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,8349,Winnaleah,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8349,Winnaleah,J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,192,Bass,8349,Winnaleah,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,192,Bass,8349,Winnaleah,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8349,Winnaleah,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8349,Winnaleah,ZZ,0,99,INFORMAL,,9
+TAS,192,Bass,8350,Youngtown,A,22057,0,A Ticket Votes,Senator On-Line,4
+TAS,192,Bass,8350,Youngtown,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,192,Bass,8350,Youngtown,A,21858,2,"WIENER, Sven",Senator On-Line,1
+TAS,192,Bass,8350,Youngtown,B,22053,0,B Ticket Votes,Australian Democrats,4
+TAS,192,Bass,8350,Youngtown,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,192,Bass,8350,Youngtown,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8350,Youngtown,C,22052,0,C Ticket Votes,Liberal,426
+TAS,192,Bass,8350,Youngtown,C,21538,1,"ABETZ, Eric",Liberal,19
+TAS,192,Bass,8350,Youngtown,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,192,Bass,8350,Youngtown,C,21628,3,"BARNETT, Guy",Liberal,54
+TAS,192,Bass,8350,Youngtown,D,22055,0,D Ticket Votes,Australian Labor Party,610
+TAS,192,Bass,8350,Youngtown,D,21041,1,"POLLEY, Helen",Australian Labor Party,57
+TAS,192,Bass,8350,Youngtown,D,21459,2,"URQUHART, Anne",Australian Labor Party,3
+TAS,192,Bass,8350,Youngtown,D,21488,3,"SINGH, Lisa",Australian Labor Party,12
+TAS,192,Bass,8350,Youngtown,E,22059,0,E Ticket Votes,Shooters and Fishers,20
+TAS,192,Bass,8350,Youngtown,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,4
+TAS,192,Bass,8350,Youngtown,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,8350,Youngtown,F,22051,0,F Ticket Votes,Australian Greens,141
+TAS,192,Bass,8350,Youngtown,F,20801,1,"MILNE, Christine",Australian Greens,41
+TAS,192,Bass,8350,Youngtown,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,4
+TAS,192,Bass,8350,Youngtown,F,20805,3,"ANN, Penelope",Australian Greens,3
+TAS,192,Bass,8350,Youngtown,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,192,Bass,8350,Youngtown,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,192,Bass,8350,Youngtown,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8350,Youngtown,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,7
+TAS,192,Bass,8350,Youngtown,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8350,Youngtown,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8350,Youngtown,I,22058,0,I Ticket Votes,Family First,17
+TAS,192,Bass,8350,Youngtown,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,8350,Youngtown,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,192,Bass,8350,Youngtown,J,22054,0,J Ticket Votes,The Climate Sceptics,3
+TAS,192,Bass,8350,Youngtown,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8350,Youngtown,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8350,Youngtown,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,8350,Youngtown,ZZ,0,99,INFORMAL,,43
+TAS,192,Bass,8605,Hadspen,A,22057,0,A Ticket Votes,Senator On-Line,3
+TAS,192,Bass,8605,Hadspen,A,21856,1,"MURRAY, Julie",Senator On-Line,2
+TAS,192,Bass,8605,Hadspen,A,21858,2,"WIENER, Sven",Senator On-Line,1
+TAS,192,Bass,8605,Hadspen,B,22053,0,B Ticket Votes,Australian Democrats,3
+TAS,192,Bass,8605,Hadspen,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8605,Hadspen,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8605,Hadspen,C,22052,0,C Ticket Votes,Liberal,321
+TAS,192,Bass,8605,Hadspen,C,21538,1,"ABETZ, Eric",Liberal,13
+TAS,192,Bass,8605,Hadspen,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,192,Bass,8605,Hadspen,C,21628,3,"BARNETT, Guy",Liberal,46
+TAS,192,Bass,8605,Hadspen,D,22055,0,D Ticket Votes,Australian Labor Party,423
+TAS,192,Bass,8605,Hadspen,D,21041,1,"POLLEY, Helen",Australian Labor Party,71
+TAS,192,Bass,8605,Hadspen,D,21459,2,"URQUHART, Anne",Australian Labor Party,1
+TAS,192,Bass,8605,Hadspen,D,21488,3,"SINGH, Lisa",Australian Labor Party,8
+TAS,192,Bass,8605,Hadspen,E,22059,0,E Ticket Votes,Shooters and Fishers,22
+TAS,192,Bass,8605,Hadspen,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,6
+TAS,192,Bass,8605,Hadspen,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,192,Bass,8605,Hadspen,F,22051,0,F Ticket Votes,Australian Greens,115
+TAS,192,Bass,8605,Hadspen,F,20801,1,"MILNE, Christine",Australian Greens,25
+TAS,192,Bass,8605,Hadspen,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,4
+TAS,192,Bass,8605,Hadspen,F,20805,3,"ANN, Penelope",Australian Greens,2
+TAS,192,Bass,8605,Hadspen,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8605,Hadspen,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8605,Hadspen,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,2
+TAS,192,Bass,8605,Hadspen,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,3
+TAS,192,Bass,8605,Hadspen,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8605,Hadspen,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8605,Hadspen,I,22058,0,I Ticket Votes,Family First,12
+TAS,192,Bass,8605,Hadspen,I,21916,1,"ZUBIC, Jim",Family First,9
+TAS,192,Bass,8605,Hadspen,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,2
+TAS,192,Bass,8605,Hadspen,J,22054,0,J Ticket Votes,The Climate Sceptics,4
+TAS,192,Bass,8605,Hadspen,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8605,Hadspen,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8605,Hadspen,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,192,Bass,8605,Hadspen,ZZ,0,99,INFORMAL,,34
+TAS,192,Bass,8616,Legana (Bass),A,22057,0,A Ticket Votes,Senator On-Line,6
+TAS,192,Bass,8616,Legana (Bass),A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,192,Bass,8616,Legana (Bass),A,21858,2,"WIENER, Sven",Senator On-Line,1
+TAS,192,Bass,8616,Legana (Bass),B,22053,0,B Ticket Votes,Australian Democrats,4
+TAS,192,Bass,8616,Legana (Bass),B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,8616,Legana (Bass),B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,8616,Legana (Bass),C,22052,0,C Ticket Votes,Liberal,533
+TAS,192,Bass,8616,Legana (Bass),C,21538,1,"ABETZ, Eric",Liberal,40
+TAS,192,Bass,8616,Legana (Bass),C,21558,2,"PARRY, Stephen Shane",Liberal,5
+TAS,192,Bass,8616,Legana (Bass),C,21628,3,"BARNETT, Guy",Liberal,87
+TAS,192,Bass,8616,Legana (Bass),D,22055,0,D Ticket Votes,Australian Labor Party,495
+TAS,192,Bass,8616,Legana (Bass),D,21041,1,"POLLEY, Helen",Australian Labor Party,63
+TAS,192,Bass,8616,Legana (Bass),D,21459,2,"URQUHART, Anne",Australian Labor Party,8
+TAS,192,Bass,8616,Legana (Bass),D,21488,3,"SINGH, Lisa",Australian Labor Party,17
+TAS,192,Bass,8616,Legana (Bass),E,22059,0,E Ticket Votes,Shooters and Fishers,20
+TAS,192,Bass,8616,Legana (Bass),E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,4
+TAS,192,Bass,8616,Legana (Bass),E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,192,Bass,8616,Legana (Bass),F,22051,0,F Ticket Votes,Australian Greens,219
+TAS,192,Bass,8616,Legana (Bass),F,20801,1,"MILNE, Christine",Australian Greens,63
+TAS,192,Bass,8616,Legana (Bass),F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,10
+TAS,192,Bass,8616,Legana (Bass),F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,192,Bass,8616,Legana (Bass),G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8616,Legana (Bass),G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,8616,Legana (Bass),G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8616,Legana (Bass),H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,8
+TAS,192,Bass,8616,Legana (Bass),H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,8616,Legana (Bass),H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8616,Legana (Bass),I,22058,0,I Ticket Votes,Family First,12
+TAS,192,Bass,8616,Legana (Bass),I,21916,1,"ZUBIC, Jim",Family First,5
+TAS,192,Bass,8616,Legana (Bass),I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,1
+TAS,192,Bass,8616,Legana (Bass),J,22054,0,J Ticket Votes,The Climate Sceptics,1
+TAS,192,Bass,8616,Legana (Bass),J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,192,Bass,8616,Legana (Bass),J,21746,2,"COSTELLA, Sally",The Climate Sceptics,1
+TAS,192,Bass,8616,Legana (Bass),UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,192,Bass,8616,Legana (Bass),ZZ,0,99,INFORMAL,,43
+TAS,192,Bass,8864,Rocherlea,A,22057,0,A Ticket Votes,Senator On-Line,5
+TAS,192,Bass,8864,Rocherlea,A,21856,1,"MURRAY, Julie",Senator On-Line,4
+TAS,192,Bass,8864,Rocherlea,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,8864,Rocherlea,B,22053,0,B Ticket Votes,Australian Democrats,5
+TAS,192,Bass,8864,Rocherlea,B,21756,1,"HUTTON, Paulene",Australian Democrats,1
+TAS,192,Bass,8864,Rocherlea,B,21759,2,"NEAL, Timothy",Australian Democrats,2
+TAS,192,Bass,8864,Rocherlea,C,22052,0,C Ticket Votes,Liberal,119
+TAS,192,Bass,8864,Rocherlea,C,21538,1,"ABETZ, Eric",Liberal,9
+TAS,192,Bass,8864,Rocherlea,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,192,Bass,8864,Rocherlea,C,21628,3,"BARNETT, Guy",Liberal,20
+TAS,192,Bass,8864,Rocherlea,D,22055,0,D Ticket Votes,Australian Labor Party,362
+TAS,192,Bass,8864,Rocherlea,D,21041,1,"POLLEY, Helen",Australian Labor Party,48
+TAS,192,Bass,8864,Rocherlea,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,192,Bass,8864,Rocherlea,D,21488,3,"SINGH, Lisa",Australian Labor Party,8
+TAS,192,Bass,8864,Rocherlea,E,22059,0,E Ticket Votes,Shooters and Fishers,12
+TAS,192,Bass,8864,Rocherlea,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,3
+TAS,192,Bass,8864,Rocherlea,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,3
+TAS,192,Bass,8864,Rocherlea,F,22051,0,F Ticket Votes,Australian Greens,70
+TAS,192,Bass,8864,Rocherlea,F,20801,1,"MILNE, Christine",Australian Greens,20
+TAS,192,Bass,8864,Rocherlea,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,6
+TAS,192,Bass,8864,Rocherlea,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,8864,Rocherlea,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,8864,Rocherlea,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,192,Bass,8864,Rocherlea,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,8864,Rocherlea,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,5
+TAS,192,Bass,8864,Rocherlea,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8864,Rocherlea,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,8864,Rocherlea,I,22058,0,I Ticket Votes,Family First,13
+TAS,192,Bass,8864,Rocherlea,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,192,Bass,8864,Rocherlea,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,8864,Rocherlea,J,22054,0,J Ticket Votes,The Climate Sceptics,2
+TAS,192,Bass,8864,Rocherlea,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,8864,Rocherlea,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,8864,Rocherlea,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,192,Bass,8864,Rocherlea,ZZ,0,99,INFORMAL,,42
+TAS,192,Bass,11665,Prospect Vale,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,192,Bass,11665,Prospect Vale,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,192,Bass,11665,Prospect Vale,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,11665,Prospect Vale,B,22053,0,B Ticket Votes,Australian Democrats,4
+TAS,192,Bass,11665,Prospect Vale,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,11665,Prospect Vale,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,11665,Prospect Vale,C,22052,0,C Ticket Votes,Liberal,472
+TAS,192,Bass,11665,Prospect Vale,C,21538,1,"ABETZ, Eric",Liberal,19
+TAS,192,Bass,11665,Prospect Vale,C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,192,Bass,11665,Prospect Vale,C,21628,3,"BARNETT, Guy",Liberal,38
+TAS,192,Bass,11665,Prospect Vale,D,22055,0,D Ticket Votes,Australian Labor Party,399
+TAS,192,Bass,11665,Prospect Vale,D,21041,1,"POLLEY, Helen",Australian Labor Party,33
+TAS,192,Bass,11665,Prospect Vale,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,192,Bass,11665,Prospect Vale,D,21488,3,"SINGH, Lisa",Australian Labor Party,19
+TAS,192,Bass,11665,Prospect Vale,E,22059,0,E Ticket Votes,Shooters and Fishers,15
+TAS,192,Bass,11665,Prospect Vale,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,192,Bass,11665,Prospect Vale,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,1
+TAS,192,Bass,11665,Prospect Vale,F,22051,0,F Ticket Votes,Australian Greens,105
+TAS,192,Bass,11665,Prospect Vale,F,20801,1,"MILNE, Christine",Australian Greens,30
+TAS,192,Bass,11665,Prospect Vale,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,1
+TAS,192,Bass,11665,Prospect Vale,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,11665,Prospect Vale,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,11665,Prospect Vale,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,192,Bass,11665,Prospect Vale,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,3
+TAS,192,Bass,11665,Prospect Vale,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,3
+TAS,192,Bass,11665,Prospect Vale,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,11665,Prospect Vale,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,11665,Prospect Vale,I,22058,0,I Ticket Votes,Family First,9
+TAS,192,Bass,11665,Prospect Vale,I,21916,1,"ZUBIC, Jim",Family First,3
+TAS,192,Bass,11665,Prospect Vale,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,11665,Prospect Vale,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,11665,Prospect Vale,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,11665,Prospect Vale,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,11665,Prospect Vale,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,192,Bass,11665,Prospect Vale,ZZ,0,99,INFORMAL,,26
+TAS,192,Bass,30183,Divisional Office (PREPOLL),A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,192,Bass,30183,Divisional Office (PREPOLL),A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),B,22053,0,B Ticket Votes,Australian Democrats,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,192,Bass,30183,Divisional Office (PREPOLL),C,22052,0,C Ticket Votes,Liberal,53
+TAS,192,Bass,30183,Divisional Office (PREPOLL),C,21538,1,"ABETZ, Eric",Liberal,5
+TAS,192,Bass,30183,Divisional Office (PREPOLL),C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),C,21628,3,"BARNETT, Guy",Liberal,8
+TAS,192,Bass,30183,Divisional Office (PREPOLL),D,22055,0,D Ticket Votes,Australian Labor Party,63
+TAS,192,Bass,30183,Divisional Office (PREPOLL),D,21041,1,"POLLEY, Helen",Australian Labor Party,5
+TAS,192,Bass,30183,Divisional Office (PREPOLL),D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),D,21488,3,"SINGH, Lisa",Australian Labor Party,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),E,22059,0,E Ticket Votes,Shooters and Fishers,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,1
+TAS,192,Bass,30183,Divisional Office (PREPOLL),E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),F,22051,0,F Ticket Votes,Australian Greens,26
+TAS,192,Bass,30183,Divisional Office (PREPOLL),F,20801,1,"MILNE, Christine",Australian Greens,6
+TAS,192,Bass,30183,Divisional Office (PREPOLL),F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,3
+TAS,192,Bass,30183,Divisional Office (PREPOLL),F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),I,22058,0,I Ticket Votes,Family First,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,30183,Divisional Office (PREPOLL),ZZ,0,99,INFORMAL,,7
+TAS,192,Bass,33084,Summerhill,A,22057,0,A Ticket Votes,Senator On-Line,8
+TAS,192,Bass,33084,Summerhill,A,21856,1,"MURRAY, Julie",Senator On-Line,9
+TAS,192,Bass,33084,Summerhill,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,33084,Summerhill,B,22053,0,B Ticket Votes,Australian Democrats,11
+TAS,192,Bass,33084,Summerhill,B,21756,1,"HUTTON, Paulene",Australian Democrats,3
+TAS,192,Bass,33084,Summerhill,B,21759,2,"NEAL, Timothy",Australian Democrats,1
+TAS,192,Bass,33084,Summerhill,C,22052,0,C Ticket Votes,Liberal,924
+TAS,192,Bass,33084,Summerhill,C,21538,1,"ABETZ, Eric",Liberal,73
+TAS,192,Bass,33084,Summerhill,C,21558,2,"PARRY, Stephen Shane",Liberal,8
+TAS,192,Bass,33084,Summerhill,C,21628,3,"BARNETT, Guy",Liberal,121
+TAS,192,Bass,33084,Summerhill,D,22055,0,D Ticket Votes,Australian Labor Party,1301
+TAS,192,Bass,33084,Summerhill,D,21041,1,"POLLEY, Helen",Australian Labor Party,143
+TAS,192,Bass,33084,Summerhill,D,21459,2,"URQUHART, Anne",Australian Labor Party,11
+TAS,192,Bass,33084,Summerhill,D,21488,3,"SINGH, Lisa",Australian Labor Party,33
+TAS,192,Bass,33084,Summerhill,E,22059,0,E Ticket Votes,Shooters and Fishers,64
+TAS,192,Bass,33084,Summerhill,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,5
+TAS,192,Bass,33084,Summerhill,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,4
+TAS,192,Bass,33084,Summerhill,F,22051,0,F Ticket Votes,Australian Greens,331
+TAS,192,Bass,33084,Summerhill,F,20801,1,"MILNE, Christine",Australian Greens,90
+TAS,192,Bass,33084,Summerhill,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,8
+TAS,192,Bass,33084,Summerhill,F,20805,3,"ANN, Penelope",Australian Greens,4
+TAS,192,Bass,33084,Summerhill,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,33084,Summerhill,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,33084,Summerhill,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,1
+TAS,192,Bass,33084,Summerhill,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,14
+TAS,192,Bass,33084,Summerhill,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,2
+TAS,192,Bass,33084,Summerhill,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,2
+TAS,192,Bass,33084,Summerhill,I,22058,0,I Ticket Votes,Family First,36
+TAS,192,Bass,33084,Summerhill,I,21916,1,"ZUBIC, Jim",Family First,7
+TAS,192,Bass,33084,Summerhill,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,4
+TAS,192,Bass,33084,Summerhill,J,22054,0,J Ticket Votes,The Climate Sceptics,5
+TAS,192,Bass,33084,Summerhill,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,192,Bass,33084,Summerhill,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,1
+TAS,192,Bass,33084,Summerhill,UG,21964,1,"OTTAVI, Dino",Independent,3
+TAS,192,Bass,33084,Summerhill,ZZ,0,99,INFORMAL,,134
+TAS,192,Bass,33647,Special Hospital Team 1,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,192,Bass,33647,Special Hospital Team 1,A,21856,1,"MURRAY, Julie",Senator On-Line,1
+TAS,192,Bass,33647,Special Hospital Team 1,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,33647,Special Hospital Team 1,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,192,Bass,33647,Special Hospital Team 1,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,33647,Special Hospital Team 1,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,33647,Special Hospital Team 1,C,22052,0,C Ticket Votes,Liberal,120
+TAS,192,Bass,33647,Special Hospital Team 1,C,21538,1,"ABETZ, Eric",Liberal,5
+TAS,192,Bass,33647,Special Hospital Team 1,C,21558,2,"PARRY, Stephen Shane",Liberal,2
+TAS,192,Bass,33647,Special Hospital Team 1,C,21628,3,"BARNETT, Guy",Liberal,15
+TAS,192,Bass,33647,Special Hospital Team 1,D,22055,0,D Ticket Votes,Australian Labor Party,69
+TAS,192,Bass,33647,Special Hospital Team 1,D,21041,1,"POLLEY, Helen",Australian Labor Party,4
+TAS,192,Bass,33647,Special Hospital Team 1,D,21459,2,"URQUHART, Anne",Australian Labor Party,2
+TAS,192,Bass,33647,Special Hospital Team 1,D,21488,3,"SINGH, Lisa",Australian Labor Party,1
+TAS,192,Bass,33647,Special Hospital Team 1,E,22059,0,E Ticket Votes,Shooters and Fishers,1
+TAS,192,Bass,33647,Special Hospital Team 1,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,192,Bass,33647,Special Hospital Team 1,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,33647,Special Hospital Team 1,F,22051,0,F Ticket Votes,Australian Greens,18
+TAS,192,Bass,33647,Special Hospital Team 1,F,20801,1,"MILNE, Christine",Australian Greens,1
+TAS,192,Bass,33647,Special Hospital Team 1,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,192,Bass,33647,Special Hospital Team 1,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,33647,Special Hospital Team 1,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,33647,Special Hospital Team 1,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,33647,Special Hospital Team 1,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,33647,Special Hospital Team 1,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,2
+TAS,192,Bass,33647,Special Hospital Team 1,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,33647,Special Hospital Team 1,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,33647,Special Hospital Team 1,I,22058,0,I Ticket Votes,Family First,3
+TAS,192,Bass,33647,Special Hospital Team 1,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,33647,Special Hospital Team 1,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,33647,Special Hospital Team 1,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,33647,Special Hospital Team 1,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,33647,Special Hospital Team 1,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,33647,Special Hospital Team 1,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,33647,Special Hospital Team 1,ZZ,0,99,INFORMAL,,8
+TAS,192,Bass,33894,Special Hospital Team 2,A,22057,0,A Ticket Votes,Senator On-Line,1
+TAS,192,Bass,33894,Special Hospital Team 2,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,192,Bass,33894,Special Hospital Team 2,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,33894,Special Hospital Team 2,B,22053,0,B Ticket Votes,Australian Democrats,2
+TAS,192,Bass,33894,Special Hospital Team 2,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,33894,Special Hospital Team 2,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,33894,Special Hospital Team 2,C,22052,0,C Ticket Votes,Liberal,75
+TAS,192,Bass,33894,Special Hospital Team 2,C,21538,1,"ABETZ, Eric",Liberal,2
+TAS,192,Bass,33894,Special Hospital Team 2,C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,192,Bass,33894,Special Hospital Team 2,C,21628,3,"BARNETT, Guy",Liberal,3
+TAS,192,Bass,33894,Special Hospital Team 2,D,22055,0,D Ticket Votes,Australian Labor Party,61
+TAS,192,Bass,33894,Special Hospital Team 2,D,21041,1,"POLLEY, Helen",Australian Labor Party,2
+TAS,192,Bass,33894,Special Hospital Team 2,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,192,Bass,33894,Special Hospital Team 2,D,21488,3,"SINGH, Lisa",Australian Labor Party,0
+TAS,192,Bass,33894,Special Hospital Team 2,E,22059,0,E Ticket Votes,Shooters and Fishers,0
+TAS,192,Bass,33894,Special Hospital Team 2,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,192,Bass,33894,Special Hospital Team 2,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,33894,Special Hospital Team 2,F,22051,0,F Ticket Votes,Australian Greens,17
+TAS,192,Bass,33894,Special Hospital Team 2,F,20801,1,"MILNE, Christine",Australian Greens,1
+TAS,192,Bass,33894,Special Hospital Team 2,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,192,Bass,33894,Special Hospital Team 2,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,33894,Special Hospital Team 2,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,33894,Special Hospital Team 2,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,33894,Special Hospital Team 2,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,33894,Special Hospital Team 2,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,33894,Special Hospital Team 2,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,33894,Special Hospital Team 2,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,33894,Special Hospital Team 2,I,22058,0,I Ticket Votes,Family First,1
+TAS,192,Bass,33894,Special Hospital Team 2,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,33894,Special Hospital Team 2,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,33894,Special Hospital Team 2,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,33894,Special Hospital Team 2,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,33894,Special Hospital Team 2,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,33894,Special Hospital Team 2,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,33894,Special Hospital Team 2,ZZ,0,99,INFORMAL,,5
+TAS,192,Bass,33895,Special Hospital Team 3,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,192,Bass,33895,Special Hospital Team 3,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,192,Bass,33895,Special Hospital Team 3,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,33895,Special Hospital Team 3,B,22053,0,B Ticket Votes,Australian Democrats,0
+TAS,192,Bass,33895,Special Hospital Team 3,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,33895,Special Hospital Team 3,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,33895,Special Hospital Team 3,C,22052,0,C Ticket Votes,Liberal,46
+TAS,192,Bass,33895,Special Hospital Team 3,C,21538,1,"ABETZ, Eric",Liberal,0
+TAS,192,Bass,33895,Special Hospital Team 3,C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,192,Bass,33895,Special Hospital Team 3,C,21628,3,"BARNETT, Guy",Liberal,4
+TAS,192,Bass,33895,Special Hospital Team 3,D,22055,0,D Ticket Votes,Australian Labor Party,29
+TAS,192,Bass,33895,Special Hospital Team 3,D,21041,1,"POLLEY, Helen",Australian Labor Party,2
+TAS,192,Bass,33895,Special Hospital Team 3,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,192,Bass,33895,Special Hospital Team 3,D,21488,3,"SINGH, Lisa",Australian Labor Party,1
+TAS,192,Bass,33895,Special Hospital Team 3,E,22059,0,E Ticket Votes,Shooters and Fishers,0
+TAS,192,Bass,33895,Special Hospital Team 3,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,192,Bass,33895,Special Hospital Team 3,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,33895,Special Hospital Team 3,F,22051,0,F Ticket Votes,Australian Greens,1
+TAS,192,Bass,33895,Special Hospital Team 3,F,20801,1,"MILNE, Christine",Australian Greens,0
+TAS,192,Bass,33895,Special Hospital Team 3,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,192,Bass,33895,Special Hospital Team 3,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,33895,Special Hospital Team 3,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,33895,Special Hospital Team 3,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,33895,Special Hospital Team 3,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,33895,Special Hospital Team 3,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,1
+TAS,192,Bass,33895,Special Hospital Team 3,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,33895,Special Hospital Team 3,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,33895,Special Hospital Team 3,I,22058,0,I Ticket Votes,Family First,0
+TAS,192,Bass,33895,Special Hospital Team 3,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,33895,Special Hospital Team 3,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,33895,Special Hospital Team 3,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,33895,Special Hospital Team 3,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,33895,Special Hospital Team 3,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,33895,Special Hospital Team 3,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,33895,Special Hospital Team 3,ZZ,0,99,INFORMAL,,5
+TAS,192,Bass,33896,Special Hospital Team 4,A,22057,0,A Ticket Votes,Senator On-Line,0
+TAS,192,Bass,33896,Special Hospital Team 4,A,21856,1,"MURRAY, Julie",Senator On-Line,3
+TAS,192,Bass,33896,Special Hospital Team 4,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,33896,Special Hospital Team 4,B,22053,0,B Ticket Votes,Australian Democrats,3
+TAS,192,Bass,33896,Special Hospital Team 4,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,33896,Special Hospital Team 4,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,33896,Special Hospital Team 4,C,22052,0,C Ticket Votes,Liberal,162
+TAS,192,Bass,33896,Special Hospital Team 4,C,21538,1,"ABETZ, Eric",Liberal,4
+TAS,192,Bass,33896,Special Hospital Team 4,C,21558,2,"PARRY, Stephen Shane",Liberal,1
+TAS,192,Bass,33896,Special Hospital Team 4,C,21628,3,"BARNETT, Guy",Liberal,12
+TAS,192,Bass,33896,Special Hospital Team 4,D,22055,0,D Ticket Votes,Australian Labor Party,82
+TAS,192,Bass,33896,Special Hospital Team 4,D,21041,1,"POLLEY, Helen",Australian Labor Party,6
+TAS,192,Bass,33896,Special Hospital Team 4,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,192,Bass,33896,Special Hospital Team 4,D,21488,3,"SINGH, Lisa",Australian Labor Party,1
+TAS,192,Bass,33896,Special Hospital Team 4,E,22059,0,E Ticket Votes,Shooters and Fishers,1
+TAS,192,Bass,33896,Special Hospital Team 4,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,192,Bass,33896,Special Hospital Team 4,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,33896,Special Hospital Team 4,F,22051,0,F Ticket Votes,Australian Greens,21
+TAS,192,Bass,33896,Special Hospital Team 4,F,20801,1,"MILNE, Christine",Australian Greens,2
+TAS,192,Bass,33896,Special Hospital Team 4,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,1
+TAS,192,Bass,33896,Special Hospital Team 4,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,33896,Special Hospital Team 4,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,33896,Special Hospital Team 4,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,33896,Special Hospital Team 4,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,33896,Special Hospital Team 4,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,33896,Special Hospital Team 4,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,33896,Special Hospital Team 4,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,33896,Special Hospital Team 4,I,22058,0,I Ticket Votes,Family First,2
+TAS,192,Bass,33896,Special Hospital Team 4,I,21916,1,"ZUBIC, Jim",Family First,1
+TAS,192,Bass,33896,Special Hospital Team 4,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,33896,Special Hospital Team 4,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,33896,Special Hospital Team 4,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,33896,Special Hospital Team 4,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,33896,Special Hospital Team 4,UG,21964,1,"OTTAVI, Dino",Independent,1
+TAS,192,Bass,33896,Special Hospital Team 4,ZZ,0,99,INFORMAL,,9
+TAS,192,Bass,33906,Launceston BASS PPVC,A,22057,0,A Ticket Votes,Senator On-Line,4
+TAS,192,Bass,33906,Launceston BASS PPVC,A,21856,1,"MURRAY, Julie",Senator On-Line,3
+TAS,192,Bass,33906,Launceston BASS PPVC,A,21858,2,"WIENER, Sven",Senator On-Line,1
+TAS,192,Bass,33906,Launceston BASS PPVC,B,22053,0,B Ticket Votes,Australian Democrats,10
+TAS,192,Bass,33906,Launceston BASS PPVC,B,21756,1,"HUTTON, Paulene",Australian Democrats,2
+TAS,192,Bass,33906,Launceston BASS PPVC,B,21759,2,"NEAL, Timothy",Australian Democrats,3
+TAS,192,Bass,33906,Launceston BASS PPVC,C,22052,0,C Ticket Votes,Liberal,924
+TAS,192,Bass,33906,Launceston BASS PPVC,C,21538,1,"ABETZ, Eric",Liberal,51
+TAS,192,Bass,33906,Launceston BASS PPVC,C,21558,2,"PARRY, Stephen Shane",Liberal,6
+TAS,192,Bass,33906,Launceston BASS PPVC,C,21628,3,"BARNETT, Guy",Liberal,151
+TAS,192,Bass,33906,Launceston BASS PPVC,D,22055,0,D Ticket Votes,Australian Labor Party,818
+TAS,192,Bass,33906,Launceston BASS PPVC,D,21041,1,"POLLEY, Helen",Australian Labor Party,87
+TAS,192,Bass,33906,Launceston BASS PPVC,D,21459,2,"URQUHART, Anne",Australian Labor Party,6
+TAS,192,Bass,33906,Launceston BASS PPVC,D,21488,3,"SINGH, Lisa",Australian Labor Party,23
+TAS,192,Bass,33906,Launceston BASS PPVC,E,22059,0,E Ticket Votes,Shooters and Fishers,38
+TAS,192,Bass,33906,Launceston BASS PPVC,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,8
+TAS,192,Bass,33906,Launceston BASS PPVC,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,4
+TAS,192,Bass,33906,Launceston BASS PPVC,F,22051,0,F Ticket Votes,Australian Greens,481
+TAS,192,Bass,33906,Launceston BASS PPVC,F,20801,1,"MILNE, Christine",Australian Greens,162
+TAS,192,Bass,33906,Launceston BASS PPVC,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,19
+TAS,192,Bass,33906,Launceston BASS PPVC,F,20805,3,"ANN, Penelope",Australian Greens,2
+TAS,192,Bass,33906,Launceston BASS PPVC,G,22056,0,G Ticket Votes,Secular Party of Australia,0
+TAS,192,Bass,33906,Launceston BASS PPVC,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,1
+TAS,192,Bass,33906,Launceston BASS PPVC,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,4
+TAS,192,Bass,33906,Launceston BASS PPVC,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,13
+TAS,192,Bass,33906,Launceston BASS PPVC,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,33906,Launceston BASS PPVC,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,2
+TAS,192,Bass,33906,Launceston BASS PPVC,I,22058,0,I Ticket Votes,Family First,23
+TAS,192,Bass,33906,Launceston BASS PPVC,I,21916,1,"ZUBIC, Jim",Family First,4
+TAS,192,Bass,33906,Launceston BASS PPVC,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,2
+TAS,192,Bass,33906,Launceston BASS PPVC,J,22054,0,J Ticket Votes,The Climate Sceptics,7
+TAS,192,Bass,33906,Launceston BASS PPVC,J,21743,1,"WALLER, Frank",The Climate Sceptics,1
+TAS,192,Bass,33906,Launceston BASS PPVC,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,33906,Launceston BASS PPVC,UG,21964,1,"OTTAVI, Dino",Independent,6
+TAS,192,Bass,33906,Launceston BASS PPVC,ZZ,0,99,INFORMAL,,37
+TAS,192,Bass,58646,Special Hospital Team 5,A,22057,0,A Ticket Votes,Senator On-Line,3
+TAS,192,Bass,58646,Special Hospital Team 5,A,21856,1,"MURRAY, Julie",Senator On-Line,0
+TAS,192,Bass,58646,Special Hospital Team 5,A,21858,2,"WIENER, Sven",Senator On-Line,0
+TAS,192,Bass,58646,Special Hospital Team 5,B,22053,0,B Ticket Votes,Australian Democrats,0
+TAS,192,Bass,58646,Special Hospital Team 5,B,21756,1,"HUTTON, Paulene",Australian Democrats,0
+TAS,192,Bass,58646,Special Hospital Team 5,B,21759,2,"NEAL, Timothy",Australian Democrats,0
+TAS,192,Bass,58646,Special Hospital Team 5,C,22052,0,C Ticket Votes,Liberal,55
+TAS,192,Bass,58646,Special Hospital Team 5,C,21538,1,"ABETZ, Eric",Liberal,4
+TAS,192,Bass,58646,Special Hospital Team 5,C,21558,2,"PARRY, Stephen Shane",Liberal,0
+TAS,192,Bass,58646,Special Hospital Team 5,C,21628,3,"BARNETT, Guy",Liberal,4
+TAS,192,Bass,58646,Special Hospital Team 5,D,22055,0,D Ticket Votes,Australian Labor Party,65
+TAS,192,Bass,58646,Special Hospital Team 5,D,21041,1,"POLLEY, Helen",Australian Labor Party,0
+TAS,192,Bass,58646,Special Hospital Team 5,D,21459,2,"URQUHART, Anne",Australian Labor Party,0
+TAS,192,Bass,58646,Special Hospital Team 5,D,21488,3,"SINGH, Lisa",Australian Labor Party,0
+TAS,192,Bass,58646,Special Hospital Team 5,E,22059,0,E Ticket Votes,Shooters and Fishers,0
+TAS,192,Bass,58646,Special Hospital Team 5,E,21943,1,"WILLIAMS, Ray",Shooters and Fishers,0
+TAS,192,Bass,58646,Special Hospital Team 5,E,21953,2,"BLACKMORE, Jeff",Shooters and Fishers,0
+TAS,192,Bass,58646,Special Hospital Team 5,F,22051,0,F Ticket Votes,Australian Greens,6
+TAS,192,Bass,58646,Special Hospital Team 5,F,20801,1,"MILNE, Christine",Australian Greens,2
+TAS,192,Bass,58646,Special Hospital Team 5,F,20802,2,"WHISH-WILSON, Peter Stuart",Australian Greens,0
+TAS,192,Bass,58646,Special Hospital Team 5,F,20805,3,"ANN, Penelope",Australian Greens,0
+TAS,192,Bass,58646,Special Hospital Team 5,G,22056,0,G Ticket Votes,Secular Party of Australia,1
+TAS,192,Bass,58646,Special Hospital Team 5,G,21676,1,"KEOGH, Jeff",Secular Party of Australia,0
+TAS,192,Bass,58646,Special Hospital Team 5,G,21679,2,"CHOI, Jin-oh",Secular Party of Australia,0
+TAS,192,Bass,58646,Special Hospital Team 5,H,22060,0,H Ticket Votes,Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,58646,Special Hospital Team 5,H,21972,1,"GORA, Mishka",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,58646,Special Hospital Team 5,H,21975,2,"WILLIAMS, Margaret Mary",Democratic Labor Party (DLP) of Australia,0
+TAS,192,Bass,58646,Special Hospital Team 5,I,22058,0,I Ticket Votes,Family First,1
+TAS,192,Bass,58646,Special Hospital Team 5,I,21916,1,"ZUBIC, Jim",Family First,0
+TAS,192,Bass,58646,Special Hospital Team 5,I,21917,2,"WOODCOCK, Hamish McKinnon",Family First,0
+TAS,192,Bass,58646,Special Hospital Team 5,J,22054,0,J Ticket Votes,The Climate Sceptics,0
+TAS,192,Bass,58646,Special Hospital Team 5,J,21743,1,"WALLER, Frank",The Climate Sceptics,0
+TAS,192,Bass,58646,Special Hospital Team 5,J,21746,2,"COSTELLA, Sally",The Climate Sceptics,0
+TAS,192,Bass,58646,Special Hospital Team 5,UG,21964,1,"OTTAVI, Dino",Independent,0
+TAS,192,Bass,58646,Special Hospital Team 5,ZZ,0,99,INFORMAL,,7
