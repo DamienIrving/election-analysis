@@ -3,6 +3,7 @@ Functions for analysing election data.
 
 """
 
+import pdb
 import glob
 
 import pandas as pd
@@ -29,7 +30,9 @@ def create_electorate_df(electorate, year, remove_prepoll=False):
     # Votes
     raw_votes_df = pd.read_csv(votes_file, skiprows=1)
     totals = raw_votes_df.groupby('PollingPlaceID').OrdinaryVotes.sum()
-    greens_totals = raw_votes_df[raw_votes_df.PartyNm == 'The Greens'].groupby('PollingPlaceID').OrdinaryVotes.sum()
+    
+    party_names = ['The Greens', 'Australian Greens']
+    greens_totals = raw_votes_df[raw_votes_df.PartyNm.isin(party_names)].groupby('PollingPlaceID').OrdinaryVotes.sum()
 
     totals_dict = {'PollingPlaceID': totals.index.values,
                    'DivisionNm': [electorate] * len(totals),
