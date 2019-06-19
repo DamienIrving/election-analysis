@@ -23,7 +23,10 @@ def prepoll_filter(polling_place_name):
 def create_electorate_df(electorate, year, remove_prepoll=False):
     """Create DataFrame from AEC data files"""
     
-    polling_place_file = 'data/Fed19-GeneralPollingPlacesDownload-24310.csv'
+    #polling_pattern = 'data/Fed' + str(year)[2:] + '*'
+    polling_pattern = 'data/Fed19*'
+    polling_place_file = glob.glob(polling_pattern)[0]
+    
     file_pattern = 'data/' + electorate + str(year)[2:] + '*'
     votes_file = glob.glob(file_pattern)[0]
     
