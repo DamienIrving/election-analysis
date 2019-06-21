@@ -6,9 +6,14 @@ Functions for analysing election data.
 import pdb
 import glob
 
+import warnings
+warnings.filterwarnings('ignore')
+
 import pandas as pd
 import geoviews as gv
 from geoviews import dim
+#import cartopy.crs as ccrs
+#from geoviews import opts, tile_sources as gvts
 
 
 def prepoll_filter(polling_place_name):
@@ -109,18 +114,23 @@ def vote_plot_setup(df, backend, electorate=None, color_range=None):
                              title='Greens senate primary vote, 2019 Federal Election',
                              clabel='%', xaxis=None, yaxis=None)
                              #size=dim('TotalVotes')*0.015,
+        background = gv.tile_sources.Wikipedia
+        
     else:
         points = points.opts(color='GreensPercentage', cmap='Greens', s=30,
                              padding=0.1, colorbar=True,
                              title='Greens senate primary vote, 2019 Federal Election',
                              clabel='%', xaxis=None, yaxis=None)
+        #background = gvts.CartoEco
+        #background = background.opts(zoom=7, projection=ccrs.PlateCarree())
+
+        background = gv.tile_sources.Wikipedia
+        #background = background.opts(zoom=10)
     
     if color_range:
         points = points.redim.range(GreensPercentage=color_range)  
-    
-    tiles = gv.tile_sources.Wikipedia
-    
-    return tiles, points
+
+    return points * background
 
 
 def swing_plot_setup(df, backend, electorate=None, color_range=None):
@@ -148,6 +158,6 @@ def swing_plot_setup(df, backend, electorate=None, color_range=None):
     if color_range:
         points = points.redim.range(Swing=color_range)    
 
-    tiles = gv.tile_sources.Wikipedia
+    background = gv.tile_sources.Wikipedia
     
-    return tiles, points
+    return points * background
