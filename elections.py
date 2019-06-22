@@ -58,7 +58,7 @@ def create_electorate_df(electorate, year, remove_prepoll=False):
     polling_place_df = polling_place_df.set_index('PollingPlaceID')
     
     # Join
-    df = polling_place_df.join(votes_df).dropna()
+    df = polling_place_df.join(votes_df)
     df = df.sort_values(by=['GreensPercentage'], ascending=False)
     
     if remove_prepoll:
@@ -134,7 +134,12 @@ def vote_plot_setup(df, backend, electorate=None, color_range=None):
 
 
 def swing_plot_setup(df, backend, electorate=None, color_range=None):
-    """Setup for plotting the swing"""
+    """Setup for plotting the swing.
+    
+    This will remove all polling places that don't exist 
+    in both the current and previous election.
+    
+    """
     
     assert backend in ['bokeh']
     
