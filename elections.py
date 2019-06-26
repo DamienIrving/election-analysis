@@ -16,6 +16,8 @@ from geoviews import dim
 #from geoviews import opts, tile_sources as gvts
 
 
+party_names = ['The Greens', 'Australian Greens']
+
 def prepoll_filter(polling_place_name):
     if ('PPVC' in polling_place_name) or ('PREPOLL' in polling_place_name):
         not_prepoll = False
@@ -25,21 +27,22 @@ def prepoll_filter(polling_place_name):
     return not_prepoll
 
 
-def create_electorate_df(electorate, year, remove_prepoll=False):
-    """Create DataFrame from AEC data files"""
+def read_polling_place_data(electorate, year, remove_prepoll=False):
+    """Create DataFrame from AEC senate first preference polling place data files"""
     
-    #polling_pattern = 'data/Fed' + str(year)[2:] + '*'
-    polling_pattern = 'data/Fed19*'
+    assert year in [2019, 2016, 2013, 2010]
+    
+    #polling_pattern = 'data/Fed' + str(year)[2:] + '-GeneralPollingPlacesDownload*'
+    polling_pattern = 'data/Fed19-GeneralPollingPlacesDownload*'
     polling_place_file = glob.glob(polling_pattern)[0]
     
-    file_pattern = 'data/' + electorate + str(year)[2:] + '*'
+    file_pattern = 'data/' + electorate + str(year)[2:] + '-SenateDivisionFirstPrefsByPollingPlaceDownload*'
     votes_file = glob.glob(file_pattern)[0]
     
     # Votes
     raw_votes_df = pd.read_csv(votes_file, skiprows=1)
     totals = raw_votes_df.groupby('PollingPlaceID').OrdinaryVotes.sum()
     
-    party_names = ['The Greens', 'Australian Greens']
     greens_totals = raw_votes_df[raw_votes_df.PartyNm.isin(party_names)].groupby('PollingPlaceID').OrdinaryVotes.sum()
 
     totals_dict = {'PollingPlaceID': totals.index.values,
@@ -50,7 +53,7 @@ def create_electorate_df(electorate, year, remove_prepoll=False):
     
     votes_df = pd.DataFrame(totals_dict)
     votes_df = votes_df.set_index('PollingPlaceID')
-
+    
     # Polling places
     raw_polling_place_df = pd.read_csv(polling_place_file, skiprows=1)
     polling_place_df = raw_polling_place_df[raw_polling_place_df['DivisionNm'] == electorate]
@@ -68,7 +71,30 @@ def create_electorate_df(electorate, year, remove_prepoll=False):
     return df
 
 
-def get_swing(df_current, df_previous):
+def read_vote_type_data(year):
+    """Create DataFrame from AEC senate first preference vote type data files"""
+
+    assert year in [2019, 2016, 2013, 2010]
+    
+    file_pattern = 'data/Fed' + str(year)[2:] + '-SenateFirstPrefsByDivisionByVoteTypeDownload*'
+    votes_type_file = glob.glob(file_pattern)[0]
+        
+    raw_votes_df = pd.read_csv(votes_type_file, skiprows=1)
+    
+    party_names = ['The Greens', 'Australian Greens']
+    greens_totals = raw_votes_df[raw_votes_df.PartyName.isin(party_names)].groupby('DivisionNm')
+    greens_totals = greens_totals['OrdinaryVotes', 'AbsentVotes', 'ProvisionalVotes',
+                                  'PrePollVotes', 'PostalVotes', 'TotalVotes'].sum()
+
+    totals = raw_votes_df.groupby('DivisionNm')['OrdinaryVotes', 'AbsentVotes', 'ProvisionalVotes',
+                                                'PrePollVotes', 'PostalVotes', 'TotalVotes'].sum()
+
+    df = greens_totals.join(totals, lsuffix='Greens', rsuffix='Total')
+    
+    return df
+
+
+def get_polling_place_swing(df_current, df_previous):
     """Calculate the swing between two elections"""
     
     df = df_current.join(df_previous['GreensPercentage'], rsuffix='Previous')
@@ -78,23 +104,23 @@ def get_swing(df_current, df_previous):
     return df
 
 
-def create_mega_df(electorate_list, current_year, previous_year, remove_prepoll=False):
-    """Create a dataframe containing many electorates."""
+def mega_polling_place_df(electorate_list, current_year, previous_year, remove_prepoll=False):
+    """Create a dataframe containing polling place data for many electorates."""
     
     df_list = []
     for electorate in electorate_list:
-        df_current = create_electorate_df(electorate, current_year,
-                                          remove_prepoll=remove_prepoll)
-        df_previous = create_electorate_df(electorate, previous_year,
-                                           remove_prepoll=remove_prepoll)
-        df_swing = get_swing(df_current, df_previous)
+        df_current = read_polling_place_data(electorate, current_year,
+                                             remove_prepoll=remove_prepoll)
+        df_previous = read_polling_place_data(electorate, previous_year,
+                                              remove_prepoll=remove_prepoll)
+        df_swing = get_polling_place_swing(df_current, df_previous)
         df_list.append(df_swing)
     
     return pd.concat(df_list)
 
 
-def vote_plot_setup(df, backend, electorate=None, color_range=None):
-    """Setup for plotting the vote."""
+def plot_polling_place_vote(df, backend, electorate=None, color_range=None):
+    """Setup for plotting the vote at each polling place."""
     
     assert backend in ['bokeh', 'matplotlib']
     
@@ -133,8 +159,8 @@ def vote_plot_setup(df, backend, electorate=None, color_range=None):
     return points * background
 
 
-def swing_plot_setup(df, backend, electorate=None, color_range=None):
-    """Setup for plotting the swing.
+def plot_polling_place_swing(df, backend, electorate=None, color_range=None):
+    """Setup for plotting the swing at each polling place.
     
     This will remove all polling places that don't exist 
     in both the current and previous election.
@@ -166,3 +192,50 @@ def swing_plot_setup(df, backend, electorate=None, color_range=None):
     background = gv.tile_sources.Wikipedia
     
     return points * background
+
+def print_vote_type_by_electorate(vote_type, current_year, previous_year):
+    """Print electorate senate result for a given vote type """
+
+    assert current_year in [2019, 2016, 2013, 2010]
+    assert previous_year in [2019, 2016, 2013, 2010]
+    assert vote_type in ['OrdinaryVotes', 'AbsentVotes', 'ProvisionalVotes',
+                         'PrePollVotes', 'PostalVotes', 'TotalVotes']
+    
+    print('## ' + vote_type + ' stats, ' + str(current_year) + ' vs ' + str(previous_year))
+    
+    electorates = ['Bass', 'Braddon', 'Clark', 'Franklin', 'Lyons']
+    green_votes_current_sum = 0
+    total_votes_current_sum = 0
+    green_votes_previous_sum = 0
+    total_votes_previous_sum = 0
+    for electorate in electorates:
+        df_current = read_vote_type_data(current_year)
+        green_votes_current = df_current.loc[electorate][vote_type + 'Greens']
+        total_votes_current = df_current.loc[electorate][vote_type + 'Total']
+        percentage_current = (green_votes_current / total_votes_current) * 100
+
+        df_previous = read_vote_type_data(previous_year)
+        green_votes_previous = df_previous.loc[electorate][vote_type + 'Greens']
+        total_votes_previous = df_previous.loc[electorate][vote_type + 'Total']
+        percentage_previous = (green_votes_previous / total_votes_previous) * 100
+
+        swing = percentage_current - percentage_previous
+
+        print(electorate.upper())
+        print('vote:', str(percentage_current.round(2)) + '%')
+        print('swing:', str(swing.round(2)) + '%')
+
+        green_votes_current_sum = green_votes_current_sum + green_votes_current
+        total_votes_current_sum = total_votes_current_sum + total_votes_current
+        green_votes_previous_sum = green_votes_previous_sum + green_votes_previous
+        total_votes_previous_sum = total_votes_previous_sum + total_votes_previous
+
+    percentage_current_tas = (green_votes_current_sum / total_votes_current_sum) * 100 
+    percentage_previous_tas = (green_votes_previous_sum / total_votes_previous_sum) * 100
+
+    swing = percentage_current_tas - percentage_previous_tas
+
+    print('TASMANIA')
+    print('vote:', str(percentage_current_tas.round(2)) + '%')
+    print('swing:', str(swing.round(2)) + '%')
+    
