@@ -81,7 +81,7 @@ def read_vote_type_data(year):
         
     raw_votes_df = pd.read_csv(votes_type_file, skiprows=1)
     
-    party_names = ['The Greens', 'Australian Greens']
+    party_names = ['The Greens', 'Australian Greens', 'The Greens (VIC)', 'The Greens (WA)']
     greens_totals = raw_votes_df[raw_votes_df.PartyName.isin(party_names)].groupby('DivisionNm')
     greens_totals = greens_totals['OrdinaryVotes', 'AbsentVotes', 'ProvisionalVotes',
                                   'PrePollVotes', 'PostalVotes', 'TotalVotes'].sum()
