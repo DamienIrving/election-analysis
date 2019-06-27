@@ -119,7 +119,7 @@ def mega_polling_place_df(electorate_list, current_year, previous_year, remove_p
     return pd.concat(df_list)
 
 
-def plot_polling_place_vote(df, backend, electorate=None, color_range=None):
+def plot_polling_place_vote(df, backend, year, electorate=None, color_range=None):
     """Setup for plotting the vote at each polling place."""
     
     assert backend in ['bokeh', 'matplotlib']
@@ -133,11 +133,15 @@ def plot_polling_place_vote(df, backend, electorate=None, color_range=None):
     points = votes.to(gv.Points, ['Longitude', 'Latitude'],
                       ['PollingPlaceNm', 'GreensVotes', 'TotalVotes', 'GreensPercentage'])
 
+    title = 'Greens senate primary vote, %s Federal Election' %(str(year))
+    if electorate:
+        title = title + ' (' + electorate +')'
+        
     if backend == 'bokeh':
         points = points.opts(color='GreensPercentage', cmap='Greens', size=10, 
                              tools=['hover'], width=600, height=600, padding=0.1,
                              colorbar=True, line_color='black',
-                             title='Greens senate primary vote, 2019 Federal Election',
+                             title=title,
                              clabel='%', xaxis=None, yaxis=None)
                              #size=dim('TotalVotes')*0.015,
         background = gv.tile_sources.Wikipedia
@@ -145,7 +149,7 @@ def plot_polling_place_vote(df, backend, electorate=None, color_range=None):
     else:
         points = points.opts(color='GreensPercentage', cmap='Greens', s=30,
                              padding=0.1, colorbar=True,
-                             title='Greens senate primary vote, 2019 Federal Election',
+                             title=title,
                              clabel='%', xaxis=None, yaxis=None)
         #background = gvts.CartoEco
         #background = background.opts(zoom=7, projection=ccrs.PlateCarree())
@@ -159,7 +163,7 @@ def plot_polling_place_vote(df, backend, electorate=None, color_range=None):
     return points * background
 
 
-def plot_polling_place_swing(df, backend, electorate=None, color_range=None):
+def plot_polling_place_swing(df, backend, year, electorate=None, color_range=None):
     """Setup for plotting the swing at each polling place.
     
     This will remove all polling places that don't exist 
@@ -178,11 +182,15 @@ def plot_polling_place_swing(df, backend, electorate=None, color_range=None):
     points = votes.to(gv.Points, ['Longitude', 'Latitude'],
                       ['PollingPlaceNm', 'TotalVotes', 'GreensVotes', 'Swing'])
 
+    title = 'Greens senate swing, %s Federal Election' %(str(year))
+    if electorate:
+        title = title + ' (' + electorate +')'
+        
     if backend == 'bokeh':
         points = points.opts(color='Swing', cmap='RdBu_r', size=10,
                              tools=['hover'], width=600, height=600, padding=0.1,
                              colorbar=True, line_color='black',
-                             title='Greens senate swing, 2019 vs 2016 Federal Election',
+                             title=title,
                              clabel='%', xaxis=None, yaxis=None)
                             # size=dim('GreensVotes')*0.1
 
@@ -192,6 +200,7 @@ def plot_polling_place_swing(df, backend, electorate=None, color_range=None):
     background = gv.tile_sources.Wikipedia
     
     return points * background
+
 
 def print_vote_type_by_electorate(vote_type, current_year, previous_year):
     """Print electorate senate result for a given vote type """
@@ -222,8 +231,10 @@ def print_vote_type_by_electorate(vote_type, current_year, previous_year):
         swing = percentage_current - percentage_previous
 
         print(electorate.upper())
-        print('vote:', str(percentage_current.round(2)) + '%')
-        print('swing:', str(swing.round(2)) + '%')
+        print('Greens votes:', green_votes_current)
+        print('Total votes:', total_votes_current)
+        print('Percentage:', str(percentage_current.round(2)) + '%')
+        print('Swing:', str(swing.round(2)) + '%')
 
         green_votes_current_sum = green_votes_current_sum + green_votes_current
         total_votes_current_sum = total_votes_current_sum + total_votes_current
@@ -236,6 +247,8 @@ def print_vote_type_by_electorate(vote_type, current_year, previous_year):
     swing = percentage_current_tas - percentage_previous_tas
 
     print('TASMANIA')
-    print('vote:', str(percentage_current_tas.round(2)) + '%')
-    print('swing:', str(swing.round(2)) + '%')
+    print('Greens votes:', green_votes_current_sum)
+    print('Total votes:', total_votes_current_sum)
+    print('Percentage:', str(percentage_current_tas.round(2)) + '%')
+    print('Swing:', str(swing.round(2)) + '%')
     
