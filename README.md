@@ -10,4 +10,6 @@ The equivalent "Tally Room" pages for previous elections are [here](https://resu
 
 The shape files for electorate boundaries are [here](https://www.aec.gov.au/Electorates/gis/gis_datadownload.htm).
 
+You can search an address and get the corresponding local, state and federal electorates at [MyReps Tasmania](https://www.tec.tas.gov.au/Services/MyReps/Index.php).
+
  
