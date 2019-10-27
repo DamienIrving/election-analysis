@@ -60,6 +60,11 @@ def read_polling_place_data(electorate, year, remove_prepoll=False):
     polling_place_df = polling_place_df[['PollingPlaceID', 'PollingPlaceNm', 'PremisesNm', 'Latitude', 'Longitude']]
     polling_place_df = polling_place_df.set_index('PollingPlaceID')
     
+    extra_df = pd.read_csv('data/polling_place_electorates.csv', skiprows=0)
+    extra_df = extra_df.set_index('PollingPlaceID')
+    extra_df = extra_df[['LegCo', 'LocalCouncil']]
+    polling_place_df = polling_place_df.join(extra_df)
+    
     # Join
     df = polling_place_df.join(votes_df)
     df = df.sort_values(by=['GreensPercentage'], ascending=False)
