@@ -1,6 +1,7 @@
 DivisionNm,LegCo,LocalCouncil,PollingPlaceID,PollingPlaceNm,PremisesNm,PremisesAddress,PremisesSuburb,PremisesPostCode,Latitude,Longitude
 Bass,Rosevears,West Tamar,8553,Beaconsfield,Beaconsfield Senior Citizens' Hall,121 Weld St,BEACONSFIELD,7270,-41.2024,146.819
 Bass,Rosevears,West Tamar,8608,Beauty Point,Tamar Yacht Club,1 Wharf Rd,BEAUTY POINT,7270,-41.1574613,146.822319
+Bass,Windermere,Launceston City,,Blessington Upper,North Esk Memorial Hall,3132 Blessington Rd,BLESSINGTON,7212,-41.48243,147.50494
 Bass,McIntyre,Dorset,8290,Branxholm,Branxholm Community Hall,Stoke St,BRANXHOLM,7261,-41.165606,147.73648
 Bass,McIntyre,Dorset,8291,Bridport,Bridport Hall,Main St,BRIDPORT,7262,-41.0026,147.395
 Bass,McIntyre,Dorset,8295,Derby,Derby Town Hall,1 Krushka St,DERBY,7264,-41.14933,147.80236
@@ -43,13 +44,18 @@ Bass,McIntyre,Dorset,8335,Ringarooma,Ringarooma Hall,4 Charles St,RINGAROOMA,726
 Bass,Rosevears,West Tamar,8336,Riverside,Launceston Christian School,452a West Tamar Rd,RIVERSIDE,7250,-41.4005824,147.0913273
 Bass,Rosevears,West Tamar,,Riverside,Riverside High School,354 West Tamar Hwy,RIVERSIDE,7250,-41.40936,147.09861
 Bass,Rosevears,West Tamar,97468,Riverside North,Riverside Gospel Chapel,453 West Tamar Rd,RIVERSIDE,7250,-41.40312,147.0890916
+Bass,Rosevears,West Tamar,,Riverside West,Trevallyn Life Church,34 Pitt Ave,TREVALLYN,7250,-41.4301,147.106
 Bass,Windermere,Launceston City,8864,Rocherlea,Brooks High School,215 George Town Rd,ROCHERLEA,7248,-41.3785314,147.1215034
 Bass,Windermere,Launceston City,8339,St Leonards,St Leonards Primary School,330-342 St Leonards Rd,ST LEONARDS,7250,-41.4597,147.2
 Bass,McIntyre,Dorset,8340,Scottsdale,Scottsdale High School,20 Coplestone Rd,SCOTTSDALE,7260,-41.1571174,147.5086738
+Bass,McIntyre,Dorset,,Scottsdale,St Barnabas' Church Hall,55 King St,SCOTTSDALE,7260,-41.16255,147.51491
 Bass,Rosevears,West Tamar,8671,Sidmouth,Sidmouth Community Centre,255 Batman Hwy,SIDMOUTH,7270,-41.2221,146.887
 Bass,Rosevears,Launceston City,8330,South Launceston,Door of Hope,50 Glen Dhu Street,LAUNCESTON,7250,-41.4552869,147.1404286
+Bass,Rosevears,Launceston City,,South Launceston,Launceston RSL,313-315 Wellington St,LAUNCESTON,7250,-41.45296,147.14393
+Bass,Rosevears,Launceston City,,Summerhill,Summerdale Community Centre,82-84 Stanley St,SUMMERHILL,7250,-41.4683,147.12971
 Bass,Rosevears,Launceston City,33084,Summerhill,Summerhill Baptist Church,87 Stanley St,SUMMERHILL,7250,-41.4657984,147.1272384
 Bass,Rosevears,West Tamar,8338,Trevallyn,Trevallyn Life Church,34 Pitt Ave,TREVALLYN,7250,-41.4301,147.106
+Bass,Rosevears,West Tamar,,Trevallyn,Trevallyn Primary School,55 Gorge Rd,TREVALLYN,7250,-41.4381,147.115
 Bass,Rosevears,West Tamar,8342,Trevallyn Central,Trevallyn Primary School,55 Gorge Rd,TREVALLYN,7250,-41.4381,147.115
 Bass,Windermere,Launceston City,8344,Waverley,Waverley School Hall,6 Naroo St,WAVERLEY,7250,-41.4321,147.19
 Bass,Rosevears,Launceston City,8293,West Launceston,West Launceston Primary School,24-38 Basin Rd,WEST LAUNCESTON,7250,-41.4492,147.129
