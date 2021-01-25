@@ -1,0 +1,37 @@
+﻿PollingPlaceName,Locality,Polling Place Address,PremiseName,PremiseAddress1,PremiseAddress2,PremiseLocality,PremisePostcode,PremiseState,LocationWithinPremise,AccessToLocation,Disabled Access
+Austins Ferry,Austins Ferry,"St Virgil's College, 195 Main Rd, AUSTINS FERRY TAS 7011",St Virgil's College,195 Main Rd,,Austins Ferry,7011,TAS,,,None
+Battery Point West,Battery Point,"Albuera Street Primary School, Albuera St, BATTERY POINT TAS 7004",Albuera Street Primary School,Albuera St,,Battery Point,7004,TAS,,,None
+Chigwell,Chigwell,"Chigwell Barn, 10 Bucaan St, CHIGWELL TAS 7011",Chigwell Barn,10 Bucaan St,,Chigwell,7011,TAS,,,Assistance
+Roseneath,Claremont,"Austins Ferry Primary School, 13 Brodie St, CLAREMONT TAS 7011",Austins Ferry Primary School,13 Brodie St,,Claremont,7011,TAS,,,Full
+Claremont,Claremont,"Claremont Girl Guides Hall, 3 Boxhill Rd, CLAREMONT TAS 7011",Claremont Girl Guides Hall,3 Boxhill Rd,,Claremont,7011,TAS,,,Assistance
+Windermere,Claremont,"Windermere Primary School, 2 Cadbury Rd, CLAREMONT TAS 7011",Windermere Primary School,2 Cadbury Rd,,Claremont,7011,TAS,Hall / Multi Purpose Room,,Full
+Collinsvale,Collinsvale,"Collinsvale Primary School, 508 Collinsvale Rd, COLLINSVALE TAS 7012",Collinsvale Primary School,508 Collinsvale Rd,,Collinsvale,7012,TAS,GP Room,,Assistance
+Dynnyrne,Dynnyrne,"Princes Street Primary School, Randall St, SANDY BAY TAS 7005",Princes Street Primary School,Randall St,,Sandy Bay,7005,TAS,,,Assistance
+Fern Tree,Fern Tree,"Fern Tree Fire Station, 7 Summerleas Rd, FERN TREE TAS 7054",Fern Tree Fire Station,7 Summerleas Rd,,Fern Tree,7054,TAS,,,None
+Glenorchy,Glenorchy,"Glenorchy Primary School, Kensington St, GLENORCHY TAS 7010",Glenorchy Primary School,Kensington St,,Glenorchy,7010,TAS,Gym,,Assistance
+Glenorchy Central,Glenorchy,"St Matthews Church, Cnr Tolosa St and Main Rd, GLENORCHY TAS 7010",St Matthews Church,Cnr Tolosa St and Main Rd,,Glenorchy,7010,TAS,,,Assistance
+Merton,Glenorchy,"Tolosa Hall, 148 Tolosa St, GLENORCHY TAS 7010",Tolosa Hall,148 Tolosa St,,Glenorchy,7010,TAS,,,Assistance
+Goodwood,Goodwood,"Goodwood Primary School, Elmsleigh Rd, MOONAH TAS 7009",Goodwood Primary School,Elmsleigh Rd,,Moonah,7009,TAS,Gym,,Full
+Hobart City,Hobart,"Hobart Voting Centre, Ground Level, 144 Macquarie St, HOBART TAS 7000",Hobart Voting Centre,Ground Level,144 Macquarie St,Hobart,7000,TAS,,,Assistance
+West Hobart,Hobart,"St Peter's Hall, Cnr Brisbane/Harrington Sts, HOBART TAS 7000",St Peter's Hall,Cnr Brisbane/Harrington Sts,,Hobart,7000,TAS,,,None
+Lenah Valley,Lenah Valley,"Lenah Valley Primary School, 11 Creek Rd, LENAH VALLEY TAS 7008",Lenah Valley Primary School,11 Creek Rd,,Lenah Valley,7008,TAS,Hall,Colebrook St,Assistance
+Lutana,Lutana,"Southern ITF Taekwon-Do, 12 Ashbolt Cres, LUTANA TAS 7009",Southern ITF Taekwon-Do,12 Ashbolt Cres,,Lutana,7009,TAS,Church,,None
+Moonah East,Moonah,"Bowen Road Primary School, 35 Bowen Rd, MOONAH TAS 7009",Bowen Road Primary School,35 Bowen Rd,,Moonah,7009,TAS,Gym,,Assistance
+Moonah North,Moonah,"Moonah Primary School, 40 Derwent Park Rd, DERWENT PARK TAS 7009",Moonah Primary School,40 Derwent Park Rd,,Derwent Park,7009,TAS,Hall,,Assistance
+Moonah,Moonah,"Salvation Army Community Centre, 73 Hopkins St, MOONAH TAS 7009",Salvation Army Community Centre,73 Hopkins St,,Moonah,7009,TAS,Youth Hall & Kitchen,back of street frontage,Assistance
+Mount Nelson,Mount Nelson,"Mt Nelson Primary School, 388 Nelson Rd, MOUNT NELSON TAS 7007",Mt Nelson Primary School,388 Nelson Rd,,Mount Nelson,7007,TAS,School Hall,,Assistance
+Mount Stuart,Mount Stuart,"Mt Stuart Primary School, 106 Gillon Cres, MOUNT STUART TAS 7000",Mt Stuart Primary School,106 Gillon Cres,,Mount Stuart,7000,TAS,,,None
+New Town,New Town,"Friends Junior School Hall, 393 Argyle St, NORTH HOBART TAS 7000",Friends Junior School Hall,393 Argyle St,,North Hobart,7000,TAS,Frank Wells Hall,,Assistance
+New Town West,New Town,"Sacred Heart College, 2 Cross St, NEW TOWN TAS 7008",Sacred Heart College,2 Cross St,,New Town,7008,TAS,,,None
+North Hobart Central,North Hobart,"Hobart North Uniting Church, Swan St, NORTH HOBART TAS 7000",Hobart North Uniting Church,Swan St,,North Hobart,7000,TAS,Cross/Hopkins & foyer,,Assistance
+Rosetta,Rosetta,"Montrose Bay High School, 865 Brooker Ave, ROSETTA TAS 7010",Montrose Bay High School,865 Brooker Ave,,Rosetta,7010,TAS,Gym,Foreshore Rd Glenorchy,Assistance
+Battery Point,Sandy Bay,"10th Hobart Scout Hall, Marieville Esp, SANDY BAY TAS 7005",10th Hobart Scout Hall,Marieville Esp,,Sandy Bay,7005,TAS,,,Assistance
+Sandy Bay Beach,Sandy Bay,"Harold Gregg Centre, 1 Southerwood Dr, SANDY BAY TAS 7005",Harold Gregg Centre,1 Southerwood Dr,,Sandy Bay,7005,TAS,,,Assistance
+Lower Sandy Bay,Sandy Bay,"Sandy Bay Infant School, 568 Sandy Bay Rd, SANDY BAY TAS 7005",Sandy Bay Infant School,568 Sandy Bay Rd,,Sandy Bay,7005,TAS,General Purpose Hall,,Full
+Waimea Heights,Sandy Bay,"Waimea Heights Primary School, 12 Balfour Ct, SANDY BAY TAS 7005",Waimea Heights Primary School,12 Balfour Ct,,Sandy Bay,7005,TAS,,,None
+Sandy Bay,Sandy Bay,"Wellspring Anglican Church Hall, 43-47 Grosvenor St, SANDY BAY TAS 7005",Wellspring Anglican Church Hall,43-47 Grosvenor St,,Sandy Bay,7005,TAS,,,Assistance
+Cascades,South Hobart,"Badminton Association Centre, 101 Cascade Rd, SOUTH HOBART TAS 7004",Badminton Association Centre,101 Cascade Rd,,South Hobart,7004,TAS,,,None
+South Hobart,South Hobart,"St Francis Xavier's Church Hall, 34 Angelsea St, SOUTH HOBART TAS 7004",St Francis Xavier's Church Hall,34 Angelsea St,,South Hobart,7004,TAS,,,Assistance
+Taroona,Taroona,"Taroona Primary School, 104 Channel Hwy, TAROONA TAS 7053",Taroona Primary School,104 Channel Hwy,,Taroona,7053,TAS,GP Hall,,Assistance
+West Hobart South,West Hobart,"Goulburn Street Primary School, Forest Rd, WEST HOBART TAS 7000",Goulburn Street Primary School,Forest Rd,,West Hobart,7000,TAS,,,None
+West Hobart Central,West Hobart,"Lansdowne Crescent Primary School, 15 Gourlay St, WEST HOBART TAS 7000",Lansdowne Crescent Primary School,15 Gourlay St,,West Hobart,7000,TAS,,,Assistance
