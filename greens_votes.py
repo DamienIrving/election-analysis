@@ -21,7 +21,14 @@ def merge_polling_place_info(polling_places,
         print(polling_place)
         ref_polling_place = polling_place.split('(')[0].strip()
     
-        election_info = election_polling_place_df[election_polling_place_df['PollingPlaceName'] == polling_place]
+        if polling_place in election_polling_place_df['PollingPlaceName'].to_list():
+            selection = election_polling_place_df['PollingPlaceName'] == polling_place
+        else:
+            assert ref_polling_place in election_polling_place_df['PollingPlaceName'].to_list(), \
+            'Polling place name mismatch'
+            selection = election_polling_place_df['PollingPlaceName'] == ref_polling_place
+        election_info = election_polling_place_df[selection]
+        
         election_address = election_info['PremiseAddress1'].values[0] + ', ' + election_info['PremiseLocality'].values[0].upper()
         election_premises = election_info['PremiseName'].values[0]
         print(f'Election polling place: {election_premises}, {election_address}')
