@@ -2,14 +2,17 @@
 
 import argparse
 import pandas as pd
+import pdb
 
 
 def merge_polling_place_info(polling_places,
                              election_polling_place_df,
-                             ref_polling_place_df):
+                             ref_polling_place_df,
+                             division):
     """Merge election day and reference polling place info."""
     
     merge_dict = {}
+    merge_dict['division'] = []
     merge_dict['legco'] = []
     merge_dict['council'] = []
     merge_dict['address'] = []
@@ -34,6 +37,9 @@ def merge_polling_place_info(polling_places,
         print(f'Election polling place: {election_premises}, {election_address}')
     
         ref_info = ref_polling_place_df[ref_polling_place_df['PollingPlaceNm'] == ref_polling_place]
+        div_ref_info = ref_info[ref_info['DivisionNm'] == division]
+        if not div_ref_info.empty:
+            ref_info = div_ref_info
         address_match = False
         premises_match = False
         for index, ref_match in ref_info.iterrows():
@@ -46,6 +52,7 @@ def merge_polling_place_info(polling_places,
                 address = ref_match['PremisesAddress']
                 suburb = ref_match['PremisesSuburb']
                 postcode = ref_match['PremisesPostCode']
+                merge_dict['division'].append(ref_match['DivisionNm'])
                 merge_dict['legco'].append(ref_match['LegCo'])
                 merge_dict['council'].append(ref_match['LocalCouncil'])
                 merge_dict['premises'].append(ref_match['PremisesNm'])
@@ -74,10 +81,11 @@ def main(args):
     ref_polling_place_df = pd.read_csv(args.reference_polling_places, na_filter=False)
     merge_dict = merge_polling_place_info(polling_places,
                                           election_polling_place_df,
-                                          ref_polling_place_df)
+                                          ref_polling_place_df,
+                                          args.division)
     
     votes_dict = {'PollingPlaceNm': polling_places,
-                  'DivisionNm': [args.division] * len(polling_places),
+                  'DivisionNm':  merge_dict['division'],
                   'GreensVotes': greens_votes,
                   'TotalVotes': total_votes,
                   'GreensPercentage': greens_pct,
