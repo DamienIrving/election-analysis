@@ -1,73 +1,74 @@
-ABBOTSHAM, Abbotsham Public Hall, 590 Castra Rd
-ACTON, Burnie Child and Family Centre, 36 Thorne Street
-BOAT HARBOUR, Boat Harbour Primary School, 17386 Bass Hwy
-BURNIE, Burnie City Council Offices, 80 Wilson St
-CALDER, Calder Public Hall, 1320 Calder Rd
-COOEE, Cooee Primary School, Fidler St
-CURRIE, Currie Town Hall, Cnr Meech & George Sts
-DEVONPORT, Addison Street Scout Hall, 11 Addison Street
-DEVONPORT, East Devonport Primary School, 19 Thomas St
-DEVONPORT, Mersey Bluff Church of Christ, 232 William St
-DEVONPORT, Mersey Rowing Club, 52 River Rd
-DEVONPORT, Nixon St Primary School, Nixon St
-DEVONPORT, Reece High School, 41-43 Middle Rd
-DEVONPORT, School of Special Education, 113 Middle Rd
-DEVONPORT, St Johns Parish Hall, Fenton St
-DEVONPORT, TasTafe, 20 Valley Rd
-DON, Don Memorial Hall, 17 Forth Rd
-EDITH CREEK, Edith Creek Primary School, 1282 Trowutta Rd
-ELLIOTT, Elliott Community Centre, 829 Murchison Hwy
-FOREST, Forest Primary School, 422 Mengha Rd
-FORTH, Forth Primary School, 45 Wilmot Road
-GAWLER, Gawler Public Hall, 15 Top Gawler Rd
-GRASSY, Grassy Club, 10 Grassy Rd
-GUNNS PLAINS, Gunns Plains Community Hall, 957 Gunns Plains Rd
-HAVENVIEW, Havenview Primary School, 15 Marriott St
-HEYBRIDGE, Blythe Heads Public Hall, Sice Ave
-HIGHCLERE, Highclere Community Centre, 1558 Ridgley Hwy
-IRISHTOWN, Irishtown Lodge Arthur Temple, 604 Irishtown Rd
-LATROBE, Latrobe Primary School, Lewis Street
-MARRAWAH, Marrawah Memorial Hall, 844 Comeback Rd
-MAWBANNA, Mawbanna Memorial Hall, 1444 Mawbanna Rd
-MELROSE, Melrose Memorial Hall, 673 Melrose Rd
-MONTAGU, Montagu Fire Station, Montagu Rd
-MONTELLO, Montello Primary School, Bird St
-MOORLEAH, Moorleah Community Centre, 720 Preolenna Rd
-NATONE, Natone Primary School, 100 Upper Natone Rd
-NORTH MOTTON, North Motton Community Hall, 578 Preston Rd
-PENGUIN, Penguin Uniting Church Hall, 50 Main Rd
-PRESTON, Preston Community Centre, 1833 Preston Rd
-QUEENSTOWN, Queenstown Memorial Hall, 53 Orr St
-REEKARA, Reekara Community Complex, 2249 North Rd
-RIANA, Riana Community Centre, 1221 Pine Rd
-RIDGLEY, Ridgley Primary School, 904 Ridgley Hwy
-ROCKY CAPE, Rocky Cape Public Hall, 19074 Bass Hwy
-ROMAINE, Romaine Park Primary School, Cnr Roslyn Avenue and Mount Street
-ROSEBERY, Rosebery Neighbourhood Centre, 8 Agnes Street
-SAVAGE RIVER, Grange Resources Lodge, Corinna Rd
-SHOREWELL PARK, Tasmanian Academy - Hellyer College, Mooreville Rd
-SISTERS BEACH, Sisters Beach Fire Station, Honeysuckle Ave
-SISTERS CREEK, Sisters Creek Community Hall, 17894 Bass Hwy
-SMITHTON, Smithton Uniting Church Hall, 45 Goldie St
-SOMERSET, Somerset Primary School, 30a Beaufort St
-SOUTH BURNIE, SES Burnie Unit, 9 Wellington Street
-SOUTH RIANA, South Riana Public Hall, 776 South Riana Rd
-SPRENT, Sprent Primary School, 1245 Castra Rd
-SPREYTON, Spreyton Primary School, 1 Mersey Main Rd
-STANLEY, Stanley Primary School, Wilson St
-STOWPORT, Stowport Public Hall, 580 Stowport Rd
-STRAHAN, Strahan Fire Station, 18 Reid St
-SULPHUR CREEK, Sulphur Creek Memorial Hall, Preservation Dr
-TOGARI, Togari Community Centre, 7 Salmon River Rd
-TULLAH, Tullah Fire Station, Farrell St
-TURNERS BEACH, Turners Beach Community Centre, Henry St
-ULVERSTONE, East Ulverstone Primary School, 18 Crawford St
-ULVERSTONE, Ulverstone Guide Hall, 34 Main St
-ULVERSTONE, Ulverstone High School, 38 Leven St
-WARATAH, Waratah Municipal Chambers, 12-14 Smith St
-WEST ULVERSTONE, West Ulverstone Primary School, 34 Maud St
-WIVENHOE, Wivenhoe Campus Leighland Christian School, Stowport Rd
-WYNYARD, Senior Citizens Clubrooms, 28 Jackson St
-WYNYARD, Wynyard High School, 30 Church St
-YOLLA, Yolla District High School, School La
-ZEEHAN, Zeehan Primary School, 7 Belstead St
+PollingPlaceName,PremiseName,PremiseAddress1,PremiseLocality
+Abbotsham, Abbotsham Public Hall, 590 Castra Rd,ABBOTSHAM
+Acton, Burnie Child and Family Centre, 36 Thorne Street,ACTON
+Boat Harbour, Boat Harbour Primary School, 17386 Bass Hwy,BOAT HARBOUR
+Burnie, Burnie City Council Offices, 80 Wilson St,BURNIE
+Calder, Calder Public Hall, 1320 Calder Rd,CALDER
+Cooee, Cooee Primary School, Fidler St,COOEE
+Currie, Currie Town Hall, Cnr Meech & George Sts,CURRIE
+Devonport, Addison Street Scout Hall, 11 Addison Street,DEVONPORT
+East Devonport, East Devonport Primary School, 19 Thomas St,DEVONPORT
+Devonport North, Mersey Bluff Church of Christ, 232 William St,DEVONPORT
+Ambleside, Mersey Rowing Club, 52 River Rd,DEVONPORT
+Devonport North West, Nixon St Primary School, Nixon St,DEVONPORT
+Devonport South, Reece High School, 41-43 Middle Rd,DEVONPORT
+Miandetta, School of Special Education, 113 Middle Rd,DEVONPORT
+Devonport Central, St Johns Parish Hall, Fenton St,DEVONPORT
+Devonport West, TasTafe, 20 Valley Rd,DEVONPORT
+Don, Don Memorial Hall, 17 Forth Rd,DON
+Edith Creek, Edith Creek Primary School, 1282 Trowutta Rd,EDITH CREEK
+Elliott, Elliott Community Centre, 829 Murchison Hwy,ELLIOTT
+Forest, Forest Primary School, 422 Mengha Rd,FOREST
+Forth, Forth Primary School, 45 Wilmot Road,FORTH
+Gawler, Gawler Public Hall, 15 Top Gawler Rd,GAWLER
+Grassy, Grassy Club, 10 Grassy Rd,GRASSY
+Gunns Plains, Gunns Plains Community Hall, 957 Gunns Plains Rd,GUNNS PLAINS
+Havenview, Havenview Primary School, 15 Marriott St,HAVENVIEW
+Heybridge, Blythe Heads Public Hall, Sice Ave,HEYBRIDGE
+Highclere, Highclere Community Centre, 1558 Ridgley Hwy,HIGHCLERE
+Irishtown, Irishtown Lodge Arthur Temple, 604 Irishtown Rd,IRISHTOWN
+Latrobe, Latrobe Primary School, Lewis Street,LATROBE
+Marrawah, Marrawah Memorial Hall, 844 Comeback Rd,MARRAWAH
+Mawbanna, Mawbanna Memorial Hall, 1444 Mawbanna Rd,MAWBANNA
+Melrose, Melrose Memorial Hall, 673 Melrose Rd,MELROSE
+Montagu, Montagu Fire Station, Montagu Rd,MONTAGU
+Montello, Montello Primary School, Bird St,MONTELLO
+Moorleah, Moorleah Community Centre, 720 Preolenna Rd,MOORLEAH
+Natone, Natone Primary School, 100 Upper Natone Rd,NATONE
+North Motton, North Motton Community Hall, 578 Preston Rd,NORTH MOTTON
+Penguin, Penguin Uniting Church Hall, 50 Main Rd,PENGUIN
+Preston, Preston Community Centre, 1833 Preston Rd,PRESTON
+Queenstown, Queenstown Memorial Hall, 53 Orr St,QUEENSTOWN
+Reekara, Reekara Community Complex, 2249 North Rd,REEKARA
+Riana, Riana Community Centre, 1221 Pine Rd,RIANA
+Ridgley, Ridgley Primary School, 904 Ridgley Hwy,RIDGLEY
+Rocky Cape, Rocky Cape Public Hall, 19074 Bass Hwy,ROCKY CAPE
+Romaine, Romaine Park Primary School, Cnr Roslyn Avenue and Mount Street,ROMAINE
+Rosebery, Rosebery Neighbourhood Centre, 8 Agnes Street,ROSEBERY
+Savage River, Grange Resources Lodge, Corinna Rd,SAVAGE RIVER
+Shorewell Park, Tasmanian Academy - Hellyer College, Mooreville Rd,SHOREWELL PARK
+Sisters Beach, Sisters Beach Fire Station, Honeysuckle Ave,SISTERS BEACH
+Sisters Creek, Sisters Creek Community Hall, 17894 Bass Hwy,SISTERS CREEK
+Smithton, Smithton Uniting Church Hall, 45 Goldie St,SMITHTON
+Somerset, Somerset Primary School, 30a Beaufort St,SOMERSET
+South Burnie, SES Burnie Unit, 9 Wellington Street,SOUTH BURNIE
+South Riana, South Riana Public Hall, 776 South Riana Rd,SOUTH RIANA
+Sprent, Sprent Primary School, 1245 Castra Rd,SPRENT
+Spreyton, Spreyton Primary School, 1 Mersey Main Rd,SPREYTON
+Stanley, Stanley Primary School, Wilson St,STANLEY
+Stowport, Stowport Public Hall, 580 Stowport Rd,STOWPORT
+Strahan, Strahan Fire Station, 18 Reid St,STRAHAN
+Sulphur Creek, Sulphur Creek Memorial Hall, Preservation Dr,SULPHUR CREEK
+Togari, Togari Community Centre, 7 Salmon River Rd,TOGARI
+Tullah, Tullah Fire Station, Farrell St,TULLAH
+Turners Beach, Turners Beach Community Centre, Henry St,TURNERS BEACH
+Ulverstone East, East Ulverstone Primary School, 18 Crawford St,ULVERSTONE
+Ulverstone Central, Ulverstone Guide Hall, 34 Main St,ULVERSTONE
+Ulverstone South, Ulverstone High School, 38 Leven St,ULVERSTONE
+Waratah, Waratah Municipal Chambers, 12-14 Smith St,WARATAH
+West Ulverstone, West Ulverstone Primary School, 34 Maud St,WEST ULVERSTONE
+Wivenhoe, Wivenhoe Campus Leighland Christian School, Stowport Rd,WIVENHOE
+Wynyard Central, Senior Citizens Clubrooms, 28 Jackson St,WYNYARD
+Wynyard West, Wynyard High School, 30 Church St,WYNYARD
+Yolla, Yolla District High School, School La,YOLLA
+Zeehan, Zeehan Primary School, 7 Belstead St,ZEEHAN

@@ -75,6 +75,7 @@ Bass,McIntyre,Dorset,8349,Winnaleah,Winnaleah Memorial Hall,20 Main St,WINNALEAH
 Bass,Launceston,Launceston City,8350,Youngtown,Youngtown Primary School,Victoria St,YOUNGTOWN,7249,-41.4823,147.164
 Braddon,Montgomery,Central Coast,8358,Abbotsham,Abbotsham Hall,590 Castra Rd,ABBOTSHAM,7315,-41.2135,146.174
 Braddon,Montgomery,Burnie City,8359,Acton,Burnie Child and Family Centre,36 Thorne St,ACTON,7320,-41.07264,145.89229
+Braddon,Mersey,Devonport City,,Ambleside,Mersey Rowing Club,52 River Rd,AMBLESIDE,7310,-41.19720933,146.3671715
 Braddon,Murchison,Waratah-Wynyard,8362,Boat Harbour,Boat Harbour Primary School,17386 Bass Hwy,BOAT HARBOUR,7321,-40.9452,145.636
 Braddon,Murchison,Burnie City,8365,Burnie,Burnie City Council Offices,80 Wilson St,BURNIE,7320,-41.0532,145.906
 Braddon,Murchison,Waratah-Wynyard,8367,Calder,Calder Hall,1320 Calder Rd,CALDER,7325,-41.0685,145.631
@@ -83,6 +84,7 @@ Braddon,Murchison,King Island,8370,Currie,Currie Town Hall,10 George St,CURRIE,7
 Braddon,Mersey,Devonport City,83767,Devonport,Addison Street Scout Hall,11 Addison St,DEVONPORT,7310,-41.1737,146.344
 Braddon,Mersey,Devonport City,8371,Devonport Central,Old Devonport Regional Gallery,45 Stewart St,DEVONPORT,7310,-41.179983,146.3598459
 Braddon,Mersey,Devonport City,,Devonport Central,St Johns Parish Hall,Fenton St,DEVONPORT,7310,-41.178994,146.3582738
+Braddon,Mersey,Devonport City,,Devonport North,Mersey Bluff Church of Christ,232 William St,DEVONPORT,7310,-41.16671713,146.3537429
 Braddon,Mersey,Devonport City,8401,Devonport North West,Nixon Street Primary School,60 Nixon St,DEVONPORT,7310,-41.1728,146.337
 Braddon,Mersey,Devonport City,34286,Devonport South,Reece High School,41-43 Middle Rd,DEVONPORT,7310,-41.1893,146.349
 Braddon,Mersey,Devonport City,8432,Devonport West,TasTafe,20-36 Valley Rd,DEVONPORT,7310,-41.1864,146.345
@@ -94,6 +96,7 @@ Braddon,Murchison,Circular Head,8379,Forest,Forest Primary School,422 Mengha Rd,
 Braddon,Montgomery,Central Coast,8380,Forth,Forth Primary School,45 Wilmot Rd,FORTH,7310,-41.192921,146.248975
 Braddon,Montgomery,Central Coast,8381,Gawler,Gawler Hall,15 Top Gawler Rd,GAWLER,7315,-41.1852,146.16
 Braddon,Murchison,King Island,8382,Grassy,Grassy Club,10 Grassy Rd,GRASSY,7256,-40.0484,144.058
+Braddon,Montgomery,Central Coast,,Gunns Plains,Gunns Plains Community Hall,957 Gunns Plains Rd,GUNNS PLAINS,7315,-41.27745461,146.0385337
 Braddon,Montgomery,Burnie City,8384,Havenview,Havenview Primary School,15 Marriott St,HAVENVIEW,7320,-41.0836,145.911
 Braddon,Montgomery,Central Coast,8361,Heybridge,Blythe Heads Hall,Sice Ave,HEYBRIDGE,7316,-41.0751,145.986
 Braddon,Montgomery,Burnie City,8385,Highclere,Highclere Community Centre,1558 Ridgley Hwy,HIGHCLERE,7321,-41.1904,145.806
@@ -102,7 +105,10 @@ Braddon,Mersey,Latrobe,8615,Latrobe,Latrobe Memorial Hall,170 Gilbert St,LATROBE
 Braddon,Mersey,Latrobe,,Latrobe,Latrobe Primary School,23 Lewis St,LATROBE,7307,-41.239619,146.416013
 Braddon,Mersey,Latrobe,83761,Latrobe South,Latrobe Primary School,23 Lewis St,LATROBE,7307,-41.239619,146.416013
 Braddon,Murchison,Circular Head,8391,Marrawah,Marrawah Memorial Hall,844 Comeback Rd,MARRAWAH,7330,-40.9229,144.697
+Braddon,Murchison,Circular Head,,Mawbanna,Mawbanna Memorial Hall,1444 Mawbanna Rd,MAWBANNA,7321,-40.95400308,145.3692915
 Braddon,Mersey,Devonport City,8393,Melrose,Melrose Memorial Hall,673 Melrose Rd,MELROSE,7310,-41.2417,146.289
+Braddon,Mersey,Devonport City,,Miandetta,School of Special Education,113 Middle Rd,MIANDETTA,7310,-41.1947023,146.3439297
+Braddon,Murchison,Circular Head,,Montagu,Montagu Fire Station,1691 Montagu Rd,MONTAGU,7330,-40.77709431,144.9522609
 Braddon,Murchison,Burnie City,8396,Montello,Montello Primary School,83 Bird St,MONTELLO,7320,-41.0605,145.898
 Braddon,Murchison,Waratah-Wynyard,8398,Moorleah,Moorleah Community Centre,720 Preolenna Rd,MOORLEAH,7321,-40.981,145.616
 Braddon,Mersey,Latrobe,8634,Moriarty,Moriarty Hall,1 Bonneys Lane,MORIARTY,7307,-41.2172056,146.4813083
@@ -113,6 +119,7 @@ Braddon,Mersey,Latrobe,8649,Port Sorell,Port Sorell Memorial Hall,cnr Meredith S
 Braddon,Montgomery,Central Coast,8406,Preston,Preston Community Centre,1833 Preston Rd,PRESTON,7315,-41.2972,146.062
 Braddon,Murchison,West Coast,8652,Queenstown,Queenstown Memorial Hall,53 Orr St,QUEENSTOWN,7467,-42.0802,145.558
 Braddon,Murchison,West Coast,,Queenstown,West Coast Community Services Hub,Hunter St,QUEENSTOWN,7467,-42.07895895,145.555963
+Braddon,Murchison,King Island,,Reekara,Reekara Community Complex,2249 North Rd,REEKARA,7256,-39.75376472,143.9156636
 Braddon,Montgomery,Central Coast,8409,Riana,Riana Community Centre,1221 Pine Rd,RIANA,7316,-41.2015,145.999
 Braddon,Montgomery,Burnie City,8410,Ridgley,Ridgley Primary School,904 Ridgley Hwy,RIDGLEY,7321,-41.1398,145.837
 Braddon,Murchison,Circular Head,8411,Rocky Cape,Rocky Cape Public Hall,19074 Bass Hwy,ROCKY CAPE,7321,-40.905,145.487
@@ -122,19 +129,25 @@ Braddon,Mersey,Latrobe,8666,Sassafras,Sassafras Primary School,50 School Rd,SASS
 Braddon,Murchison,Waratah-Wynyard,8667,Savage River,Grange Resources Lodge,45 Corinna Rd,SAVAGE RIVER,7321,-41.5119,145.219
 Braddon,Murchison,Burnie City,8390,Shorewell Park,Hellyer College,41-43 Mooreville Rd,SHOREWELL PARK,7320,-41.06128,145.88153
 Braddon,Murchison,Waratah-Wynyard,8412,Sisters Beach,Sisters Beach Fire Station,34 Honeysuckle Ave,SISTERS BEACH,7321,-40.9181,145.565
-Braddon,Murchison,Waratah-Wynyard,8413,Sisters Creek,Myalla Community Centre,29 Myalla Rd,Sisters Creek,7325,-40.9649042,145.5728843
+Braddon,Murchison,Waratah-Wynyard,8413,Sisters Creek,Myalla Community Centre,29 Myalla Rd,SISTERS CREEK,7325,-40.9649042,145.5728843
+Braddon,Murchison,Waratah-Wynyard,,Sisters Creek,Sisters Creek Community Hall,17894 Bass Hwy,SISTERS CREEK,7325,-40.96057619,145.585605
 Braddon,Murchison,Circular Head,8414,Smithton,Smithton Primary School,27-43 Grant St,SMITHTON,7330,-40.8494453,145.1160588
+Braddon,Murchison,Circular Head,,Smithton,Smithton Uniting Church Hall,45 Goldie St,SMITHTON,7330,-40.84268601,145.126781
 Braddon,Murchison,Waratah-Wynyard,8415,Somerset,Somerset Primary School,30A Beaufort St,SOMERSET,7322,-41.038182,145.819344
+Braddon,Murchison,Burnie City,,South Burnie,SES Burnie Unit,9 Wellington St,SOUTH BURNIE,7320,-41.06097075,145.9087576
 Braddon,Montgomery,Central Coast,8416,South Riana,South Riana Hall,776 South Riana Rd,SOUTH RIANA,7316,-41.2345,145.977
 Braddon,Montgomery,Central Coast,8417,Sprent,Sprent Primary School,1245 Castra Rd,SPRENT,7315,-41.2627,146.16
 Braddon,Mersey,Devonport City,8418,Spreyton,Spreyton Primary School,1 Mersey Main Rd,SPREYTON,7310,-41.21207,146.34434
 Braddon,Murchison,Circular Head,8419,Stanley,Stanley Primary School,28 Pearse St,STANLEY,7331,-40.7603,145.291
 Braddon,Montgomery,Burnie City,8420,Stowport,Stowport Public Hall,580 Stowport Rd,STOWPORT,7321,-41.1124,145.929
 Braddon,Murchison,West Coast,8673,Strahan,Strahan Primary School,2 Bay St,STRAHAN,7468,-42.154043,145.320404
+Braddon,Murchison,West Coast,,Strahan,Strahan Fire Station,18 Reid St,STRAHAN,7468,-42.14959889,145.3288886
 Braddon,Montgomery,Central Coast,8421,Sulphur Creek,Sulphur Creek Hall,310 Preservation Dr,SULPHUR CREEK,7316,-41.0935,146.026
+Braddon,Murchison,Circular Head,,Togari,Togari Community Centre,7 Salmon River Rd,TOGARI,7330,-40.96019859,144.8794368
 Braddon,Murchison,West Coast,8679,Tullah,Tullah Community Hall,24 Farrell St,TULLAH,7321,-41.7375678,145.616076
 Braddon,Montgomery,Central Coast,8424,Turners Beach,Turners Beach Hall,Henry St,TURNERS BEACH,7315,-41.1589,146.244
 Braddon,Montgomery,Central Coast,8425,Ulverstone Central,Ulverstone Senior Citizens Club,16 King Edward St,ULVERSTONE,7315,-41.15507,146.171931
+Braddon,Montgomery,Central Coast,,Ulverstone Central,Ulverstone Guide Hall,34 Main St,ULVERSTONE,7315,-41.1558685,146.1751081
 Braddon,Montgomery,Central Coast,8426,Ulverstone East,East Ulverstone Primary School,18 Crawford St,ULVERSTONE,7315,-41.1546,146.192
 Braddon,Montgomery,Central Coast,8427,Ulverstone South,Ulverstone High School,38 Leven St,ULVERSTONE,7315,-41.16201,146.17091
 Braddon,Murchison,Waratah-Wynyard,8682,Waratah,Waratah Municipal Chambers,12-14 Smith St,WARATAH,7321,-41.44422,145.5313
