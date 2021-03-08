@@ -68,7 +68,7 @@ def merge_polling_place_info(polling_places,
 def main(args):
     """Run the program."""
     
-    raw_votes_df = pd.read_csv(args.votes, skiprows=1, thousands=' ')
+    raw_votes_df = pd.read_csv(args.votes, thousands=' ')
     raw_votes_df = raw_votes_df.dropna(axis=1, how='all')
 
     polling_places = raw_votes_df.columns.values[1: -7]
@@ -100,7 +100,7 @@ def main(args):
     votes_df = votes_df.round({'GreensPercentage': 1})
     votes_df['Latitude'] = votes_df['Latitude'].map('{:.6f}'.format)
     votes_df['Longitude'] = votes_df['Longitude'].map('{0:.6f}'.format)
-    votes_df.to_csv(args.outfile)
+    votes_df.to_csv(args.outfile, index=False)
     
     
 if __name__ == '__main__':

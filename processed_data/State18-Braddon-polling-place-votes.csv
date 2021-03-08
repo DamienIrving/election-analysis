@@ -1,63 +1,63 @@
-,PollingPlaceNm,DivisionNm,GreensVotes,TotalVotes,GreensPercentage,PremisesNm,PremisesAddress,Latitude,Longitude,LegCo,LocalCouncil
-0,Abbotsham,Braddon,9,164,5.5,Abbotsham Hall,"590 Castra Rd, ABBOTSHAM 7315",-41.213500,146.174000,Montgomery,Central Coast
-1,Acton,Braddon,30,1352,2.2,Burnie Child and Family Centre,"36 Thorne St, ACTON 7320",-41.072640,145.892290,Montgomery,Burnie City
-2,Boat Harbour,Braddon,32,473,6.8,Boat Harbour Primary School,"17386 Bass Hwy, BOAT HARBOUR 7321",-40.945200,145.636000,Murchison,Waratah-Wynyard
-3,Burnie,Braddon,67,1388,4.8,Burnie City Council Offices,"80 Wilson St, BURNIE 7320",-41.053200,145.906000,Murchison,Burnie City
-4,Calder,Braddon,2,143,1.4,Calder Hall,"1320 Calder Rd, CALDER 7325",-41.068500,145.631000,Murchison,Waratah-Wynyard
-5,Cooee,Braddon,31,913,3.4,Cooee Primary School,"30 Fidler St, COOEE 7320",-41.040760,145.868010,Murchison,Burnie City
-6,Currie,Braddon,76,696,10.9,Currie Town Hall,"10 George St, CURRIE 7256",-39.929800,143.855000,Murchison,King Island
-7,Devonport Central,Braddon,75,1815,4.1,St Johns Parish Hall,"Fenton St, DEVONPORT 7310",-41.178994,146.358274,Mersey,Devonport City
-8,Devonport North West,Braddon,84,2431,3.5,Nixon Street Primary School,"60 Nixon St, DEVONPORT 7310",-41.172800,146.337000,Mersey,Devonport City
-9,Devonport South,Braddon,41,1342,3.1,Reece High School,"41-43 Middle Rd, DEVONPORT 7310",-41.189300,146.349000,Mersey,Devonport City
-10,Devonport West,Braddon,22,1178,1.9,TasTafe,"20-36 Valley Rd, DEVONPORT 7310",-41.186400,146.345000,Mersey,Devonport City
-11,Don,Braddon,45,1202,3.7,Don Memorial Hall,"17 Forth Rd, DON 7310",-41.182700,146.318000,Mersey,Devonport City
-12,East Devonport,Braddon,50,2033,2.5,East Devonport Primary School,"19-21 Thomas St, EAST DEVONPORT 7310",-41.177900,146.372000,Mersey,Devonport City
-13,Edith Creek,Braddon,2,157,1.3,Edith Creek Primary School,"1282 Trowutta Rd, EDITH CREEK 7330",-40.970500,145.092000,Murchison,Circular Head
-14,Elliott,Braddon,11,386,2.8,Elliott Community Centre,"829 Murchison Hwy, ELLIOTT 7325",-41.092200,145.782000,Murchison,Waratah-Wynyard
-15,Forest,Braddon,3,383,0.8,Forest Primary School,"422 Mengha Rd, FOREST 7330",-40.848600,145.248000,Murchison,Circular Head
-16,Forth,Braddon,44,682,6.5,Forth Primary School,"45 Wilmot Rd, FORTH 7310",-41.192921,146.248975,Montgomery,Central Coast
-17,Gawler,Braddon,14,466,3.0,Gawler Hall,"15 Top Gawler Rd, GAWLER 7315",-41.185200,146.160000,Montgomery,Central Coast
-18,Grassy,Braddon,14,120,11.7,Grassy Club,"10 Grassy Rd, GRASSY 7256",-40.048400,144.058000,Murchison,King Island
-19,Havenview,Braddon,13,440,3.0,Havenview Primary School,"15 Marriott St, HAVENVIEW 7320",-41.083600,145.911000,Montgomery,Burnie City
-20,Heybridge,Braddon,9,266,3.4,Blythe Heads Hall,"Sice Ave, HEYBRIDGE 7316",-41.075100,145.986000,Montgomery,Central Coast
-21,Highclere,Braddon,3,135,2.2,Highclere Community Centre,"1558 Ridgley Hwy, HIGHCLERE 7321",-41.190400,145.806000,Montgomery,Burnie City
-22,Irishtown,Braddon,1,326,0.3,Irishtown Lodge Arthur Temple,"604 Irishtown Rd, IRISHTOWN 7330",-40.913300,145.145000,Murchison,Circular Head
-23,Latrobe,Braddon,59,2295,2.6,Latrobe Primary School,"23 Lewis St, LATROBE 7307",-41.239619,146.416013,Mersey,Latrobe
-24,Marrawah,Braddon,6,219,2.7,Marrawah Memorial Hall,"844 Comeback Rd, MARRAWAH 7330",-40.922900,144.697000,Murchison,Circular Head
-25,Melrose,Braddon,12,227,5.3,Melrose Memorial Hall,"673 Melrose Rd, MELROSE 7310",-41.241700,146.289000,Mersey,Devonport City
-26,Montello,Braddon,30,1128,2.7,Montello Primary School,"83 Bird St, MONTELLO 7320",-41.060500,145.898000,Murchison,Burnie City
-27,Moorleah,Braddon,9,183,4.9,Moorleah Community Centre,"720 Preolenna Rd, MOORLEAH 7321",-40.981000,145.616000,Murchison,Waratah-Wynyard
-28,Natone,Braddon,9,134,6.7,Natone Primary School,"100 Upper Natone Rd, NATONE 7321",-41.170100,145.922000,Montgomery,Burnie City
-29,North Motton,Braddon,17,291,5.8,North Motton Hall,"578 Preston Rd, NORTH MOTTON 7315",-41.206370,146.109370,Montgomery,Central Coast
-30,Penguin,Braddon,105,1982,5.3,Penguin Uniting Church Hall,"50 Main Rd, PENGUIN 7316",-41.112000,146.071000,Montgomery,Central Coast
-31,Preston,Braddon,9,116,7.8,Preston Community Centre,"1833 Preston Rd, PRESTON 7315",-41.297200,146.062000,Montgomery,Central Coast
-32,Queenstown,Braddon,24,729,3.3,West Coast Community Services Hub,"Hunter St, QUEENSTOWN 7467",-42.078959,145.555963,Murchison,West Coast
-33,Riana,Braddon,10,197,5.1,Riana Community Centre,"1221 Pine Rd, RIANA 7316",-41.201500,145.999000,Montgomery,Central Coast
-34,Ridgley,Braddon,15,615,2.4,Ridgley Primary School,"904 Ridgley Hwy, RIDGLEY 7321",-41.139800,145.837000,Montgomery,Burnie City
-35,Rocky Cape,Braddon,7,401,1.7,Rocky Cape Public Hall,"19074 Bass Hwy, ROCKY CAPE 7321",-40.905000,145.487000,Murchison,Circular Head
-36,Romaine,Braddon,20,1288,1.6,Romaine Park Primary School,"cnr Roslyn Ave & Mount St, ROMAINE 7320",-41.076634,145.899584,Montgomery,Burnie City
-37,Rosebery,Braddon,4,298,1.3,Rosebery Neighbourhood Centre,"8 Agnes St, ROSEBERY 7470",-41.779832,145.539126,Murchison,West Coast
-38,Shorewell Park,Braddon,34,1079,3.2,Hellyer College,"41-43 Mooreville Rd, SHOREWELL PARK 7320",-41.061280,145.881530,Murchison,Burnie City
-39,Sisters Beach,Braddon,15,224,6.7,Sisters Beach Fire Station,"34 Honeysuckle Ave, SISTERS BEACH 7321",-40.918100,145.565000,Murchison,Waratah-Wynyard
-40,Sisters Creek,Braddon,15,132,11.4,Myalla Community Centre,"29 Myalla Rd, Sisters Creek 7325",-40.964904,145.572884,Murchison,Waratah-Wynyard
-41,Smithton,Braddon,19,1542,1.2,Smithton Primary School,"27-43 Grant St, SMITHTON 7330",-40.849445,145.116059,Murchison,Circular Head
-42,Somerset,Braddon,35,1591,2.2,Somerset Primary School,"30A Beaufort St, SOMERSET 7322",-41.038182,145.819344,Murchison,Waratah-Wynyard
-43,South Riana,Braddon,8,186,4.3,South Riana Hall,"776 South Riana Rd, SOUTH RIANA 7316",-41.234500,145.977000,Montgomery,Central Coast
-44,Sprent,Braddon,10,192,5.2,Sprent Primary School,"1245 Castra Rd, SPRENT 7315",-41.262700,146.160000,Montgomery,Central Coast
-45,Spreyton,Braddon,44,1540,2.9,Spreyton Primary School,"1 Mersey Main Rd, SPREYTON 7310",-41.212070,146.344340,Mersey,Devonport City
-46,Stanley,Braddon,22,395,5.6,Stanley Primary School,"28 Pearse St, STANLEY 7331",-40.760300,145.291000,Murchison,Circular Head
-47,Stowport,Braddon,6,268,2.2,Stowport Public Hall,"580 Stowport Rd, STOWPORT 7321",-41.112400,145.929000,Montgomery,Burnie City
-48,Strahan,Braddon,12,397,3.0,Strahan Primary School,"2 Bay St, STRAHAN 7468",-42.154043,145.320404,Murchison,West Coast
-49,Sulphur Creek,Braddon,23,705,3.3,Sulphur Creek Hall,"310 Preservation Dr, SULPHUR CREEK 7316",-41.093500,146.026000,Montgomery,Central Coast
-50,Tullah,Braddon,5,117,4.3,Tullah Community Hall,"24 Farrell St, TULLAH 7321",-41.737568,145.616076,Murchison,West Coast
-51,Turners Beach,Braddon,31,896,3.5,Turners Beach Hall,"Henry St, TURNERS BEACH 7315",-41.158900,146.244000,Montgomery,Central Coast
-52,Ulverstone Central,Braddon,44,1095,4.0,Ulverstone Senior Citizens Club,"16 King Edward St, ULVERSTONE 7315",-41.155070,146.171931,Montgomery,Central Coast
-53,Ulverstone East,Braddon,23,948,2.4,East Ulverstone Primary School,"18 Crawford St, ULVERSTONE 7315",-41.154600,146.192000,Montgomery,Central Coast
-54,Ulverstone South,Braddon,84,2328,3.6,Ulverstone High School,"38 Leven St, ULVERSTONE 7315",-41.162010,146.170910,Montgomery,Central Coast
-55,Waratah,Braddon,3,142,2.1,Waratah Municipal Chambers,"12-14 Smith St, WARATAH 7321",-41.444220,145.531300,Murchison,Waratah-Wynyard
-56,West Ulverstone,Braddon,49,1616,3.0,West Ulverstone Primary School,"34 Maud St, WEST ULVERSTONE 7315",-41.148200,146.160000,Montgomery,Central Coast
-57,Wivenhoe,Braddon,14,525,2.7,Leighland Christian School (Wivenhoe Campus),"Stowport Rd, WIVENHOE 7320",-41.069040,145.936090,Montgomery,Burnie City
-58,Wynyard Central,Braddon,70,2151,3.3,Wynyard Senior Citizens Club Rooms,"28 Jackson St, WYNYARD 7325",-40.990900,145.729000,Murchison,Waratah-Wynyard
-59,Wynyard West,Braddon,43,1314,3.3,Wynyard High School,"30 Church St, WYNYARD 7325",-40.986700,145.717000,Murchison,Waratah-Wynyard
-60,Yolla,Braddon,8,358,2.2,Yolla District High School,"School Lane, YOLLA 7325",-41.123700,145.719000,Murchison,Waratah-Wynyard
-61,Zeehan,Braddon,11,352,3.1,Zeehan Primary School,"7 Belstead St, ZEEHAN 7469",-41.888000,145.340000,Murchison,West Coast
+PollingPlaceNm,DivisionNm,GreensVotes,TotalVotes,GreensPercentage,PremisesNm,PremisesAddress,Latitude,Longitude,LegCo,LocalCouncil
+Abbotsham,Braddon,9,164,5.5,Abbotsham Hall,"590 Castra Rd, ABBOTSHAM 7315",-41.213500,146.174000,Montgomery,Central Coast
+Acton,Braddon,30,1352,2.2,Burnie Child and Family Centre,"36 Thorne St, ACTON 7320",-41.072640,145.892290,Montgomery,Burnie City
+Boat Harbour,Braddon,32,473,6.8,Boat Harbour Primary School,"17386 Bass Hwy, BOAT HARBOUR 7321",-40.945200,145.636000,Murchison,Waratah-Wynyard
+Burnie,Braddon,67,1388,4.8,Burnie City Council Offices,"80 Wilson St, BURNIE 7320",-41.053200,145.906000,Murchison,Burnie City
+Calder,Braddon,2,143,1.4,Calder Hall,"1320 Calder Rd, CALDER 7325",-41.068500,145.631000,Murchison,Waratah-Wynyard
+Cooee,Braddon,31,913,3.4,Cooee Primary School,"30 Fidler St, COOEE 7320",-41.040760,145.868010,Murchison,Burnie City
+Currie,Braddon,76,696,10.9,Currie Town Hall,"10 George St, CURRIE 7256",-39.929800,143.855000,Murchison,King Island
+Devonport Central,Braddon,75,1815,4.1,St Johns Parish Hall,"Fenton St, DEVONPORT 7310",-41.178994,146.358274,Mersey,Devonport City
+Devonport North West,Braddon,84,2431,3.5,Nixon Street Primary School,"60 Nixon St, DEVONPORT 7310",-41.172800,146.337000,Mersey,Devonport City
+Devonport South,Braddon,41,1342,3.1,Reece High School,"41-43 Middle Rd, DEVONPORT 7310",-41.189300,146.349000,Mersey,Devonport City
+Devonport West,Braddon,22,1178,1.9,TasTafe,"20-36 Valley Rd, DEVONPORT 7310",-41.186400,146.345000,Mersey,Devonport City
+Don,Braddon,45,1202,3.7,Don Memorial Hall,"17 Forth Rd, DON 7310",-41.182700,146.318000,Mersey,Devonport City
+East Devonport,Braddon,50,2033,2.5,East Devonport Primary School,"19-21 Thomas St, EAST DEVONPORT 7310",-41.177900,146.372000,Mersey,Devonport City
+Edith Creek,Braddon,2,157,1.3,Edith Creek Primary School,"1282 Trowutta Rd, EDITH CREEK 7330",-40.970500,145.092000,Murchison,Circular Head
+Elliott,Braddon,11,386,2.8,Elliott Community Centre,"829 Murchison Hwy, ELLIOTT 7325",-41.092200,145.782000,Murchison,Waratah-Wynyard
+Forest,Braddon,3,383,0.8,Forest Primary School,"422 Mengha Rd, FOREST 7330",-40.848600,145.248000,Murchison,Circular Head
+Forth,Braddon,44,682,6.5,Forth Primary School,"45 Wilmot Rd, FORTH 7310",-41.192921,146.248975,Montgomery,Central Coast
+Gawler,Braddon,14,466,3.0,Gawler Hall,"15 Top Gawler Rd, GAWLER 7315",-41.185200,146.160000,Montgomery,Central Coast
+Grassy,Braddon,14,120,11.7,Grassy Club,"10 Grassy Rd, GRASSY 7256",-40.048400,144.058000,Murchison,King Island
+Havenview,Braddon,13,440,3.0,Havenview Primary School,"15 Marriott St, HAVENVIEW 7320",-41.083600,145.911000,Montgomery,Burnie City
+Heybridge,Braddon,9,266,3.4,Blythe Heads Hall,"Sice Ave, HEYBRIDGE 7316",-41.075100,145.986000,Montgomery,Central Coast
+Highclere,Braddon,3,135,2.2,Highclere Community Centre,"1558 Ridgley Hwy, HIGHCLERE 7321",-41.190400,145.806000,Montgomery,Burnie City
+Irishtown,Braddon,1,326,0.3,Irishtown Lodge Arthur Temple,"604 Irishtown Rd, IRISHTOWN 7330",-40.913300,145.145000,Murchison,Circular Head
+Latrobe,Braddon,59,2295,2.6,Latrobe Primary School,"23 Lewis St, LATROBE 7307",-41.239619,146.416013,Mersey,Latrobe
+Marrawah,Braddon,6,219,2.7,Marrawah Memorial Hall,"844 Comeback Rd, MARRAWAH 7330",-40.922900,144.697000,Murchison,Circular Head
+Melrose,Braddon,12,227,5.3,Melrose Memorial Hall,"673 Melrose Rd, MELROSE 7310",-41.241700,146.289000,Mersey,Devonport City
+Montello,Braddon,30,1128,2.7,Montello Primary School,"83 Bird St, MONTELLO 7320",-41.060500,145.898000,Murchison,Burnie City
+Moorleah,Braddon,9,183,4.9,Moorleah Community Centre,"720 Preolenna Rd, MOORLEAH 7321",-40.981000,145.616000,Murchison,Waratah-Wynyard
+Natone,Braddon,9,134,6.7,Natone Primary School,"100 Upper Natone Rd, NATONE 7321",-41.170100,145.922000,Montgomery,Burnie City
+North Motton,Braddon,17,291,5.8,North Motton Hall,"578 Preston Rd, NORTH MOTTON 7315",-41.206370,146.109370,Montgomery,Central Coast
+Penguin,Braddon,105,1982,5.3,Penguin Uniting Church Hall,"50 Main Rd, PENGUIN 7316",-41.112000,146.071000,Montgomery,Central Coast
+Preston,Braddon,9,116,7.8,Preston Community Centre,"1833 Preston Rd, PRESTON 7315",-41.297200,146.062000,Montgomery,Central Coast
+Queenstown,Braddon,24,729,3.3,West Coast Community Services Hub,"Hunter St, QUEENSTOWN 7467",-42.078959,145.555963,Murchison,West Coast
+Riana,Braddon,10,197,5.1,Riana Community Centre,"1221 Pine Rd, RIANA 7316",-41.201500,145.999000,Montgomery,Central Coast
+Ridgley,Braddon,15,615,2.4,Ridgley Primary School,"904 Ridgley Hwy, RIDGLEY 7321",-41.139800,145.837000,Montgomery,Burnie City
+Rocky Cape,Braddon,7,401,1.7,Rocky Cape Public Hall,"19074 Bass Hwy, ROCKY CAPE 7321",-40.905000,145.487000,Murchison,Circular Head
+Romaine,Braddon,20,1288,1.6,Romaine Park Primary School,"cnr Roslyn Ave & Mount St, ROMAINE 7320",-41.076634,145.899584,Montgomery,Burnie City
+Rosebery,Braddon,4,298,1.3,Rosebery Neighbourhood Centre,"8 Agnes St, ROSEBERY 7470",-41.779832,145.539126,Murchison,West Coast
+Shorewell Park,Braddon,34,1079,3.2,Hellyer College,"41-43 Mooreville Rd, SHOREWELL PARK 7320",-41.061280,145.881530,Murchison,Burnie City
+Sisters Beach,Braddon,15,224,6.7,Sisters Beach Fire Station,"34 Honeysuckle Ave, SISTERS BEACH 7321",-40.918100,145.565000,Murchison,Waratah-Wynyard
+Sisters Creek,Braddon,15,132,11.4,Myalla Community Centre,"29 Myalla Rd, Sisters Creek 7325",-40.964904,145.572884,Murchison,Waratah-Wynyard
+Smithton,Braddon,19,1542,1.2,Smithton Primary School,"27-43 Grant St, SMITHTON 7330",-40.849445,145.116059,Murchison,Circular Head
+Somerset,Braddon,35,1591,2.2,Somerset Primary School,"30A Beaufort St, SOMERSET 7322",-41.038182,145.819344,Murchison,Waratah-Wynyard
+South Riana,Braddon,8,186,4.3,South Riana Hall,"776 South Riana Rd, SOUTH RIANA 7316",-41.234500,145.977000,Montgomery,Central Coast
+Sprent,Braddon,10,192,5.2,Sprent Primary School,"1245 Castra Rd, SPRENT 7315",-41.262700,146.160000,Montgomery,Central Coast
+Spreyton,Braddon,44,1540,2.9,Spreyton Primary School,"1 Mersey Main Rd, SPREYTON 7310",-41.212070,146.344340,Mersey,Devonport City
+Stanley,Braddon,22,395,5.6,Stanley Primary School,"28 Pearse St, STANLEY 7331",-40.760300,145.291000,Murchison,Circular Head
+Stowport,Braddon,6,268,2.2,Stowport Public Hall,"580 Stowport Rd, STOWPORT 7321",-41.112400,145.929000,Montgomery,Burnie City
+Strahan,Braddon,12,397,3.0,Strahan Primary School,"2 Bay St, STRAHAN 7468",-42.154043,145.320404,Murchison,West Coast
+Sulphur Creek,Braddon,23,705,3.3,Sulphur Creek Hall,"310 Preservation Dr, SULPHUR CREEK 7316",-41.093500,146.026000,Montgomery,Central Coast
+Tullah,Braddon,5,117,4.3,Tullah Community Hall,"24 Farrell St, TULLAH 7321",-41.737568,145.616076,Murchison,West Coast
+Turners Beach,Braddon,31,896,3.5,Turners Beach Hall,"Henry St, TURNERS BEACH 7315",-41.158900,146.244000,Montgomery,Central Coast
+Ulverstone Central,Braddon,44,1095,4.0,Ulverstone Senior Citizens Club,"16 King Edward St, ULVERSTONE 7315",-41.155070,146.171931,Montgomery,Central Coast
+Ulverstone East,Braddon,23,948,2.4,East Ulverstone Primary School,"18 Crawford St, ULVERSTONE 7315",-41.154600,146.192000,Montgomery,Central Coast
+Ulverstone South,Braddon,84,2328,3.6,Ulverstone High School,"38 Leven St, ULVERSTONE 7315",-41.162010,146.170910,Montgomery,Central Coast
+Waratah,Braddon,3,142,2.1,Waratah Municipal Chambers,"12-14 Smith St, WARATAH 7321",-41.444220,145.531300,Murchison,Waratah-Wynyard
+West Ulverstone,Braddon,49,1616,3.0,West Ulverstone Primary School,"34 Maud St, WEST ULVERSTONE 7315",-41.148200,146.160000,Montgomery,Central Coast
+Wivenhoe,Braddon,14,525,2.7,Leighland Christian School (Wivenhoe Campus),"Stowport Rd, WIVENHOE 7320",-41.069040,145.936090,Montgomery,Burnie City
+Wynyard Central,Braddon,70,2151,3.3,Wynyard Senior Citizens Club Rooms,"28 Jackson St, WYNYARD 7325",-40.990900,145.729000,Murchison,Waratah-Wynyard
+Wynyard West,Braddon,43,1314,3.3,Wynyard High School,"30 Church St, WYNYARD 7325",-40.986700,145.717000,Murchison,Waratah-Wynyard
+Yolla,Braddon,8,358,2.2,Yolla District High School,"School Lane, YOLLA 7325",-41.123700,145.719000,Murchison,Waratah-Wynyard
+Zeehan,Braddon,11,352,3.1,Zeehan Primary School,"7 Belstead St, ZEEHAN 7469",-41.888000,145.340000,Murchison,West Coast
