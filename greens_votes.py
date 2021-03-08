@@ -31,7 +31,7 @@ def merge_polling_place_info(polling_places,
             'Polling place name mismatch'
             selection = election_polling_place_df['PollingPlaceName'] == ref_polling_place
         election_info = election_polling_place_df[selection]
-        
+
         election_address = election_info['PremiseAddress1'].values[0] + ', ' + election_info['PremiseLocality'].values[0].upper()
         election_premises = election_info['PremiseName'].values[0]
         print(f'Election polling place: {election_premises}, {election_address}')
@@ -68,7 +68,7 @@ def merge_polling_place_info(polling_places,
 def main(args):
     """Run the program."""
     
-    raw_votes_df = pd.read_csv(args.votes, thousands=' ')
+    raw_votes_df = pd.read_csv(args.votes, thousands=' ', skipinitialspace=True)
     raw_votes_df = raw_votes_df.dropna(axis=1, how='all')
 
     polling_places = raw_votes_df.columns.values[1: -7]
@@ -77,8 +77,8 @@ def main(args):
     greens_pct = (greens_votes / total_votes) * 100
     greens_pct = greens_pct.astype(float)
     
-    election_polling_place_df = pd.read_csv(args.election_polling_places)
-    ref_polling_place_df = pd.read_csv(args.reference_polling_places, na_filter=False)
+    election_polling_place_df = pd.read_csv(args.election_polling_places, skipinitialspace=True)
+    ref_polling_place_df = pd.read_csv(args.reference_polling_places, na_filter=False, skipinitialspace=True)
     merge_dict = merge_polling_place_info(polling_places,
                                           election_polling_place_df,
                                           ref_polling_place_df,
