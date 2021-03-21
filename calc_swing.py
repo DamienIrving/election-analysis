@@ -24,6 +24,7 @@ def main(args):
                         
     swing_df['SwingPercentage'] = swing_df['GreensPercentage_' + args.recent_year] - \
                                   swing_df['GreensPercentage_' + args.old_year]
+    swing_df['SwingPercentage'] = swing_df['SwingPercentage'].apply(lambda x: round(x, 1))
     
     if not args.verbose:
         swing_df = swing_df[['PollingPlaceNm',
