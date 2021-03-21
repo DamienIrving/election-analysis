@@ -1,91 +1,92 @@
-AVOCA, Avoca Primary School, 26-30 St Pauls Pl
-BAGDAD, Bagdad Primary School, 46-48 School Rd
-BEACONSFIELD, Beaconsfield House Inc, 33 Grubb St
-BEAUTY POINT, Beauty Point (Sandy Beach) Bowls Club Hall, 11 Mainwaring St
-BICHENO, Bicheno Beachfront Conference Room, Sinclair St
-BISHOPSBOURNE, Bishopsbourne Community Centre, Recreation Ground, 1111 Bishopsbourne Rd
-BOTHWELL, Bothwell Council Chambers, Alexander St
-BRACKNELL, Bracknell War Memorial Hall, Louisa St
-BRIDGEWATER, Brighton Civic Centre, 25 Green Point Road
-BRIGHTON, Brighton Primary School, 17 Downie St
-BROADMARSH, Broadmarsh Hall, 1218 Elderslie Rd
-BRONTE PARK, Bronte Park Highland Village, 378 Marlborough Rd
-BUCKLAND, Buckland Memorial Hall, 22 Kent St
-CAMPANIA, Campania Hall, Reeve St
-CAMPBELL TOWN, Campbell Town Town Hall, 75 High St
-CARRICK, Carrick Public Hall, 29 Meander Valley Rd\
-CHUDLEIGH, Chudleigh Memorial Hall, 54 Sorell St
-CLAUDE ROAD, Claude Road Memorial Hall, 787 Claude Rd
-COLEBROOK, Colebrook Fire Station, Colebrook Rd
-COLES BAY, Coles Bay Community Hall, Harold St
-COPPING, Copping Hall, Marion Bay Rd
-CRESSY, Cressy Community Hall, Main St
-DELORAINE, Deloraine High School Hall, East Barrack St
-DODGES FERRY, Dodges Ferry Community Recreation Centre, 532 Old Forcett Rd
-DROMEDARY, Dromedary (Millvale) Community Hall, 14 Millvale Rd
-DUNALLEY, Dunalley Primary School, 20-32 Bay St
-ELIZABETH TOWN, Elizabeth Town Fire Station, 5816 Bass Hwy
-ELLENDALE, Ellendale Hall, 939 Ellendale Rd
-EPPING FOREST, Epping Forest Public Hall, 13515 Midland Hwy
-EVANDALE, Evandale Primary School, 5-11 Barclay St
-EXETER, Exeter High School Gymnasium, 28 Glen Ard Mohr Rd
-FINGAL, Fingal Activity Centre (Former Council Chambers), 29 Talbot St
-FORCETT, Forcett Public Hall, 699 Arthur Hwy
-FRANKFORD, Frankford Memorial Hall, Frankford Rd
-GAGEBROOK, Gagebrook Primary School, 4 Tottenham Rd
-GLENGARRY, Glengarry Fire Station, Frankford Rd
-GLENORA, Glenora District High School, 620 Gordon River Rd
-GRANTON, Granton Memorial Hall, Lyell Hwy
-GRAVELLY BEACH, Gravelly Beach Main Hall, Edinburgh Park, off Gravelly Beach Rd
-GRETNA, Gretna (St Mary's Parish) Hall, 3548 Lyell Hwy
-HAGLEY, Hagley Uniting Church Hall, Meander Valley Rd
-HAMILTON, Hamilton Hall, Tarleton St
-KELSO, Kelso Community Centre, Foreshore Rd
-KEMPTON, Kempton Council Chambers, Main St, Kempton
-LACHLAN, Lachlan Community Hall, 511 Lachlan Rd
-LEGANA, Legana Memorial Hall, 43 Fulton St
-LEVENDALE, Levendale Primary School, 1315 Woodsdale Rd
-LONGFORD, Longford War Memorial Hall, Wellington St, Longford
-LOWER BARRINGTON, Lower Barrington Public Hall, 1027 Sheffield Rd
-MAGRA, Magra CWA Building, Back River Rd
-MATHINNA, Mathinna Community Centre, 21 High St
-MAYDENA, Maydena Online Access Centre, 36 Kallista Rd
-MEANDER, Meander Primary School, 137 Main Rd
-MIDWAY POINT, Midway Point Community Hall, Raynors Rd
-MIENA, Miena Community Centre, 55-57 Cider Gum Rd
-MOLE CREEK, Mole Creek Primary School, 4 Caveside Rd
-MOLESWORTH, Molesworth Primary School, 540 Molesworth Rd
-MORIARTY, Moriarty Hall, 1 Bonneys La
-NEW NORFOLK, New Norfolk Primary School, 8 Pioneer Ave
-NEW NORFOLK, New Norfolk Sport & Recreation Centre, 50 Derwent Terrace
-NUBEENA, Tasman Civic Centre, Clarke St
-OATLANDS, Oatlands Council Chambers Court Room, 71 High St
-ORFORD, Orford Community Hall, Charles St
-OUSE, Ouse Online Centre, 6947 Lyell Hwy
-PARATTAH, Parattah Jubilee Hall, 657 Tunnack Rd
-PERTH, Perth Community Centre, 173 Fairtlough St
-PONTVILLE, Pontville Old Council Chambers, 262 Midland Hwy
-PORT ARTHUR, Port Arthur Sports Ground, 2745 Nubeena Rd
-PORT SORELL, Port Sorell Memorial Hall, Cnr Darling and Meredith Sts
-PRIMROSE SANDS, Primrose Sands Community Hall, 570 Primrose Sands Road
-PYENGANA, Pyengana War Memorial Hall, St Columba Falls Rd
-RAILTON, Railton Primary School, 94 Foster Street
-ROSS, Ross Town Hall, 12 Bridge St
-SALTWATER RIVER, Saltwater River Public Hall, 600 Saltwater River Rd
-SASSAFRAS, Sassafras Primary School, 50 School Rd
-SCAMANDER, Scamander Fire Station, Campbell St
-SHEFFIELD, Sheffield District High School, 12 Henry St
-SIDMOUTH, Sidmouth Community Centre, 255 Batman Hwy
-SORELL, Sorell School Performing Arts Centre, 41 Gordon Street
-ST HELENS, St Helens Memorial Hall, Cecilia St
-ST MARYS, St Marys Community Hall, Main St
-SWANSEA, Swansea Town Hall, 12 Franklin St
-TARANNA, Tasman Peninsula Community Centre, Gourlay Rd
-TEA TREE, Tea Tree Community Hall, Briar Banks Rd
-TRIABUNNA, Triabunna Council Chambers Recreation Room, 38 Vicary St
-TUNNACK, Tunnack Public Hall, Tunnack Rd
-WESLEY VALE, Wesley Vale Primary School, West Wind Dr
-WESTBURY, Westbury Uniting Church Hall, Cnr Dexter and William Streets
-WESTERWAY, Westerway Primary School, 1619 Gordon River Rd
-WHITEMORE, Whitemore Historical Group Rooms (Old School), 769 Whitemore Rd
-WILMOT, Wilmot Primary School, Main Road
+PollingPlaceName,PremiseName,PremiseAddress1,PremiseLocality
+Avoca, Avoca Primary School, 26-30 St Pauls Pl,AVOCA
+Bagdad, Bagdad Primary School, 46-48 School Rd,BAGDAD
+Beaconsfield, Beaconsfield House Inc, 33 Grubb St,BEACONSFIELD
+Beauty Point, Beauty Point (Sandy Beach) Bowls Club Hall, 11 Mainwaring St,BEAUTY POINT
+Bicheno, Bicheno Beachfront Conference Room, Sinclair St,BICHENO
+Bishopsbourne, Bishopsbourne Community Centre, 1111 Bishopsbourne Rd,BISHOPSBOURNE
+Bothwell, Bothwell Council Chambers, Alexander St,BOTHWELL
+Bracknell, Bracknell War Memorial Hall, Louisa St,BRACKNELL
+Bridgewater, Brighton Civic Centre, 25 Green Point Road,BRIDGEWATER
+Brighton, Brighton Primary School, 17 Downie St,BRIGHTON
+Broadmarsh, Broadmarsh Hall, 1218 Elderslie Rd,BROADMARSH
+Bronte, Bronte Park Highland Village, 378 Marlborough Rd,BRONTE PARK
+Buckland, Buckland Memorial Hall, 22 Kent St,BUCKLAND
+Campania, Campania Hall, Reeve St,CAMPANIA
+Campbell Town, Campbell Town Town Hall, 75 High St,CAMPBELL TOWN
+Carrick, Carrick Public Hall, 29 Meander Valley Rd,CARRICK
+Chudleigh, Chudleigh Memorial Hall, 54 Sorell St,CHUDLEIGH
+Claude Road, Claude Road Memorial Hall, 787 Claude Rd,CLAUDE ROAD
+Colebrook, Colebrook Fire Station, Colebrook Rd,COLEBROOK
+Coles Bay, Coles Bay Community Hall, Harold St,COLES BAY
+Copping, Copping Hall, Marion Bay Rd,COPPING
+Cressy, Cressy Community Hall, Main St,CRESSY
+Deloraine, Deloraine High School Hall, East Barrack St,DELORAINE
+Dodges Ferry, Dodges Ferry Community Recreation Centre, 532 Old Forcett Rd,DODGES FERRY
+Dromedary, Dromedary (Millvale) Community Hall, 14 Millvale Rd,DROMEDARY
+Dunalley, Dunalley Primary School, 20-32 Bay St,DUNALLEY
+Elizabeth Town, Elizabeth Town Fire Station, 5816 Bass Hwy,ELIZABETH TOWN
+Ellendale, Ellendale Hall, 939 Ellendale Rd,ELLENDALE
+Epping, Epping Forest Public Hall, 13515 Midland Hwy,EPPING FOREST
+Evandale, Evandale Primary School, 5-11 Barclay St,EVANDALE
+Exeter, Exeter High School Gymnasium, 28 Glen Ard Mohr Rd,EXETER
+Fingal, Fingal Activity Centre (Former Council Chambers), 29 Talbot St,FINGAL
+Forcett, Forcett Public Hall, 699 Arthur Hwy,FORCETT
+Frankford, Frankford Memorial Hall, Frankford Rd,FRANKFORD
+Gagebrook, Gagebrook Primary School, 4 Tottenham Rd,GAGEBROOK
+Glengarry, Glengarry Fire Station, Frankford Rd,GLENGARRY
+Glenora, Glenora District High School, 620 Gordon River Rd,GLENORA
+Granton, Granton Memorial Hall, Lyell Hwy,GRANTON
+Gravelly Beach, Gravelly Beach Main Hall, Edinburgh Park,GRAVELLY BEACH
+Gretna, Gretna (St Mary's Parish) Hall, 3548 Lyell Hwy,GRETNA
+Hagley, Hagley Uniting Church Hall, Meander Valley Rd,HAGLEY
+Hamilton, Hamilton Hall, Tarleton St,HAMILTON
+Kelso, Kelso Community Centre, Foreshore Rd,KELSO
+Kempton, Kempton Council Chambers, Main St,KEMPTON
+Lachlan, Lachlan Community Hall, 511 Lachlan Rd,LACHLAN
+Legana (Lyons), Legana Memorial Hall, 43 Fulton St,LEGANA
+Levendale, Levendale Primary School, 1315 Woodsdale Rd,LEVENDALE
+Longford, Longford War Memorial Hall, Wellington St,LONGFORD
+Lower Barrington, Lower Barrington Public Hall, 1027 Sheffield Rd,LOWER BARRINGTON
+Magra, Magra CWA Building, Back River Rd,MAGRA
+Mathinna, Mathinna Community Centre, 21 High St,MATHINNA
+Maydena, Maydena Online Access Centre, 36 Kallista Rd,MAYDENA
+Meander, Meander Primary School, 137 Main Rd,MEANDER
+Midway Point, Midway Point Community Hall, Raynors Rd,MIDWAY POINT
+Miena, Miena Community Centre, 55-57 Cider Gum Rd,MIENA
+Mole Creek, Mole Creek Primary School, 4 Caveside Rd,MOLE CREEK
+Molesworth, Molesworth Primary School, 540 Molesworth Rd,MOLESWORTH
+Moriarty, Moriarty Hall, 1 Bonneys La,MORIARTY
+New Norfolk, New Norfolk Primary School, 8 Pioneer Ave,NEW NORFOLK
+New Norfolk North, New Norfolk Sport & Recreation Centre, 50 Derwent Terrace,NEW NORFOLK
+Nubeena, Tasman Civic Centre, Clarke St,NUBEENA
+Oatlands, Oatlands Council Chambers Court Room, 71 High St,OATLANDS
+Orford, Orford Community Hall, Charles St,ORFORD
+Ouse, Ouse Online Centre, 6947 Lyell Hwy,OUSE
+Parattah, Parattah Jubilee Hall, 657 Tunnack Rd,PARATTAH
+Perth, Perth Community Centre, 173 Fairtlough St,PERTH
+Pontville, Pontville Old Council Chambers, 262 Midland Hwy,PONTVILLE
+Port Arthur, Port Arthur Sports Ground, 2745 Nubeena Rd,PORT ARTHUR
+Port Sorell, Port Sorell Memorial Hall, Cnr Darling and Meredith Sts,PORT SORELL
+Primrose Sands, Primrose Sands Community Hall, 570 Primrose Sands Road,PRIMROSE SANDS
+Pyengana, Pyengana War Memorial Hall, St Columba Falls Rd,PYENGANA
+Railton, Railton Primary School, 94 Foster St,RAILTON
+Ross, Ross Town Hall, 12 Bridge St,ROSS
+Saltwater River, Saltwater River Public Hall, 600 Saltwater River Rd,SALTWATER RIVER
+Sassafras, Sassafras Primary School, 50 School Rd,SASSAFRAS
+Scamander, Scamander Fire Station, Campbell St,SCAMANDER
+Sheffield, Sheffield District High School, 12 Henry St,SHEFFIELD
+Sidmouth, Sidmouth Community Centre, 255 Batman Hwy,SIDMOUTH
+Sorell, Sorell School Performing Arts Centre, 41 Gordon Street,SORELL
+St Helens, St Helens Memorial Hall, Cecilia St,ST HELENS
+St Marys, St Marys Community Hall, Main St,ST MARYS
+Swansea, Swansea Town Hall, 12 Franklin St,SWANSEA
+Taranna, Tasman Peninsula Community Centre, Gourlay Rd,TARANNA
+Tea Tree, Tea Tree Community Hall, Briar Banks Rd,TEA TREE
+Triabunna, Triabunna Council Chambers Recreation Room, 38 Vicary St,TRIABUNNA
+Tunnack, Tunnack Public Hall, Tunnack Rd,TUNNACK
+Wesley Vale, Wesley Vale Primary School, 20 Westwind Dr,WESLEY VALE
+Westbury, Westbury Uniting Church Hall, Cnr Dexter and William Streets,WESTBURY
+Westerway, Westerway Primary School, 1619 Gordon River Rd,WESTERWAY
+Whitemore, Whitemore Historical Group Rooms (Old School), 769 Whitemore Rd,WHITEMORE
+Wilmot, Wilmot Primary School, Main Road,WILMOT

@@ -1,7 +1,9 @@
 DivisionNm,LegCo,LocalCouncil,PollingPlaceID,PollingPlaceNm,PremisesNm,PremisesAddress,PremisesSuburb,PremisesPostCode,Latitude,Longitude
 Bass,Rosevears,West Tamar,8553,Beaconsfield,Beaconsfield Senior Citizens' Hall,121 Weld St,BEACONSFIELD,7270,-41.2024,146.819
+Bass,Rosevears,West Tamar,,Beaconsfield,Beaconsfield House Inc,33 Grubb St,BEACONSFIELD,7270,-41.20200704,146.8209173
 Bass,Rosevears,West Tamar,8608,Beauty Point,Tamar Yacht Club,1 Wharf Rd,BEAUTY POINT,7270,-41.1574613,146.822319
 Bass,Rosevears,West Tamar,,Beauty Point,Beauty Point Uniting Church Hall,Beatty St,BEAUTY POINT,7270,-41.14898279,146.817506
+Bass,Rosevears,West Tamar,,Beauty Point,Beauty Point (Sandy Beach) Bowls Club Hall,11 Mainwaring St,BEAUTY POINT,7270,-41.14680314,146.814733
 Bass,Windermere,Launceston City,,Blessington Upper,North Esk Memorial Hall,3132 Blessington Rd,BLESSINGTON,7212,-41.48243,147.50494
 Bass,McIntyre,Dorset,8290,Branxholm,Branxholm Community Hall,Stoke St,BRANXHOLM,7261,-41.165606,147.73648
 Bass,McIntyre,Dorset,8291,Bridport,Bridport Hall,Main St,BRIDPORT,7262,-41.0026,147.395
@@ -282,11 +284,14 @@ Lyons,McIntyre,Northern Midlands,8550,Avoca,Avoca Primary School,26-30 St Pauls 
 Lyons,Prosser,Southern Midlands,8551,Bagdad,Bagdad Primary School,46 School Rd,BAGDAD,7030,-42.6249,147.223
 Lyons,Prosser,Glamorgan-Spring Bay,8556,Bicheno,Bicheno War Memorial Hall,78 Burgess St,BICHENO,7215,-41.8743,148.3003
 Lyons,Prosser,Glamorgan-Spring Bay,,Bicheno,Bicheno Beachfront,Sinclair St,BICHENO,7215,-41.87436309,148.2998814
+Lyons,McIntyre,Northern Midlands,,Bishopsbourne,Bishopsbourne Community Centre,1111 Bishopsbourne Rd,BISHOPSBOURNE,7310,-41.61596813,146.9957648
 Lyons,Derwent,Central Highlands,8559,Bothwell,Bothwell Council Chambers,19 Alexander St,BOTHWELL,7030,-42.3819,147.006
 Lyons,McIntyre,Meander Valley,8560,Bracknell,Bracknell War Memorial Hall,Louisa St,BRACKNELL,7302,-41.6512,146.943
 Lyons,Derwent,Brighton,8500,Bridgewater,Brighton Civic Centre,25 Green Point Rd,BRIDGEWATER,7030,-42.7391644,147.2435117
 Lyons,Derwent,Brighton,8562,Brighton,Brighton Primary School,27 Downie St,BRIGHTON,7030,-42.6991,147.258
 Lyons,Prosser,Southern Midlands,8563,Broadmarsh,Broadmarsh Hall,1218 Elderslie Rd,BROADMARSH,7030,-42.6567,147.126
+Lyons,Derwent,Central Highlands,,Bronte,Bronte Park Highland Village,378 Marlborough Rd,BRONTE PARK,7140,-42.13599746,146.4915556
+Lyons,Prosser,Glamorgan-Spring Bay,,Buckland,Buckland Memorial Hall,22 Kent St,BUCKLAND,7190,-42.60723727,147.7183944
 Lyons,Prosser,Southern Midlands,8566,Campania,Campania Hall,45 Reeve St,CAMPANIA,7026,-42.6671091,147.4210525
 Lyons,Prosser,Northern Midlands,8567,Campbell Town,Campbell Town Town Hall,75 High St,CAMPBELL TOWN,7210,-41.9269948,147.4944377
 Lyons,Prosser,Sorell,83676,Carlton,Salvation Army Carlton,225-227 Carlton River Rd,CARLTON,7173,-42.8638993,147.639051
@@ -304,6 +309,7 @@ Lyons,Derwent,Brighton,8583,Dromedary,Dromedary (Millvale) Community Hall,14 Mil
 Lyons,Prosser,Sorell,8584,Dunalley,Dunalley Community Hall,5 Franklin St,DUNALLEY,7177,-42.887008,147.812638
 Lyons,Prosser,Sorell,,Dunalley,Dunalley Primary School,20-32 Bay St,DUNALLEY,7177,-42.8857998,147.812114
 Lyons,McIntyre,Meander Valley,8587,Elizabeth Town,Elizabeth Town Fire Station,5816 Bass Hwy,ELIZABETH TOWN,7304,-41.4618648,146.5638131
+Lyons,Derwent,Central Highlands,,Ellendale,Ellendale Hall,939 Ellendale Rd,ELLENDALE,7140,-42.61822936,146.7160459
 Lyons,McIntyre,Northern Midlands,8589,Epping Forest,Epping Hall,13517 Midland Hwy,EPPING FOREST,7211,-41.7580756,147.349062
 Lyons,McIntyre,Northern Midlands,,Epping,Epping Forest Public Hall,13515 Midland Hwy,EPPING FOREST,7211,-41.7580756,147.349062
 Lyons,McIntyre,Northern Midlands,8591,Evandale,Evandale Primary School,5-11 Barclay St,EVANDALE,7212,-41.5672,147.247
@@ -313,8 +319,10 @@ Lyons,Rosevears,West Tamar,,Frankford,Frankford Memorial Hall,Frankford Rd,FRANK
 Lyons,Derwent,Brighton,8509,Gagebrook,Gagebrook Primary School,4 Tottenham Rd,GAGEBROOK,7030,-42.7488,147.276
 Lyons,Derwent,Derwent Valley,8600,Glenora,Glenora District High School,620 Gordon River Rd,GLENORA,7140,-42.6969,146.889
 Lyons,Derwent,Derwent Valley,8602,Granton,Granton Memorial Hall,1 Lyell Hwy,GRANTON,7030,-42.7498,147.224
+Lyons,Derwent,Central Highlands,,Gretna,Gretna (St Mary's Parish) Hall,3548 Lyell Hwy,GRETNA,7140,-42.67049554,146.9320994
 Lyons,Launceston,Meander Valley,8605,Hadspen,Hadspen Uniting Church Centre,47 Main St,HADSPEN,7290,-41.5064,147.064
 Lyons,McIntyre,Meander Valley,8606,Hagley,Hagley Farm Primary School,2508 Meander Valley Rd,HAGLEY,7292,-41.5265075,146.9031286
+Lyons,Derwent,Central Highlands,,Hamilton,Hamilton Hall,Tarleton St,HAMILTON,7140,-42.56098227,146.8291809
 Lyons,Prosser,Southern Midlands,8611,Kempton,Kempton Memorial Hall,89 Main St,KEMPTON,7030,-42.5318214,147.2006468
 Lyons,Derwent,Derwent Valley,8614,Lachlan,Lachlan Community Hall,511 Lachlan Rd,LACHLAN,7140,-42.8304,147.043
 Lyons,Rosevears,West Tamar,8616,Legana,Legana Memorial Hall,43 Fulton St,LEGANA,7277,-41.3632,147.047
@@ -324,33 +332,43 @@ Lyons,Montgomery,Kentish,8620,Lower Barrington,Lower Barrington Public Hall,1027
 Lyons,Derwent,Derwent Valley,8623,Magra,Magra CWA Building,377 Back River Rd,MAGRA,7140,-42.7559,147.054
 Lyons,McIntyre,Break O'Day,,Mathinna,Mathinna Community Centre,21 High St,MATHINNA,7214,-41.47191398,147.8907134
 Lyons,Derwent,Derwent Valley,,Maydena,Giant's Table and Cottages,9-13 Junee Rd,MAYDENA,7140,-42.75399274,146.6233846
+Lyons,Derwent,Derwent Valley,,Maydena,Maydena Online Access Centre,36 Kallista Rd,MAYDENA,7140,-42.75552493,146.628534
 Lyons,McIntyre,Meander Valley,8627,Meander,Meander Hall,124 Main Rd,MEANDER,7304,-41.65198,146.609993
+Lyons,McIntyre,Meander Valley,,Meander,Meander Primary School,137 Main Rd,MEANDER,7304,-41.6530571,146.6116044
 Lyons,Rumney,Sorell,8630,Midway Point,Midway Point Community Hall,34 Raynors Rd,MIDWAY POINT,7171,-42.7997,147.533
 Lyons,Derwent,Central Highlands,34050,Miena,Miena Community Centre,55-57 Cider Gum Rd,MIENA,7030,-41.9937,146.708
 Lyons,McIntyre,Meander Valley,8631,Mole Creek,Mole Creek Primary School,4 Caveside Rd,MOLE CREEK,7304,-41.557472,146.4065015
 Lyons,Derwent,Derwent Valley,8632,Molesworth,Molesworth Community Hall,560 Molesworth Rd,MOLESWORTH,7140,-42.8042304,147.1610931
+Lyons,Derwent,Derwent Valley,,Molesworth,Molesworth Primary School,540 Molesworth Rd,MOLESWORTH,7140,-42.80367572,147.1566377
 Lyons,Derwent,Derwent Valley,8635,New Norfolk,New Norfolk Primary School,8 Pioneer Ave,NEW NORFOLK,7140,-42.7793,147.064
 Lyons,Derwent,Derwent Valley,8637,New Norfolk North,Fairview Primary School,211 Back River Rd,NEW NORFOLK,7140,-42.7742511,147.0491695
+Lyons,Derwent,Derwent Valley,,New Norfolk North,New Norfolk Sport & Recreation Centre,50 Derwent Terrace,NEW NORFOLK,7140,-42.77283333,147.0584011
 Lyons,Prosser,Tasman,8638,Nubeena,Tasman Civic Centre,21 Clarke St,NUBEENA,7184,-43.099706,147.7446771
 Lyons,Prosser,Southern Midlands,8639,Oatlands,Oatlands District High School,27 Church St,OATLANDS,7120,-42.3015058,147.3718211
 Lyons,Prosser,Southern Midlands,,Oatlands,Oatlands Council Chambers,71 High St,OATLANDS,7120,-42.29999475,147.3720937
 Lyons,Rumney,Brighton,47795,Old Beach,Old Beach Community Centre,86 Jetty Rd,OLD BEACH,7017,-42.77427,147.26576
 Lyons,Prosser,Glamorgan-Spring Bay,8640,Orford,Orford Primary School,35 Charles st,ORFORD,7190,-42.563502,147.87386
 Lyons,Derwent,Central Highlands,8641,Ouse,Ouse Online Centre,6947 Lyell Hwy,OUSE,7140,-42.4852876,146.7110181
+Lyons,Prosser,Southern Midlands,,Parattah,Parattah Jubilee Hall,657 Tunnack Rd,PARATTAH,7120,-42.35012747,147.4073634
 Lyons,McIntyre,Northern Midlands,8644,Perth,Perth Community Centre,173 Fairtlough St,PERTH,7300,-41.5725,147.173
 Lyons,Prosser,Brighton,8647,Pontville,Pontville Old Council Chambers,371 Brighton Rd,PONTVILLE,7030,-42.6838945,147.2655541
+Lyons,Prosser,Tasman,,Port Arthur,Port Arthur Sports Ground,2745 Nubeena Rd,PORT ARTHUR,7182,-43.14219443,147.8446838
 Lyons,Prosser,Sorell,8650,Primrose Sands,Primrose Sands Community Hall,570 Primrose Sands Rd,PRIMROSE SANDS,7173,-42.892403,147.671829
 Lyons,Rosevears,Launceston City,94987,Prospect,St Patrick's College,282 Westbury Rd,PROSPECT,7250,-41.472,147.126
 Lyons,Launceston,Meander Valley,11665,Prospect Vale,Residential Retirement Village Clubrooms,12 Casino Rise,PROSPECT VALE,7250,-41.4782,147.11
+Lyons,McIntyre,Break O'Day,,Pyengana,Pyengana War Memorial Hall,217 St Columba Falls Rd,PYENGANA,7216,-41.29301186,148.0021889
 Lyons,McIntyre,Kentish,8654,Railton,Sheffield School - Railton Campus,94 Foster St,RAILTON,7305,-41.3526,146.414
 Lyons,Rumney,Clarence City,8655,Richmond,Richmond Primary School,Commercial Rd,RICHMOND,7025,-42.739282,147.437988
 Lyons,Prosser,Northern Midlands,8660,Ross,Ross Town Hall,12 Bridge St,ROSS,7209,-42.031409,147.492498
+Lyons,Prosser,Tasman,,Saltwater River,Saltwater River Public Hall,600 Saltwater River Rd,SALTWATER,7186,-43.02691112,147.7273165
 Lyons,McIntyre,Break O'Day,8663,St Helens,St Helens Memorial Hall,39 Cecilia St,ST HELENS,7216,-41.322629,148.2493508
 Lyons,McIntyre,Break O'Day,,St Helens,St Helens District High School,9 Circassian St,ST HELENS,7216,-41.32453938,148.2462652
 Lyons,McIntyre,Break O'Day,8664,St Marys,St Marys Community Hall,23 Main St,ST MARYS,7215,-41.5796905,148.1853104
 Lyons,McIntyre,Break O'Day,8668,Scamander,Scamander Sports Complex,1 Old Coach Rd,SCAMANDER,7215,-41.4542181,148.2600904
+Lyons,McIntyre,Break O'Day,,Scamander,Scamander Fire Station,Campbell St,SCAMANDER,7215,-41.45380602,148.2613868
 Lyons,Montgomery,Kentish,8670,Sheffield,Sheffield School,12 Henry St,SHEFFIELD,7306,-41.3806889,146.3303161
 Lyons,Prosser,Sorell,8672,Sorell,Sorell Memorial Hall,47 Cole St,SORELL,7172,-42.780612,147.560628
+Lyons,Prosser,Sorell,,Sorell,Sorell School,41 Gordon St,SORELL,7172,-42.7859,147.561
 Lyons,Prosser,Sorell,83677,Sorell South,Sorell School,41 Gordon St,SORELL,7172,-42.7859,147.561
 Lyons,Rosevears,Launceston City,95002,Summerhill,Summerhill Baptist Church,87 Stanley St,SUMMERHILL,7250,-41.4657984,147.1272384
 Lyons,Prosser,Glamorgan-Spring Bay,8675,Swansea,Swansea Town Hall,12 Franklin St,SWANSEA,7190,-42.1245,148.077
@@ -358,8 +376,11 @@ Lyons,Prosser,Glamorgan-Spring Bay,,Swansea,Swansea Primary School,25 Franklin S
 Lyons,Prosser,Tasman,8613,Taranna,Tasman Peninsula Community Centre,Gourlay Rd,TARANNA,7180,-43.0379835,147.8675222
 Lyons,Prosser,Brighton,8677,Tea Tree,Tea Tree Community Hall,Briar Banks Rd,TEA TREE,7017,-42.6895333,147.3235917
 Lyons,Prosser,Glamorgan-Spring Bay,8678,Triabunna,Triabunna Hall,3 Vicary St,TRIABUNNA,7190,-42.5082202,147.9103839
+Lyons,Prosser,Glamorgan-Spring Bay,,Triabunna,Triabunna Council Chambers,38 Vicary St,TRIABUNNA,7190,-42.50783638,147.917106
 Lyons,Prosser,Southern Midlands,8681,Tunnack,Tunnack Public Hall,2147 Tunnack Rd,TUNNACK,7120,-42.4565209,147.4617791
 Lyons,McIntyre,Meander Valley,8686,Westbury,Westbury Town Hall,26 Lyall St,WESTBURY,7303,-41.5281059,146.8310201
+Lyons,McIntyre,Meander Valley,,Westbury,Westbury Uniting Church Hall,Cnr Dexter and William Streets,WESTBURY,7303,-41.53216863,146.8316547
 Lyons,Derwent,Derwent Valley,8689,Westerway,Westerway Primary School,1619 Gordon River Rd,WESTERWAY,7140,-42.6775,146.787
+Lyons,McIntyre,Meander Valley,,Whitemore,Whitemore Historical Group Rooms (Old School),769 Whitemore Rd,WHITEMORE,7303,-41.58245123,146.9305865
 Lyons,Montgomery,Kentish,8693,Wilmot,Wilmot Memorial Hall,53 Main St,WILMOT,7310,-41.3864,146.175
 Lyons,Montgomery,Kentish,,Wilmot,Wilmot Primary School,61 Main St,WILMOT,7310,-41.38691868,146.1756594
