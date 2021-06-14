@@ -180,6 +180,7 @@ def main(args):
     votes_df = votes_df.round({'GreensPercentage': 1})
     votes_df['Latitude'] = votes_df['Latitude'].map('{:.6f}'.format)
     votes_df['Longitude'] = votes_df['Longitude'].map('{0:.6f}'.format)
+    votes_df.sort_values(['PollingPlaceNm'], inplace=True)
     votes_df.to_csv(args.outfile, index=False)
     
     
