@@ -32,7 +32,7 @@ def get_name_and_address(polling_place, election_polling_places):
     if polling_place in election_polling_place_list:
         selection = election_polling_places['PollingPlaceNm'] == polling_place
     else:
-        assert ref_name in polling_place_list, 'Polling place name mismatch'
+        assert ref_name in election_polling_place_list, 'Polling place name mismatch'
         selection = election_polling_places['PollingPlaceNm'] == ref_name
         
     election_info = election_polling_places[selection]
