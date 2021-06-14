@@ -1,4 +1,4 @@
-﻿PollingPlaceName,Locality,Polling Place Address,PremiseName,PremiseAddress1,PremiseAddress2,PremiseLocality,PremisePostcode,PremiseState,LocationWithinPremise,AccessToLocation,Disabled Access
+﻿PollingPlaceNm,Locality,Polling Place Address,PremisesNm,PremisesAddress1,PremisesAddress2,PremisesSuburb,PremisesPostCode,PremisesState,LocationWithinPremise,AccessToLocation,Disabled Access
 Clarence,Bellerive,"Clarence High School, 25 Wentworth St, BELLERIVE TAS 7018",Clarence High School,25 Wentworth St,,Bellerive,7018,TAS,ET Smith Hall (Gymnasium),,Assistance
 Bellerive,Bellerive,"Clarence Police & Community Youth Club Inc, 10 Scott St, BELLERIVE TAS 7018",Clarence Police & Community Youth Club Inc,10 Scott St,,Bellerive,7018,TAS,Hall Area,,Assistance
 Blackmans Bay,Blackmans Bay,"Blackmans Bay Primary School, 177 Roslyn Ave, BLACKMANS BAY TAS 7052",Blackmans Bay Primary School,177 Roslyn Ave,,Blackmans Bay,7052,TAS,,,Assistance

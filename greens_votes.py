@@ -5,38 +5,65 @@ import pandas as pd
 import pdb
 
 
-def merge_polling_place_info(polling_places,
-                             election_polling_place_df,
-                             ref_polling_place_df,
-                             division):
+def prepoll_filter(polling_place_name):
+    if ('PPVC' in polling_place_name) or ('PREPOLL' in polling_place_name):
+        not_prepoll = False
+    else:
+        not_prepoll = True
+    
+    return not_prepoll
+
+
+def hospital_filter(polling_place_name):
+    if 'special hospital' in polling_place_name.lower():
+        not_hospital = False
+    else:
+        not_hospital = True
+    
+    return not_hospital
+
+
+def get_name_and_address(polling_place, election_polling_places):
+    """Get the PollingPlaceNm, PremisesNm and PremisesAddress."""
+    
+    ref_name = polling_place.split('(')[0].strip()
+    election_polling_place_list = election_polling_places['PollingPlaceNm'].to_list()
+    
+    if polling_place in election_polling_place_list:
+        selection = election_polling_places['PollingPlaceNm'] == polling_place
+    else:
+        assert ref_name in polling_place_list, 'Polling place name mismatch'
+        selection = election_polling_places['PollingPlaceNm'] == ref_name
+        
+    election_info = election_polling_places[selection]
+    address_headers = [header for header in election_info.columns if 'PremisesAddress' in header]
+    election_info['PremisesAddress'] = election_info[address_headers].apply(lambda x: ', '.join(x[x.notnull()]), axis=1)
+    election_address = election_info['PremisesAddress'].values[0] + ', ' + election_info['PremisesSuburb'].values[0].upper()
+    election_premises = election_info['PremisesNm'].values[0]
+    print(f'Election polling place: {election_premises}, {election_address}')
+
+    return ref_name, election_premises, election_address
+    
+
+def add_polling_place_info(votes_dict,
+                           election_polling_places,
+                           ref_polling_places,
+                           division):
     """Merge election day and reference polling place info."""
     
-    merge_dict = {}
-    merge_dict['division'] = []
-    merge_dict['legco'] = []
-    merge_dict['council'] = []
-    merge_dict['address'] = []
-    merge_dict['premises'] = []
-    merge_dict['lat'] = []
-    merge_dict['lon'] = []
+    votes_dict['DivisionNm'] = []
+    votes_dict['LegCo'] = []
+    votes_dict['LocalCouncil'] = []
+    votes_dict['PremisesAddress'] = []
+    votes_dict['PremisesNm'] = []
+    votes_dict['Latitude'] = []
+    votes_dict['Longitude'] = []
 
-    for polling_place in polling_places:
+    
+    for polling_place in votes_dict['PollingPlaceNm']:
         print(polling_place)
-        ref_polling_place = polling_place.split('(')[0].strip()
-    
-        if polling_place in election_polling_place_df['PollingPlaceName'].to_list():
-            selection = election_polling_place_df['PollingPlaceName'] == polling_place
-        else:
-            assert ref_polling_place in election_polling_place_df['PollingPlaceName'].to_list(), \
-            'Polling place name mismatch'
-            selection = election_polling_place_df['PollingPlaceName'] == ref_polling_place
-        election_info = election_polling_place_df[selection]
-
-        election_address = election_info['PremiseAddress1'].values[0] + ', ' + election_info['PremiseLocality'].values[0].upper()
-        election_premises = election_info['PremiseName'].values[0]
-        print(f'Election polling place: {election_premises}, {election_address}')
-    
-        ref_info = ref_polling_place_df[ref_polling_place_df['PollingPlaceNm'] == ref_polling_place]
+        ref_name, election_premises, election_address = get_name_and_address(polling_place, election_polling_places)
+        ref_info = ref_polling_places[ref_polling_places['PollingPlaceNm'] == ref_name]
         div_ref_info = ref_info[ref_info['DivisionNm'] == division]
         if not div_ref_info.empty:
             ref_info = div_ref_info
@@ -52,50 +79,103 @@ def merge_polling_place_info(polling_places,
                 address = ref_match['PremisesAddress']
                 suburb = ref_match['PremisesSuburb']
                 postcode = ref_match['PremisesPostCode']
-                merge_dict['division'].append(ref_match['DivisionNm'])
-                merge_dict['legco'].append(ref_match['LegCo'])
-                merge_dict['council'].append(ref_match['LocalCouncil'])
-                merge_dict['premises'].append(ref_match['PremisesNm'])
-                merge_dict['address'].append(f"{address}, {suburb} {postcode}")
-                merge_dict['lat'].append(ref_match['Latitude'])
-                merge_dict['lon'].append(ref_match['Longitude'])
+                votes_dict['DivisionNm'].append(ref_match['DivisionNm'])
+                votes_dict['LegCo'].append(ref_match['LegCo'])
+                votes_dict['LocalCouncil'].append(ref_match['LocalCouncil'])
+                votes_dict['PremisesNm'].append(ref_match['PremisesNm'])
+                votes_dict['PremisesAddress'].append(f"{address}, {suburb} {postcode}")
+                votes_dict['Latitude'].append(ref_match['Latitude'])
+                votes_dict['Longitude'].append(ref_match['Longitude'])
                 break
         assert address_match or premises_match, f"No reference polling place for {polling_place}"
 
-    return merge_dict
+    return votes_dict
 
 
-def main(args):
-    """Run the program."""
+def read_tec_votes(votes_file):
+    """Read a TEC votes file."""
     
-    raw_votes_df = pd.read_csv(args.votes, thousands=' ', skipinitialspace=True)
+    raw_votes_df = pd.read_csv(votes_file, thousands=' ', skipinitialspace=True)
     raw_votes_df = raw_votes_df.dropna(axis=1, how='all')
-
     polling_places = raw_votes_df.columns.values[1: -7]
     total_votes = raw_votes_df[raw_votes_df['Candidates'] == 'Total Formal Votes'].values[0][1:-7]
     greens_votes = raw_votes_df[raw_votes_df['Candidates'] == 'Tasmanian Greens'].values[0][1:-7]
     greens_pct = (greens_votes / total_votes) * 100
     greens_pct = greens_pct.astype(float)
     
-    election_polling_place_df = pd.read_csv(args.election_polling_places, skipinitialspace=True)
-    ref_polling_place_df = pd.read_csv(args.reference_polling_places, na_filter=False, skipinitialspace=True)
-    merge_dict = merge_polling_place_info(polling_places,
-                                          election_polling_place_df,
-                                          ref_polling_place_df,
-                                          args.division)
-    
     votes_dict = {'PollingPlaceNm': polling_places,
-                  'DivisionNm':  merge_dict['division'],
                   'GreensVotes': greens_votes,
                   'TotalVotes': total_votes,
-                  'GreensPercentage': greens_pct,
-                  'PremisesNm': merge_dict['premises'],
-                  'PremisesAddress': merge_dict['address'],
-                  'Latitude': merge_dict['lat'],
-                  'Longitude': merge_dict['lon'],
-                  'LegCo': merge_dict['legco'],
-                  'LocalCouncil': merge_dict['council']
-                  }    
+                  'GreensPercentage': greens_pct}
+                 
+    return votes_dict
+    
+
+def read_tec_polling_places(polling_places_file):
+    """Read a TEC polling places file."""
+    
+    polling_places = pd.read_csv(polling_places_file,
+                                 skipinitialspace=True)
+    
+    return polling_places
+
+
+def read_senate_votes(votes_file):
+    """Read an AEC senate votes file."""
+    
+    party_names = ['The Greens', 'Australian Greens']
+    
+    raw_votes_df = pd.read_csv(votes_file, skiprows=1)
+
+    not_prepoll = raw_votes_df['PollingPlaceNm'].apply(prepoll_filter)
+    raw_votes_df = raw_votes_df[not_prepoll]
+    not_hospital = raw_votes_df['PollingPlaceNm'].apply(hospital_filter)
+    raw_votes_df = raw_votes_df[not_hospital]
+    
+    polling_places = raw_votes_df['PollingPlaceNm'].unique()
+    total_votes = raw_votes_df.groupby('PollingPlaceID').OrdinaryVotes.sum()
+    greens_votes = raw_votes_df[raw_votes_df.PartyNm.isin(party_names)].groupby('PollingPlaceID').OrdinaryVotes.sum()
+    greens_pct = (greens_votes / total_votes) * 100
+    greens_pct = greens_pct.astype(float)
+    
+    votes_dict = {'PollingPlaceNm': list(polling_places),
+                  'GreensVotes': greens_votes,
+                  'TotalVotes': total_votes,
+                  'GreensPercentage': greens_pct}
+                  
+    return votes_dict
+
+
+def read_aec_polling_places(polling_places_file, division):
+    """Read an AEC polling places file."""
+    
+    raw_polling_places = pd.read_csv(polling_places_file, skiprows=1)
+    polling_places = raw_polling_places[raw_polling_places['DivisionNm'] == division]
+#    polling_places = polling_places.set_index('PollingPlaceID')
+
+    return polling_places
+    
+
+def main(args):
+    """Run the program."""   
+
+    if args.election == 'state':
+        votes_dict = read_tec_votes(args.votes_file)
+        election_polling_places = read_tec_polling_places(args.election_polling_places_file)
+    elif args.election == 'senate':
+        votes_dict = read_senate_votes(args.votes_file)
+        election_polling_places = read_aec_polling_places(args.election_polling_places_file, args.division)
+    else:
+        raise ValueError(f'unrecognised election: {election}')
+        
+    ref_polling_places = pd.read_csv(args.reference_polling_places_file,
+                                     na_filter=False, skipinitialspace=True) 
+        
+    votes_dict = add_polling_place_info(votes_dict,
+                                        election_polling_places,
+                                        ref_polling_places,
+                                        args.division)
+      
     votes_df = pd.DataFrame(votes_dict)
     votes_df = votes_df.round({'GreensPercentage': 1})
     votes_df['Latitude'] = votes_df['Latitude'].map('{:.6f}'.format)
@@ -108,10 +188,11 @@ if __name__ == '__main__':
                                      argument_default=argparse.SUPPRESS,
                                      formatter_class=argparse.RawDescriptionHelpFormatter)
 
+    parser.add_argument("election", type=str, choices=('state', 'senate'), help="Election")
     parser.add_argument("division", type=str, help="Division name")
-    parser.add_argument("votes", type=str, help="Votes file from AEC or TEC")
-    parser.add_argument("election_polling_places", type=str, help="Election day polling place file")
-    parser.add_argument("reference_polling_places", type=str, help="Reference polling place file")
+    parser.add_argument("votes_file", type=str, help="Votes file from AEC or TEC")
+    parser.add_argument("election_polling_places_file", type=str, help="Election day polling place file")
+    parser.add_argument("reference_polling_places_file", type=str, help="Reference polling place file")
     parser.add_argument("outfile", type=str, help="Output file")
     
     args = parser.parse_args()

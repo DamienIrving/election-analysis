@@ -1,4 +1,4 @@
-﻿PollingPlaceName,Locality,Polling Place Address,PremiseName,PremiseAddress1,PremiseAddress2,PremiseLocality,PremisePostcode,PremiseState,LocationWithinPremise,AccessToLocation,Disabled Access
+﻿PollingPlaceNm,Locality,Polling Place Address,PremisesNm,PremisesAddress1,PremisesAddress2,PremisesSuburb,PremisesPostCode,PremisesState,LocationWithinPremise,AccessToLocation,Disabled Access
 Austins Ferry,Austins Ferry,"St Virgil's College, 195 Main Rd, AUSTINS FERRY TAS 7011",St Virgil's College,195 Main Rd,,Austins Ferry,7011,TAS,,,None
 Battery Point West,Battery Point,"Albuera Street Primary School, Albuera St, BATTERY POINT TAS 7004",Albuera Street Primary School,Albuera St,,Battery Point,7004,TAS,,,None
 Chigwell,Chigwell,"Chigwell Barn, 10 Bucaan St, CHIGWELL TAS 7011",Chigwell Barn,10 Bucaan St,,Chigwell,7011,TAS,,,Assistance

@@ -1,4 +1,4 @@
-﻿PollingPlaceName,Locality,Polling Place Address,PremiseName,PremiseAddress1,PremiseAddress2,PremiseLocality,PremisePostcode,PremiseState,LocationWithinPremise,AccessToLocation,Disabled Access
+﻿PollingPlaceNm,Locality,Polling Place Address,PremisesNm,PremisesAddress1,PremisesAddress2,PremisesSuburb,PremisesPostCode,PremisesState,LocationWithinPremise,AccessToLocation,Disabled Access
 Abbotsham,Abbotsham,"Abbotsham  Hall, 590 Castra Rd, ABBOTSHAM TAS 7321",Abbotsham Hall,590 Castra Rd,,Abbotsham,7321,TAS,Kitchen,,Assistance
 Acton,Acton,"Burnie Child and Family Centre, 36 Thorne St, ACTON TAS 7320",Burnie Child and Family Centre,36 Thorne St,,Acton,7320,TAS,Hall,,Assistance
 Boat Harbour,Boat Harbour,"Boat Harbour Primary School, 17386 Bass Hwy, BOAT HARBOUR TAS 7321",Boat Harbour Primary School,17386 Bass Hwy,,Boat Harbour,7321,TAS,Hall,,Assistance

@@ -1,4 +1,4 @@
-﻿PollingPlaceName,Locality,Polling Place Address,PremiseName,PremiseAddress1,PremiseAddress2,PremiseLocality,PremisePostcode,PremiseState,LocationWithinPremise,AccessToLocation,Disabled Access
+﻿PollingPlaceNm,Locality,Polling Place Address,PremisesNm,PremisesAddress1,PremisesAddress2,PremisesSuburb,PremisesPostCode,PremisesState,LocationWithinPremise,AccessToLocation,Disabled Access
 Blessington Upper,Blessington,"North Esk Memorial Hall, 3132 Blessington Rd, BLESSINGTON TAS 7212",North Esk Memorial Hall,3132 Blessington Rd,,Blessington,7212,TAS,,,Assistance
 Branxholm,Branxholm,"Branxholm Community Hall, Stoke St, BRANXHOLM TAS 7261",Branxholm Community Hall,Stoke St,,Branxholm,7261,TAS,,,None
 Bridport,Bridport,"Bridport Hall, Main St, BRIDPORT TAS 7262",Bridport Hall,Main St,,Bridport,7262,TAS,,,Assistance

@@ -1,4 +1,4 @@
-﻿PollingPlaceName,Locality,Polling Place Address,PremiseName,PremiseAddress1,PremiseAddress2,PremiseLocality,PremisePostcode,PremiseState,LocationWithinPremise,AccessToLocation,Disabled Access
+﻿PollingPlaceNm,Locality,Polling Place Address,PremisesNm,PremisesAddress1,PremisesAddress2,PremisesSuburb,PremisesPostCode,PremisesState,LocationWithinPremise,AccessToLocation,Disabled Access
 Avoca,Avoca,"Avoca Primary School, 26-30 St Pauls Pl, AVOCA TAS 7213",Avoca Primary School,26-30 St Pauls Pl,,Avoca,7213,TAS,Bottom Classroom,,None
 Bagdad,Bagdad,"Bagdad Primary School, 46-48 School Rd, BAGDAD TAS 7030",Bagdad Primary School,46-48 School Rd,,Bagdad,7030,TAS,Hall,,None
 Beaconsfield,Beaconsfield,"Beaconsfield Senior Citizens' Hall, Weld St, BEACONSFIELD TAS 7270",Beaconsfield Senior Citizens' Hall,Weld St,,Beaconsfield,7270,TAS,,,Assistance
