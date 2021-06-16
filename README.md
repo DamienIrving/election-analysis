@@ -4,10 +4,8 @@ Analysis of AEC and TEC data from previous elections.
 
 ## Maps
 
-- [2019 Federal Election, Greens Senate Swing](https://public.tableau.com/profile/damien4566#!/vizhome/GreensSenatePrimaryVoteFed19/Swing)
-- [2019 Federal Election, Greens Senate Vote](https://public.tableau.com/profile/damien4566#!/vizhome/GreensSenatePrimaryVoteFed19/Vote)
-- [2018 Tasmanian State Election, Greens Swing](https://public.tableau.com/profile/damien4566#!/vizhome/State18/Swing)
-- [2018 Tasmanian State Election, Greens Vote](https://public.tableau.com/profile/damien4566#!/vizhome/State18/Vote)
+- [2019 Federal Election, Greens Senate Primary Vote](https://public.tableau.com/app/profile/damien4566/viz/TGSenate19/Primary)
+- [2019 Federal Election, Greens Senate Swing](https://public.tableau.com/app/profile/damien4566/viz/TGSenate19Swing/Swing)
 
 ## Data sources
 
