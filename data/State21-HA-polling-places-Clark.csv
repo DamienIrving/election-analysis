@@ -1,0 +1,37 @@
+﻿PollingPlaceName,Locality,PremiseName,PremiseAddress1,PremiseAddress2,PremiseLocality,PremiseState,PremisePostcode,LocationWithinPremise,AccessToLocation,Disabled Access
+Austins Ferry,Austins Ferry,St Virgil's College,195 Main Rd,,Austins Ferry,TAS,7011,Edmund Rice Hall,,None
+Battery Point West,Battery Point,Albuera Street Primary School,Albuera St,,Battery Point,TAS,7004,,,None
+Battery Point,Battery Point,St George's Church Hall,28 Cromwell St,,Battery Point,TAS,7004,Parish Hall,access from 30 Cromwell St,Assistance
+Chigwell,Chigwell,Chigwell Barn,10 Bucaan St,,Chigwell,TAS,7011,,,Assistance
+Roseneath,Claremont,Austins Ferry Primary School,16A Cammeray Rd,,Claremont,TAS,7011,,,Full
+Claremont,Claremont,Claremont Girl Guides Hall,3 Boxhill Rd,,Claremont,TAS,7011,,,Assistance
+Windermere,Claremont,Windermere Primary School,2 Cadbury Rd,,Claremont,TAS,7011,hall/multipurpose room,,Full
+Collinsvale,Collinsvale,Collinsvale Primary School,508 Collinsvale Rd,,Collinsvale,TAS,7012,general purpose room,,Assistance
+Dynnyrne,Dynnyrne,Princes Street Primary School,Randall St,,Sandy Bay,TAS,7005,hall,Lord St entrance,Assistance
+Fern Tree,Fern Tree,Fern Tree Community Centre,8 Stephenson Pl,,Fern Tree,TAS,7054,,,Assistance
+Glenorchy,Glenorchy,Glenorchy Primary School,Kensington St,,Glenorchy,TAS,7010,gymnasium,access from Hull St,Assistance
+Glenorchy Central,Glenorchy,St Matthews Church,Cnr Tolosa St and Main Rd,,Glenorchy,TAS,7010,,,Assistance
+Goodwood,Goodwood,Goodwood Primary School,Elmsleigh Rd,,Derwent Park,TAS,7009,gymnasium,,Full
+Merton,Glenorchy,Tolosa Hall,148 Tolosa St,,Glenorchy,TAS,7010,,,Assistance
+Hobart City,Hobart,Hobart Voting Centre,Ground Level,144 Macquarie St,Hobart,TAS,7000,,,Assistance
+West Hobart,Hobart,St Peter's Hall,Cnr Brisbane and Harrington Sts,,Hobart,TAS,7000,St Marys College,,None
+Lenah Valley,Lenah Valley,Lenah Valley Primary School,11 Creek Rd,,Lenah Valley,TAS,7008,hall,access from Colebrook St,Assistance
+Lutana,Lutana,Southern ITF Taekwon-Do,12 Ashbolt Cres,,Lutana,TAS,7009,Church,,None
+Moonah East,Moonah,Bowen Road Primary School,35 Bowen Rd,,Moonah,TAS,7009,gymnasium,,Assistance
+Moonah,Moonah,Moonah Community Centre,7 Gormanston Road,,Moonah,TAS,7009,gymnasium/court,,Assistance
+Moonah North,Moonah,Moonah Primary School,40 Derwent Park Rd,,Derwent Park,TAS,7009,hall,,Assistance
+Mount Nelson,Mount Nelson,Mt Nelson Primary School,388 Nelson Rd,,Mount Nelson,TAS,7007,hall,,Assistance
+Mount Stuart,Mount Stuart,Mt Stuart Primary School,106 Gillon Cres,,Mount Stuart,TAS,7000,general purpose room,,None
+New Town West,New Town,Sacred Heart College,2 Cross St,,New Town,TAS,7008,Mackillop Court,,None
+New Town,New Town,The Friends' School,395 Argyle St,,North Hobart,TAS,7000,The Farrall Centre,access from 393 Argyle St,Assistance
+North Hobart Central,North Hobart,Hobart North Uniting Church,Swan St,,North Hobart,TAS,7000,New Town Room,,Assistance
+Rosetta,Rosetta,Montrose Bay High School,865 Brooker Ave,,Rosetta,TAS,7010,gymnasium,"access from Foreshore Rd, Glenorchy",Assistance
+Sandy Bay Beach,Sandy Bay,Harold Gregg Centre (Sandown Village),1 Southerwood Dr,,Sandy Bay,TAS,7005,,,Assistance
+Lower Sandy Bay,Sandy Bay,St Stephen's Church Hall,520 Sandy Bay Rd,,Sandy Bay,TAS,7005,upper hall,,Assistance
+Waimea Heights,Sandy Bay,Waimea Heights Primary School,12 Balfour Ct,,Sandy Bay,TAS,7005,general purpose room,,None
+Sandy Bay,Sandy Bay,Wellspring Anglican Church Hall,43-47 Grosvenor St,,Sandy Bay,TAS,7005,,,Assistance
+Cascades,South Hobart,Badminton Association Centre,101 Cascade Rd,,South Hobart,TAS,7004,Social Hall - not on court,,None
+South Hobart,South Hobart,St Francis Xavier's Church Hall,34 Anglesea St,,South Hobart,TAS,7004,,,Assistance
+Taroona,Taroona,Taroona Primary School,104 Channel Hwy,,Taroona,TAS,7053,general purpose hall,,Assistance
+West Hobart Central,West Hobart,AA Lord Village (Lawrenny Court),131 Hill Street,,West Hobart,TAS,7000,Community Hall,,Assistance
+West Hobart South,West Hobart,Goulburn Street Primary School,Forest Rd,,West Hobart,TAS,7000,School Hall,,None
