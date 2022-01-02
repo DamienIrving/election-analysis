@@ -105,6 +105,7 @@ Braddon,Montgomery,Burnie City,8384,Havenview,Havenview Primary School,15 Marrio
 Braddon,Montgomery,Central Coast,8361,Heybridge,Blythe Heads Hall,Sice Ave,HEYBRIDGE,7316,-41.0751,145.986
 Braddon,Montgomery,Burnie City,8385,Highclere,Highclere Community Centre,1558 Ridgley Hwy,HIGHCLERE,7321,-41.1904,145.806
 Braddon,Murchison,Circular Head,8386,Irishtown,Irishtown Lodge Arthur Temple,604 Irishtown Rd,IRISHTOWN,7330,-40.9133,145.145
+Braddon,Murchison,Circular Head,,Irishtown,Irishtown Sports Complex,602 Irishtown Rd,IRISHTOWN,7330,-40.9124494,145.1439952
 Braddon,Mersey,Latrobe,8615,Latrobe,Latrobe Memorial Hall,170 Gilbert St,LATROBE,7307,-41.2365,146.415
 Braddon,Mersey,Latrobe,,Latrobe,Latrobe Primary School,23 Lewis St,LATROBE,7307,-41.239619,146.416013
 Braddon,Mersey,Latrobe,83761,Latrobe South,Latrobe Primary School,23 Lewis St,LATROBE,7307,-41.239619,146.416013
@@ -236,6 +237,7 @@ Franklin,Pembroke,Clarence City,,Bellerive,Clarence Police & Community Youth Clu
 Franklin,Nelson,Kingborough,8498,Blackmans Bay,Blackmans Bay Primary School,177 Roslyn Ave,BLACKMANS BAY,7052,-42.996938,147.3212189
 Franklin,Nelson,Kingborough,,Blackmans Bay,The Salvation Army Kingborough,3 Opal Dr,BLACKMANS BAY,7052,-42.99873483,147.3182753
 Franklin,Huon,Kingborough,83602,Blackmans Bay South,Blackmans Bay Hall,24 Ocean Esp,BLACKMANS BAY,7052,-43.0025,147.324
+Franklin,Huon,Kingborough,,Blackmans Bay South,Illawarra Primary School,6 Tinderbox Rd,BLACKMANS BAY,7052,-43.00865007,147.3193779
 Franklin,Rumney,Clarence City,8501,Cambridge,Cambridge Primary School,976 Cambridge Rd,CAMBRIDGE,7170,-42.8362,147.442
 Franklin,Pembroke,Clarence City,8545,Clarence,Clarence High School,25 Wentworth St,BELLERIVE,7018,-42.8784,147.389
 Franklin,Rumney,Clarence City,8503,Clarendon Vale,Clarendon Vale Primary School,25 Mockridge Rd,CLARENDON VALE,7019,-42.8873,147.445
@@ -245,6 +247,7 @@ Franklin,Huon,Huon Valley,8505,Cygnet,Cygnet Town Hall,14 Mary St,CYGNET,7112,-4
 Franklin,Huon,Huon Valley,8505,Cygnet,Carmel Hall,25 Mary St,CYGNET,7112,-43.16262358,147.0763409
 Franklin,Huon,Huon Valley,8506,Dover,Dover District High School,6940 Huon Hwy,DOVER,7117,-43.3105,147.013
 Franklin,Huon,Huon Valley,8508,Franklin,Franklin Primary School,10 New Rd,FRANKLIN,7113,-43.0856539,147.0120184
+Franklin,Huon,Huon Valley,,Franklin,Palais Theatre,3388 Huon Hwy,FRANKLIN,7113,-43.08902675,147.0105237
 Franklin,Huon,Huon Valley,8511,Geeveston,Geeveston Primary School,63 Arve Rd,GEEVESTON,7116,-43.1625,146.922
 Franklin,Huon,Huon Valley,,Geeveston,Geeveston Community Hall,7 Brady St,GEEVESTON,7116,-43.16394933,146.9244316
 Franklin,Pembroke,Clarence City,8512,Geilston Bay,Lindisfarne North Primary School,271 East Derwent Hwy,GEILSTON BAY,7015,-42.8383,147.349
@@ -289,6 +292,7 @@ Franklin,Pembroke,Clarence City,8544,Warrane,Warrane Primary School,213 Cambridg
 Franklin,Pembroke,Clarence City,,Warrane North,Warrane Mornington Neighbourhood Centre,150a Bligh St,WARRANE,7018,-42.85701221,147.3808921
 Franklin,Huon,Kingborough,8546,Woodbridge,Woodbridge Hall,3445 Channel Hwy,WOODBRIDGE,7162,-43.1601,147.239
 Lyons,McIntyre,Northern Midlands,8550,Avoca,Avoca Primary School,26-30 St Pauls St,AVOCA,7213,-41.782233,147.7266848
+Lyons,McIntyre,Northern Midlands,,Avoca,Avoca War Memorial Hall,3 Falmouth St,AVOCA,7213,-41.78249878,147.7192164
 Lyons,Prosser,Southern Midlands,8551,Bagdad,Bagdad Primary School,46 School Rd,BAGDAD,7030,-42.6249,147.223
 Lyons,Prosser,Glamorgan-Spring Bay,8556,Bicheno,Bicheno War Memorial Hall,78 Burgess St,BICHENO,7215,-41.8743,148.3003
 Lyons,Prosser,Glamorgan-Spring Bay,,Bicheno,Bicheno Beachfront,Sinclair St,BICHENO,7215,-41.87436309,148.2998814
@@ -323,6 +327,7 @@ Lyons,McIntyre,Northern Midlands,8589,Epping Forest,Epping Hall,13517 Midland Hw
 Lyons,McIntyre,Northern Midlands,,Epping,Epping Forest Public Hall,13515 Midland Hwy,EPPING FOREST,7211,-41.7580756,147.349062
 Lyons,McIntyre,Northern Midlands,8591,Evandale,Evandale Primary School,5-11 Barclay St,EVANDALE,7212,-41.5672,147.247
 Lyons,McIntyre,Break O'Day,8596,Fingal,Fingal Activity Centre (former Council Chambers),29 Talbot St,FINGAL,7214,-41.6380738,147.9701436
+Lyons,McIntyre,Break O'Day,,Fingal,Fingal Neighbourhood House,20 Talbot St,FINGAL,7214,-41.63859883,147.9709259
 Lyons,Prosser,Sorell,8597,Forcett,Forcett Public Hall,699 Arthur Hwy,FORCETT,7173,-42.8062089,147.6318634
 Lyons,Rosevears,West Tamar,,Frankford,Frankford Memorial Hall,Frankford Rd,FRANKFORD,7275,-41.34259684,146.7748977
 Lyons,Derwent,Brighton,8509,Gagebrook,Gagebrook Primary School,4 Tottenham Rd,GAGEBROOK,7030,-42.7488,147.276
@@ -385,6 +390,7 @@ Lyons,Rosevears,Launceston City,95002,Summerhill,Summerhill Baptist Church,87 St
 Lyons,Prosser,Glamorgan-Spring Bay,8675,Swansea,Swansea Town Hall,12 Franklin St,SWANSEA,7190,-42.1245,148.077
 Lyons,Prosser,Glamorgan-Spring Bay,,Swansea,Swansea Primary School,25 Franklin St,SWANSEA,7190,-42.12236655,148.0731847
 Lyons,Prosser,Tasman,8613,Taranna,Tasman Peninsula Community Centre,Gourlay Rd,TARANNA,7180,-43.0379835,147.8675222
+Lyons,Prosser,Tasman,,Taranna,Tasman Community Centre,33 Amy St,TARANNA,7180,-43.03806095,147.866748
 Lyons,Prosser,Brighton,8677,Tea Tree,Tea Tree Community Hall,Briar Banks Rd,TEA TREE,7017,-42.6895333,147.3235917
 Lyons,Prosser,Glamorgan-Spring Bay,8678,Triabunna,Triabunna Hall,3 Vicary St,TRIABUNNA,7190,-42.5082202,147.9103839
 Lyons,Prosser,Glamorgan-Spring Bay,,Triabunna,Triabunna Council Chambers,38 Vicary St,TRIABUNNA,7190,-42.50783638,147.917106

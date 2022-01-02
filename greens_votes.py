@@ -36,7 +36,7 @@ def get_name_and_address(polling_place, election_polling_places):
     else:
         assert ref_name in election_polling_place_list, 'Polling place name mismatch'
         selection = election_polling_places['PollingPlaceNm'] == ref_name
-        
+
     election_info = election_polling_places[selection]
     address_headers = [header for header in election_info.columns if 'PremisesAddress' in header]
     election_info['PremisesAddress'] = election_info[address_headers].apply(lambda x: ', '.join(x[x.notnull()]), axis=1)
