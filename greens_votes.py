@@ -130,6 +130,8 @@ def read_senate_votes(votes_file):
     party_names = ['The Greens', 'Australian Greens']
     
     raw_votes_df = pd.read_csv(votes_file, skiprows=1)
+    informal_votes = raw_votes_df['CandidateDetails'] == 'INFORMAL'
+    raw_votes_df = raw_votes_df[~informal_votes]
 
     not_prepoll = raw_votes_df['PollingPlaceNm'].apply(prepoll_filter)
     raw_votes_df = raw_votes_df[not_prepoll]
