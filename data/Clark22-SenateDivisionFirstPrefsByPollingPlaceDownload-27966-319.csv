@@ -1,4 +1,4 @@
-2022 Federal Election Senate First Preferences By Polling Place for Division 319 [Please Note: These results are not final. Event:27966 Phase:PostElection Generated:2022-05-22T11:49:35 Cycle:6c9d3b19-37c4-4379-9a72-7a34850cb5be Created:2022-05-22T11:47:28 Environment:PROD Site:CANBERRA Server:VTR03 Version:10.9.9.0]
+2022 Federal Election Senate First Preferences By Polling Place for Division 319 [Please Note: These results are not final. Event:27966 Phase:PostElection Generated:2022-05-29T11:48:55 Cycle:913eee42-8c6d-4ac3-b2db-d457ca8748d7 Created:2022-05-29T11:46:50 Environment:PROD Site:CANBERRA Server:VTR03 Version:10.9.9.0]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlaceNm,Group,CandidateID,BallotPosition,CandidateDetails,PartyNm,OrdinaryVotes
 TAS,319,Clark,8442,Battery Point,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,319,Clark,8442,Battery Point,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -2315,15 +2315,15 @@ TAS,319,Clark,8542,Taroona,ZZ,0,99,INFORMAL,,27
 TAS,319,Clark,31107,Hobart CLARK PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,319,Clark,31107,Hobart CLARK PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,319,Clark,31107,Hobart CLARK PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,55
 TAS,319,Clark,31107,Hobart CLARK PPVC,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,319,Clark,31107,Hobart CLARK PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,319,Clark,31107,Hobart CLARK PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,60
 TAS,319,Clark,31107,Hobart CLARK PPVC,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,319,Clark,31107,Hobart CLARK PPVC,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,319,Clark,31107,Hobart CLARK PPVC,C,0,9998,Unapportioned,Animal Justice Party,62
 TAS,319,Clark,31107,Hobart CLARK PPVC,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
@@ -2331,55 +2331,55 @@ TAS,319,Clark,31107,Hobart CLARK PPVC,D,37085,3,"RAINBIRD, Kate",Australian Labo
 TAS,319,Clark,31107,Hobart CLARK PPVC,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,319,Clark,31107,Hobart CLARK PPVC,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,319,Clark,31107,Hobart CLARK PPVC,D,0,9998,Unapportioned,Australian Labor Party,1664
 TAS,319,Clark,31107,Hobart CLARK PPVC,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,319,Clark,31107,Hobart CLARK PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,319,Clark,31107,Hobart CLARK PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,70
 TAS,319,Clark,31107,Hobart CLARK PPVC,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
 TAS,319,Clark,31107,Hobart CLARK PPVC,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,319,Clark,31107,Hobart CLARK PPVC,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,319,Clark,31107,Hobart CLARK PPVC,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,319,Clark,31107,Hobart CLARK PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,31107,Hobart CLARK PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",34
 TAS,319,Clark,31107,Hobart CLARK PPVC,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,319,Clark,31107,Hobart CLARK PPVC,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,319,Clark,31107,Hobart CLARK PPVC,G,0,9998,Unapportioned,Australian Federation Party,10
 TAS,319,Clark,31107,Hobart CLARK PPVC,H,37931,0,H Above-the-line Votes,The Local Party,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,319,Clark,31107,Hobart CLARK PPVC,H,0,9998,Unapportioned,The Local Party,0
+TAS,319,Clark,31107,Hobart CLARK PPVC,H,0,9998,Unapportioned,The Local Party,210
 TAS,319,Clark,31107,Hobart CLARK PPVC,I,37938,0,I Above-the-line Votes,The Greens,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,319,Clark,31107,Hobart CLARK PPVC,I,0,9998,Unapportioned,The Greens,0
+TAS,319,Clark,31107,Hobart CLARK PPVC,I,0,9998,Unapportioned,The Greens,2376
 TAS,319,Clark,31107,Hobart CLARK PPVC,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,319,Clark,31107,Hobart CLARK PPVC,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,319,Clark,31107,Hobart CLARK PPVC,J,0,9998,Unapportioned,Liberal Democrats,54
 TAS,319,Clark,31107,Hobart CLARK PPVC,K,37930,0,K Above-the-line Votes,United Australia Party,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,319,Clark,31107,Hobart CLARK PPVC,K,0,9998,Unapportioned,United Australia Party,0
+TAS,319,Clark,31107,Hobart CLARK PPVC,K,0,9998,Unapportioned,United Australia Party,57
 TAS,319,Clark,31107,Hobart CLARK PPVC,L,37937,0,L Above-the-line Votes,Liberal,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,L,37124,1,"DUNIAM, Jonno",Liberal,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,L,37131,2,"ASKEW, Wendy",Liberal,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,319,Clark,31107,Hobart CLARK PPVC,L,0,9998,Unapportioned,Liberal,0
+TAS,319,Clark,31107,Hobart CLARK PPVC,L,0,9998,Unapportioned,Liberal,1629
 TAS,319,Clark,31107,Hobart CLARK PPVC,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,319,Clark,31107,Hobart CLARK PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,319,Clark,31107,Hobart CLARK PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,322
 TAS,319,Clark,31107,Hobart CLARK PPVC,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,319,Clark,31107,Hobart CLARK PPVC,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,319,Clark,31107,Hobart CLARK PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,0
-TAS,319,Clark,31107,Hobart CLARK PPVC,UG,37794,1,"CROTHERS, Steve",Independent,0
-TAS,319,Clark,31107,Hobart CLARK PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,319,Clark,31107,Hobart CLARK PPVC,ZZ,0,99,INFORMAL,,0
+TAS,319,Clark,31107,Hobart CLARK PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,10
+TAS,319,Clark,31107,Hobart CLARK PPVC,UG,37794,1,"CROTHERS, Steve",Independent,11
+TAS,319,Clark,31107,Hobart CLARK PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,8
+TAS,319,Clark,31107,Hobart CLARK PPVC,ZZ,0,99,INFORMAL,,76
 TAS,319,Clark,46852,Kingston (Clark),A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,319,Clark,46852,Kingston (Clark),A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,319,Clark,46852,Kingston (Clark),A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -2519,15 +2519,15 @@ TAS,319,Clark,46859,Sandfly (Clark),ZZ,0,99,INFORMAL,,4
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,319,Clark,58685,Glenorchy CLARK PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,77
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,319,Clark,58685,Glenorchy CLARK PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,213
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,319,Clark,58685,Glenorchy CLARK PPVC,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,C,0,9998,Unapportioned,Animal Justice Party,88
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
@@ -2535,55 +2535,55 @@ TAS,319,Clark,58685,Glenorchy CLARK PPVC,D,37085,3,"RAINBIRD, Kate",Australian L
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,319,Clark,58685,Glenorchy CLARK PPVC,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,D,0,9998,Unapportioned,Australian Labor Party,2565
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,319,Clark,58685,Glenorchy CLARK PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,141
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,319,Clark,58685,Glenorchy CLARK PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",86
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,319,Clark,58685,Glenorchy CLARK PPVC,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,G,0,9998,Unapportioned,Australian Federation Party,13
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,H,37931,0,H Above-the-line Votes,The Local Party,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,319,Clark,58685,Glenorchy CLARK PPVC,H,0,9998,Unapportioned,The Local Party,0
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,H,0,9998,Unapportioned,The Local Party,110
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,I,37938,0,I Above-the-line Votes,The Greens,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,319,Clark,58685,Glenorchy CLARK PPVC,I,0,9998,Unapportioned,The Greens,0
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,I,0,9998,Unapportioned,The Greens,813
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,319,Clark,58685,Glenorchy CLARK PPVC,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,J,0,9998,Unapportioned,Liberal Democrats,141
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,K,37930,0,K Above-the-line Votes,United Australia Party,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,319,Clark,58685,Glenorchy CLARK PPVC,K,0,9998,Unapportioned,United Australia Party,0
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,K,0,9998,Unapportioned,United Australia Party,73
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,L,37937,0,L Above-the-line Votes,Liberal,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,L,37124,1,"DUNIAM, Jonno",Liberal,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,L,37131,2,"ASKEW, Wendy",Liberal,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,319,Clark,58685,Glenorchy CLARK PPVC,L,0,9998,Unapportioned,Liberal,0
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,L,0,9998,Unapportioned,Liberal,1671
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,319,Clark,58685,Glenorchy CLARK PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,725
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,319,Clark,58685,Glenorchy CLARK PPVC,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,319,Clark,58685,Glenorchy CLARK PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,0
-TAS,319,Clark,58685,Glenorchy CLARK PPVC,UG,37794,1,"CROTHERS, Steve",Independent,0
-TAS,319,Clark,58685,Glenorchy CLARK PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,319,Clark,58685,Glenorchy CLARK PPVC,ZZ,0,99,INFORMAL,,0
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,18
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,UG,37794,1,"CROTHERS, Steve",Independent,8
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,2
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,ZZ,0,99,INFORMAL,,242
 TAS,319,Clark,65559,EAV Clark PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,319,Clark,65559,EAV Clark PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,319,Clark,65559,EAV Clark PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -2856,11 +2856,11 @@ TAS,319,Clark,97939,New Town Central,N,0,9998,Unapportioned,Informed Medical Opt
 TAS,319,Clark,97939,New Town Central,UG,37794,1,"CROTHERS, Steve",Independent,0
 TAS,319,Clark,97939,New Town Central,UG,36253,2,"EDWARDS, Fenella",Independent,0
 TAS,319,Clark,97939,New Town Central,ZZ,0,99,INFORMAL,,9
-TAS,319,Clark,108404,Special Hospital Team 1,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,319,Clark,108404,Special Hospital Team 1,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,319,Clark,108404,Special Hospital Team 1,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,2
+TAS,319,Clark,108404,Special Hospital Team 1,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
 TAS,319,Clark,108404,Special Hospital Team 1,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,319,Clark,108404,Special Hospital Team 1,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,319,Clark,108404,Special Hospital Team 1,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
+TAS,319,Clark,108404,Special Hospital Team 1,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,4
 TAS,319,Clark,108404,Special Hospital Team 1,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,319,Clark,108404,Special Hospital Team 1,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
 TAS,319,Clark,108404,Special Hospital Team 1,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
@@ -2868,15 +2868,15 @@ TAS,319,Clark,108404,Special Hospital Team 1,C,37934,0,C Above-the-line Votes,An
 TAS,319,Clark,108404,Special Hospital Team 1,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,319,Clark,108404,Special Hospital Team 1,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
 TAS,319,Clark,108404,Special Hospital Team 1,C,0,9998,Unapportioned,Animal Justice Party,0
-TAS,319,Clark,108404,Special Hospital Team 1,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
-TAS,319,Clark,108404,Special Hospital Team 1,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
-TAS,319,Clark,108404,Special Hospital Team 1,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
+TAS,319,Clark,108404,Special Hospital Team 1,D,37940,0,D Above-the-line Votes,Australian Labor Party,10
+TAS,319,Clark,108404,Special Hospital Team 1,D,37063,1,"URQUHART, Anne",Australian Labor Party,1
+TAS,319,Clark,108404,Special Hospital Team 1,D,37079,2,"POLLEY, Helen",Australian Labor Party,1
 TAS,319,Clark,108404,Special Hospital Team 1,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
 TAS,319,Clark,108404,Special Hospital Team 1,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,319,Clark,108404,Special Hospital Team 1,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,319,Clark,108404,Special Hospital Team 1,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
 TAS,319,Clark,108404,Special Hospital Team 1,D,0,9998,Unapportioned,Australian Labor Party,0
-TAS,319,Clark,108404,Special Hospital Team 1,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
+TAS,319,Clark,108404,Special Hospital Team 1,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,1
 TAS,319,Clark,108404,Special Hospital Team 1,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,319,Clark,108404,Special Hospital Team 1,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
 TAS,319,Clark,108404,Special Hospital Team 1,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
@@ -2894,25 +2894,25 @@ TAS,319,Clark,108404,Special Hospital Team 1,H,37054,1,"MINSHULL, Leanne",The Lo
 TAS,319,Clark,108404,Special Hospital Team 1,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,319,Clark,108404,Special Hospital Team 1,H,37066,3,"VAN RAAY, Lara",The Local Party,0
 TAS,319,Clark,108404,Special Hospital Team 1,H,0,9998,Unapportioned,The Local Party,0
-TAS,319,Clark,108404,Special Hospital Team 1,I,37938,0,I Above-the-line Votes,The Greens,0
-TAS,319,Clark,108404,Special Hospital Team 1,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
+TAS,319,Clark,108404,Special Hospital Team 1,I,37938,0,I Above-the-line Votes,The Greens,3
+TAS,319,Clark,108404,Special Hospital Team 1,I,37423,1,"WHISH-WILSON, Peter",The Greens,2
 TAS,319,Clark,108404,Special Hospital Team 1,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,319,Clark,108404,Special Hospital Team 1,I,37431,3,"BADGER, Tabatha",The Greens,0
 TAS,319,Clark,108404,Special Hospital Team 1,I,0,9998,Unapportioned,The Greens,0
-TAS,319,Clark,108404,Special Hospital Team 1,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
+TAS,319,Clark,108404,Special Hospital Team 1,J,37935,0,J Above-the-line Votes,Liberal Democrats,4
 TAS,319,Clark,108404,Special Hospital Team 1,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,319,Clark,108404,Special Hospital Team 1,J,37021,2,"CROFT, Chris",Liberal Democrats,0
 TAS,319,Clark,108404,Special Hospital Team 1,J,0,9998,Unapportioned,Liberal Democrats,0
-TAS,319,Clark,108404,Special Hospital Team 1,K,37930,0,K Above-the-line Votes,United Australia Party,0
-TAS,319,Clark,108404,Special Hospital Team 1,K,36282,1,"ADAMS, Diana",United Australia Party,0
+TAS,319,Clark,108404,Special Hospital Team 1,K,37930,0,K Above-the-line Votes,United Australia Party,1
+TAS,319,Clark,108404,Special Hospital Team 1,K,36282,1,"ADAMS, Diana",United Australia Party,1
 TAS,319,Clark,108404,Special Hospital Team 1,K,36293,2,"HENNESSY, Alan",United Australia Party,0
 TAS,319,Clark,108404,Special Hospital Team 1,K,0,9998,Unapportioned,United Australia Party,0
-TAS,319,Clark,108404,Special Hospital Team 1,L,37937,0,L Above-the-line Votes,Liberal,0
-TAS,319,Clark,108404,Special Hospital Team 1,L,37124,1,"DUNIAM, Jonno",Liberal,0
+TAS,319,Clark,108404,Special Hospital Team 1,L,37937,0,L Above-the-line Votes,Liberal,7
+TAS,319,Clark,108404,Special Hospital Team 1,L,37124,1,"DUNIAM, Jonno",Liberal,1
 TAS,319,Clark,108404,Special Hospital Team 1,L,37131,2,"ASKEW, Wendy",Liberal,0
-TAS,319,Clark,108404,Special Hospital Team 1,L,37132,3,"ABETZ, Eric",Liberal,0
+TAS,319,Clark,108404,Special Hospital Team 1,L,37132,3,"ABETZ, Eric",Liberal,1
 TAS,319,Clark,108404,Special Hospital Team 1,L,0,9998,Unapportioned,Liberal,0
-TAS,319,Clark,108404,Special Hospital Team 1,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
+TAS,319,Clark,108404,Special Hospital Team 1,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,2
 TAS,319,Clark,108404,Special Hospital Team 1,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
 TAS,319,Clark,108404,Special Hospital Team 1,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,319,Clark,108404,Special Hospital Team 1,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
@@ -2923,7 +2923,7 @@ TAS,319,Clark,108404,Special Hospital Team 1,N,37368,2,"PICKERING, Matthew",Info
 TAS,319,Clark,108404,Special Hospital Team 1,N,0,9998,Unapportioned,Informed Medical Options Party,0
 TAS,319,Clark,108404,Special Hospital Team 1,UG,37794,1,"CROTHERS, Steve",Independent,0
 TAS,319,Clark,108404,Special Hospital Team 1,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,319,Clark,108404,Special Hospital Team 1,ZZ,0,99,INFORMAL,,0
+TAS,319,Clark,108404,Special Hospital Team 1,ZZ,0,99,INFORMAL,,5
 TAS,319,Clark,108490,EAV COVID19 Clark PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,319,Clark,108490,EAV COVID19 Clark PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,319,Clark,108490,EAV COVID19 Clark PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0

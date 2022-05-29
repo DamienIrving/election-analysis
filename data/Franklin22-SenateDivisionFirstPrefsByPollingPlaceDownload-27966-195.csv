@@ -1,141 +1,141 @@
-2022 Federal Election Senate First Preferences By Polling Place for Division 195 [Please Note: These results are not final. Event:27966 Phase:PostElection Generated:2022-05-22T11:49:26 Cycle:6c9d3b19-37c4-4379-9a72-7a34850cb5be Created:2022-05-22T11:47:28 Environment:PROD Site:CANBERRA Server:VTR03 Version:10.9.9.0]
+2022 Federal Election Senate First Preferences By Polling Place for Division 195 [Please Note: These results are not final. Event:27966 Phase:PostElection Generated:2022-05-29T11:48:46 Cycle:913eee42-8c6d-4ac3-b2db-d457ca8748d7 Created:2022-05-29T11:46:50 Environment:PROD Site:CANBERRA Server:VTR03 Version:10.9.9.0]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlaceNm,Group,CandidateID,BallotPosition,CandidateDetails,PartyNm,OrdinaryVotes
-TAS,195,Franklin,8493,Adventure Bay,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8493,Adventure Bay,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,1
 TAS,195,Franklin,8493,Adventure Bay,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8493,Adventure Bay,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8493,Adventure Bay,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,1
-TAS,195,Franklin,8493,Adventure Bay,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
-TAS,195,Franklin,8493,Adventure Bay,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
+TAS,195,Franklin,8493,Adventure Bay,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8493,Adventure Bay,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,1
+TAS,195,Franklin,8493,Adventure Bay,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,1
 TAS,195,Franklin,8493,Adventure Bay,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,195,Franklin,8493,Adventure Bay,B,0,9998,Unapportioned,Pauline Hanson's One Nation,1
-TAS,195,Franklin,8493,Adventure Bay,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
+TAS,195,Franklin,8493,Adventure Bay,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,195,Franklin,8493,Adventure Bay,C,37934,0,C Above-the-line Votes,Animal Justice Party,1
 TAS,195,Franklin,8493,Adventure Bay,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,195,Franklin,8493,Adventure Bay,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,195,Franklin,8493,Adventure Bay,C,0,9998,Unapportioned,Animal Justice Party,2
-TAS,195,Franklin,8493,Adventure Bay,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
-TAS,195,Franklin,8493,Adventure Bay,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
-TAS,195,Franklin,8493,Adventure Bay,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
-TAS,195,Franklin,8493,Adventure Bay,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
+TAS,195,Franklin,8493,Adventure Bay,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,195,Franklin,8493,Adventure Bay,D,37940,0,D Above-the-line Votes,Australian Labor Party,26
+TAS,195,Franklin,8493,Adventure Bay,D,37063,1,"URQUHART, Anne",Australian Labor Party,3
+TAS,195,Franklin,8493,Adventure Bay,D,37079,2,"POLLEY, Helen",Australian Labor Party,2
+TAS,195,Franklin,8493,Adventure Bay,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,1
 TAS,195,Franklin,8493,Adventure Bay,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,195,Franklin,8493,Adventure Bay,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
-TAS,195,Franklin,8493,Adventure Bay,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,195,Franklin,8493,Adventure Bay,D,0,9998,Unapportioned,Australian Labor Party,31
-TAS,195,Franklin,8493,Adventure Bay,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
-TAS,195,Franklin,8493,Adventure Bay,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
+TAS,195,Franklin,8493,Adventure Bay,D,37119,6,"GOURLAY, Chris",Australian Labor Party,1
+TAS,195,Franklin,8493,Adventure Bay,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,195,Franklin,8493,Adventure Bay,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,5
+TAS,195,Franklin,8493,Adventure Bay,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,2
 TAS,195,Franklin,8493,Adventure Bay,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,195,Franklin,8493,Adventure Bay,E,0,9998,Unapportioned,Legalise Cannabis Australia,5
-TAS,195,Franklin,8493,Adventure Bay,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8493,Adventure Bay,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
+TAS,195,Franklin,8493,Adventure Bay,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,195,Franklin,8493,Adventure Bay,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",4
+TAS,195,Franklin,8493,Adventure Bay,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",1
 TAS,195,Franklin,8493,Adventure Bay,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8493,Adventure Bay,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8493,Adventure Bay,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",5
+TAS,195,Franklin,8493,Adventure Bay,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8493,Adventure Bay,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,195,Franklin,8493,Adventure Bay,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,195,Franklin,8493,Adventure Bay,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
 TAS,195,Franklin,8493,Adventure Bay,G,0,9998,Unapportioned,Australian Federation Party,0
 TAS,195,Franklin,8493,Adventure Bay,H,37931,0,H Above-the-line Votes,The Local Party,0
-TAS,195,Franklin,8493,Adventure Bay,H,37054,1,"MINSHULL, Leanne",The Local Party,0
+TAS,195,Franklin,8493,Adventure Bay,H,37054,1,"MINSHULL, Leanne",The Local Party,1
 TAS,195,Franklin,8493,Adventure Bay,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,195,Franklin,8493,Adventure Bay,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,195,Franklin,8493,Adventure Bay,H,0,9998,Unapportioned,The Local Party,1
-TAS,195,Franklin,8493,Adventure Bay,I,37938,0,I Above-the-line Votes,The Greens,0
-TAS,195,Franklin,8493,Adventure Bay,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
+TAS,195,Franklin,8493,Adventure Bay,H,0,9998,Unapportioned,The Local Party,0
+TAS,195,Franklin,8493,Adventure Bay,I,37938,0,I Above-the-line Votes,The Greens,20
+TAS,195,Franklin,8493,Adventure Bay,I,37423,1,"WHISH-WILSON, Peter",The Greens,12
 TAS,195,Franklin,8493,Adventure Bay,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,195,Franklin,8493,Adventure Bay,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,195,Franklin,8493,Adventure Bay,I,0,9998,Unapportioned,The Greens,31
-TAS,195,Franklin,8493,Adventure Bay,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
+TAS,195,Franklin,8493,Adventure Bay,I,0,9998,Unapportioned,The Greens,0
+TAS,195,Franklin,8493,Adventure Bay,J,37935,0,J Above-the-line Votes,Liberal Democrats,4
 TAS,195,Franklin,8493,Adventure Bay,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,195,Franklin,8493,Adventure Bay,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,195,Franklin,8493,Adventure Bay,J,0,9998,Unapportioned,Liberal Democrats,3
-TAS,195,Franklin,8493,Adventure Bay,K,37930,0,K Above-the-line Votes,United Australia Party,0
-TAS,195,Franklin,8493,Adventure Bay,K,36282,1,"ADAMS, Diana",United Australia Party,0
+TAS,195,Franklin,8493,Adventure Bay,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,195,Franklin,8493,Adventure Bay,K,37930,0,K Above-the-line Votes,United Australia Party,2
+TAS,195,Franklin,8493,Adventure Bay,K,36282,1,"ADAMS, Diana",United Australia Party,1
 TAS,195,Franklin,8493,Adventure Bay,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,195,Franklin,8493,Adventure Bay,K,0,9998,Unapportioned,United Australia Party,3
-TAS,195,Franklin,8493,Adventure Bay,L,37937,0,L Above-the-line Votes,Liberal,0
-TAS,195,Franklin,8493,Adventure Bay,L,37124,1,"DUNIAM, Jonno",Liberal,0
-TAS,195,Franklin,8493,Adventure Bay,L,37131,2,"ASKEW, Wendy",Liberal,0
-TAS,195,Franklin,8493,Adventure Bay,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,195,Franklin,8493,Adventure Bay,L,0,9998,Unapportioned,Liberal,40
-TAS,195,Franklin,8493,Adventure Bay,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
-TAS,195,Franklin,8493,Adventure Bay,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
+TAS,195,Franklin,8493,Adventure Bay,K,0,9998,Unapportioned,United Australia Party,0
+TAS,195,Franklin,8493,Adventure Bay,L,37937,0,L Above-the-line Votes,Liberal,37
+TAS,195,Franklin,8493,Adventure Bay,L,37124,1,"DUNIAM, Jonno",Liberal,2
+TAS,195,Franklin,8493,Adventure Bay,L,37131,2,"ASKEW, Wendy",Liberal,1
+TAS,195,Franklin,8493,Adventure Bay,L,37132,3,"ABETZ, Eric",Liberal,3
+TAS,195,Franklin,8493,Adventure Bay,L,0,9998,Unapportioned,Liberal,0
+TAS,195,Franklin,8493,Adventure Bay,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,10
+TAS,195,Franklin,8493,Adventure Bay,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,4
 TAS,195,Franklin,8493,Adventure Bay,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,195,Franklin,8493,Adventure Bay,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,195,Franklin,8493,Adventure Bay,M,0,9998,Unapportioned,Jacqui Lambie Network,14
+TAS,195,Franklin,8493,Adventure Bay,M,0,9998,Unapportioned,Jacqui Lambie Network,0
 TAS,195,Franklin,8493,Adventure Bay,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,195,Franklin,8493,Adventure Bay,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,195,Franklin,8493,Adventure Bay,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
 TAS,195,Franklin,8493,Adventure Bay,N,0,9998,Unapportioned,Informed Medical Options Party,0
 TAS,195,Franklin,8493,Adventure Bay,UG,37794,1,"CROTHERS, Steve",Independent,1
 TAS,195,Franklin,8493,Adventure Bay,UG,36253,2,"EDWARDS, Fenella",Independent,1
-TAS,195,Franklin,8493,Adventure Bay,ZZ,0,99,INFORMAL,,13
-TAS,195,Franklin,8494,Alonnah,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8494,Alonnah,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8493,Adventure Bay,ZZ,0,99,INFORMAL,,3
+TAS,195,Franklin,8494,Alonnah,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,3
+TAS,195,Franklin,8494,Alonnah,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
 TAS,195,Franklin,8494,Alonnah,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8494,Alonnah,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,4
-TAS,195,Franklin,8494,Alonnah,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
+TAS,195,Franklin,8494,Alonnah,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8494,Alonnah,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,3
 TAS,195,Franklin,8494,Alonnah,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,195,Franklin,8494,Alonnah,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,195,Franklin,8494,Alonnah,B,0,9998,Unapportioned,Pauline Hanson's One Nation,3
-TAS,195,Franklin,8494,Alonnah,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
+TAS,195,Franklin,8494,Alonnah,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,195,Franklin,8494,Alonnah,C,37934,0,C Above-the-line Votes,Animal Justice Party,2
 TAS,195,Franklin,8494,Alonnah,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,195,Franklin,8494,Alonnah,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,195,Franklin,8494,Alonnah,C,0,9998,Unapportioned,Animal Justice Party,2
-TAS,195,Franklin,8494,Alonnah,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
-TAS,195,Franklin,8494,Alonnah,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
+TAS,195,Franklin,8494,Alonnah,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,195,Franklin,8494,Alonnah,D,37940,0,D Above-the-line Votes,Australian Labor Party,41
+TAS,195,Franklin,8494,Alonnah,D,37063,1,"URQUHART, Anne",Australian Labor Party,7
 TAS,195,Franklin,8494,Alonnah,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
 TAS,195,Franklin,8494,Alonnah,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
-TAS,195,Franklin,8494,Alonnah,D,37103,4,"HULME, Daniel",Australian Labor Party,0
-TAS,195,Franklin,8494,Alonnah,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
+TAS,195,Franklin,8494,Alonnah,D,37103,4,"HULME, Daniel",Australian Labor Party,1
+TAS,195,Franklin,8494,Alonnah,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,1
 TAS,195,Franklin,8494,Alonnah,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,195,Franklin,8494,Alonnah,D,0,9998,Unapportioned,Australian Labor Party,48
-TAS,195,Franklin,8494,Alonnah,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
-TAS,195,Franklin,8494,Alonnah,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
+TAS,195,Franklin,8494,Alonnah,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,195,Franklin,8494,Alonnah,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,9
+TAS,195,Franklin,8494,Alonnah,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,2
 TAS,195,Franklin,8494,Alonnah,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,195,Franklin,8494,Alonnah,E,0,9998,Unapportioned,Legalise Cannabis Australia,11
-TAS,195,Franklin,8494,Alonnah,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8494,Alonnah,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
+TAS,195,Franklin,8494,Alonnah,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,195,Franklin,8494,Alonnah,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",4
+TAS,195,Franklin,8494,Alonnah,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",1
 TAS,195,Franklin,8494,Alonnah,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8494,Alonnah,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8494,Alonnah,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",4
+TAS,195,Franklin,8494,Alonnah,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8494,Alonnah,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,195,Franklin,8494,Alonnah,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,195,Franklin,8494,Alonnah,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,195,Franklin,8494,Alonnah,G,0,9998,Unapportioned,Australian Federation Party,1
-TAS,195,Franklin,8494,Alonnah,H,37931,0,H Above-the-line Votes,The Local Party,0
+TAS,195,Franklin,8494,Alonnah,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,195,Franklin,8494,Alonnah,H,37931,0,H Above-the-line Votes,The Local Party,8
 TAS,195,Franklin,8494,Alonnah,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,195,Franklin,8494,Alonnah,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,195,Franklin,8494,Alonnah,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,195,Franklin,8494,Alonnah,H,0,9998,Unapportioned,The Local Party,8
-TAS,195,Franklin,8494,Alonnah,I,37938,0,I Above-the-line Votes,The Greens,0
-TAS,195,Franklin,8494,Alonnah,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
+TAS,195,Franklin,8494,Alonnah,H,0,9998,Unapportioned,The Local Party,0
+TAS,195,Franklin,8494,Alonnah,I,37938,0,I Above-the-line Votes,The Greens,49
+TAS,195,Franklin,8494,Alonnah,I,37423,1,"WHISH-WILSON, Peter",The Greens,23
 TAS,195,Franklin,8494,Alonnah,I,37427,2,"BLEYER, Vanessa",The Greens,0
-TAS,195,Franklin,8494,Alonnah,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,195,Franklin,8494,Alonnah,I,0,9998,Unapportioned,The Greens,72
+TAS,195,Franklin,8494,Alonnah,I,37431,3,"BADGER, Tabatha",The Greens,1
+TAS,195,Franklin,8494,Alonnah,I,0,9998,Unapportioned,The Greens,0
 TAS,195,Franklin,8494,Alonnah,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
 TAS,195,Franklin,8494,Alonnah,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,195,Franklin,8494,Alonnah,J,37021,2,"CROFT, Chris",Liberal Democrats,0
 TAS,195,Franklin,8494,Alonnah,J,0,9998,Unapportioned,Liberal Democrats,0
-TAS,195,Franklin,8494,Alonnah,K,37930,0,K Above-the-line Votes,United Australia Party,0
-TAS,195,Franklin,8494,Alonnah,K,36282,1,"ADAMS, Diana",United Australia Party,0
+TAS,195,Franklin,8494,Alonnah,K,37930,0,K Above-the-line Votes,United Australia Party,1
+TAS,195,Franklin,8494,Alonnah,K,36282,1,"ADAMS, Diana",United Australia Party,1
 TAS,195,Franklin,8494,Alonnah,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,195,Franklin,8494,Alonnah,K,0,9998,Unapportioned,United Australia Party,2
-TAS,195,Franklin,8494,Alonnah,L,37937,0,L Above-the-line Votes,Liberal,0
-TAS,195,Franklin,8494,Alonnah,L,37124,1,"DUNIAM, Jonno",Liberal,0
-TAS,195,Franklin,8494,Alonnah,L,37131,2,"ASKEW, Wendy",Liberal,0
-TAS,195,Franklin,8494,Alonnah,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,195,Franklin,8494,Alonnah,L,0,9998,Unapportioned,Liberal,62
-TAS,195,Franklin,8494,Alonnah,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
-TAS,195,Franklin,8494,Alonnah,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
+TAS,195,Franklin,8494,Alonnah,K,0,9998,Unapportioned,United Australia Party,0
+TAS,195,Franklin,8494,Alonnah,L,37937,0,L Above-the-line Votes,Liberal,51
+TAS,195,Franklin,8494,Alonnah,L,37124,1,"DUNIAM, Jonno",Liberal,4
+TAS,195,Franklin,8494,Alonnah,L,37131,2,"ASKEW, Wendy",Liberal,1
+TAS,195,Franklin,8494,Alonnah,L,37132,3,"ABETZ, Eric",Liberal,9
+TAS,195,Franklin,8494,Alonnah,L,0,9998,Unapportioned,Liberal,0
+TAS,195,Franklin,8494,Alonnah,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,18
+TAS,195,Franklin,8494,Alonnah,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,1
 TAS,195,Franklin,8494,Alonnah,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
-TAS,195,Franklin,8494,Alonnah,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,195,Franklin,8494,Alonnah,M,0,9998,Unapportioned,Jacqui Lambie Network,22
+TAS,195,Franklin,8494,Alonnah,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,3
+TAS,195,Franklin,8494,Alonnah,M,0,9998,Unapportioned,Jacqui Lambie Network,0
 TAS,195,Franklin,8494,Alonnah,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,195,Franklin,8494,Alonnah,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,195,Franklin,8494,Alonnah,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
 TAS,195,Franklin,8494,Alonnah,N,0,9998,Unapportioned,Informed Medical Options Party,0
 TAS,195,Franklin,8494,Alonnah,UG,37794,1,"CROTHERS, Steve",Independent,0
 TAS,195,Franklin,8494,Alonnah,UG,36253,2,"EDWARDS, Fenella",Independent,1
-TAS,195,Franklin,8494,Alonnah,ZZ,0,99,INFORMAL,,11
+TAS,195,Franklin,8494,Alonnah,ZZ,0,99,INFORMAL,,5
 TAS,195,Franklin,8497,Bellerive,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8497,Bellerive,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8497,Bellerive,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -340,71 +340,71 @@ TAS,195,Franklin,8501,Cambridge,N,0,9998,Unapportioned,Informed Medical Options 
 TAS,195,Franklin,8501,Cambridge,UG,37794,1,"CROTHERS, Steve",Independent,1
 TAS,195,Franklin,8501,Cambridge,UG,36253,2,"EDWARDS, Fenella",Independent,1
 TAS,195,Franklin,8501,Cambridge,ZZ,0,99,INFORMAL,,49
-TAS,195,Franklin,8503,Clarendon Vale,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8503,Clarendon Vale,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,11
 TAS,195,Franklin,8503,Clarendon Vale,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8503,Clarendon Vale,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8503,Clarendon Vale,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,12
-TAS,195,Franklin,8503,Clarendon Vale,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
-TAS,195,Franklin,8503,Clarendon Vale,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
-TAS,195,Franklin,8503,Clarendon Vale,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,195,Franklin,8503,Clarendon Vale,B,0,9998,Unapportioned,Pauline Hanson's One Nation,46
-TAS,195,Franklin,8503,Clarendon Vale,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
-TAS,195,Franklin,8503,Clarendon Vale,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
+TAS,195,Franklin,8503,Clarendon Vale,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,2
+TAS,195,Franklin,8503,Clarendon Vale,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8503,Clarendon Vale,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,37
+TAS,195,Franklin,8503,Clarendon Vale,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,6
+TAS,195,Franklin,8503,Clarendon Vale,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,2
+TAS,195,Franklin,8503,Clarendon Vale,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,195,Franklin,8503,Clarendon Vale,C,37934,0,C Above-the-line Votes,Animal Justice Party,18
+TAS,195,Franklin,8503,Clarendon Vale,C,36512,1,"DAVIS, Ivan",Animal Justice Party,1
 TAS,195,Franklin,8503,Clarendon Vale,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,195,Franklin,8503,Clarendon Vale,C,0,9998,Unapportioned,Animal Justice Party,20
-TAS,195,Franklin,8503,Clarendon Vale,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
-TAS,195,Franklin,8503,Clarendon Vale,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
-TAS,195,Franklin,8503,Clarendon Vale,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
-TAS,195,Franklin,8503,Clarendon Vale,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
-TAS,195,Franklin,8503,Clarendon Vale,D,37103,4,"HULME, Daniel",Australian Labor Party,0
+TAS,195,Franklin,8503,Clarendon Vale,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,195,Franklin,8503,Clarendon Vale,D,37940,0,D Above-the-line Votes,Australian Labor Party,314
+TAS,195,Franklin,8503,Clarendon Vale,D,37063,1,"URQUHART, Anne",Australian Labor Party,12
+TAS,195,Franklin,8503,Clarendon Vale,D,37079,2,"POLLEY, Helen",Australian Labor Party,4
+TAS,195,Franklin,8503,Clarendon Vale,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,4
+TAS,195,Franklin,8503,Clarendon Vale,D,37103,4,"HULME, Daniel",Australian Labor Party,8
 TAS,195,Franklin,8503,Clarendon Vale,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
-TAS,195,Franklin,8503,Clarendon Vale,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,195,Franklin,8503,Clarendon Vale,D,0,9998,Unapportioned,Australian Labor Party,343
-TAS,195,Franklin,8503,Clarendon Vale,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
-TAS,195,Franklin,8503,Clarendon Vale,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
+TAS,195,Franklin,8503,Clarendon Vale,D,37119,6,"GOURLAY, Chris",Australian Labor Party,2
+TAS,195,Franklin,8503,Clarendon Vale,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,195,Franklin,8503,Clarendon Vale,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,60
+TAS,195,Franklin,8503,Clarendon Vale,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,1
 TAS,195,Franklin,8503,Clarendon Vale,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,195,Franklin,8503,Clarendon Vale,E,0,9998,Unapportioned,Legalise Cannabis Australia,59
-TAS,195,Franklin,8503,Clarendon Vale,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8503,Clarendon Vale,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
+TAS,195,Franklin,8503,Clarendon Vale,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,195,Franklin,8503,Clarendon Vale,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",13
+TAS,195,Franklin,8503,Clarendon Vale,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",4
 TAS,195,Franklin,8503,Clarendon Vale,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8503,Clarendon Vale,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8503,Clarendon Vale,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",18
-TAS,195,Franklin,8503,Clarendon Vale,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
+TAS,195,Franklin,8503,Clarendon Vale,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,195,Franklin,8503,Clarendon Vale,G,37943,0,G Above-the-line Votes,Australian Federation Party,2
 TAS,195,Franklin,8503,Clarendon Vale,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,195,Franklin,8503,Clarendon Vale,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,195,Franklin,8503,Clarendon Vale,G,0,9998,Unapportioned,Australian Federation Party,2
-TAS,195,Franklin,8503,Clarendon Vale,H,37931,0,H Above-the-line Votes,The Local Party,0
-TAS,195,Franklin,8503,Clarendon Vale,H,37054,1,"MINSHULL, Leanne",The Local Party,0
-TAS,195,Franklin,8503,Clarendon Vale,H,37062,2,"POULTON, Linda",The Local Party,0
+TAS,195,Franklin,8503,Clarendon Vale,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,195,Franklin,8503,Clarendon Vale,H,37931,0,H Above-the-line Votes,The Local Party,11
+TAS,195,Franklin,8503,Clarendon Vale,H,37054,1,"MINSHULL, Leanne",The Local Party,2
+TAS,195,Franklin,8503,Clarendon Vale,H,37062,2,"POULTON, Linda",The Local Party,1
 TAS,195,Franklin,8503,Clarendon Vale,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,195,Franklin,8503,Clarendon Vale,H,0,9998,Unapportioned,The Local Party,14
-TAS,195,Franklin,8503,Clarendon Vale,I,37938,0,I Above-the-line Votes,The Greens,0
-TAS,195,Franklin,8503,Clarendon Vale,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
-TAS,195,Franklin,8503,Clarendon Vale,I,37427,2,"BLEYER, Vanessa",The Greens,0
-TAS,195,Franklin,8503,Clarendon Vale,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,195,Franklin,8503,Clarendon Vale,I,0,9998,Unapportioned,The Greens,71
-TAS,195,Franklin,8503,Clarendon Vale,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
-TAS,195,Franklin,8503,Clarendon Vale,J,37012,1,"FIELD, Topher",Liberal Democrats,0
+TAS,195,Franklin,8503,Clarendon Vale,H,0,9998,Unapportioned,The Local Party,0
+TAS,195,Franklin,8503,Clarendon Vale,I,37938,0,I Above-the-line Votes,The Greens,57
+TAS,195,Franklin,8503,Clarendon Vale,I,37423,1,"WHISH-WILSON, Peter",The Greens,12
+TAS,195,Franklin,8503,Clarendon Vale,I,37427,2,"BLEYER, Vanessa",The Greens,2
+TAS,195,Franklin,8503,Clarendon Vale,I,37431,3,"BADGER, Tabatha",The Greens,1
+TAS,195,Franklin,8503,Clarendon Vale,I,0,9998,Unapportioned,The Greens,0
+TAS,195,Franklin,8503,Clarendon Vale,J,37935,0,J Above-the-line Votes,Liberal Democrats,17
+TAS,195,Franklin,8503,Clarendon Vale,J,37012,1,"FIELD, Topher",Liberal Democrats,1
 TAS,195,Franklin,8503,Clarendon Vale,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,195,Franklin,8503,Clarendon Vale,J,0,9998,Unapportioned,Liberal Democrats,19
-TAS,195,Franklin,8503,Clarendon Vale,K,37930,0,K Above-the-line Votes,United Australia Party,0
-TAS,195,Franklin,8503,Clarendon Vale,K,36282,1,"ADAMS, Diana",United Australia Party,0
+TAS,195,Franklin,8503,Clarendon Vale,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,195,Franklin,8503,Clarendon Vale,K,37930,0,K Above-the-line Votes,United Australia Party,10
+TAS,195,Franklin,8503,Clarendon Vale,K,36282,1,"ADAMS, Diana",United Australia Party,1
 TAS,195,Franklin,8503,Clarendon Vale,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,195,Franklin,8503,Clarendon Vale,K,0,9998,Unapportioned,United Australia Party,11
-TAS,195,Franklin,8503,Clarendon Vale,L,37937,0,L Above-the-line Votes,Liberal,0
-TAS,195,Franklin,8503,Clarendon Vale,L,37124,1,"DUNIAM, Jonno",Liberal,0
-TAS,195,Franklin,8503,Clarendon Vale,L,37131,2,"ASKEW, Wendy",Liberal,0
-TAS,195,Franklin,8503,Clarendon Vale,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,195,Franklin,8503,Clarendon Vale,L,0,9998,Unapportioned,Liberal,161
-TAS,195,Franklin,8503,Clarendon Vale,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
-TAS,195,Franklin,8503,Clarendon Vale,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
-TAS,195,Franklin,8503,Clarendon Vale,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
-TAS,195,Franklin,8503,Clarendon Vale,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,195,Franklin,8503,Clarendon Vale,M,0,9998,Unapportioned,Jacqui Lambie Network,73
-TAS,195,Franklin,8503,Clarendon Vale,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
-TAS,195,Franklin,8503,Clarendon Vale,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
+TAS,195,Franklin,8503,Clarendon Vale,K,0,9998,Unapportioned,United Australia Party,0
+TAS,195,Franklin,8503,Clarendon Vale,L,37937,0,L Above-the-line Votes,Liberal,133
+TAS,195,Franklin,8503,Clarendon Vale,L,37124,1,"DUNIAM, Jonno",Liberal,14
+TAS,195,Franklin,8503,Clarendon Vale,L,37131,2,"ASKEW, Wendy",Liberal,1
+TAS,195,Franklin,8503,Clarendon Vale,L,37132,3,"ABETZ, Eric",Liberal,11
+TAS,195,Franklin,8503,Clarendon Vale,L,0,9998,Unapportioned,Liberal,0
+TAS,195,Franklin,8503,Clarendon Vale,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,64
+TAS,195,Franklin,8503,Clarendon Vale,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,5
+TAS,195,Franklin,8503,Clarendon Vale,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,2
+TAS,195,Franklin,8503,Clarendon Vale,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,3
+TAS,195,Franklin,8503,Clarendon Vale,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,195,Franklin,8503,Clarendon Vale,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,4
+TAS,195,Franklin,8503,Clarendon Vale,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,1
 TAS,195,Franklin,8503,Clarendon Vale,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,195,Franklin,8503,Clarendon Vale,N,0,9998,Unapportioned,Informed Medical Options Party,5
+TAS,195,Franklin,8503,Clarendon Vale,N,0,9998,Unapportioned,Informed Medical Options Party,0
 TAS,195,Franklin,8503,Clarendon Vale,UG,37794,1,"CROTHERS, Steve",Independent,0
 TAS,195,Franklin,8503,Clarendon Vale,UG,36253,2,"EDWARDS, Fenella",Independent,0
 TAS,195,Franklin,8503,Clarendon Vale,ZZ,0,99,INFORMAL,,46
@@ -817,73 +817,73 @@ TAS,195,Franklin,8512,Geilston Bay,UG,37794,1,"CROTHERS, Steve",Independent,2
 TAS,195,Franklin,8512,Geilston Bay,UG,36253,2,"EDWARDS, Fenella",Independent,1
 TAS,195,Franklin,8512,Geilston Bay,ZZ,0,99,INFORMAL,,30
 TAS,195,Franklin,8513,Glen Huon,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8513,Glen Huon,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8513,Glen Huon,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
 TAS,195,Franklin,8513,Glen Huon,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8513,Glen Huon,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,1
-TAS,195,Franklin,8513,Glen Huon,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
-TAS,195,Franklin,8513,Glen Huon,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
+TAS,195,Franklin,8513,Glen Huon,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8513,Glen Huon,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,15
+TAS,195,Franklin,8513,Glen Huon,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,2
 TAS,195,Franklin,8513,Glen Huon,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,195,Franklin,8513,Glen Huon,B,0,9998,Unapportioned,Pauline Hanson's One Nation,16
-TAS,195,Franklin,8513,Glen Huon,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
-TAS,195,Franklin,8513,Glen Huon,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
+TAS,195,Franklin,8513,Glen Huon,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,195,Franklin,8513,Glen Huon,C,37934,0,C Above-the-line Votes,Animal Justice Party,2
+TAS,195,Franklin,8513,Glen Huon,C,36512,1,"DAVIS, Ivan",Animal Justice Party,2
 TAS,195,Franklin,8513,Glen Huon,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,195,Franklin,8513,Glen Huon,C,0,9998,Unapportioned,Animal Justice Party,4
-TAS,195,Franklin,8513,Glen Huon,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
-TAS,195,Franklin,8513,Glen Huon,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
+TAS,195,Franklin,8513,Glen Huon,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,195,Franklin,8513,Glen Huon,D,37940,0,D Above-the-line Votes,Australian Labor Party,64
+TAS,195,Franklin,8513,Glen Huon,D,37063,1,"URQUHART, Anne",Australian Labor Party,5
 TAS,195,Franklin,8513,Glen Huon,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
-TAS,195,Franklin,8513,Glen Huon,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
+TAS,195,Franklin,8513,Glen Huon,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,1
 TAS,195,Franklin,8513,Glen Huon,D,37103,4,"HULME, Daniel",Australian Labor Party,0
-TAS,195,Franklin,8513,Glen Huon,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
+TAS,195,Franklin,8513,Glen Huon,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,1
 TAS,195,Franklin,8513,Glen Huon,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,195,Franklin,8513,Glen Huon,D,0,9998,Unapportioned,Australian Labor Party,71
-TAS,195,Franklin,8513,Glen Huon,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
-TAS,195,Franklin,8513,Glen Huon,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
+TAS,195,Franklin,8513,Glen Huon,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,195,Franklin,8513,Glen Huon,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,10
+TAS,195,Franklin,8513,Glen Huon,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,3
 TAS,195,Franklin,8513,Glen Huon,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,195,Franklin,8513,Glen Huon,E,0,9998,Unapportioned,Legalise Cannabis Australia,13
-TAS,195,Franklin,8513,Glen Huon,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
+TAS,195,Franklin,8513,Glen Huon,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,195,Franklin,8513,Glen Huon,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",3
 TAS,195,Franklin,8513,Glen Huon,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8513,Glen Huon,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8513,Glen Huon,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8513,Glen Huon,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",3
+TAS,195,Franklin,8513,Glen Huon,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8513,Glen Huon,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
-TAS,195,Franklin,8513,Glen Huon,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
+TAS,195,Franklin,8513,Glen Huon,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,2
 TAS,195,Franklin,8513,Glen Huon,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,195,Franklin,8513,Glen Huon,G,0,9998,Unapportioned,Australian Federation Party,2
-TAS,195,Franklin,8513,Glen Huon,H,37931,0,H Above-the-line Votes,The Local Party,0
-TAS,195,Franklin,8513,Glen Huon,H,37054,1,"MINSHULL, Leanne",The Local Party,0
+TAS,195,Franklin,8513,Glen Huon,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,195,Franklin,8513,Glen Huon,H,37931,0,H Above-the-line Votes,The Local Party,5
+TAS,195,Franklin,8513,Glen Huon,H,37054,1,"MINSHULL, Leanne",The Local Party,3
 TAS,195,Franklin,8513,Glen Huon,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,195,Franklin,8513,Glen Huon,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,195,Franklin,8513,Glen Huon,H,0,9998,Unapportioned,The Local Party,8
-TAS,195,Franklin,8513,Glen Huon,I,37938,0,I Above-the-line Votes,The Greens,0
-TAS,195,Franklin,8513,Glen Huon,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
-TAS,195,Franklin,8513,Glen Huon,I,37427,2,"BLEYER, Vanessa",The Greens,0
+TAS,195,Franklin,8513,Glen Huon,H,0,9998,Unapportioned,The Local Party,0
+TAS,195,Franklin,8513,Glen Huon,I,37938,0,I Above-the-line Votes,The Greens,39
+TAS,195,Franklin,8513,Glen Huon,I,37423,1,"WHISH-WILSON, Peter",The Greens,12
+TAS,195,Franklin,8513,Glen Huon,I,37427,2,"BLEYER, Vanessa",The Greens,1
 TAS,195,Franklin,8513,Glen Huon,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,195,Franklin,8513,Glen Huon,I,0,9998,Unapportioned,The Greens,52
-TAS,195,Franklin,8513,Glen Huon,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
-TAS,195,Franklin,8513,Glen Huon,J,37012,1,"FIELD, Topher",Liberal Democrats,0
+TAS,195,Franklin,8513,Glen Huon,I,0,9998,Unapportioned,The Greens,0
+TAS,195,Franklin,8513,Glen Huon,J,37935,0,J Above-the-line Votes,Liberal Democrats,7
+TAS,195,Franklin,8513,Glen Huon,J,37012,1,"FIELD, Topher",Liberal Democrats,1
 TAS,195,Franklin,8513,Glen Huon,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,195,Franklin,8513,Glen Huon,J,0,9998,Unapportioned,Liberal Democrats,7
-TAS,195,Franklin,8513,Glen Huon,K,37930,0,K Above-the-line Votes,United Australia Party,0
-TAS,195,Franklin,8513,Glen Huon,K,36282,1,"ADAMS, Diana",United Australia Party,0
-TAS,195,Franklin,8513,Glen Huon,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,195,Franklin,8513,Glen Huon,K,0,9998,Unapportioned,United Australia Party,16
-TAS,195,Franklin,8513,Glen Huon,L,37937,0,L Above-the-line Votes,Liberal,0
-TAS,195,Franklin,8513,Glen Huon,L,37124,1,"DUNIAM, Jonno",Liberal,0
-TAS,195,Franklin,8513,Glen Huon,L,37131,2,"ASKEW, Wendy",Liberal,0
-TAS,195,Franklin,8513,Glen Huon,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,195,Franklin,8513,Glen Huon,L,0,9998,Unapportioned,Liberal,76
-TAS,195,Franklin,8513,Glen Huon,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
-TAS,195,Franklin,8513,Glen Huon,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
+TAS,195,Franklin,8513,Glen Huon,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,195,Franklin,8513,Glen Huon,K,37930,0,K Above-the-line Votes,United Australia Party,10
+TAS,195,Franklin,8513,Glen Huon,K,36282,1,"ADAMS, Diana",United Australia Party,4
+TAS,195,Franklin,8513,Glen Huon,K,36293,2,"HENNESSY, Alan",United Australia Party,2
+TAS,195,Franklin,8513,Glen Huon,K,0,9998,Unapportioned,United Australia Party,0
+TAS,195,Franklin,8513,Glen Huon,L,37937,0,L Above-the-line Votes,Liberal,63
+TAS,195,Franklin,8513,Glen Huon,L,37124,1,"DUNIAM, Jonno",Liberal,6
+TAS,195,Franklin,8513,Glen Huon,L,37131,2,"ASKEW, Wendy",Liberal,2
+TAS,195,Franklin,8513,Glen Huon,L,37132,3,"ABETZ, Eric",Liberal,10
+TAS,195,Franklin,8513,Glen Huon,L,0,9998,Unapportioned,Liberal,0
+TAS,195,Franklin,8513,Glen Huon,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,23
+TAS,195,Franklin,8513,Glen Huon,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,2
 TAS,195,Franklin,8513,Glen Huon,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
-TAS,195,Franklin,8513,Glen Huon,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,195,Franklin,8513,Glen Huon,M,0,9998,Unapportioned,Jacqui Lambie Network,26
-TAS,195,Franklin,8513,Glen Huon,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
+TAS,195,Franklin,8513,Glen Huon,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,1
+TAS,195,Franklin,8513,Glen Huon,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,195,Franklin,8513,Glen Huon,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,2
 TAS,195,Franklin,8513,Glen Huon,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,195,Franklin,8513,Glen Huon,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,195,Franklin,8513,Glen Huon,N,0,9998,Unapportioned,Informed Medical Options Party,2
+TAS,195,Franklin,8513,Glen Huon,N,0,9998,Unapportioned,Informed Medical Options Party,0
 TAS,195,Franklin,8513,Glen Huon,UG,37794,1,"CROTHERS, Steve",Independent,0
 TAS,195,Franklin,8513,Glen Huon,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,195,Franklin,8513,Glen Huon,ZZ,0,99,INFORMAL,,13
+TAS,195,Franklin,8513,Glen Huon,ZZ,0,99,INFORMAL,,7
 TAS,195,Franklin,8514,Mountain River,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8514,Mountain River,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8514,Mountain River,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -952,142 +952,142 @@ TAS,195,Franklin,8514,Mountain River,N,0,9998,Unapportioned,Informed Medical Opt
 TAS,195,Franklin,8514,Mountain River,UG,37794,1,"CROTHERS, Steve",Independent,2
 TAS,195,Franklin,8514,Mountain River,UG,36253,2,"EDWARDS, Fenella",Independent,2
 TAS,195,Franklin,8514,Mountain River,ZZ,0,99,INFORMAL,,33
-TAS,195,Franklin,8515,Howden,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8515,Howden,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8515,Howden,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8515,Howden,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,4
-TAS,195,Franklin,8515,Howden,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
-TAS,195,Franklin,8515,Howden,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
+TAS,195,Franklin,8515,Howden,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,2
+TAS,195,Franklin,8515,Howden,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+TAS,195,Franklin,8515,Howden,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+TAS,195,Franklin,8515,Howden,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8515,Howden,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,10
+TAS,195,Franklin,8515,Howden,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,1
 TAS,195,Franklin,8515,Howden,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,195,Franklin,8515,Howden,B,0,9998,Unapportioned,Pauline Hanson's One Nation,11
+TAS,195,Franklin,8515,Howden,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
 TAS,195,Franklin,8515,Howden,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,195,Franklin,8515,Howden,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,195,Franklin,8515,Howden,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
 TAS,195,Franklin,8515,Howden,C,0,9998,Unapportioned,Animal Justice Party,0
-TAS,195,Franklin,8515,Howden,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
-TAS,195,Franklin,8515,Howden,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
-TAS,195,Franklin,8515,Howden,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
-TAS,195,Franklin,8515,Howden,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
+TAS,195,Franklin,8515,Howden,D,37940,0,D Above-the-line Votes,Australian Labor Party,61
+TAS,195,Franklin,8515,Howden,D,37063,1,"URQUHART, Anne",Australian Labor Party,11
+TAS,195,Franklin,8515,Howden,D,37079,2,"POLLEY, Helen",Australian Labor Party,5
+TAS,195,Franklin,8515,Howden,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,3
 TAS,195,Franklin,8515,Howden,D,37103,4,"HULME, Daniel",Australian Labor Party,0
-TAS,195,Franklin,8515,Howden,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
+TAS,195,Franklin,8515,Howden,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,1
 TAS,195,Franklin,8515,Howden,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,195,Franklin,8515,Howden,D,0,9998,Unapportioned,Australian Labor Party,81
-TAS,195,Franklin,8515,Howden,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
-TAS,195,Franklin,8515,Howden,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
+TAS,195,Franklin,8515,Howden,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,195,Franklin,8515,Howden,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,8
+TAS,195,Franklin,8515,Howden,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,1
 TAS,195,Franklin,8515,Howden,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,195,Franklin,8515,Howden,E,0,9998,Unapportioned,Legalise Cannabis Australia,9
-TAS,195,Franklin,8515,Howden,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8515,Howden,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
+TAS,195,Franklin,8515,Howden,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,195,Franklin,8515,Howden,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",3
+TAS,195,Franklin,8515,Howden,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",1
 TAS,195,Franklin,8515,Howden,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8515,Howden,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8515,Howden,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",4
+TAS,195,Franklin,8515,Howden,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8515,Howden,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,195,Franklin,8515,Howden,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,195,Franklin,8515,Howden,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
 TAS,195,Franklin,8515,Howden,G,0,9998,Unapportioned,Australian Federation Party,0
-TAS,195,Franklin,8515,Howden,H,37931,0,H Above-the-line Votes,The Local Party,0
-TAS,195,Franklin,8515,Howden,H,37054,1,"MINSHULL, Leanne",The Local Party,0
+TAS,195,Franklin,8515,Howden,H,37931,0,H Above-the-line Votes,The Local Party,9
+TAS,195,Franklin,8515,Howden,H,37054,1,"MINSHULL, Leanne",The Local Party,4
 TAS,195,Franklin,8515,Howden,H,37062,2,"POULTON, Linda",The Local Party,0
-TAS,195,Franklin,8515,Howden,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,195,Franklin,8515,Howden,H,0,9998,Unapportioned,The Local Party,14
-TAS,195,Franklin,8515,Howden,I,37938,0,I Above-the-line Votes,The Greens,0
-TAS,195,Franklin,8515,Howden,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
-TAS,195,Franklin,8515,Howden,I,37427,2,"BLEYER, Vanessa",The Greens,0
+TAS,195,Franklin,8515,Howden,H,37066,3,"VAN RAAY, Lara",The Local Party,1
+TAS,195,Franklin,8515,Howden,H,0,9998,Unapportioned,The Local Party,0
+TAS,195,Franklin,8515,Howden,I,37938,0,I Above-the-line Votes,The Greens,42
+TAS,195,Franklin,8515,Howden,I,37423,1,"WHISH-WILSON, Peter",The Greens,32
+TAS,195,Franklin,8515,Howden,I,37427,2,"BLEYER, Vanessa",The Greens,4
 TAS,195,Franklin,8515,Howden,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,195,Franklin,8515,Howden,I,0,9998,Unapportioned,The Greens,78
-TAS,195,Franklin,8515,Howden,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
-TAS,195,Franklin,8515,Howden,J,37012,1,"FIELD, Topher",Liberal Democrats,0
+TAS,195,Franklin,8515,Howden,I,0,9998,Unapportioned,The Greens,0
+TAS,195,Franklin,8515,Howden,J,37935,0,J Above-the-line Votes,Liberal Democrats,8
+TAS,195,Franklin,8515,Howden,J,37012,1,"FIELD, Topher",Liberal Democrats,3
 TAS,195,Franklin,8515,Howden,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,195,Franklin,8515,Howden,J,0,9998,Unapportioned,Liberal Democrats,12
-TAS,195,Franklin,8515,Howden,K,37930,0,K Above-the-line Votes,United Australia Party,0
-TAS,195,Franklin,8515,Howden,K,36282,1,"ADAMS, Diana",United Australia Party,0
+TAS,195,Franklin,8515,Howden,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,195,Franklin,8515,Howden,K,37930,0,K Above-the-line Votes,United Australia Party,7
+TAS,195,Franklin,8515,Howden,K,36282,1,"ADAMS, Diana",United Australia Party,2
 TAS,195,Franklin,8515,Howden,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,195,Franklin,8515,Howden,K,0,9998,Unapportioned,United Australia Party,9
-TAS,195,Franklin,8515,Howden,L,37937,0,L Above-the-line Votes,Liberal,0
-TAS,195,Franklin,8515,Howden,L,37124,1,"DUNIAM, Jonno",Liberal,0
-TAS,195,Franklin,8515,Howden,L,37131,2,"ASKEW, Wendy",Liberal,0
-TAS,195,Franklin,8515,Howden,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,195,Franklin,8515,Howden,L,0,9998,Unapportioned,Liberal,100
-TAS,195,Franklin,8515,Howden,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
-TAS,195,Franklin,8515,Howden,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
+TAS,195,Franklin,8515,Howden,K,0,9998,Unapportioned,United Australia Party,0
+TAS,195,Franklin,8515,Howden,L,37937,0,L Above-the-line Votes,Liberal,68
+TAS,195,Franklin,8515,Howden,L,37124,1,"DUNIAM, Jonno",Liberal,7
+TAS,195,Franklin,8515,Howden,L,37131,2,"ASKEW, Wendy",Liberal,3
+TAS,195,Franklin,8515,Howden,L,37132,3,"ABETZ, Eric",Liberal,23
+TAS,195,Franklin,8515,Howden,L,0,9998,Unapportioned,Liberal,0
+TAS,195,Franklin,8515,Howden,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,12
+TAS,195,Franklin,8515,Howden,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,6
 TAS,195,Franklin,8515,Howden,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
-TAS,195,Franklin,8515,Howden,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,195,Franklin,8515,Howden,M,0,9998,Unapportioned,Jacqui Lambie Network,19
-TAS,195,Franklin,8515,Howden,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
+TAS,195,Franklin,8515,Howden,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,1
+TAS,195,Franklin,8515,Howden,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,195,Franklin,8515,Howden,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,1
 TAS,195,Franklin,8515,Howden,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,195,Franklin,8515,Howden,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,195,Franklin,8515,Howden,N,0,9998,Unapportioned,Informed Medical Options Party,2
+TAS,195,Franklin,8515,Howden,N,0,9998,Unapportioned,Informed Medical Options Party,0
 TAS,195,Franklin,8515,Howden,UG,37794,1,"CROTHERS, Steve",Independent,1
 TAS,195,Franklin,8515,Howden,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,195,Franklin,8515,Howden,ZZ,0,99,INFORMAL,,5
-TAS,195,Franklin,8516,Howrah,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8516,Howrah,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8515,Howden,ZZ,0,99,INFORMAL,,6
+TAS,195,Franklin,8516,Howrah,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,17
+TAS,195,Franklin,8516,Howrah,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
 TAS,195,Franklin,8516,Howrah,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8516,Howrah,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,18
-TAS,195,Franklin,8516,Howrah,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
-TAS,195,Franklin,8516,Howrah,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
+TAS,195,Franklin,8516,Howrah,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8516,Howrah,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,32
+TAS,195,Franklin,8516,Howrah,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,16
 TAS,195,Franklin,8516,Howrah,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,195,Franklin,8516,Howrah,B,0,9998,Unapportioned,Pauline Hanson's One Nation,45
-TAS,195,Franklin,8516,Howrah,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
-TAS,195,Franklin,8516,Howrah,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
-TAS,195,Franklin,8516,Howrah,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,195,Franklin,8516,Howrah,C,0,9998,Unapportioned,Animal Justice Party,21
-TAS,195,Franklin,8516,Howrah,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
-TAS,195,Franklin,8516,Howrah,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
-TAS,195,Franklin,8516,Howrah,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
-TAS,195,Franklin,8516,Howrah,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
-TAS,195,Franklin,8516,Howrah,D,37103,4,"HULME, Daniel",Australian Labor Party,0
-TAS,195,Franklin,8516,Howrah,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
-TAS,195,Franklin,8516,Howrah,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,195,Franklin,8516,Howrah,D,0,9998,Unapportioned,Australian Labor Party,742
-TAS,195,Franklin,8516,Howrah,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
-TAS,195,Franklin,8516,Howrah,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
+TAS,195,Franklin,8516,Howrah,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,195,Franklin,8516,Howrah,C,37934,0,C Above-the-line Votes,Animal Justice Party,17
+TAS,195,Franklin,8516,Howrah,C,36512,1,"DAVIS, Ivan",Animal Justice Party,3
+TAS,195,Franklin,8516,Howrah,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,1
+TAS,195,Franklin,8516,Howrah,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,195,Franklin,8516,Howrah,D,37940,0,D Above-the-line Votes,Australian Labor Party,604
+TAS,195,Franklin,8516,Howrah,D,37063,1,"URQUHART, Anne",Australian Labor Party,59
+TAS,195,Franklin,8516,Howrah,D,37079,2,"POLLEY, Helen",Australian Labor Party,29
+TAS,195,Franklin,8516,Howrah,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,26
+TAS,195,Franklin,8516,Howrah,D,37103,4,"HULME, Daniel",Australian Labor Party,22
+TAS,195,Franklin,8516,Howrah,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,3
+TAS,195,Franklin,8516,Howrah,D,37119,6,"GOURLAY, Chris",Australian Labor Party,5
+TAS,195,Franklin,8516,Howrah,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,195,Franklin,8516,Howrah,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,40
+TAS,195,Franklin,8516,Howrah,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,6
 TAS,195,Franklin,8516,Howrah,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,195,Franklin,8516,Howrah,E,0,9998,Unapportioned,Legalise Cannabis Australia,47
-TAS,195,Franklin,8516,Howrah,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8516,Howrah,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8516,Howrah,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
+TAS,195,Franklin,8516,Howrah,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,195,Franklin,8516,Howrah,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",11
+TAS,195,Franklin,8516,Howrah,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",2
+TAS,195,Franklin,8516,Howrah,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",1
 TAS,195,Franklin,8516,Howrah,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8516,Howrah,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",15
-TAS,195,Franklin,8516,Howrah,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
+TAS,195,Franklin,8516,Howrah,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,195,Franklin,8516,Howrah,G,37943,0,G Above-the-line Votes,Australian Federation Party,1
 TAS,195,Franklin,8516,Howrah,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,195,Franklin,8516,Howrah,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,195,Franklin,8516,Howrah,G,0,9998,Unapportioned,Australian Federation Party,1
-TAS,195,Franklin,8516,Howrah,H,37931,0,H Above-the-line Votes,The Local Party,0
-TAS,195,Franklin,8516,Howrah,H,37054,1,"MINSHULL, Leanne",The Local Party,0
-TAS,195,Franklin,8516,Howrah,H,37062,2,"POULTON, Linda",The Local Party,0
-TAS,195,Franklin,8516,Howrah,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,195,Franklin,8516,Howrah,H,0,9998,Unapportioned,The Local Party,36
-TAS,195,Franklin,8516,Howrah,I,37938,0,I Above-the-line Votes,The Greens,0
-TAS,195,Franklin,8516,Howrah,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
-TAS,195,Franklin,8516,Howrah,I,37427,2,"BLEYER, Vanessa",The Greens,0
-TAS,195,Franklin,8516,Howrah,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,195,Franklin,8516,Howrah,I,0,9998,Unapportioned,The Greens,419
-TAS,195,Franklin,8516,Howrah,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
-TAS,195,Franklin,8516,Howrah,J,37012,1,"FIELD, Topher",Liberal Democrats,0
-TAS,195,Franklin,8516,Howrah,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,195,Franklin,8516,Howrah,J,0,9998,Unapportioned,Liberal Democrats,38
-TAS,195,Franklin,8516,Howrah,K,37930,0,K Above-the-line Votes,United Australia Party,0
-TAS,195,Franklin,8516,Howrah,K,36282,1,"ADAMS, Diana",United Australia Party,0
-TAS,195,Franklin,8516,Howrah,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,195,Franklin,8516,Howrah,K,0,9998,Unapportioned,United Australia Party,31
-TAS,195,Franklin,8516,Howrah,L,37937,0,L Above-the-line Votes,Liberal,0
-TAS,195,Franklin,8516,Howrah,L,37124,1,"DUNIAM, Jonno",Liberal,0
-TAS,195,Franklin,8516,Howrah,L,37131,2,"ASKEW, Wendy",Liberal,0
-TAS,195,Franklin,8516,Howrah,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,195,Franklin,8516,Howrah,L,0,9998,Unapportioned,Liberal,613
-TAS,195,Franklin,8516,Howrah,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
-TAS,195,Franklin,8516,Howrah,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
-TAS,195,Franklin,8516,Howrah,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
-TAS,195,Franklin,8516,Howrah,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,195,Franklin,8516,Howrah,M,0,9998,Unapportioned,Jacqui Lambie Network,104
-TAS,195,Franklin,8516,Howrah,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
-TAS,195,Franklin,8516,Howrah,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
+TAS,195,Franklin,8516,Howrah,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,195,Franklin,8516,Howrah,H,37931,0,H Above-the-line Votes,The Local Party,19
+TAS,195,Franklin,8516,Howrah,H,37054,1,"MINSHULL, Leanne",The Local Party,13
+TAS,195,Franklin,8516,Howrah,H,37062,2,"POULTON, Linda",The Local Party,2
+TAS,195,Franklin,8516,Howrah,H,37066,3,"VAN RAAY, Lara",The Local Party,1
+TAS,195,Franklin,8516,Howrah,H,0,9998,Unapportioned,The Local Party,0
+TAS,195,Franklin,8516,Howrah,I,37938,0,I Above-the-line Votes,The Greens,281
+TAS,195,Franklin,8516,Howrah,I,37423,1,"WHISH-WILSON, Peter",The Greens,122
+TAS,195,Franklin,8516,Howrah,I,37427,2,"BLEYER, Vanessa",The Greens,8
+TAS,195,Franklin,8516,Howrah,I,37431,3,"BADGER, Tabatha",The Greens,10
+TAS,195,Franklin,8516,Howrah,I,0,9998,Unapportioned,The Greens,0
+TAS,195,Franklin,8516,Howrah,J,37935,0,J Above-the-line Votes,Liberal Democrats,33
+TAS,195,Franklin,8516,Howrah,J,37012,1,"FIELD, Topher",Liberal Democrats,7
+TAS,195,Franklin,8516,Howrah,J,37021,2,"CROFT, Chris",Liberal Democrats,1
+TAS,195,Franklin,8516,Howrah,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,195,Franklin,8516,Howrah,K,37930,0,K Above-the-line Votes,United Australia Party,22
+TAS,195,Franklin,8516,Howrah,K,36282,1,"ADAMS, Diana",United Australia Party,10
+TAS,195,Franklin,8516,Howrah,K,36293,2,"HENNESSY, Alan",United Australia Party,1
+TAS,195,Franklin,8516,Howrah,K,0,9998,Unapportioned,United Australia Party,0
+TAS,195,Franklin,8516,Howrah,L,37937,0,L Above-the-line Votes,Liberal,461
+TAS,195,Franklin,8516,Howrah,L,37124,1,"DUNIAM, Jonno",Liberal,42
+TAS,195,Franklin,8516,Howrah,L,37131,2,"ASKEW, Wendy",Liberal,12
+TAS,195,Franklin,8516,Howrah,L,37132,3,"ABETZ, Eric",Liberal,100
+TAS,195,Franklin,8516,Howrah,L,0,9998,Unapportioned,Liberal,0
+TAS,195,Franklin,8516,Howrah,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,75
+TAS,195,Franklin,8516,Howrah,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,22
+TAS,195,Franklin,8516,Howrah,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,1
+TAS,195,Franklin,8516,Howrah,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,6
+TAS,195,Franklin,8516,Howrah,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,195,Franklin,8516,Howrah,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,4
+TAS,195,Franklin,8516,Howrah,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,2
 TAS,195,Franklin,8516,Howrah,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,195,Franklin,8516,Howrah,N,0,9998,Unapportioned,Informed Medical Options Party,5
+TAS,195,Franklin,8516,Howrah,N,0,9998,Unapportioned,Informed Medical Options Party,0
 TAS,195,Franklin,8516,Howrah,UG,37794,1,"CROTHERS, Steve",Independent,2
 TAS,195,Franklin,8516,Howrah,UG,36253,2,"EDWARDS, Fenella",Independent,2
-TAS,195,Franklin,8516,Howrah,ZZ,0,99,INFORMAL,,77
+TAS,195,Franklin,8516,Howrah,ZZ,0,99,INFORMAL,,63
 TAS,195,Franklin,8517,Huonville,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8517,Huonville,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8517,Huonville,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -1156,74 +1156,74 @@ TAS,195,Franklin,8517,Huonville,N,0,9998,Unapportioned,Informed Medical Options 
 TAS,195,Franklin,8517,Huonville,UG,37794,1,"CROTHERS, Steve",Independent,2
 TAS,195,Franklin,8517,Huonville,UG,36253,2,"EDWARDS, Fenella",Independent,0
 TAS,195,Franklin,8517,Huonville,ZZ,0,99,INFORMAL,,55
-TAS,195,Franklin,8518,Judbury,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8518,Judbury,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8518,Judbury,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,1
+TAS,195,Franklin,8518,Judbury,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,2
 TAS,195,Franklin,8518,Judbury,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8518,Judbury,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,2
-TAS,195,Franklin,8518,Judbury,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
-TAS,195,Franklin,8518,Judbury,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
-TAS,195,Franklin,8518,Judbury,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,195,Franklin,8518,Judbury,B,0,9998,Unapportioned,Pauline Hanson's One Nation,16
-TAS,195,Franklin,8518,Judbury,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
+TAS,195,Franklin,8518,Judbury,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8518,Judbury,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,11
+TAS,195,Franklin,8518,Judbury,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,4
+TAS,195,Franklin,8518,Judbury,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,1
+TAS,195,Franklin,8518,Judbury,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,195,Franklin,8518,Judbury,C,37934,0,C Above-the-line Votes,Animal Justice Party,3
 TAS,195,Franklin,8518,Judbury,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,195,Franklin,8518,Judbury,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,195,Franklin,8518,Judbury,C,0,9998,Unapportioned,Animal Justice Party,3
-TAS,195,Franklin,8518,Judbury,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
-TAS,195,Franklin,8518,Judbury,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
-TAS,195,Franklin,8518,Judbury,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
-TAS,195,Franklin,8518,Judbury,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
-TAS,195,Franklin,8518,Judbury,D,37103,4,"HULME, Daniel",Australian Labor Party,0
-TAS,195,Franklin,8518,Judbury,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
+TAS,195,Franklin,8518,Judbury,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,195,Franklin,8518,Judbury,D,37940,0,D Above-the-line Votes,Australian Labor Party,39
+TAS,195,Franklin,8518,Judbury,D,37063,1,"URQUHART, Anne",Australian Labor Party,11
+TAS,195,Franklin,8518,Judbury,D,37079,2,"POLLEY, Helen",Australian Labor Party,1
+TAS,195,Franklin,8518,Judbury,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,1
+TAS,195,Franklin,8518,Judbury,D,37103,4,"HULME, Daniel",Australian Labor Party,1
+TAS,195,Franklin,8518,Judbury,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,1
 TAS,195,Franklin,8518,Judbury,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,195,Franklin,8518,Judbury,D,0,9998,Unapportioned,Australian Labor Party,52
-TAS,195,Franklin,8518,Judbury,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
-TAS,195,Franklin,8518,Judbury,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
+TAS,195,Franklin,8518,Judbury,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,195,Franklin,8518,Judbury,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,11
+TAS,195,Franklin,8518,Judbury,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,1
 TAS,195,Franklin,8518,Judbury,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,195,Franklin,8518,Judbury,E,0,9998,Unapportioned,Legalise Cannabis Australia,11
-TAS,195,Franklin,8518,Judbury,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8518,Judbury,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
+TAS,195,Franklin,8518,Judbury,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,195,Franklin,8518,Judbury,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",7
+TAS,195,Franklin,8518,Judbury,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",2
 TAS,195,Franklin,8518,Judbury,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8518,Judbury,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8518,Judbury,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",9
+TAS,195,Franklin,8518,Judbury,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8518,Judbury,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,195,Franklin,8518,Judbury,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,195,Franklin,8518,Judbury,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
 TAS,195,Franklin,8518,Judbury,G,0,9998,Unapportioned,Australian Federation Party,0
-TAS,195,Franklin,8518,Judbury,H,37931,0,H Above-the-line Votes,The Local Party,0
-TAS,195,Franklin,8518,Judbury,H,37054,1,"MINSHULL, Leanne",The Local Party,0
+TAS,195,Franklin,8518,Judbury,H,37931,0,H Above-the-line Votes,The Local Party,3
+TAS,195,Franklin,8518,Judbury,H,37054,1,"MINSHULL, Leanne",The Local Party,2
 TAS,195,Franklin,8518,Judbury,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,195,Franklin,8518,Judbury,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,195,Franklin,8518,Judbury,H,0,9998,Unapportioned,The Local Party,5
-TAS,195,Franklin,8518,Judbury,I,37938,0,I Above-the-line Votes,The Greens,0
-TAS,195,Franklin,8518,Judbury,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
-TAS,195,Franklin,8518,Judbury,I,37427,2,"BLEYER, Vanessa",The Greens,0
-TAS,195,Franklin,8518,Judbury,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,195,Franklin,8518,Judbury,I,0,9998,Unapportioned,The Greens,60
-TAS,195,Franklin,8518,Judbury,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
-TAS,195,Franklin,8518,Judbury,J,37012,1,"FIELD, Topher",Liberal Democrats,0
+TAS,195,Franklin,8518,Judbury,H,0,9998,Unapportioned,The Local Party,0
+TAS,195,Franklin,8518,Judbury,I,37938,0,I Above-the-line Votes,The Greens,42
+TAS,195,Franklin,8518,Judbury,I,37423,1,"WHISH-WILSON, Peter",The Greens,16
+TAS,195,Franklin,8518,Judbury,I,37427,2,"BLEYER, Vanessa",The Greens,1
+TAS,195,Franklin,8518,Judbury,I,37431,3,"BADGER, Tabatha",The Greens,1
+TAS,195,Franklin,8518,Judbury,I,0,9998,Unapportioned,The Greens,0
+TAS,195,Franklin,8518,Judbury,J,37935,0,J Above-the-line Votes,Liberal Democrats,3
+TAS,195,Franklin,8518,Judbury,J,37012,1,"FIELD, Topher",Liberal Democrats,2
 TAS,195,Franklin,8518,Judbury,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,195,Franklin,8518,Judbury,J,0,9998,Unapportioned,Liberal Democrats,5
-TAS,195,Franklin,8518,Judbury,K,37930,0,K Above-the-line Votes,United Australia Party,0
-TAS,195,Franklin,8518,Judbury,K,36282,1,"ADAMS, Diana",United Australia Party,0
+TAS,195,Franklin,8518,Judbury,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,195,Franklin,8518,Judbury,K,37930,0,K Above-the-line Votes,United Australia Party,6
+TAS,195,Franklin,8518,Judbury,K,36282,1,"ADAMS, Diana",United Australia Party,3
 TAS,195,Franklin,8518,Judbury,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,195,Franklin,8518,Judbury,K,0,9998,Unapportioned,United Australia Party,9
-TAS,195,Franklin,8518,Judbury,L,37937,0,L Above-the-line Votes,Liberal,0
-TAS,195,Franklin,8518,Judbury,L,37124,1,"DUNIAM, Jonno",Liberal,0
-TAS,195,Franklin,8518,Judbury,L,37131,2,"ASKEW, Wendy",Liberal,0
-TAS,195,Franklin,8518,Judbury,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,195,Franklin,8518,Judbury,L,0,9998,Unapportioned,Liberal,73
-TAS,195,Franklin,8518,Judbury,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
-TAS,195,Franklin,8518,Judbury,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
+TAS,195,Franklin,8518,Judbury,K,0,9998,Unapportioned,United Australia Party,0
+TAS,195,Franklin,8518,Judbury,L,37937,0,L Above-the-line Votes,Liberal,61
+TAS,195,Franklin,8518,Judbury,L,37124,1,"DUNIAM, Jonno",Liberal,1
+TAS,195,Franklin,8518,Judbury,L,37131,2,"ASKEW, Wendy",Liberal,1
+TAS,195,Franklin,8518,Judbury,L,37132,3,"ABETZ, Eric",Liberal,11
+TAS,195,Franklin,8518,Judbury,L,0,9998,Unapportioned,Liberal,0
+TAS,195,Franklin,8518,Judbury,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,14
+TAS,195,Franklin,8518,Judbury,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,5
 TAS,195,Franklin,8518,Judbury,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
-TAS,195,Franklin,8518,Judbury,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,195,Franklin,8518,Judbury,M,0,9998,Unapportioned,Jacqui Lambie Network,20
+TAS,195,Franklin,8518,Judbury,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,2
+TAS,195,Franklin,8518,Judbury,M,0,9998,Unapportioned,Jacqui Lambie Network,0
 TAS,195,Franklin,8518,Judbury,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,195,Franklin,8518,Judbury,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,195,Franklin,8518,Judbury,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
 TAS,195,Franklin,8518,Judbury,N,0,9998,Unapportioned,Informed Medical Options Party,0
 TAS,195,Franklin,8518,Judbury,UG,37794,1,"CROTHERS, Steve",Independent,1
 TAS,195,Franklin,8518,Judbury,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,195,Franklin,8518,Judbury,ZZ,0,99,INFORMAL,,14
+TAS,195,Franklin,8518,Judbury,ZZ,0,99,INFORMAL,,10
 TAS,195,Franklin,8519,Kettering,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8519,Kettering,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8519,Kettering,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -1635,15 +1635,15 @@ TAS,195,Franklin,8524,Lindisfarne,ZZ,0,99,INFORMAL,,46
 TAS,195,Franklin,8525,Margate,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8525,Margate,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8525,Margate,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8525,Margate,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8525,Margate,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,9
 TAS,195,Franklin,8525,Margate,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
 TAS,195,Franklin,8525,Margate,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,195,Franklin,8525,Margate,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,195,Franklin,8525,Margate,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,195,Franklin,8525,Margate,B,0,9998,Unapportioned,Pauline Hanson's One Nation,31
 TAS,195,Franklin,8525,Margate,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,195,Franklin,8525,Margate,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,195,Franklin,8525,Margate,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,195,Franklin,8525,Margate,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,195,Franklin,8525,Margate,C,0,9998,Unapportioned,Animal Justice Party,21
 TAS,195,Franklin,8525,Margate,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
 TAS,195,Franklin,8525,Margate,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
 TAS,195,Franklin,8525,Margate,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
@@ -1651,55 +1651,55 @@ TAS,195,Franklin,8525,Margate,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,
 TAS,195,Franklin,8525,Margate,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,195,Franklin,8525,Margate,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,195,Franklin,8525,Margate,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,195,Franklin,8525,Margate,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,195,Franklin,8525,Margate,D,0,9998,Unapportioned,Australian Labor Party,394
 TAS,195,Franklin,8525,Margate,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
 TAS,195,Franklin,8525,Margate,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,195,Franklin,8525,Margate,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,195,Franklin,8525,Margate,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,195,Franklin,8525,Margate,E,0,9998,Unapportioned,Legalise Cannabis Australia,35
 TAS,195,Franklin,8525,Margate,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8525,Margate,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8525,Margate,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8525,Margate,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8525,Margate,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,195,Franklin,8525,Margate,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",18
 TAS,195,Franklin,8525,Margate,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,195,Franklin,8525,Margate,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,195,Franklin,8525,Margate,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,195,Franklin,8525,Margate,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,195,Franklin,8525,Margate,G,0,9998,Unapportioned,Australian Federation Party,5
 TAS,195,Franklin,8525,Margate,H,37931,0,H Above-the-line Votes,The Local Party,0
 TAS,195,Franklin,8525,Margate,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,195,Franklin,8525,Margate,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,195,Franklin,8525,Margate,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,195,Franklin,8525,Margate,H,0,9998,Unapportioned,The Local Party,0
+TAS,195,Franklin,8525,Margate,H,0,9998,Unapportioned,The Local Party,48
 TAS,195,Franklin,8525,Margate,I,37938,0,I Above-the-line Votes,The Greens,0
 TAS,195,Franklin,8525,Margate,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
 TAS,195,Franklin,8525,Margate,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,195,Franklin,8525,Margate,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,195,Franklin,8525,Margate,I,0,9998,Unapportioned,The Greens,0
+TAS,195,Franklin,8525,Margate,I,0,9998,Unapportioned,The Greens,341
 TAS,195,Franklin,8525,Margate,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
 TAS,195,Franklin,8525,Margate,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,195,Franklin,8525,Margate,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,195,Franklin,8525,Margate,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,195,Franklin,8525,Margate,J,0,9998,Unapportioned,Liberal Democrats,37
 TAS,195,Franklin,8525,Margate,K,37930,0,K Above-the-line Votes,United Australia Party,0
 TAS,195,Franklin,8525,Margate,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,195,Franklin,8525,Margate,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,195,Franklin,8525,Margate,K,0,9998,Unapportioned,United Australia Party,0
+TAS,195,Franklin,8525,Margate,K,0,9998,Unapportioned,United Australia Party,39
 TAS,195,Franklin,8525,Margate,L,37937,0,L Above-the-line Votes,Liberal,0
 TAS,195,Franklin,8525,Margate,L,37124,1,"DUNIAM, Jonno",Liberal,0
 TAS,195,Franklin,8525,Margate,L,37131,2,"ASKEW, Wendy",Liberal,0
 TAS,195,Franklin,8525,Margate,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,195,Franklin,8525,Margate,L,0,9998,Unapportioned,Liberal,0
+TAS,195,Franklin,8525,Margate,L,0,9998,Unapportioned,Liberal,464
 TAS,195,Franklin,8525,Margate,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
 TAS,195,Franklin,8525,Margate,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
 TAS,195,Franklin,8525,Margate,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,195,Franklin,8525,Margate,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,195,Franklin,8525,Margate,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,195,Franklin,8525,Margate,M,0,9998,Unapportioned,Jacqui Lambie Network,72
 TAS,195,Franklin,8525,Margate,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,195,Franklin,8525,Margate,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,195,Franklin,8525,Margate,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,195,Franklin,8525,Margate,N,0,9998,Unapportioned,Informed Medical Options Party,0
-TAS,195,Franklin,8525,Margate,UG,37794,1,"CROTHERS, Steve",Independent,0
-TAS,195,Franklin,8525,Margate,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,195,Franklin,8525,Margate,ZZ,0,99,INFORMAL,,0
+TAS,195,Franklin,8525,Margate,N,0,9998,Unapportioned,Informed Medical Options Party,6
+TAS,195,Franklin,8525,Margate,UG,37794,1,"CROTHERS, Steve",Independent,6
+TAS,195,Franklin,8525,Margate,UG,36253,2,"EDWARDS, Fenella",Independent,5
+TAS,195,Franklin,8525,Margate,ZZ,0,99,INFORMAL,,48
 TAS,195,Franklin,8526,Middleton,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8526,Middleton,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8526,Middleton,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -2043,15 +2043,15 @@ TAS,195,Franklin,8532,Risdon Vale,ZZ,0,99,INFORMAL,,117
 TAS,195,Franklin,8533,Rokeby,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8533,Rokeby,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8533,Rokeby,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8533,Rokeby,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8533,Rokeby,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,18
 TAS,195,Franklin,8533,Rokeby,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
 TAS,195,Franklin,8533,Rokeby,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,195,Franklin,8533,Rokeby,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,195,Franklin,8533,Rokeby,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,195,Franklin,8533,Rokeby,B,0,9998,Unapportioned,Pauline Hanson's One Nation,53
 TAS,195,Franklin,8533,Rokeby,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,195,Franklin,8533,Rokeby,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,195,Franklin,8533,Rokeby,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,195,Franklin,8533,Rokeby,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,195,Franklin,8533,Rokeby,C,0,9998,Unapportioned,Animal Justice Party,19
 TAS,195,Franklin,8533,Rokeby,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
 TAS,195,Franklin,8533,Rokeby,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
 TAS,195,Franklin,8533,Rokeby,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
@@ -2059,55 +2059,55 @@ TAS,195,Franklin,8533,Rokeby,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
 TAS,195,Franklin,8533,Rokeby,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,195,Franklin,8533,Rokeby,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,195,Franklin,8533,Rokeby,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,195,Franklin,8533,Rokeby,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,195,Franklin,8533,Rokeby,D,0,9998,Unapportioned,Australian Labor Party,549
 TAS,195,Franklin,8533,Rokeby,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
 TAS,195,Franklin,8533,Rokeby,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,195,Franklin,8533,Rokeby,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,195,Franklin,8533,Rokeby,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,195,Franklin,8533,Rokeby,E,0,9998,Unapportioned,Legalise Cannabis Australia,85
 TAS,195,Franklin,8533,Rokeby,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8533,Rokeby,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8533,Rokeby,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8533,Rokeby,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8533,Rokeby,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,195,Franklin,8533,Rokeby,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",33
 TAS,195,Franklin,8533,Rokeby,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,195,Franklin,8533,Rokeby,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,195,Franklin,8533,Rokeby,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,195,Franklin,8533,Rokeby,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,195,Franklin,8533,Rokeby,G,0,9998,Unapportioned,Australian Federation Party,5
 TAS,195,Franklin,8533,Rokeby,H,37931,0,H Above-the-line Votes,The Local Party,0
 TAS,195,Franklin,8533,Rokeby,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,195,Franklin,8533,Rokeby,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,195,Franklin,8533,Rokeby,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,195,Franklin,8533,Rokeby,H,0,9998,Unapportioned,The Local Party,0
+TAS,195,Franklin,8533,Rokeby,H,0,9998,Unapportioned,The Local Party,21
 TAS,195,Franklin,8533,Rokeby,I,37938,0,I Above-the-line Votes,The Greens,0
 TAS,195,Franklin,8533,Rokeby,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
 TAS,195,Franklin,8533,Rokeby,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,195,Franklin,8533,Rokeby,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,195,Franklin,8533,Rokeby,I,0,9998,Unapportioned,The Greens,0
+TAS,195,Franklin,8533,Rokeby,I,0,9998,Unapportioned,The Greens,148
 TAS,195,Franklin,8533,Rokeby,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
 TAS,195,Franklin,8533,Rokeby,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,195,Franklin,8533,Rokeby,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,195,Franklin,8533,Rokeby,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,195,Franklin,8533,Rokeby,J,0,9998,Unapportioned,Liberal Democrats,15
 TAS,195,Franklin,8533,Rokeby,K,37930,0,K Above-the-line Votes,United Australia Party,0
 TAS,195,Franklin,8533,Rokeby,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,195,Franklin,8533,Rokeby,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,195,Franklin,8533,Rokeby,K,0,9998,Unapportioned,United Australia Party,0
+TAS,195,Franklin,8533,Rokeby,K,0,9998,Unapportioned,United Australia Party,40
 TAS,195,Franklin,8533,Rokeby,L,37937,0,L Above-the-line Votes,Liberal,0
 TAS,195,Franklin,8533,Rokeby,L,37124,1,"DUNIAM, Jonno",Liberal,0
 TAS,195,Franklin,8533,Rokeby,L,37131,2,"ASKEW, Wendy",Liberal,0
 TAS,195,Franklin,8533,Rokeby,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,195,Franklin,8533,Rokeby,L,0,9998,Unapportioned,Liberal,0
+TAS,195,Franklin,8533,Rokeby,L,0,9998,Unapportioned,Liberal,262
 TAS,195,Franklin,8533,Rokeby,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
 TAS,195,Franklin,8533,Rokeby,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
 TAS,195,Franklin,8533,Rokeby,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,195,Franklin,8533,Rokeby,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,195,Franklin,8533,Rokeby,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,195,Franklin,8533,Rokeby,M,0,9998,Unapportioned,Jacqui Lambie Network,84
 TAS,195,Franklin,8533,Rokeby,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,195,Franklin,8533,Rokeby,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,195,Franklin,8533,Rokeby,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,195,Franklin,8533,Rokeby,N,0,9998,Unapportioned,Informed Medical Options Party,0
+TAS,195,Franklin,8533,Rokeby,N,0,9998,Unapportioned,Informed Medical Options Party,2
 TAS,195,Franklin,8533,Rokeby,UG,37794,1,"CROTHERS, Steve",Independent,0
-TAS,195,Franklin,8533,Rokeby,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,195,Franklin,8533,Rokeby,ZZ,0,99,INFORMAL,,0
+TAS,195,Franklin,8533,Rokeby,UG,36253,2,"EDWARDS, Fenella",Independent,1
+TAS,195,Franklin,8533,Rokeby,ZZ,0,99,INFORMAL,,69
 TAS,195,Franklin,8534,Sandfly (Franklin),A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8534,Sandfly (Franklin),A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8534,Sandfly (Franklin),A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -2312,71 +2312,71 @@ TAS,195,Franklin,8536,Seven Mile Beach,N,0,9998,Unapportioned,Informed Medical O
 TAS,195,Franklin,8536,Seven Mile Beach,UG,37794,1,"CROTHERS, Steve",Independent,1
 TAS,195,Franklin,8536,Seven Mile Beach,UG,36253,2,"EDWARDS, Fenella",Independent,0
 TAS,195,Franklin,8536,Seven Mile Beach,ZZ,0,99,INFORMAL,,19
-TAS,195,Franklin,8537,Snug,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8537,Snug,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8537,Snug,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,2
+TAS,195,Franklin,8537,Snug,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,2
 TAS,195,Franklin,8537,Snug,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8537,Snug,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,6
-TAS,195,Franklin,8537,Snug,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
-TAS,195,Franklin,8537,Snug,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
+TAS,195,Franklin,8537,Snug,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8537,Snug,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,28
+TAS,195,Franklin,8537,Snug,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,4
 TAS,195,Franklin,8537,Snug,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,195,Franklin,8537,Snug,B,0,9998,Unapportioned,Pauline Hanson's One Nation,36
-TAS,195,Franklin,8537,Snug,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
-TAS,195,Franklin,8537,Snug,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
+TAS,195,Franklin,8537,Snug,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,195,Franklin,8537,Snug,C,37934,0,C Above-the-line Votes,Animal Justice Party,7
+TAS,195,Franklin,8537,Snug,C,36512,1,"DAVIS, Ivan",Animal Justice Party,2
 TAS,195,Franklin,8537,Snug,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,195,Franklin,8537,Snug,C,0,9998,Unapportioned,Animal Justice Party,9
-TAS,195,Franklin,8537,Snug,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
-TAS,195,Franklin,8537,Snug,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
-TAS,195,Franklin,8537,Snug,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
-TAS,195,Franklin,8537,Snug,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
-TAS,195,Franklin,8537,Snug,D,37103,4,"HULME, Daniel",Australian Labor Party,0
+TAS,195,Franklin,8537,Snug,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,195,Franklin,8537,Snug,D,37940,0,D Above-the-line Votes,Australian Labor Party,217
+TAS,195,Franklin,8537,Snug,D,37063,1,"URQUHART, Anne",Australian Labor Party,20
+TAS,195,Franklin,8537,Snug,D,37079,2,"POLLEY, Helen",Australian Labor Party,5
+TAS,195,Franklin,8537,Snug,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,3
+TAS,195,Franklin,8537,Snug,D,37103,4,"HULME, Daniel",Australian Labor Party,8
 TAS,195,Franklin,8537,Snug,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
-TAS,195,Franklin,8537,Snug,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,195,Franklin,8537,Snug,D,0,9998,Unapportioned,Australian Labor Party,253
-TAS,195,Franklin,8537,Snug,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
-TAS,195,Franklin,8537,Snug,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
-TAS,195,Franklin,8537,Snug,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,195,Franklin,8537,Snug,E,0,9998,Unapportioned,Legalise Cannabis Australia,37
-TAS,195,Franklin,8537,Snug,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8537,Snug,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
+TAS,195,Franklin,8537,Snug,D,37119,6,"GOURLAY, Chris",Australian Labor Party,3
+TAS,195,Franklin,8537,Snug,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,195,Franklin,8537,Snug,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,34
+TAS,195,Franklin,8537,Snug,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,4
+TAS,195,Franklin,8537,Snug,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,1
+TAS,195,Franklin,8537,Snug,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,195,Franklin,8537,Snug,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",21
+TAS,195,Franklin,8537,Snug,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",2
 TAS,195,Franklin,8537,Snug,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8537,Snug,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8537,Snug,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",24
-TAS,195,Franklin,8537,Snug,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
+TAS,195,Franklin,8537,Snug,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",1
+TAS,195,Franklin,8537,Snug,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,195,Franklin,8537,Snug,G,37943,0,G Above-the-line Votes,Australian Federation Party,1
 TAS,195,Franklin,8537,Snug,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
-TAS,195,Franklin,8537,Snug,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,195,Franklin,8537,Snug,G,0,9998,Unapportioned,Australian Federation Party,5
-TAS,195,Franklin,8537,Snug,H,37931,0,H Above-the-line Votes,The Local Party,0
-TAS,195,Franklin,8537,Snug,H,37054,1,"MINSHULL, Leanne",The Local Party,0
+TAS,195,Franklin,8537,Snug,G,37793,2,"STRINGER, Justin",Australian Federation Party,4
+TAS,195,Franklin,8537,Snug,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,195,Franklin,8537,Snug,H,37931,0,H Above-the-line Votes,The Local Party,26
+TAS,195,Franklin,8537,Snug,H,37054,1,"MINSHULL, Leanne",The Local Party,21
 TAS,195,Franklin,8537,Snug,H,37062,2,"POULTON, Linda",The Local Party,0
-TAS,195,Franklin,8537,Snug,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,195,Franklin,8537,Snug,H,0,9998,Unapportioned,The Local Party,51
-TAS,195,Franklin,8537,Snug,I,37938,0,I Above-the-line Votes,The Greens,0
-TAS,195,Franklin,8537,Snug,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
-TAS,195,Franklin,8537,Snug,I,37427,2,"BLEYER, Vanessa",The Greens,0
-TAS,195,Franklin,8537,Snug,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,195,Franklin,8537,Snug,I,0,9998,Unapportioned,The Greens,259
-TAS,195,Franklin,8537,Snug,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
-TAS,195,Franklin,8537,Snug,J,37012,1,"FIELD, Topher",Liberal Democrats,0
+TAS,195,Franklin,8537,Snug,H,37066,3,"VAN RAAY, Lara",The Local Party,1
+TAS,195,Franklin,8537,Snug,H,0,9998,Unapportioned,The Local Party,0
+TAS,195,Franklin,8537,Snug,I,37938,0,I Above-the-line Votes,The Greens,187
+TAS,195,Franklin,8537,Snug,I,37423,1,"WHISH-WILSON, Peter",The Greens,65
+TAS,195,Franklin,8537,Snug,I,37427,2,"BLEYER, Vanessa",The Greens,2
+TAS,195,Franklin,8537,Snug,I,37431,3,"BADGER, Tabatha",The Greens,2
+TAS,195,Franklin,8537,Snug,I,0,9998,Unapportioned,The Greens,0
+TAS,195,Franklin,8537,Snug,J,37935,0,J Above-the-line Votes,Liberal Democrats,12
+TAS,195,Franklin,8537,Snug,J,37012,1,"FIELD, Topher",Liberal Democrats,7
 TAS,195,Franklin,8537,Snug,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,195,Franklin,8537,Snug,J,0,9998,Unapportioned,Liberal Democrats,18
-TAS,195,Franklin,8537,Snug,K,37930,0,K Above-the-line Votes,United Australia Party,0
-TAS,195,Franklin,8537,Snug,K,36282,1,"ADAMS, Diana",United Australia Party,0
+TAS,195,Franklin,8537,Snug,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,195,Franklin,8537,Snug,K,37930,0,K Above-the-line Votes,United Australia Party,21
+TAS,195,Franklin,8537,Snug,K,36282,1,"ADAMS, Diana",United Australia Party,2
 TAS,195,Franklin,8537,Snug,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,195,Franklin,8537,Snug,K,0,9998,Unapportioned,United Australia Party,23
-TAS,195,Franklin,8537,Snug,L,37937,0,L Above-the-line Votes,Liberal,0
-TAS,195,Franklin,8537,Snug,L,37124,1,"DUNIAM, Jonno",Liberal,0
-TAS,195,Franklin,8537,Snug,L,37131,2,"ASKEW, Wendy",Liberal,0
-TAS,195,Franklin,8537,Snug,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,195,Franklin,8537,Snug,L,0,9998,Unapportioned,Liberal,225
-TAS,195,Franklin,8537,Snug,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
-TAS,195,Franklin,8537,Snug,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
+TAS,195,Franklin,8537,Snug,K,0,9998,Unapportioned,United Australia Party,0
+TAS,195,Franklin,8537,Snug,L,37937,0,L Above-the-line Votes,Liberal,170
+TAS,195,Franklin,8537,Snug,L,37124,1,"DUNIAM, Jonno",Liberal,11
+TAS,195,Franklin,8537,Snug,L,37131,2,"ASKEW, Wendy",Liberal,2
+TAS,195,Franklin,8537,Snug,L,37132,3,"ABETZ, Eric",Liberal,48
+TAS,195,Franklin,8537,Snug,L,0,9998,Unapportioned,Liberal,0
+TAS,195,Franklin,8537,Snug,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,52
+TAS,195,Franklin,8537,Snug,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,14
 TAS,195,Franklin,8537,Snug,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
-TAS,195,Franklin,8537,Snug,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,195,Franklin,8537,Snug,M,0,9998,Unapportioned,Jacqui Lambie Network,71
-TAS,195,Franklin,8537,Snug,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
-TAS,195,Franklin,8537,Snug,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
+TAS,195,Franklin,8537,Snug,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,4
+TAS,195,Franklin,8537,Snug,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,195,Franklin,8537,Snug,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,4
+TAS,195,Franklin,8537,Snug,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,1
 TAS,195,Franklin,8537,Snug,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,195,Franklin,8537,Snug,N,0,9998,Unapportioned,Informed Medical Options Party,5
+TAS,195,Franklin,8537,Snug,N,0,9998,Unapportioned,Informed Medical Options Party,0
 TAS,195,Franklin,8537,Snug,UG,37794,1,"CROTHERS, Steve",Independent,3
 TAS,195,Franklin,8537,Snug,UG,36253,2,"EDWARDS, Fenella",Independent,4
 TAS,195,Franklin,8537,Snug,ZZ,0,99,INFORMAL,,35
@@ -2448,74 +2448,74 @@ TAS,195,Franklin,8538,South Arm,N,0,9998,Unapportioned,Informed Medical Options 
 TAS,195,Franklin,8538,South Arm,UG,37794,1,"CROTHERS, Steve",Independent,3
 TAS,195,Franklin,8538,South Arm,UG,36253,2,"EDWARDS, Fenella",Independent,0
 TAS,195,Franklin,8538,South Arm,ZZ,0,99,INFORMAL,,18
-TAS,195,Franklin,8539,Southport,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8539,Southport,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8539,Southport,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,3
+TAS,195,Franklin,8539,Southport,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
 TAS,195,Franklin,8539,Southport,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,8539,Southport,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,5
-TAS,195,Franklin,8539,Southport,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
-TAS,195,Franklin,8539,Southport,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
+TAS,195,Franklin,8539,Southport,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,8539,Southport,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,3
+TAS,195,Franklin,8539,Southport,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,2
 TAS,195,Franklin,8539,Southport,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,195,Franklin,8539,Southport,B,0,9998,Unapportioned,Pauline Hanson's One Nation,6
+TAS,195,Franklin,8539,Southport,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
 TAS,195,Franklin,8539,Southport,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,195,Franklin,8539,Southport,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,195,Franklin,8539,Southport,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
 TAS,195,Franklin,8539,Southport,C,0,9998,Unapportioned,Animal Justice Party,0
-TAS,195,Franklin,8539,Southport,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
-TAS,195,Franklin,8539,Southport,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
-TAS,195,Franklin,8539,Southport,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
+TAS,195,Franklin,8539,Southport,D,37940,0,D Above-the-line Votes,Australian Labor Party,33
+TAS,195,Franklin,8539,Southport,D,37063,1,"URQUHART, Anne",Australian Labor Party,3
+TAS,195,Franklin,8539,Southport,D,37079,2,"POLLEY, Helen",Australian Labor Party,1
 TAS,195,Franklin,8539,Southport,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
 TAS,195,Franklin,8539,Southport,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,195,Franklin,8539,Southport,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,195,Franklin,8539,Southport,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,195,Franklin,8539,Southport,D,0,9998,Unapportioned,Australian Labor Party,37
-TAS,195,Franklin,8539,Southport,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
+TAS,195,Franklin,8539,Southport,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,195,Franklin,8539,Southport,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,6
 TAS,195,Franklin,8539,Southport,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,195,Franklin,8539,Southport,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,195,Franklin,8539,Southport,E,0,9998,Unapportioned,Legalise Cannabis Australia,7
-TAS,195,Franklin,8539,Southport,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
+TAS,195,Franklin,8539,Southport,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,195,Franklin,8539,Southport,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",4
 TAS,195,Franklin,8539,Southport,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8539,Southport,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8539,Southport,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,8539,Southport,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",4
+TAS,195,Franklin,8539,Southport,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,8539,Southport,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,195,Franklin,8539,Southport,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,195,Franklin,8539,Southport,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
 TAS,195,Franklin,8539,Southport,G,0,9998,Unapportioned,Australian Federation Party,0
-TAS,195,Franklin,8539,Southport,H,37931,0,H Above-the-line Votes,The Local Party,0
-TAS,195,Franklin,8539,Southport,H,37054,1,"MINSHULL, Leanne",The Local Party,0
+TAS,195,Franklin,8539,Southport,H,37931,0,H Above-the-line Votes,The Local Party,1
+TAS,195,Franklin,8539,Southport,H,37054,1,"MINSHULL, Leanne",The Local Party,1
 TAS,195,Franklin,8539,Southport,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,195,Franklin,8539,Southport,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,195,Franklin,8539,Southport,H,0,9998,Unapportioned,The Local Party,2
-TAS,195,Franklin,8539,Southport,I,37938,0,I Above-the-line Votes,The Greens,0
-TAS,195,Franklin,8539,Southport,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
+TAS,195,Franklin,8539,Southport,H,0,9998,Unapportioned,The Local Party,0
+TAS,195,Franklin,8539,Southport,I,37938,0,I Above-the-line Votes,The Greens,15
+TAS,195,Franklin,8539,Southport,I,37423,1,"WHISH-WILSON, Peter",The Greens,8
 TAS,195,Franklin,8539,Southport,I,37427,2,"BLEYER, Vanessa",The Greens,0
-TAS,195,Franklin,8539,Southport,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,195,Franklin,8539,Southport,I,0,9998,Unapportioned,The Greens,23
-TAS,195,Franklin,8539,Southport,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
-TAS,195,Franklin,8539,Southport,J,37012,1,"FIELD, Topher",Liberal Democrats,0
+TAS,195,Franklin,8539,Southport,I,37431,3,"BADGER, Tabatha",The Greens,1
+TAS,195,Franklin,8539,Southport,I,0,9998,Unapportioned,The Greens,0
+TAS,195,Franklin,8539,Southport,J,37935,0,J Above-the-line Votes,Liberal Democrats,3
+TAS,195,Franklin,8539,Southport,J,37012,1,"FIELD, Topher",Liberal Democrats,1
 TAS,195,Franklin,8539,Southport,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,195,Franklin,8539,Southport,J,0,9998,Unapportioned,Liberal Democrats,4
+TAS,195,Franklin,8539,Southport,J,0,9998,Unapportioned,Liberal Democrats,0
 TAS,195,Franklin,8539,Southport,K,37930,0,K Above-the-line Votes,United Australia Party,0
 TAS,195,Franklin,8539,Southport,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,195,Franklin,8539,Southport,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,195,Franklin,8539,Southport,K,0,9998,Unapportioned,United Australia Party,1
-TAS,195,Franklin,8539,Southport,L,37937,0,L Above-the-line Votes,Liberal,0
-TAS,195,Franklin,8539,Southport,L,37124,1,"DUNIAM, Jonno",Liberal,0
+TAS,195,Franklin,8539,Southport,K,0,9998,Unapportioned,United Australia Party,0
+TAS,195,Franklin,8539,Southport,L,37937,0,L Above-the-line Votes,Liberal,29
+TAS,195,Franklin,8539,Southport,L,37124,1,"DUNIAM, Jonno",Liberal,2
 TAS,195,Franklin,8539,Southport,L,37131,2,"ASKEW, Wendy",Liberal,0
-TAS,195,Franklin,8539,Southport,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,195,Franklin,8539,Southport,L,0,9998,Unapportioned,Liberal,37
-TAS,195,Franklin,8539,Southport,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
-TAS,195,Franklin,8539,Southport,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
+TAS,195,Franklin,8539,Southport,L,37132,3,"ABETZ, Eric",Liberal,7
+TAS,195,Franklin,8539,Southport,L,0,9998,Unapportioned,Liberal,0
+TAS,195,Franklin,8539,Southport,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,12
+TAS,195,Franklin,8539,Southport,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,2
 TAS,195,Franklin,8539,Southport,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
-TAS,195,Franklin,8539,Southport,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,195,Franklin,8539,Southport,M,0,9998,Unapportioned,Jacqui Lambie Network,15
+TAS,195,Franklin,8539,Southport,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,1
+TAS,195,Franklin,8539,Southport,M,0,9998,Unapportioned,Jacqui Lambie Network,0
 TAS,195,Franklin,8539,Southport,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,195,Franklin,8539,Southport,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,195,Franklin,8539,Southport,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
 TAS,195,Franklin,8539,Southport,N,0,9998,Unapportioned,Informed Medical Options Party,0
 TAS,195,Franklin,8539,Southport,UG,37794,1,"CROTHERS, Steve",Independent,0
 TAS,195,Franklin,8539,Southport,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,195,Franklin,8539,Southport,ZZ,0,99,INFORMAL,,3
+TAS,195,Franklin,8539,Southport,ZZ,0,99,INFORMAL,,5
 TAS,195,Franklin,8543,Tranmere,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8543,Tranmere,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,8543,Tranmere,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -2788,74 +2788,74 @@ TAS,195,Franklin,8546,Woodbridge,N,0,9998,Unapportioned,Informed Medical Options
 TAS,195,Franklin,8546,Woodbridge,UG,37794,1,"CROTHERS, Steve",Independent,0
 TAS,195,Franklin,8546,Woodbridge,UG,36253,2,"EDWARDS, Fenella",Independent,0
 TAS,195,Franklin,8546,Woodbridge,ZZ,0,99,INFORMAL,,20
-TAS,195,Franklin,34054,Rosny PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,34054,Rosny PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,34054,Rosny PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,34054,Rosny PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,27
+TAS,195,Franklin,34054,Rosny PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,2
+TAS,195,Franklin,34054,Rosny PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
 TAS,195,Franklin,34054,Rosny PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,34054,Rosny PPVC,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
-TAS,195,Franklin,34054,Rosny PPVC,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
-TAS,195,Franklin,34054,Rosny PPVC,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
+TAS,195,Franklin,34054,Rosny PPVC,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,81
+TAS,195,Franklin,34054,Rosny PPVC,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,15
+TAS,195,Franklin,34054,Rosny PPVC,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,3
 TAS,195,Franklin,34054,Rosny PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
-TAS,195,Franklin,34054,Rosny PPVC,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
-TAS,195,Franklin,34054,Rosny PPVC,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
-TAS,195,Franklin,34054,Rosny PPVC,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
+TAS,195,Franklin,34054,Rosny PPVC,C,37934,0,C Above-the-line Votes,Animal Justice Party,28
+TAS,195,Franklin,34054,Rosny PPVC,C,36512,1,"DAVIS, Ivan",Animal Justice Party,9
+TAS,195,Franklin,34054,Rosny PPVC,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,1
 TAS,195,Franklin,34054,Rosny PPVC,C,0,9998,Unapportioned,Animal Justice Party,0
-TAS,195,Franklin,34054,Rosny PPVC,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
-TAS,195,Franklin,34054,Rosny PPVC,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
-TAS,195,Franklin,34054,Rosny PPVC,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
-TAS,195,Franklin,34054,Rosny PPVC,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
-TAS,195,Franklin,34054,Rosny PPVC,D,37103,4,"HULME, Daniel",Australian Labor Party,0
-TAS,195,Franklin,34054,Rosny PPVC,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
-TAS,195,Franklin,34054,Rosny PPVC,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
+TAS,195,Franklin,34054,Rosny PPVC,D,37940,0,D Above-the-line Votes,Australian Labor Party,1415
+TAS,195,Franklin,34054,Rosny PPVC,D,37063,1,"URQUHART, Anne",Australian Labor Party,163
+TAS,195,Franklin,34054,Rosny PPVC,D,37079,2,"POLLEY, Helen",Australian Labor Party,99
+TAS,195,Franklin,34054,Rosny PPVC,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,48
+TAS,195,Franklin,34054,Rosny PPVC,D,37103,4,"HULME, Daniel",Australian Labor Party,81
+TAS,195,Franklin,34054,Rosny PPVC,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,7
+TAS,195,Franklin,34054,Rosny PPVC,D,37119,6,"GOURLAY, Chris",Australian Labor Party,17
 TAS,195,Franklin,34054,Rosny PPVC,D,0,9998,Unapportioned,Australian Labor Party,0
-TAS,195,Franklin,34054,Rosny PPVC,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
-TAS,195,Franklin,34054,Rosny PPVC,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
-TAS,195,Franklin,34054,Rosny PPVC,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
+TAS,195,Franklin,34054,Rosny PPVC,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,54
+TAS,195,Franklin,34054,Rosny PPVC,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,6
+TAS,195,Franklin,34054,Rosny PPVC,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,1
 TAS,195,Franklin,34054,Rosny PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
-TAS,195,Franklin,34054,Rosny PPVC,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,34054,Rosny PPVC,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,34054,Rosny PPVC,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,34054,Rosny PPVC,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
+TAS,195,Franklin,34054,Rosny PPVC,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",34
+TAS,195,Franklin,34054,Rosny PPVC,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",13
+TAS,195,Franklin,34054,Rosny PPVC,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",1
+TAS,195,Franklin,34054,Rosny PPVC,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",2
 TAS,195,Franklin,34054,Rosny PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,34054,Rosny PPVC,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
-TAS,195,Franklin,34054,Rosny PPVC,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
+TAS,195,Franklin,34054,Rosny PPVC,G,37943,0,G Above-the-line Votes,Australian Federation Party,3
+TAS,195,Franklin,34054,Rosny PPVC,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,1
 TAS,195,Franklin,34054,Rosny PPVC,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
 TAS,195,Franklin,34054,Rosny PPVC,G,0,9998,Unapportioned,Australian Federation Party,0
-TAS,195,Franklin,34054,Rosny PPVC,H,37931,0,H Above-the-line Votes,The Local Party,0
-TAS,195,Franklin,34054,Rosny PPVC,H,37054,1,"MINSHULL, Leanne",The Local Party,0
-TAS,195,Franklin,34054,Rosny PPVC,H,37062,2,"POULTON, Linda",The Local Party,0
-TAS,195,Franklin,34054,Rosny PPVC,H,37066,3,"VAN RAAY, Lara",The Local Party,0
+TAS,195,Franklin,34054,Rosny PPVC,H,37931,0,H Above-the-line Votes,The Local Party,72
+TAS,195,Franklin,34054,Rosny PPVC,H,37054,1,"MINSHULL, Leanne",The Local Party,59
+TAS,195,Franklin,34054,Rosny PPVC,H,37062,2,"POULTON, Linda",The Local Party,2
+TAS,195,Franklin,34054,Rosny PPVC,H,37066,3,"VAN RAAY, Lara",The Local Party,1
 TAS,195,Franklin,34054,Rosny PPVC,H,0,9998,Unapportioned,The Local Party,0
-TAS,195,Franklin,34054,Rosny PPVC,I,37938,0,I Above-the-line Votes,The Greens,0
-TAS,195,Franklin,34054,Rosny PPVC,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
-TAS,195,Franklin,34054,Rosny PPVC,I,37427,2,"BLEYER, Vanessa",The Greens,0
-TAS,195,Franklin,34054,Rosny PPVC,I,37431,3,"BADGER, Tabatha",The Greens,0
+TAS,195,Franklin,34054,Rosny PPVC,I,37938,0,I Above-the-line Votes,The Greens,570
+TAS,195,Franklin,34054,Rosny PPVC,I,37423,1,"WHISH-WILSON, Peter",The Greens,364
+TAS,195,Franklin,34054,Rosny PPVC,I,37427,2,"BLEYER, Vanessa",The Greens,16
+TAS,195,Franklin,34054,Rosny PPVC,I,37431,3,"BADGER, Tabatha",The Greens,13
 TAS,195,Franklin,34054,Rosny PPVC,I,0,9998,Unapportioned,The Greens,0
-TAS,195,Franklin,34054,Rosny PPVC,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
-TAS,195,Franklin,34054,Rosny PPVC,J,37012,1,"FIELD, Topher",Liberal Democrats,0
-TAS,195,Franklin,34054,Rosny PPVC,J,37021,2,"CROFT, Chris",Liberal Democrats,0
+TAS,195,Franklin,34054,Rosny PPVC,J,37935,0,J Above-the-line Votes,Liberal Democrats,77
+TAS,195,Franklin,34054,Rosny PPVC,J,37012,1,"FIELD, Topher",Liberal Democrats,9
+TAS,195,Franklin,34054,Rosny PPVC,J,37021,2,"CROFT, Chris",Liberal Democrats,1
 TAS,195,Franklin,34054,Rosny PPVC,J,0,9998,Unapportioned,Liberal Democrats,0
-TAS,195,Franklin,34054,Rosny PPVC,K,37930,0,K Above-the-line Votes,United Australia Party,0
-TAS,195,Franklin,34054,Rosny PPVC,K,36282,1,"ADAMS, Diana",United Australia Party,0
-TAS,195,Franklin,34054,Rosny PPVC,K,36293,2,"HENNESSY, Alan",United Australia Party,0
+TAS,195,Franklin,34054,Rosny PPVC,K,37930,0,K Above-the-line Votes,United Australia Party,50
+TAS,195,Franklin,34054,Rosny PPVC,K,36282,1,"ADAMS, Diana",United Australia Party,5
+TAS,195,Franklin,34054,Rosny PPVC,K,36293,2,"HENNESSY, Alan",United Australia Party,1
 TAS,195,Franklin,34054,Rosny PPVC,K,0,9998,Unapportioned,United Australia Party,0
-TAS,195,Franklin,34054,Rosny PPVC,L,37937,0,L Above-the-line Votes,Liberal,0
-TAS,195,Franklin,34054,Rosny PPVC,L,37124,1,"DUNIAM, Jonno",Liberal,0
-TAS,195,Franklin,34054,Rosny PPVC,L,37131,2,"ASKEW, Wendy",Liberal,0
-TAS,195,Franklin,34054,Rosny PPVC,L,37132,3,"ABETZ, Eric",Liberal,0
+TAS,195,Franklin,34054,Rosny PPVC,L,37937,0,L Above-the-line Votes,Liberal,1484
+TAS,195,Franklin,34054,Rosny PPVC,L,37124,1,"DUNIAM, Jonno",Liberal,138
+TAS,195,Franklin,34054,Rosny PPVC,L,37131,2,"ASKEW, Wendy",Liberal,25
+TAS,195,Franklin,34054,Rosny PPVC,L,37132,3,"ABETZ, Eric",Liberal,321
 TAS,195,Franklin,34054,Rosny PPVC,L,0,9998,Unapportioned,Liberal,0
-TAS,195,Franklin,34054,Rosny PPVC,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
-TAS,195,Franklin,34054,Rosny PPVC,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
-TAS,195,Franklin,34054,Rosny PPVC,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
-TAS,195,Franklin,34054,Rosny PPVC,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
+TAS,195,Franklin,34054,Rosny PPVC,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,270
+TAS,195,Franklin,34054,Rosny PPVC,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,88
+TAS,195,Franklin,34054,Rosny PPVC,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,3
+TAS,195,Franklin,34054,Rosny PPVC,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,22
 TAS,195,Franklin,34054,Rosny PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,0
-TAS,195,Franklin,34054,Rosny PPVC,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
-TAS,195,Franklin,34054,Rosny PPVC,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
+TAS,195,Franklin,34054,Rosny PPVC,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,1
+TAS,195,Franklin,34054,Rosny PPVC,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,1
 TAS,195,Franklin,34054,Rosny PPVC,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
 TAS,195,Franklin,34054,Rosny PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,0
-TAS,195,Franklin,34054,Rosny PPVC,UG,37794,1,"CROTHERS, Steve",Independent,0
-TAS,195,Franklin,34054,Rosny PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,195,Franklin,34054,Rosny PPVC,ZZ,0,99,INFORMAL,,0
+TAS,195,Franklin,34054,Rosny PPVC,UG,37794,1,"CROTHERS, Steve",Independent,11
+TAS,195,Franklin,34054,Rosny PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,2
+TAS,195,Franklin,34054,Rosny PPVC,ZZ,0,99,INFORMAL,,159
 TAS,195,Franklin,34288,Maranoa Heights,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,34288,Maranoa Heights,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,34288,Maranoa Heights,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -2924,142 +2924,142 @@ TAS,195,Franklin,34288,Maranoa Heights,N,0,9998,Unapportioned,Informed Medical O
 TAS,195,Franklin,34288,Maranoa Heights,UG,37794,1,"CROTHERS, Steve",Independent,3
 TAS,195,Franklin,34288,Maranoa Heights,UG,36253,2,"EDWARDS, Fenella",Independent,2
 TAS,195,Franklin,34288,Maranoa Heights,ZZ,0,99,INFORMAL,,44
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,7
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,3
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,1
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,26
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,9
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,1
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,C,37934,0,C Above-the-line Votes,Animal Justice Party,22
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,C,36512,1,"DAVIS, Ivan",Animal Justice Party,6
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,C,0,9998,Unapportioned,Animal Justice Party,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,D,37103,4,"HULME, Daniel",Australian Labor Party,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,D,37940,0,D Above-the-line Votes,Australian Labor Party,492
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,D,37063,1,"URQUHART, Anne",Australian Labor Party,84
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,D,37079,2,"POLLEY, Helen",Australian Labor Party,28
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,27
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,D,37103,4,"HULME, Daniel",Australian Labor Party,20
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,6
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,D,37119,6,"GOURLAY, Chris",Australian Labor Party,10
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,D,0,9998,Unapportioned,Australian Labor Party,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,36
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,5
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,1
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",15
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",2
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,G,37943,0,G Above-the-line Votes,Australian Federation Party,1
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,G,0,9998,Unapportioned,Australian Federation Party,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,H,37931,0,H Above-the-line Votes,The Local Party,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,H,37054,1,"MINSHULL, Leanne",The Local Party,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,H,37062,2,"POULTON, Linda",The Local Party,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,H,37066,3,"VAN RAAY, Lara",The Local Party,0
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,H,37931,0,H Above-the-line Votes,The Local Party,29
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,H,37054,1,"MINSHULL, Leanne",The Local Party,42
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,H,37062,2,"POULTON, Linda",The Local Party,5
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,H,37066,3,"VAN RAAY, Lara",The Local Party,1
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,H,0,9998,Unapportioned,The Local Party,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,I,37938,0,I Above-the-line Votes,The Greens,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,I,37427,2,"BLEYER, Vanessa",The Greens,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,I,37431,3,"BADGER, Tabatha",The Greens,0
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,I,37938,0,I Above-the-line Votes,The Greens,365
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,I,37423,1,"WHISH-WILSON, Peter",The Greens,203
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,I,37427,2,"BLEYER, Vanessa",The Greens,9
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,I,37431,3,"BADGER, Tabatha",The Greens,18
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,I,0,9998,Unapportioned,The Greens,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,J,37012,1,"FIELD, Topher",Liberal Democrats,0
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,J,37935,0,J Above-the-line Votes,Liberal Democrats,30
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,J,37012,1,"FIELD, Topher",Liberal Democrats,5
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,J,37021,2,"CROFT, Chris",Liberal Democrats,0
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,J,0,9998,Unapportioned,Liberal Democrats,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,K,37930,0,K Above-the-line Votes,United Australia Party,0
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,K,37930,0,K Above-the-line Votes,United Australia Party,16
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,K,36282,1,"ADAMS, Diana",United Australia Party,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,K,36293,2,"HENNESSY, Alan",United Australia Party,0
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,K,36293,2,"HENNESSY, Alan",United Australia Party,1
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,K,0,9998,Unapportioned,United Australia Party,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,L,37937,0,L Above-the-line Votes,Liberal,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,L,37124,1,"DUNIAM, Jonno",Liberal,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,L,37131,2,"ASKEW, Wendy",Liberal,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,L,37132,3,"ABETZ, Eric",Liberal,0
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,L,37937,0,L Above-the-line Votes,Liberal,461
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,L,37124,1,"DUNIAM, Jonno",Liberal,40
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,L,37131,2,"ASKEW, Wendy",Liberal,11
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,L,37132,3,"ABETZ, Eric",Liberal,87
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,L,0,9998,Unapportioned,Liberal,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,103
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,35
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,13
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,5
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,1
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
 TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,UG,37794,1,"CROTHERS, Steve",Independent,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,ZZ,0,99,INFORMAL,,0
-TAS,195,Franklin,58684,Kingston PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,58684,Kingston PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,58684,Kingston PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,UG,37794,1,"CROTHERS, Steve",Independent,3
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,1
+TAS,195,Franklin,58681,Hobart FRANKLIN PPVC,ZZ,0,99,INFORMAL,,47
+TAS,195,Franklin,58684,Kingston PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,40
+TAS,195,Franklin,58684,Kingston PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,12
+TAS,195,Franklin,58684,Kingston PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,2
 TAS,195,Franklin,58684,Kingston PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,195,Franklin,58684,Kingston PPVC,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
-TAS,195,Franklin,58684,Kingston PPVC,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
-TAS,195,Franklin,58684,Kingston PPVC,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
+TAS,195,Franklin,58684,Kingston PPVC,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,89
+TAS,195,Franklin,58684,Kingston PPVC,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,36
+TAS,195,Franklin,58684,Kingston PPVC,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,1
 TAS,195,Franklin,58684,Kingston PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
-TAS,195,Franklin,58684,Kingston PPVC,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
-TAS,195,Franklin,58684,Kingston PPVC,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
-TAS,195,Franklin,58684,Kingston PPVC,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
+TAS,195,Franklin,58684,Kingston PPVC,C,37934,0,C Above-the-line Votes,Animal Justice Party,55
+TAS,195,Franklin,58684,Kingston PPVC,C,36512,1,"DAVIS, Ivan",Animal Justice Party,12
+TAS,195,Franklin,58684,Kingston PPVC,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,4
 TAS,195,Franklin,58684,Kingston PPVC,C,0,9998,Unapportioned,Animal Justice Party,0
-TAS,195,Franklin,58684,Kingston PPVC,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
-TAS,195,Franklin,58684,Kingston PPVC,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
-TAS,195,Franklin,58684,Kingston PPVC,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
-TAS,195,Franklin,58684,Kingston PPVC,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
-TAS,195,Franklin,58684,Kingston PPVC,D,37103,4,"HULME, Daniel",Australian Labor Party,0
-TAS,195,Franklin,58684,Kingston PPVC,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
-TAS,195,Franklin,58684,Kingston PPVC,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
+TAS,195,Franklin,58684,Kingston PPVC,D,37940,0,D Above-the-line Votes,Australian Labor Party,1358
+TAS,195,Franklin,58684,Kingston PPVC,D,37063,1,"URQUHART, Anne",Australian Labor Party,158
+TAS,195,Franklin,58684,Kingston PPVC,D,37079,2,"POLLEY, Helen",Australian Labor Party,83
+TAS,195,Franklin,58684,Kingston PPVC,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,44
+TAS,195,Franklin,58684,Kingston PPVC,D,37103,4,"HULME, Daniel",Australian Labor Party,27
+TAS,195,Franklin,58684,Kingston PPVC,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,7
+TAS,195,Franklin,58684,Kingston PPVC,D,37119,6,"GOURLAY, Chris",Australian Labor Party,15
 TAS,195,Franklin,58684,Kingston PPVC,D,0,9998,Unapportioned,Australian Labor Party,0
-TAS,195,Franklin,58684,Kingston PPVC,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
-TAS,195,Franklin,58684,Kingston PPVC,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
+TAS,195,Franklin,58684,Kingston PPVC,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,98
+TAS,195,Franklin,58684,Kingston PPVC,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,10
 TAS,195,Franklin,58684,Kingston PPVC,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
 TAS,195,Franklin,58684,Kingston PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
-TAS,195,Franklin,58684,Kingston PPVC,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,58684,Kingston PPVC,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
+TAS,195,Franklin,58684,Kingston PPVC,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",58
+TAS,195,Franklin,58684,Kingston PPVC,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",9
 TAS,195,Franklin,58684,Kingston PPVC,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,58684,Kingston PPVC,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
 TAS,195,Franklin,58684,Kingston PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
-TAS,195,Franklin,58684,Kingston PPVC,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
-TAS,195,Franklin,58684,Kingston PPVC,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
-TAS,195,Franklin,58684,Kingston PPVC,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
+TAS,195,Franklin,58684,Kingston PPVC,G,37943,0,G Above-the-line Votes,Australian Federation Party,5
+TAS,195,Franklin,58684,Kingston PPVC,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,5
+TAS,195,Franklin,58684,Kingston PPVC,G,37793,2,"STRINGER, Justin",Australian Federation Party,1
 TAS,195,Franklin,58684,Kingston PPVC,G,0,9998,Unapportioned,Australian Federation Party,0
-TAS,195,Franklin,58684,Kingston PPVC,H,37931,0,H Above-the-line Votes,The Local Party,0
-TAS,195,Franklin,58684,Kingston PPVC,H,37054,1,"MINSHULL, Leanne",The Local Party,0
+TAS,195,Franklin,58684,Kingston PPVC,H,37931,0,H Above-the-line Votes,The Local Party,96
+TAS,195,Franklin,58684,Kingston PPVC,H,37054,1,"MINSHULL, Leanne",The Local Party,64
 TAS,195,Franklin,58684,Kingston PPVC,H,37062,2,"POULTON, Linda",The Local Party,0
-TAS,195,Franklin,58684,Kingston PPVC,H,37066,3,"VAN RAAY, Lara",The Local Party,0
+TAS,195,Franklin,58684,Kingston PPVC,H,37066,3,"VAN RAAY, Lara",The Local Party,6
 TAS,195,Franklin,58684,Kingston PPVC,H,0,9998,Unapportioned,The Local Party,0
-TAS,195,Franklin,58684,Kingston PPVC,I,37938,0,I Above-the-line Votes,The Greens,0
-TAS,195,Franklin,58684,Kingston PPVC,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
-TAS,195,Franklin,58684,Kingston PPVC,I,37427,2,"BLEYER, Vanessa",The Greens,0
-TAS,195,Franklin,58684,Kingston PPVC,I,37431,3,"BADGER, Tabatha",The Greens,0
+TAS,195,Franklin,58684,Kingston PPVC,I,37938,0,I Above-the-line Votes,The Greens,770
+TAS,195,Franklin,58684,Kingston PPVC,I,37423,1,"WHISH-WILSON, Peter",The Greens,381
+TAS,195,Franklin,58684,Kingston PPVC,I,37427,2,"BLEYER, Vanessa",The Greens,22
+TAS,195,Franklin,58684,Kingston PPVC,I,37431,3,"BADGER, Tabatha",The Greens,16
 TAS,195,Franklin,58684,Kingston PPVC,I,0,9998,Unapportioned,The Greens,0
-TAS,195,Franklin,58684,Kingston PPVC,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
-TAS,195,Franklin,58684,Kingston PPVC,J,37012,1,"FIELD, Topher",Liberal Democrats,0
-TAS,195,Franklin,58684,Kingston PPVC,J,37021,2,"CROFT, Chris",Liberal Democrats,0
+TAS,195,Franklin,58684,Kingston PPVC,J,37935,0,J Above-the-line Votes,Liberal Democrats,83
+TAS,195,Franklin,58684,Kingston PPVC,J,37012,1,"FIELD, Topher",Liberal Democrats,31
+TAS,195,Franklin,58684,Kingston PPVC,J,37021,2,"CROFT, Chris",Liberal Democrats,1
 TAS,195,Franklin,58684,Kingston PPVC,J,0,9998,Unapportioned,Liberal Democrats,0
-TAS,195,Franklin,58684,Kingston PPVC,K,37930,0,K Above-the-line Votes,United Australia Party,0
-TAS,195,Franklin,58684,Kingston PPVC,K,36282,1,"ADAMS, Diana",United Australia Party,0
-TAS,195,Franklin,58684,Kingston PPVC,K,36293,2,"HENNESSY, Alan",United Australia Party,0
+TAS,195,Franklin,58684,Kingston PPVC,K,37930,0,K Above-the-line Votes,United Australia Party,66
+TAS,195,Franklin,58684,Kingston PPVC,K,36282,1,"ADAMS, Diana",United Australia Party,13
+TAS,195,Franklin,58684,Kingston PPVC,K,36293,2,"HENNESSY, Alan",United Australia Party,4
 TAS,195,Franklin,58684,Kingston PPVC,K,0,9998,Unapportioned,United Australia Party,0
-TAS,195,Franklin,58684,Kingston PPVC,L,37937,0,L Above-the-line Votes,Liberal,0
-TAS,195,Franklin,58684,Kingston PPVC,L,37124,1,"DUNIAM, Jonno",Liberal,0
-TAS,195,Franklin,58684,Kingston PPVC,L,37131,2,"ASKEW, Wendy",Liberal,0
-TAS,195,Franklin,58684,Kingston PPVC,L,37132,3,"ABETZ, Eric",Liberal,0
+TAS,195,Franklin,58684,Kingston PPVC,L,37937,0,L Above-the-line Votes,Liberal,1328
+TAS,195,Franklin,58684,Kingston PPVC,L,37124,1,"DUNIAM, Jonno",Liberal,108
+TAS,195,Franklin,58684,Kingston PPVC,L,37131,2,"ASKEW, Wendy",Liberal,17
+TAS,195,Franklin,58684,Kingston PPVC,L,37132,3,"ABETZ, Eric",Liberal,479
 TAS,195,Franklin,58684,Kingston PPVC,L,0,9998,Unapportioned,Liberal,0
-TAS,195,Franklin,58684,Kingston PPVC,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
-TAS,195,Franklin,58684,Kingston PPVC,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
-TAS,195,Franklin,58684,Kingston PPVC,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
-TAS,195,Franklin,58684,Kingston PPVC,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
+TAS,195,Franklin,58684,Kingston PPVC,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,296
+TAS,195,Franklin,58684,Kingston PPVC,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,79
+TAS,195,Franklin,58684,Kingston PPVC,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,3
+TAS,195,Franklin,58684,Kingston PPVC,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,16
 TAS,195,Franklin,58684,Kingston PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,0
-TAS,195,Franklin,58684,Kingston PPVC,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
-TAS,195,Franklin,58684,Kingston PPVC,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
+TAS,195,Franklin,58684,Kingston PPVC,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,10
+TAS,195,Franklin,58684,Kingston PPVC,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,5
 TAS,195,Franklin,58684,Kingston PPVC,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
 TAS,195,Franklin,58684,Kingston PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,0
-TAS,195,Franklin,58684,Kingston PPVC,UG,37794,1,"CROTHERS, Steve",Independent,0
-TAS,195,Franklin,58684,Kingston PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,195,Franklin,58684,Kingston PPVC,ZZ,0,99,INFORMAL,,0
+TAS,195,Franklin,58684,Kingston PPVC,UG,37794,1,"CROTHERS, Steve",Independent,4
+TAS,195,Franklin,58684,Kingston PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,6
+TAS,195,Franklin,58684,Kingston PPVC,ZZ,0,99,INFORMAL,,154
 TAS,195,Franklin,65621,EAV Franklin PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,65621,EAV Franklin PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,195,Franklin,65621,EAV Franklin PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0

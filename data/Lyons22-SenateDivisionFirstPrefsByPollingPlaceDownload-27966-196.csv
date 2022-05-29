@@ -1,4 +1,4 @@
-2022 Federal Election Senate First Preferences By Polling Place for Division 196 [Please Note: These results are not final. Event:27966 Phase:PostElection Generated:2022-05-22T11:49:26 Cycle:6c9d3b19-37c4-4379-9a72-7a34850cb5be Created:2022-05-22T11:47:28 Environment:PROD Site:CANBERRA Server:VTR03 Version:10.9.9.0]
+2022 Federal Election Senate First Preferences By Polling Place for Division 196 [Please Note: These results are not final. Event:27966 Phase:PostElection Generated:2022-05-29T11:48:46 Cycle:913eee42-8c6d-4ac3-b2db-d457ca8748d7 Created:2022-05-29T11:46:50 Environment:PROD Site:CANBERRA Server:VTR03 Version:10.9.9.0]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlaceNm,Group,CandidateID,BallotPosition,CandidateDetails,PartyNm,OrdinaryVotes
 TAS,196,Lyons,8500,Bridgewater,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,8500,Bridgewater,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -2247,15 +2247,15 @@ TAS,196,Lyons,8613,Taranna,ZZ,0,99,INFORMAL,,22
 TAS,196,Lyons,8614,Lachlan,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,8614,Lachlan,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,8614,Lachlan,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,196,Lyons,8614,Lachlan,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,196,Lyons,8614,Lachlan,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,6
 TAS,196,Lyons,8614,Lachlan,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
 TAS,196,Lyons,8614,Lachlan,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,196,Lyons,8614,Lachlan,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,196,Lyons,8614,Lachlan,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,196,Lyons,8614,Lachlan,B,0,9998,Unapportioned,Pauline Hanson's One Nation,16
 TAS,196,Lyons,8614,Lachlan,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,196,Lyons,8614,Lachlan,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,196,Lyons,8614,Lachlan,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,196,Lyons,8614,Lachlan,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,196,Lyons,8614,Lachlan,C,0,9998,Unapportioned,Animal Justice Party,5
 TAS,196,Lyons,8614,Lachlan,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
 TAS,196,Lyons,8614,Lachlan,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
 TAS,196,Lyons,8614,Lachlan,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
@@ -2263,20 +2263,20 @@ TAS,196,Lyons,8614,Lachlan,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
 TAS,196,Lyons,8614,Lachlan,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,196,Lyons,8614,Lachlan,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,196,Lyons,8614,Lachlan,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,196,Lyons,8614,Lachlan,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,196,Lyons,8614,Lachlan,D,0,9998,Unapportioned,Australian Labor Party,129
 TAS,196,Lyons,8614,Lachlan,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
 TAS,196,Lyons,8614,Lachlan,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,196,Lyons,8614,Lachlan,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,196,Lyons,8614,Lachlan,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,196,Lyons,8614,Lachlan,E,0,9998,Unapportioned,Legalise Cannabis Australia,10
 TAS,196,Lyons,8614,Lachlan,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,8614,Lachlan,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,8614,Lachlan,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,8614,Lachlan,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,196,Lyons,8614,Lachlan,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,196,Lyons,8614,Lachlan,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",19
 TAS,196,Lyons,8614,Lachlan,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,196,Lyons,8614,Lachlan,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,196,Lyons,8614,Lachlan,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,196,Lyons,8614,Lachlan,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,196,Lyons,8614,Lachlan,G,0,9998,Unapportioned,Australian Federation Party,2
 TAS,196,Lyons,8614,Lachlan,H,37931,0,H Above-the-line Votes,The Local Party,0
 TAS,196,Lyons,8614,Lachlan,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,196,Lyons,8614,Lachlan,H,37062,2,"POULTON, Linda",The Local Party,0
@@ -2286,32 +2286,32 @@ TAS,196,Lyons,8614,Lachlan,I,37938,0,I Above-the-line Votes,The Greens,0
 TAS,196,Lyons,8614,Lachlan,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
 TAS,196,Lyons,8614,Lachlan,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,196,Lyons,8614,Lachlan,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,196,Lyons,8614,Lachlan,I,0,9998,Unapportioned,The Greens,0
+TAS,196,Lyons,8614,Lachlan,I,0,9998,Unapportioned,The Greens,42
 TAS,196,Lyons,8614,Lachlan,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
 TAS,196,Lyons,8614,Lachlan,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,196,Lyons,8614,Lachlan,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,196,Lyons,8614,Lachlan,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,196,Lyons,8614,Lachlan,J,0,9998,Unapportioned,Liberal Democrats,13
 TAS,196,Lyons,8614,Lachlan,K,37930,0,K Above-the-line Votes,United Australia Party,0
 TAS,196,Lyons,8614,Lachlan,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,196,Lyons,8614,Lachlan,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,196,Lyons,8614,Lachlan,K,0,9998,Unapportioned,United Australia Party,0
+TAS,196,Lyons,8614,Lachlan,K,0,9998,Unapportioned,United Australia Party,8
 TAS,196,Lyons,8614,Lachlan,L,37937,0,L Above-the-line Votes,Liberal,0
 TAS,196,Lyons,8614,Lachlan,L,37124,1,"DUNIAM, Jonno",Liberal,0
 TAS,196,Lyons,8614,Lachlan,L,37131,2,"ASKEW, Wendy",Liberal,0
 TAS,196,Lyons,8614,Lachlan,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,196,Lyons,8614,Lachlan,L,0,9998,Unapportioned,Liberal,0
+TAS,196,Lyons,8614,Lachlan,L,0,9998,Unapportioned,Liberal,83
 TAS,196,Lyons,8614,Lachlan,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
 TAS,196,Lyons,8614,Lachlan,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
 TAS,196,Lyons,8614,Lachlan,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,196,Lyons,8614,Lachlan,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,196,Lyons,8614,Lachlan,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,196,Lyons,8614,Lachlan,M,0,9998,Unapportioned,Jacqui Lambie Network,35
 TAS,196,Lyons,8614,Lachlan,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,196,Lyons,8614,Lachlan,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,196,Lyons,8614,Lachlan,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,196,Lyons,8614,Lachlan,N,0,9998,Unapportioned,Informed Medical Options Party,0
-TAS,196,Lyons,8614,Lachlan,UG,37794,1,"CROTHERS, Steve",Independent,0
-TAS,196,Lyons,8614,Lachlan,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,196,Lyons,8614,Lachlan,ZZ,0,99,INFORMAL,,0
+TAS,196,Lyons,8614,Lachlan,N,0,9998,Unapportioned,Informed Medical Options Party,1
+TAS,196,Lyons,8614,Lachlan,UG,37794,1,"CROTHERS, Steve",Independent,33
+TAS,196,Lyons,8614,Lachlan,UG,36253,2,"EDWARDS, Fenella",Independent,33
+TAS,196,Lyons,8614,Lachlan,ZZ,0,99,INFORMAL,,40
 TAS,196,Lyons,8619,Longford,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,8619,Longford,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,8619,Longford,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -4083,15 +4083,15 @@ TAS,196,Lyons,8677,Tea Tree,ZZ,0,99,INFORMAL,,22
 TAS,196,Lyons,8678,Triabunna,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,8678,Triabunna,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,8678,Triabunna,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,196,Lyons,8678,Triabunna,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,196,Lyons,8678,Triabunna,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,5
 TAS,196,Lyons,8678,Triabunna,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
 TAS,196,Lyons,8678,Triabunna,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,196,Lyons,8678,Triabunna,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,196,Lyons,8678,Triabunna,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,196,Lyons,8678,Triabunna,B,0,9998,Unapportioned,Pauline Hanson's One Nation,33
 TAS,196,Lyons,8678,Triabunna,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,196,Lyons,8678,Triabunna,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,196,Lyons,8678,Triabunna,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,196,Lyons,8678,Triabunna,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,196,Lyons,8678,Triabunna,C,0,9998,Unapportioned,Animal Justice Party,4
 TAS,196,Lyons,8678,Triabunna,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
 TAS,196,Lyons,8678,Triabunna,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
 TAS,196,Lyons,8678,Triabunna,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
@@ -4099,55 +4099,55 @@ TAS,196,Lyons,8678,Triabunna,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
 TAS,196,Lyons,8678,Triabunna,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,196,Lyons,8678,Triabunna,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,196,Lyons,8678,Triabunna,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,196,Lyons,8678,Triabunna,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,196,Lyons,8678,Triabunna,D,0,9998,Unapportioned,Australian Labor Party,142
 TAS,196,Lyons,8678,Triabunna,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
 TAS,196,Lyons,8678,Triabunna,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,196,Lyons,8678,Triabunna,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,196,Lyons,8678,Triabunna,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,196,Lyons,8678,Triabunna,E,0,9998,Unapportioned,Legalise Cannabis Australia,16
 TAS,196,Lyons,8678,Triabunna,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,8678,Triabunna,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,8678,Triabunna,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,8678,Triabunna,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,196,Lyons,8678,Triabunna,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,196,Lyons,8678,Triabunna,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",25
 TAS,196,Lyons,8678,Triabunna,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,196,Lyons,8678,Triabunna,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,196,Lyons,8678,Triabunna,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,196,Lyons,8678,Triabunna,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,196,Lyons,8678,Triabunna,G,0,9998,Unapportioned,Australian Federation Party,1
 TAS,196,Lyons,8678,Triabunna,H,37931,0,H Above-the-line Votes,The Local Party,0
 TAS,196,Lyons,8678,Triabunna,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,196,Lyons,8678,Triabunna,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,196,Lyons,8678,Triabunna,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,196,Lyons,8678,Triabunna,H,0,9998,Unapportioned,The Local Party,0
+TAS,196,Lyons,8678,Triabunna,H,0,9998,Unapportioned,The Local Party,3
 TAS,196,Lyons,8678,Triabunna,I,37938,0,I Above-the-line Votes,The Greens,0
 TAS,196,Lyons,8678,Triabunna,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
 TAS,196,Lyons,8678,Triabunna,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,196,Lyons,8678,Triabunna,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,196,Lyons,8678,Triabunna,I,0,9998,Unapportioned,The Greens,0
+TAS,196,Lyons,8678,Triabunna,I,0,9998,Unapportioned,The Greens,35
 TAS,196,Lyons,8678,Triabunna,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
 TAS,196,Lyons,8678,Triabunna,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,196,Lyons,8678,Triabunna,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,196,Lyons,8678,Triabunna,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,196,Lyons,8678,Triabunna,J,0,9998,Unapportioned,Liberal Democrats,14
 TAS,196,Lyons,8678,Triabunna,K,37930,0,K Above-the-line Votes,United Australia Party,0
 TAS,196,Lyons,8678,Triabunna,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,196,Lyons,8678,Triabunna,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,196,Lyons,8678,Triabunna,K,0,9998,Unapportioned,United Australia Party,0
+TAS,196,Lyons,8678,Triabunna,K,0,9998,Unapportioned,United Australia Party,14
 TAS,196,Lyons,8678,Triabunna,L,37937,0,L Above-the-line Votes,Liberal,0
 TAS,196,Lyons,8678,Triabunna,L,37124,1,"DUNIAM, Jonno",Liberal,0
 TAS,196,Lyons,8678,Triabunna,L,37131,2,"ASKEW, Wendy",Liberal,0
 TAS,196,Lyons,8678,Triabunna,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,196,Lyons,8678,Triabunna,L,0,9998,Unapportioned,Liberal,0
+TAS,196,Lyons,8678,Triabunna,L,0,9998,Unapportioned,Liberal,191
 TAS,196,Lyons,8678,Triabunna,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
 TAS,196,Lyons,8678,Triabunna,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
 TAS,196,Lyons,8678,Triabunna,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,196,Lyons,8678,Triabunna,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,196,Lyons,8678,Triabunna,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,196,Lyons,8678,Triabunna,M,0,9998,Unapportioned,Jacqui Lambie Network,45
 TAS,196,Lyons,8678,Triabunna,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,196,Lyons,8678,Triabunna,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,196,Lyons,8678,Triabunna,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
 TAS,196,Lyons,8678,Triabunna,N,0,9998,Unapportioned,Informed Medical Options Party,0
 TAS,196,Lyons,8678,Triabunna,UG,37794,1,"CROTHERS, Steve",Independent,0
-TAS,196,Lyons,8678,Triabunna,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,196,Lyons,8678,Triabunna,ZZ,0,99,INFORMAL,,0
+TAS,196,Lyons,8678,Triabunna,UG,36253,2,"EDWARDS, Fenella",Independent,2
+TAS,196,Lyons,8678,Triabunna,ZZ,0,99,INFORMAL,,31
 TAS,196,Lyons,8681,Tunnack,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,8681,Tunnack,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,8681,Tunnack,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -4559,15 +4559,15 @@ TAS,196,Lyons,34050,Miena,ZZ,0,99,INFORMAL,,16
 TAS,196,Lyons,34053,St Helens PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,34053,St Helens PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,34053,St Helens PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,196,Lyons,34053,St Helens PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,196,Lyons,34053,St Helens PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,29
 TAS,196,Lyons,34053,St Helens PPVC,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
 TAS,196,Lyons,34053,St Helens PPVC,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,196,Lyons,34053,St Helens PPVC,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,196,Lyons,34053,St Helens PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,196,Lyons,34053,St Helens PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,96
 TAS,196,Lyons,34053,St Helens PPVC,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,196,Lyons,34053,St Helens PPVC,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,196,Lyons,34053,St Helens PPVC,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,196,Lyons,34053,St Helens PPVC,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,196,Lyons,34053,St Helens PPVC,C,0,9998,Unapportioned,Animal Justice Party,12
 TAS,196,Lyons,34053,St Helens PPVC,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
 TAS,196,Lyons,34053,St Helens PPVC,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
 TAS,196,Lyons,34053,St Helens PPVC,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
@@ -4575,55 +4575,55 @@ TAS,196,Lyons,34053,St Helens PPVC,D,37085,3,"RAINBIRD, Kate",Australian Labor P
 TAS,196,Lyons,34053,St Helens PPVC,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,196,Lyons,34053,St Helens PPVC,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,196,Lyons,34053,St Helens PPVC,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,196,Lyons,34053,St Helens PPVC,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,196,Lyons,34053,St Helens PPVC,D,0,9998,Unapportioned,Australian Labor Party,447
 TAS,196,Lyons,34053,St Helens PPVC,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
 TAS,196,Lyons,34053,St Helens PPVC,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,196,Lyons,34053,St Helens PPVC,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,196,Lyons,34053,St Helens PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,196,Lyons,34053,St Helens PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,56
 TAS,196,Lyons,34053,St Helens PPVC,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,34053,St Helens PPVC,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,34053,St Helens PPVC,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,34053,St Helens PPVC,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,196,Lyons,34053,St Helens PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,196,Lyons,34053,St Helens PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",36
 TAS,196,Lyons,34053,St Helens PPVC,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,196,Lyons,34053,St Helens PPVC,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,196,Lyons,34053,St Helens PPVC,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,196,Lyons,34053,St Helens PPVC,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,196,Lyons,34053,St Helens PPVC,G,0,9998,Unapportioned,Australian Federation Party,1
 TAS,196,Lyons,34053,St Helens PPVC,H,37931,0,H Above-the-line Votes,The Local Party,0
 TAS,196,Lyons,34053,St Helens PPVC,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,196,Lyons,34053,St Helens PPVC,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,196,Lyons,34053,St Helens PPVC,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,196,Lyons,34053,St Helens PPVC,H,0,9998,Unapportioned,The Local Party,0
+TAS,196,Lyons,34053,St Helens PPVC,H,0,9998,Unapportioned,The Local Party,8
 TAS,196,Lyons,34053,St Helens PPVC,I,37938,0,I Above-the-line Votes,The Greens,0
 TAS,196,Lyons,34053,St Helens PPVC,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
 TAS,196,Lyons,34053,St Helens PPVC,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,196,Lyons,34053,St Helens PPVC,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,196,Lyons,34053,St Helens PPVC,I,0,9998,Unapportioned,The Greens,0
+TAS,196,Lyons,34053,St Helens PPVC,I,0,9998,Unapportioned,The Greens,194
 TAS,196,Lyons,34053,St Helens PPVC,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
 TAS,196,Lyons,34053,St Helens PPVC,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,196,Lyons,34053,St Helens PPVC,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,196,Lyons,34053,St Helens PPVC,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,196,Lyons,34053,St Helens PPVC,J,0,9998,Unapportioned,Liberal Democrats,28
 TAS,196,Lyons,34053,St Helens PPVC,K,37930,0,K Above-the-line Votes,United Australia Party,0
 TAS,196,Lyons,34053,St Helens PPVC,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,196,Lyons,34053,St Helens PPVC,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,196,Lyons,34053,St Helens PPVC,K,0,9998,Unapportioned,United Australia Party,0
+TAS,196,Lyons,34053,St Helens PPVC,K,0,9998,Unapportioned,United Australia Party,44
 TAS,196,Lyons,34053,St Helens PPVC,L,37937,0,L Above-the-line Votes,Liberal,0
 TAS,196,Lyons,34053,St Helens PPVC,L,37124,1,"DUNIAM, Jonno",Liberal,0
 TAS,196,Lyons,34053,St Helens PPVC,L,37131,2,"ASKEW, Wendy",Liberal,0
 TAS,196,Lyons,34053,St Helens PPVC,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,196,Lyons,34053,St Helens PPVC,L,0,9998,Unapportioned,Liberal,0
+TAS,196,Lyons,34053,St Helens PPVC,L,0,9998,Unapportioned,Liberal,562
 TAS,196,Lyons,34053,St Helens PPVC,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
 TAS,196,Lyons,34053,St Helens PPVC,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
 TAS,196,Lyons,34053,St Helens PPVC,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,196,Lyons,34053,St Helens PPVC,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,196,Lyons,34053,St Helens PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,196,Lyons,34053,St Helens PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,164
 TAS,196,Lyons,34053,St Helens PPVC,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,196,Lyons,34053,St Helens PPVC,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,196,Lyons,34053,St Helens PPVC,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,196,Lyons,34053,St Helens PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,0
-TAS,196,Lyons,34053,St Helens PPVC,UG,37794,1,"CROTHERS, Steve",Independent,0
-TAS,196,Lyons,34053,St Helens PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,196,Lyons,34053,St Helens PPVC,ZZ,0,99,INFORMAL,,0
+TAS,196,Lyons,34053,St Helens PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,3
+TAS,196,Lyons,34053,St Helens PPVC,UG,37794,1,"CROTHERS, Steve",Independent,3
+TAS,196,Lyons,34053,St Helens PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,1
+TAS,196,Lyons,34053,St Helens PPVC,ZZ,0,99,INFORMAL,,62
 TAS,196,Lyons,47795,Old Beach,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,47795,Old Beach,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,47795,Old Beach,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -4695,15 +4695,15 @@ TAS,196,Lyons,47795,Old Beach,ZZ,0,99,INFORMAL,,68
 TAS,196,Lyons,58627,Launceston LYONS PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,196,Lyons,58627,Launceston LYONS PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,196,Lyons,58627,Launceston LYONS PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,33
 TAS,196,Lyons,58627,Launceston LYONS PPVC,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,196,Lyons,58627,Launceston LYONS PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,196,Lyons,58627,Launceston LYONS PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,135
 TAS,196,Lyons,58627,Launceston LYONS PPVC,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,196,Lyons,58627,Launceston LYONS PPVC,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,196,Lyons,58627,Launceston LYONS PPVC,C,0,9998,Unapportioned,Animal Justice Party,38
 TAS,196,Lyons,58627,Launceston LYONS PPVC,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
@@ -4711,55 +4711,55 @@ TAS,196,Lyons,58627,Launceston LYONS PPVC,D,37085,3,"RAINBIRD, Kate",Australian 
 TAS,196,Lyons,58627,Launceston LYONS PPVC,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,196,Lyons,58627,Launceston LYONS PPVC,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,196,Lyons,58627,Launceston LYONS PPVC,D,0,9998,Unapportioned,Australian Labor Party,813
 TAS,196,Lyons,58627,Launceston LYONS PPVC,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,196,Lyons,58627,Launceston LYONS PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,196,Lyons,58627,Launceston LYONS PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,74
 TAS,196,Lyons,58627,Launceston LYONS PPVC,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,196,Lyons,58627,Launceston LYONS PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,196,Lyons,58627,Launceston LYONS PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",58
 TAS,196,Lyons,58627,Launceston LYONS PPVC,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,196,Lyons,58627,Launceston LYONS PPVC,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,196,Lyons,58627,Launceston LYONS PPVC,G,0,9998,Unapportioned,Australian Federation Party,2
 TAS,196,Lyons,58627,Launceston LYONS PPVC,H,37931,0,H Above-the-line Votes,The Local Party,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,196,Lyons,58627,Launceston LYONS PPVC,H,0,9998,Unapportioned,The Local Party,0
+TAS,196,Lyons,58627,Launceston LYONS PPVC,H,0,9998,Unapportioned,The Local Party,41
 TAS,196,Lyons,58627,Launceston LYONS PPVC,I,37938,0,I Above-the-line Votes,The Greens,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,196,Lyons,58627,Launceston LYONS PPVC,I,0,9998,Unapportioned,The Greens,0
+TAS,196,Lyons,58627,Launceston LYONS PPVC,I,0,9998,Unapportioned,The Greens,350
 TAS,196,Lyons,58627,Launceston LYONS PPVC,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,196,Lyons,58627,Launceston LYONS PPVC,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,196,Lyons,58627,Launceston LYONS PPVC,J,0,9998,Unapportioned,Liberal Democrats,64
 TAS,196,Lyons,58627,Launceston LYONS PPVC,K,37930,0,K Above-the-line Votes,United Australia Party,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,196,Lyons,58627,Launceston LYONS PPVC,K,0,9998,Unapportioned,United Australia Party,0
+TAS,196,Lyons,58627,Launceston LYONS PPVC,K,0,9998,Unapportioned,United Australia Party,52
 TAS,196,Lyons,58627,Launceston LYONS PPVC,L,37937,0,L Above-the-line Votes,Liberal,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,L,37124,1,"DUNIAM, Jonno",Liberal,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,L,37131,2,"ASKEW, Wendy",Liberal,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,196,Lyons,58627,Launceston LYONS PPVC,L,0,9998,Unapportioned,Liberal,0
+TAS,196,Lyons,58627,Launceston LYONS PPVC,L,0,9998,Unapportioned,Liberal,1513
 TAS,196,Lyons,58627,Launceston LYONS PPVC,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,196,Lyons,58627,Launceston LYONS PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,196,Lyons,58627,Launceston LYONS PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,358
 TAS,196,Lyons,58627,Launceston LYONS PPVC,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,196,Lyons,58627,Launceston LYONS PPVC,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,196,Lyons,58627,Launceston LYONS PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,0
-TAS,196,Lyons,58627,Launceston LYONS PPVC,UG,37794,1,"CROTHERS, Steve",Independent,0
-TAS,196,Lyons,58627,Launceston LYONS PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,196,Lyons,58627,Launceston LYONS PPVC,ZZ,0,99,INFORMAL,,0
+TAS,196,Lyons,58627,Launceston LYONS PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,10
+TAS,196,Lyons,58627,Launceston LYONS PPVC,UG,37794,1,"CROTHERS, Steve",Independent,4
+TAS,196,Lyons,58627,Launceston LYONS PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,1
+TAS,196,Lyons,58627,Launceston LYONS PPVC,ZZ,0,99,INFORMAL,,71
 TAS,196,Lyons,65607,EAV Lyons PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,65607,EAV Lyons PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,65607,EAV Lyons PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -4831,15 +4831,15 @@ TAS,196,Lyons,65607,EAV Lyons PPVC,ZZ,0,99,INFORMAL,,0
 TAS,196,Lyons,82774,Sorell PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,82774,Sorell PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,82774,Sorell PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,196,Lyons,82774,Sorell PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,196,Lyons,82774,Sorell PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,46
 TAS,196,Lyons,82774,Sorell PPVC,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
 TAS,196,Lyons,82774,Sorell PPVC,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,196,Lyons,82774,Sorell PPVC,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,196,Lyons,82774,Sorell PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,196,Lyons,82774,Sorell PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,211
 TAS,196,Lyons,82774,Sorell PPVC,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,196,Lyons,82774,Sorell PPVC,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,196,Lyons,82774,Sorell PPVC,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,196,Lyons,82774,Sorell PPVC,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,196,Lyons,82774,Sorell PPVC,C,0,9998,Unapportioned,Animal Justice Party,68
 TAS,196,Lyons,82774,Sorell PPVC,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
 TAS,196,Lyons,82774,Sorell PPVC,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
 TAS,196,Lyons,82774,Sorell PPVC,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
@@ -4847,67 +4847,67 @@ TAS,196,Lyons,82774,Sorell PPVC,D,37085,3,"RAINBIRD, Kate",Australian Labor Part
 TAS,196,Lyons,82774,Sorell PPVC,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,196,Lyons,82774,Sorell PPVC,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,196,Lyons,82774,Sorell PPVC,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,196,Lyons,82774,Sorell PPVC,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,196,Lyons,82774,Sorell PPVC,D,0,9998,Unapportioned,Australian Labor Party,1525
 TAS,196,Lyons,82774,Sorell PPVC,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
 TAS,196,Lyons,82774,Sorell PPVC,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,196,Lyons,82774,Sorell PPVC,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,196,Lyons,82774,Sorell PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,196,Lyons,82774,Sorell PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,111
 TAS,196,Lyons,82774,Sorell PPVC,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,82774,Sorell PPVC,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,82774,Sorell PPVC,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,82774,Sorell PPVC,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,196,Lyons,82774,Sorell PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,196,Lyons,82774,Sorell PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",132
 TAS,196,Lyons,82774,Sorell PPVC,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,196,Lyons,82774,Sorell PPVC,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,196,Lyons,82774,Sorell PPVC,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,196,Lyons,82774,Sorell PPVC,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,196,Lyons,82774,Sorell PPVC,G,0,9998,Unapportioned,Australian Federation Party,3
 TAS,196,Lyons,82774,Sorell PPVC,H,37931,0,H Above-the-line Votes,The Local Party,0
 TAS,196,Lyons,82774,Sorell PPVC,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,196,Lyons,82774,Sorell PPVC,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,196,Lyons,82774,Sorell PPVC,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,196,Lyons,82774,Sorell PPVC,H,0,9998,Unapportioned,The Local Party,0
+TAS,196,Lyons,82774,Sorell PPVC,H,0,9998,Unapportioned,The Local Party,56
 TAS,196,Lyons,82774,Sorell PPVC,I,37938,0,I Above-the-line Votes,The Greens,0
 TAS,196,Lyons,82774,Sorell PPVC,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
 TAS,196,Lyons,82774,Sorell PPVC,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,196,Lyons,82774,Sorell PPVC,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,196,Lyons,82774,Sorell PPVC,I,0,9998,Unapportioned,The Greens,0
+TAS,196,Lyons,82774,Sorell PPVC,I,0,9998,Unapportioned,The Greens,651
 TAS,196,Lyons,82774,Sorell PPVC,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
 TAS,196,Lyons,82774,Sorell PPVC,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,196,Lyons,82774,Sorell PPVC,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,196,Lyons,82774,Sorell PPVC,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,196,Lyons,82774,Sorell PPVC,J,0,9998,Unapportioned,Liberal Democrats,103
 TAS,196,Lyons,82774,Sorell PPVC,K,37930,0,K Above-the-line Votes,United Australia Party,0
 TAS,196,Lyons,82774,Sorell PPVC,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,196,Lyons,82774,Sorell PPVC,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,196,Lyons,82774,Sorell PPVC,K,0,9998,Unapportioned,United Australia Party,0
+TAS,196,Lyons,82774,Sorell PPVC,K,0,9998,Unapportioned,United Australia Party,85
 TAS,196,Lyons,82774,Sorell PPVC,L,37937,0,L Above-the-line Votes,Liberal,0
 TAS,196,Lyons,82774,Sorell PPVC,L,37124,1,"DUNIAM, Jonno",Liberal,0
 TAS,196,Lyons,82774,Sorell PPVC,L,37131,2,"ASKEW, Wendy",Liberal,0
 TAS,196,Lyons,82774,Sorell PPVC,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,196,Lyons,82774,Sorell PPVC,L,0,9998,Unapportioned,Liberal,0
+TAS,196,Lyons,82774,Sorell PPVC,L,0,9998,Unapportioned,Liberal,1565
 TAS,196,Lyons,82774,Sorell PPVC,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
 TAS,196,Lyons,82774,Sorell PPVC,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
 TAS,196,Lyons,82774,Sorell PPVC,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,196,Lyons,82774,Sorell PPVC,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,196,Lyons,82774,Sorell PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,196,Lyons,82774,Sorell PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,500
 TAS,196,Lyons,82774,Sorell PPVC,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,196,Lyons,82774,Sorell PPVC,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,196,Lyons,82774,Sorell PPVC,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,196,Lyons,82774,Sorell PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,0
-TAS,196,Lyons,82774,Sorell PPVC,UG,37794,1,"CROTHERS, Steve",Independent,0
-TAS,196,Lyons,82774,Sorell PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,196,Lyons,82774,Sorell PPVC,ZZ,0,99,INFORMAL,,0
+TAS,196,Lyons,82774,Sorell PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,7
+TAS,196,Lyons,82774,Sorell PPVC,UG,37794,1,"CROTHERS, Steve",Independent,1
+TAS,196,Lyons,82774,Sorell PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,1
+TAS,196,Lyons,82774,Sorell PPVC,ZZ,0,99,INFORMAL,,122
 TAS,196,Lyons,82850,Hobart LYONS PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,196,Lyons,82850,Hobart LYONS PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,196,Lyons,82850,Hobart LYONS PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,6
 TAS,196,Lyons,82850,Hobart LYONS PPVC,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,196,Lyons,82850,Hobart LYONS PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,196,Lyons,82850,Hobart LYONS PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,17
 TAS,196,Lyons,82850,Hobart LYONS PPVC,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,196,Lyons,82850,Hobart LYONS PPVC,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,196,Lyons,82850,Hobart LYONS PPVC,C,0,9998,Unapportioned,Animal Justice Party,7
 TAS,196,Lyons,82850,Hobart LYONS PPVC,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
@@ -4915,67 +4915,67 @@ TAS,196,Lyons,82850,Hobart LYONS PPVC,D,37085,3,"RAINBIRD, Kate",Australian Labo
 TAS,196,Lyons,82850,Hobart LYONS PPVC,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,196,Lyons,82850,Hobart LYONS PPVC,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,196,Lyons,82850,Hobart LYONS PPVC,D,0,9998,Unapportioned,Australian Labor Party,184
 TAS,196,Lyons,82850,Hobart LYONS PPVC,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,196,Lyons,82850,Hobart LYONS PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,196,Lyons,82850,Hobart LYONS PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,12
 TAS,196,Lyons,82850,Hobart LYONS PPVC,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,196,Lyons,82850,Hobart LYONS PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,196,Lyons,82850,Hobart LYONS PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",12
 TAS,196,Lyons,82850,Hobart LYONS PPVC,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,196,Lyons,82850,Hobart LYONS PPVC,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,196,Lyons,82850,Hobart LYONS PPVC,G,0,9998,Unapportioned,Australian Federation Party,2
 TAS,196,Lyons,82850,Hobart LYONS PPVC,H,37931,0,H Above-the-line Votes,The Local Party,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,196,Lyons,82850,Hobart LYONS PPVC,H,0,9998,Unapportioned,The Local Party,0
+TAS,196,Lyons,82850,Hobart LYONS PPVC,H,0,9998,Unapportioned,The Local Party,13
 TAS,196,Lyons,82850,Hobart LYONS PPVC,I,37938,0,I Above-the-line Votes,The Greens,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,196,Lyons,82850,Hobart LYONS PPVC,I,0,9998,Unapportioned,The Greens,0
+TAS,196,Lyons,82850,Hobart LYONS PPVC,I,0,9998,Unapportioned,The Greens,141
 TAS,196,Lyons,82850,Hobart LYONS PPVC,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,196,Lyons,82850,Hobart LYONS PPVC,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,196,Lyons,82850,Hobart LYONS PPVC,J,0,9998,Unapportioned,Liberal Democrats,11
 TAS,196,Lyons,82850,Hobart LYONS PPVC,K,37930,0,K Above-the-line Votes,United Australia Party,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,196,Lyons,82850,Hobart LYONS PPVC,K,0,9998,Unapportioned,United Australia Party,0
+TAS,196,Lyons,82850,Hobart LYONS PPVC,K,0,9998,Unapportioned,United Australia Party,5
 TAS,196,Lyons,82850,Hobart LYONS PPVC,L,37937,0,L Above-the-line Votes,Liberal,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,L,37124,1,"DUNIAM, Jonno",Liberal,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,L,37131,2,"ASKEW, Wendy",Liberal,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,196,Lyons,82850,Hobart LYONS PPVC,L,0,9998,Unapportioned,Liberal,0
+TAS,196,Lyons,82850,Hobart LYONS PPVC,L,0,9998,Unapportioned,Liberal,183
 TAS,196,Lyons,82850,Hobart LYONS PPVC,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,196,Lyons,82850,Hobart LYONS PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,196,Lyons,82850,Hobart LYONS PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,60
 TAS,196,Lyons,82850,Hobart LYONS PPVC,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,196,Lyons,82850,Hobart LYONS PPVC,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,196,Lyons,82850,Hobart LYONS PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,0
-TAS,196,Lyons,82850,Hobart LYONS PPVC,UG,37794,1,"CROTHERS, Steve",Independent,0
+TAS,196,Lyons,82850,Hobart LYONS PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,1
+TAS,196,Lyons,82850,Hobart LYONS PPVC,UG,37794,1,"CROTHERS, Steve",Independent,1
 TAS,196,Lyons,82850,Hobart LYONS PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,196,Lyons,82850,Hobart LYONS PPVC,ZZ,0,99,INFORMAL,,0
+TAS,196,Lyons,82850,Hobart LYONS PPVC,ZZ,0,99,INFORMAL,,18
 TAS,196,Lyons,83159,Devonport LYONS PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,196,Lyons,83159,Devonport LYONS PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,196,Lyons,83159,Devonport LYONS PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,5
 TAS,196,Lyons,83159,Devonport LYONS PPVC,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,196,Lyons,83159,Devonport LYONS PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,196,Lyons,83159,Devonport LYONS PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,55
 TAS,196,Lyons,83159,Devonport LYONS PPVC,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,196,Lyons,83159,Devonport LYONS PPVC,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,196,Lyons,83159,Devonport LYONS PPVC,C,0,9998,Unapportioned,Animal Justice Party,9
 TAS,196,Lyons,83159,Devonport LYONS PPVC,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
@@ -4983,67 +4983,67 @@ TAS,196,Lyons,83159,Devonport LYONS PPVC,D,37085,3,"RAINBIRD, Kate",Australian L
 TAS,196,Lyons,83159,Devonport LYONS PPVC,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,196,Lyons,83159,Devonport LYONS PPVC,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,196,Lyons,83159,Devonport LYONS PPVC,D,0,9998,Unapportioned,Australian Labor Party,136
 TAS,196,Lyons,83159,Devonport LYONS PPVC,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,196,Lyons,83159,Devonport LYONS PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,196,Lyons,83159,Devonport LYONS PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,17
 TAS,196,Lyons,83159,Devonport LYONS PPVC,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,196,Lyons,83159,Devonport LYONS PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,196,Lyons,83159,Devonport LYONS PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",21
 TAS,196,Lyons,83159,Devonport LYONS PPVC,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,196,Lyons,83159,Devonport LYONS PPVC,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,196,Lyons,83159,Devonport LYONS PPVC,G,0,9998,Unapportioned,Australian Federation Party,1
 TAS,196,Lyons,83159,Devonport LYONS PPVC,H,37931,0,H Above-the-line Votes,The Local Party,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,196,Lyons,83159,Devonport LYONS PPVC,H,0,9998,Unapportioned,The Local Party,0
+TAS,196,Lyons,83159,Devonport LYONS PPVC,H,0,9998,Unapportioned,The Local Party,6
 TAS,196,Lyons,83159,Devonport LYONS PPVC,I,37938,0,I Above-the-line Votes,The Greens,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,196,Lyons,83159,Devonport LYONS PPVC,I,0,9998,Unapportioned,The Greens,0
+TAS,196,Lyons,83159,Devonport LYONS PPVC,I,0,9998,Unapportioned,The Greens,81
 TAS,196,Lyons,83159,Devonport LYONS PPVC,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,196,Lyons,83159,Devonport LYONS PPVC,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,196,Lyons,83159,Devonport LYONS PPVC,J,0,9998,Unapportioned,Liberal Democrats,13
 TAS,196,Lyons,83159,Devonport LYONS PPVC,K,37930,0,K Above-the-line Votes,United Australia Party,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,196,Lyons,83159,Devonport LYONS PPVC,K,0,9998,Unapportioned,United Australia Party,0
+TAS,196,Lyons,83159,Devonport LYONS PPVC,K,0,9998,Unapportioned,United Australia Party,14
 TAS,196,Lyons,83159,Devonport LYONS PPVC,L,37937,0,L Above-the-line Votes,Liberal,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,L,37124,1,"DUNIAM, Jonno",Liberal,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,L,37131,2,"ASKEW, Wendy",Liberal,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,196,Lyons,83159,Devonport LYONS PPVC,L,0,9998,Unapportioned,Liberal,0
+TAS,196,Lyons,83159,Devonport LYONS PPVC,L,0,9998,Unapportioned,Liberal,212
 TAS,196,Lyons,83159,Devonport LYONS PPVC,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,196,Lyons,83159,Devonport LYONS PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,196,Lyons,83159,Devonport LYONS PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,76
 TAS,196,Lyons,83159,Devonport LYONS PPVC,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,196,Lyons,83159,Devonport LYONS PPVC,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,196,Lyons,83159,Devonport LYONS PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,0
-TAS,196,Lyons,83159,Devonport LYONS PPVC,UG,37794,1,"CROTHERS, Steve",Independent,0
+TAS,196,Lyons,83159,Devonport LYONS PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,8
+TAS,196,Lyons,83159,Devonport LYONS PPVC,UG,37794,1,"CROTHERS, Steve",Independent,1
 TAS,196,Lyons,83159,Devonport LYONS PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,196,Lyons,83159,Devonport LYONS PPVC,ZZ,0,99,INFORMAL,,0
+TAS,196,Lyons,83159,Devonport LYONS PPVC,ZZ,0,99,INFORMAL,,19
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,196,Lyons,83160,Glenorchy LYONS PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,196,Lyons,83160,Glenorchy LYONS PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,29
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,196,Lyons,83160,Glenorchy LYONS PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,196,Lyons,83160,Glenorchy LYONS PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,100
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,196,Lyons,83160,Glenorchy LYONS PPVC,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,196,Lyons,83160,Glenorchy LYONS PPVC,C,0,9998,Unapportioned,Animal Justice Party,31
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
@@ -5051,55 +5051,55 @@ TAS,196,Lyons,83160,Glenorchy LYONS PPVC,D,37085,3,"RAINBIRD, Kate",Australian L
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,196,Lyons,83160,Glenorchy LYONS PPVC,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,196,Lyons,83160,Glenorchy LYONS PPVC,D,0,9998,Unapportioned,Australian Labor Party,699
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,196,Lyons,83160,Glenorchy LYONS PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,196,Lyons,83160,Glenorchy LYONS PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,47
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,196,Lyons,83160,Glenorchy LYONS PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,196,Lyons,83160,Glenorchy LYONS PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",76
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,196,Lyons,83160,Glenorchy LYONS PPVC,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,196,Lyons,83160,Glenorchy LYONS PPVC,G,0,9998,Unapportioned,Australian Federation Party,7
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,H,37931,0,H Above-the-line Votes,The Local Party,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,196,Lyons,83160,Glenorchy LYONS PPVC,H,0,9998,Unapportioned,The Local Party,0
+TAS,196,Lyons,83160,Glenorchy LYONS PPVC,H,0,9998,Unapportioned,The Local Party,19
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,I,37938,0,I Above-the-line Votes,The Greens,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,196,Lyons,83160,Glenorchy LYONS PPVC,I,0,9998,Unapportioned,The Greens,0
+TAS,196,Lyons,83160,Glenorchy LYONS PPVC,I,0,9998,Unapportioned,The Greens,155
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,196,Lyons,83160,Glenorchy LYONS PPVC,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,196,Lyons,83160,Glenorchy LYONS PPVC,J,0,9998,Unapportioned,Liberal Democrats,43
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,K,37930,0,K Above-the-line Votes,United Australia Party,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,196,Lyons,83160,Glenorchy LYONS PPVC,K,0,9998,Unapportioned,United Australia Party,0
+TAS,196,Lyons,83160,Glenorchy LYONS PPVC,K,0,9998,Unapportioned,United Australia Party,44
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,L,37937,0,L Above-the-line Votes,Liberal,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,L,37124,1,"DUNIAM, Jonno",Liberal,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,L,37131,2,"ASKEW, Wendy",Liberal,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,196,Lyons,83160,Glenorchy LYONS PPVC,L,0,9998,Unapportioned,Liberal,0
+TAS,196,Lyons,83160,Glenorchy LYONS PPVC,L,0,9998,Unapportioned,Liberal,581
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,196,Lyons,83160,Glenorchy LYONS PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,196,Lyons,83160,Glenorchy LYONS PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,292
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,196,Lyons,83160,Glenorchy LYONS PPVC,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,196,Lyons,83160,Glenorchy LYONS PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,0
-TAS,196,Lyons,83160,Glenorchy LYONS PPVC,UG,37794,1,"CROTHERS, Steve",Independent,0
-TAS,196,Lyons,83160,Glenorchy LYONS PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,196,Lyons,83160,Glenorchy LYONS PPVC,ZZ,0,99,INFORMAL,,0
+TAS,196,Lyons,83160,Glenorchy LYONS PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,4
+TAS,196,Lyons,83160,Glenorchy LYONS PPVC,UG,37794,1,"CROTHERS, Steve",Independent,2
+TAS,196,Lyons,83160,Glenorchy LYONS PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,2
+TAS,196,Lyons,83160,Glenorchy LYONS PPVC,ZZ,0,99,INFORMAL,,67
 TAS,196,Lyons,83676,Carlton,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,83676,Carlton,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,196,Lyons,83676,Carlton,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0

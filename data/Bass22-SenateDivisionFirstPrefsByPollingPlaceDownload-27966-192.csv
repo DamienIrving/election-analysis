@@ -1,4 +1,4 @@
-2022 Federal Election Senate First Preferences By Polling Place for Division 192 [Please Note: These results are not final. Event:27966 Phase:PostElection Generated:2022-05-22T11:49:25 Cycle:6c9d3b19-37c4-4379-9a72-7a34850cb5be Created:2022-05-22T11:47:28 Environment:PROD Site:CANBERRA Server:VTR03 Version:10.9.9.0]
+2022 Federal Election Senate First Preferences By Polling Place for Division 192 [Please Note: These results are not final. Event:27966 Phase:PostElection Generated:2022-05-29T11:48:44 Cycle:913eee42-8c6d-4ac3-b2db-d457ca8748d7 Created:2022-05-29T11:46:50 Environment:PROD Site:CANBERRA Server:VTR03 Version:10.9.9.0]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlaceNm,Group,CandidateID,BallotPosition,CandidateDetails,PartyNm,OrdinaryVotes
 TAS,192,Bass,8288,Newnham,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,192,Bass,8288,Newnham,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -3403,15 +3403,15 @@ TAS,192,Bass,33084,Summerhill (Bass),ZZ,0,99,INFORMAL,,106
 TAS,192,Bass,33906,Launceston BASS PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,192,Bass,33906,Launceston BASS PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,192,Bass,33906,Launceston BASS PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,192,Bass,33906,Launceston BASS PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,192,Bass,33906,Launceston BASS PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,90
 TAS,192,Bass,33906,Launceston BASS PPVC,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
 TAS,192,Bass,33906,Launceston BASS PPVC,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,192,Bass,33906,Launceston BASS PPVC,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,192,Bass,33906,Launceston BASS PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,192,Bass,33906,Launceston BASS PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,555
 TAS,192,Bass,33906,Launceston BASS PPVC,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,192,Bass,33906,Launceston BASS PPVC,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,192,Bass,33906,Launceston BASS PPVC,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,192,Bass,33906,Launceston BASS PPVC,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,192,Bass,33906,Launceston BASS PPVC,C,0,9998,Unapportioned,Animal Justice Party,156
 TAS,192,Bass,33906,Launceston BASS PPVC,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
 TAS,192,Bass,33906,Launceston BASS PPVC,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
 TAS,192,Bass,33906,Launceston BASS PPVC,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
@@ -3419,55 +3419,55 @@ TAS,192,Bass,33906,Launceston BASS PPVC,D,37085,3,"RAINBIRD, Kate",Australian La
 TAS,192,Bass,33906,Launceston BASS PPVC,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,192,Bass,33906,Launceston BASS PPVC,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,192,Bass,33906,Launceston BASS PPVC,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,192,Bass,33906,Launceston BASS PPVC,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,192,Bass,33906,Launceston BASS PPVC,D,0,9998,Unapportioned,Australian Labor Party,4059
 TAS,192,Bass,33906,Launceston BASS PPVC,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
 TAS,192,Bass,33906,Launceston BASS PPVC,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,192,Bass,33906,Launceston BASS PPVC,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,192,Bass,33906,Launceston BASS PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,192,Bass,33906,Launceston BASS PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,402
 TAS,192,Bass,33906,Launceston BASS PPVC,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
 TAS,192,Bass,33906,Launceston BASS PPVC,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,192,Bass,33906,Launceston BASS PPVC,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,192,Bass,33906,Launceston BASS PPVC,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,192,Bass,33906,Launceston BASS PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,192,Bass,33906,Launceston BASS PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",184
 TAS,192,Bass,33906,Launceston BASS PPVC,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,192,Bass,33906,Launceston BASS PPVC,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,192,Bass,33906,Launceston BASS PPVC,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,192,Bass,33906,Launceston BASS PPVC,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,192,Bass,33906,Launceston BASS PPVC,G,0,9998,Unapportioned,Australian Federation Party,18
 TAS,192,Bass,33906,Launceston BASS PPVC,H,37931,0,H Above-the-line Votes,The Local Party,0
 TAS,192,Bass,33906,Launceston BASS PPVC,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,192,Bass,33906,Launceston BASS PPVC,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,192,Bass,33906,Launceston BASS PPVC,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,192,Bass,33906,Launceston BASS PPVC,H,0,9998,Unapportioned,The Local Party,0
+TAS,192,Bass,33906,Launceston BASS PPVC,H,0,9998,Unapportioned,The Local Party,88
 TAS,192,Bass,33906,Launceston BASS PPVC,I,37938,0,I Above-the-line Votes,The Greens,0
 TAS,192,Bass,33906,Launceston BASS PPVC,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
 TAS,192,Bass,33906,Launceston BASS PPVC,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,192,Bass,33906,Launceston BASS PPVC,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,192,Bass,33906,Launceston BASS PPVC,I,0,9998,Unapportioned,The Greens,0
+TAS,192,Bass,33906,Launceston BASS PPVC,I,0,9998,Unapportioned,The Greens,2916
 TAS,192,Bass,33906,Launceston BASS PPVC,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
 TAS,192,Bass,33906,Launceston BASS PPVC,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,192,Bass,33906,Launceston BASS PPVC,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,192,Bass,33906,Launceston BASS PPVC,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,192,Bass,33906,Launceston BASS PPVC,J,0,9998,Unapportioned,Liberal Democrats,294
 TAS,192,Bass,33906,Launceston BASS PPVC,K,37930,0,K Above-the-line Votes,United Australia Party,0
 TAS,192,Bass,33906,Launceston BASS PPVC,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,192,Bass,33906,Launceston BASS PPVC,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,192,Bass,33906,Launceston BASS PPVC,K,0,9998,Unapportioned,United Australia Party,0
+TAS,192,Bass,33906,Launceston BASS PPVC,K,0,9998,Unapportioned,United Australia Party,197
 TAS,192,Bass,33906,Launceston BASS PPVC,L,37937,0,L Above-the-line Votes,Liberal,0
 TAS,192,Bass,33906,Launceston BASS PPVC,L,37124,1,"DUNIAM, Jonno",Liberal,0
 TAS,192,Bass,33906,Launceston BASS PPVC,L,37131,2,"ASKEW, Wendy",Liberal,0
 TAS,192,Bass,33906,Launceston BASS PPVC,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,192,Bass,33906,Launceston BASS PPVC,L,0,9998,Unapportioned,Liberal,0
+TAS,192,Bass,33906,Launceston BASS PPVC,L,0,9998,Unapportioned,Liberal,5445
 TAS,192,Bass,33906,Launceston BASS PPVC,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
 TAS,192,Bass,33906,Launceston BASS PPVC,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
 TAS,192,Bass,33906,Launceston BASS PPVC,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,192,Bass,33906,Launceston BASS PPVC,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,192,Bass,33906,Launceston BASS PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,192,Bass,33906,Launceston BASS PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,1045
 TAS,192,Bass,33906,Launceston BASS PPVC,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,192,Bass,33906,Launceston BASS PPVC,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,192,Bass,33906,Launceston BASS PPVC,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,192,Bass,33906,Launceston BASS PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,0
-TAS,192,Bass,33906,Launceston BASS PPVC,UG,37794,1,"CROTHERS, Steve",Independent,0
-TAS,192,Bass,33906,Launceston BASS PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,192,Bass,33906,Launceston BASS PPVC,ZZ,0,99,INFORMAL,,0
+TAS,192,Bass,33906,Launceston BASS PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,43
+TAS,192,Bass,33906,Launceston BASS PPVC,UG,37794,1,"CROTHERS, Steve",Independent,17
+TAS,192,Bass,33906,Launceston BASS PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,19
+TAS,192,Bass,33906,Launceston BASS PPVC,ZZ,0,99,INFORMAL,,330
 TAS,192,Bass,65496,EAV Bass PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,192,Bass,65496,EAV Bass PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,192,Bass,65496,EAV Bass PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0

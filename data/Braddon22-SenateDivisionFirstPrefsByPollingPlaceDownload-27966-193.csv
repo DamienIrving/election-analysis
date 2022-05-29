@@ -1,4 +1,4 @@
-2022 Federal Election Senate First Preferences By Polling Place for Division 193 [Please Note: These results are not final. Event:27966 Phase:PostElection Generated:2022-05-22T11:49:25 Cycle:6c9d3b19-37c4-4379-9a72-7a34850cb5be Created:2022-05-22T11:47:28 Environment:PROD Site:CANBERRA Server:VTR03 Version:10.9.9.0]
+2022 Federal Election Senate First Preferences By Polling Place for Division 193 [Please Note: These results are not final. Event:27966 Phase:PostElection Generated:2022-05-29T11:48:45 Cycle:913eee42-8c6d-4ac3-b2db-d457ca8748d7 Created:2022-05-29T11:46:50 Environment:PROD Site:CANBERRA Server:VTR03 Version:10.9.9.0]
 StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlaceNm,Group,CandidateID,BallotPosition,CandidateDetails,PartyNm,OrdinaryVotes
 TAS,193,Braddon,8359,Acton,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,8359,Acton,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -544,74 +544,74 @@ TAS,193,Braddon,8371,Devonport Central,N,0,9998,Unapportioned,Informed Medical O
 TAS,193,Braddon,8371,Devonport Central,UG,37794,1,"CROTHERS, Steve",Independent,2
 TAS,193,Braddon,8371,Devonport Central,UG,36253,2,"EDWARDS, Fenella",Independent,0
 TAS,193,Braddon,8371,Devonport Central,ZZ,0,99,INFORMAL,,60
-TAS,193,Braddon,8372,East Devonport,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,193,Braddon,8372,East Devonport,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,193,Braddon,8372,East Devonport,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,193,Braddon,8372,East Devonport,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,20
-TAS,193,Braddon,8372,East Devonport,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
-TAS,193,Braddon,8372,East Devonport,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
-TAS,193,Braddon,8372,East Devonport,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,193,Braddon,8372,East Devonport,B,0,9998,Unapportioned,Pauline Hanson's One Nation,98
-TAS,193,Braddon,8372,East Devonport,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
-TAS,193,Braddon,8372,East Devonport,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
+TAS,193,Braddon,8372,East Devonport,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,19
+TAS,193,Braddon,8372,East Devonport,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,2
+TAS,193,Braddon,8372,East Devonport,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,3
+TAS,193,Braddon,8372,East Devonport,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,193,Braddon,8372,East Devonport,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,77
+TAS,193,Braddon,8372,East Devonport,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,23
+TAS,193,Braddon,8372,East Devonport,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,4
+TAS,193,Braddon,8372,East Devonport,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,193,Braddon,8372,East Devonport,C,37934,0,C Above-the-line Votes,Animal Justice Party,31
+TAS,193,Braddon,8372,East Devonport,C,36512,1,"DAVIS, Ivan",Animal Justice Party,2
 TAS,193,Braddon,8372,East Devonport,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,193,Braddon,8372,East Devonport,C,0,9998,Unapportioned,Animal Justice Party,26
-TAS,193,Braddon,8372,East Devonport,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
-TAS,193,Braddon,8372,East Devonport,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
-TAS,193,Braddon,8372,East Devonport,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
-TAS,193,Braddon,8372,East Devonport,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
-TAS,193,Braddon,8372,East Devonport,D,37103,4,"HULME, Daniel",Australian Labor Party,0
-TAS,193,Braddon,8372,East Devonport,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
-TAS,193,Braddon,8372,East Devonport,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,193,Braddon,8372,East Devonport,D,0,9998,Unapportioned,Australian Labor Party,471
-TAS,193,Braddon,8372,East Devonport,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
-TAS,193,Braddon,8372,East Devonport,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
-TAS,193,Braddon,8372,East Devonport,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,193,Braddon,8372,East Devonport,E,0,9998,Unapportioned,Legalise Cannabis Australia,82
-TAS,193,Braddon,8372,East Devonport,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
-TAS,193,Braddon,8372,East Devonport,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
+TAS,193,Braddon,8372,East Devonport,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,193,Braddon,8372,East Devonport,D,37940,0,D Above-the-line Votes,Australian Labor Party,417
+TAS,193,Braddon,8372,East Devonport,D,37063,1,"URQUHART, Anne",Australian Labor Party,50
+TAS,193,Braddon,8372,East Devonport,D,37079,2,"POLLEY, Helen",Australian Labor Party,5
+TAS,193,Braddon,8372,East Devonport,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,8
+TAS,193,Braddon,8372,East Devonport,D,37103,4,"HULME, Daniel",Australian Labor Party,3
+TAS,193,Braddon,8372,East Devonport,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,11
+TAS,193,Braddon,8372,East Devonport,D,37119,6,"GOURLAY, Chris",Australian Labor Party,4
+TAS,193,Braddon,8372,East Devonport,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,193,Braddon,8372,East Devonport,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,86
+TAS,193,Braddon,8372,East Devonport,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,7
+TAS,193,Braddon,8372,East Devonport,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,1
+TAS,193,Braddon,8372,East Devonport,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,193,Braddon,8372,East Devonport,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",29
+TAS,193,Braddon,8372,East Devonport,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",2
 TAS,193,Braddon,8372,East Devonport,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
-TAS,193,Braddon,8372,East Devonport,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,193,Braddon,8372,East Devonport,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",31
-TAS,193,Braddon,8372,East Devonport,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
-TAS,193,Braddon,8372,East Devonport,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
+TAS,193,Braddon,8372,East Devonport,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",1
+TAS,193,Braddon,8372,East Devonport,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,193,Braddon,8372,East Devonport,G,37943,0,G Above-the-line Votes,Australian Federation Party,3
+TAS,193,Braddon,8372,East Devonport,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,1
 TAS,193,Braddon,8372,East Devonport,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,193,Braddon,8372,East Devonport,G,0,9998,Unapportioned,Australian Federation Party,4
-TAS,193,Braddon,8372,East Devonport,H,37931,0,H Above-the-line Votes,The Local Party,0
-TAS,193,Braddon,8372,East Devonport,H,37054,1,"MINSHULL, Leanne",The Local Party,0
+TAS,193,Braddon,8372,East Devonport,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,193,Braddon,8372,East Devonport,H,37931,0,H Above-the-line Votes,The Local Party,10
+TAS,193,Braddon,8372,East Devonport,H,37054,1,"MINSHULL, Leanne",The Local Party,4
 TAS,193,Braddon,8372,East Devonport,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,193,Braddon,8372,East Devonport,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,193,Braddon,8372,East Devonport,H,0,9998,Unapportioned,The Local Party,13
-TAS,193,Braddon,8372,East Devonport,I,37938,0,I Above-the-line Votes,The Greens,0
-TAS,193,Braddon,8372,East Devonport,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
-TAS,193,Braddon,8372,East Devonport,I,37427,2,"BLEYER, Vanessa",The Greens,0
+TAS,193,Braddon,8372,East Devonport,H,0,9998,Unapportioned,The Local Party,0
+TAS,193,Braddon,8372,East Devonport,I,37938,0,I Above-the-line Votes,The Greens,80
+TAS,193,Braddon,8372,East Devonport,I,37423,1,"WHISH-WILSON, Peter",The Greens,16
+TAS,193,Braddon,8372,East Devonport,I,37427,2,"BLEYER, Vanessa",The Greens,2
 TAS,193,Braddon,8372,East Devonport,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,193,Braddon,8372,East Devonport,I,0,9998,Unapportioned,The Greens,93
-TAS,193,Braddon,8372,East Devonport,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
-TAS,193,Braddon,8372,East Devonport,J,37012,1,"FIELD, Topher",Liberal Democrats,0
+TAS,193,Braddon,8372,East Devonport,I,0,9998,Unapportioned,The Greens,0
+TAS,193,Braddon,8372,East Devonport,J,37935,0,J Above-the-line Votes,Liberal Democrats,32
+TAS,193,Braddon,8372,East Devonport,J,37012,1,"FIELD, Topher",Liberal Democrats,6
 TAS,193,Braddon,8372,East Devonport,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,193,Braddon,8372,East Devonport,J,0,9998,Unapportioned,Liberal Democrats,35
-TAS,193,Braddon,8372,East Devonport,K,37930,0,K Above-the-line Votes,United Australia Party,0
-TAS,193,Braddon,8372,East Devonport,K,36282,1,"ADAMS, Diana",United Australia Party,0
+TAS,193,Braddon,8372,East Devonport,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,193,Braddon,8372,East Devonport,K,37930,0,K Above-the-line Votes,United Australia Party,25
+TAS,193,Braddon,8372,East Devonport,K,36282,1,"ADAMS, Diana",United Australia Party,2
 TAS,193,Braddon,8372,East Devonport,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,193,Braddon,8372,East Devonport,K,0,9998,Unapportioned,United Australia Party,27
-TAS,193,Braddon,8372,East Devonport,L,37937,0,L Above-the-line Votes,Liberal,0
-TAS,193,Braddon,8372,East Devonport,L,37124,1,"DUNIAM, Jonno",Liberal,0
-TAS,193,Braddon,8372,East Devonport,L,37131,2,"ASKEW, Wendy",Liberal,0
-TAS,193,Braddon,8372,East Devonport,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,193,Braddon,8372,East Devonport,L,0,9998,Unapportioned,Liberal,565
-TAS,193,Braddon,8372,East Devonport,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
-TAS,193,Braddon,8372,East Devonport,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
-TAS,193,Braddon,8372,East Devonport,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
-TAS,193,Braddon,8372,East Devonport,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,193,Braddon,8372,East Devonport,M,0,9998,Unapportioned,Jacqui Lambie Network,221
-TAS,193,Braddon,8372,East Devonport,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
-TAS,193,Braddon,8372,East Devonport,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
+TAS,193,Braddon,8372,East Devonport,K,0,9998,Unapportioned,United Australia Party,0
+TAS,193,Braddon,8372,East Devonport,L,37937,0,L Above-the-line Votes,Liberal,494
+TAS,193,Braddon,8372,East Devonport,L,37124,1,"DUNIAM, Jonno",Liberal,27
+TAS,193,Braddon,8372,East Devonport,L,37131,2,"ASKEW, Wendy",Liberal,5
+TAS,193,Braddon,8372,East Devonport,L,37132,3,"ABETZ, Eric",Liberal,65
+TAS,193,Braddon,8372,East Devonport,L,0,9998,Unapportioned,Liberal,0
+TAS,193,Braddon,8372,East Devonport,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,194
+TAS,193,Braddon,8372,East Devonport,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,23
+TAS,193,Braddon,8372,East Devonport,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,1
+TAS,193,Braddon,8372,East Devonport,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,8
+TAS,193,Braddon,8372,East Devonport,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,193,Braddon,8372,East Devonport,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,3
+TAS,193,Braddon,8372,East Devonport,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,1
 TAS,193,Braddon,8372,East Devonport,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,193,Braddon,8372,East Devonport,N,0,9998,Unapportioned,Informed Medical Options Party,4
-TAS,193,Braddon,8372,East Devonport,UG,37794,1,"CROTHERS, Steve",Independent,1
+TAS,193,Braddon,8372,East Devonport,N,0,9998,Unapportioned,Informed Medical Options Party,0
+TAS,193,Braddon,8372,East Devonport,UG,37794,1,"CROTHERS, Steve",Independent,2
 TAS,193,Braddon,8372,East Devonport,UG,36253,2,"EDWARDS, Fenella",Independent,1
-TAS,193,Braddon,8372,East Devonport,ZZ,0,99,INFORMAL,,237
+TAS,193,Braddon,8372,East Devonport,ZZ,0,99,INFORMAL,,141
 TAS,193,Braddon,8375,Don,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,8375,Don,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,8375,Don,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -1836,86 +1836,86 @@ TAS,193,Braddon,8402,North Motton,N,0,9998,Unapportioned,Informed Medical Option
 TAS,193,Braddon,8402,North Motton,UG,37794,1,"CROTHERS, Steve",Independent,2
 TAS,193,Braddon,8402,North Motton,UG,36253,2,"EDWARDS, Fenella",Independent,0
 TAS,193,Braddon,8402,North Motton,ZZ,0,99,INFORMAL,,22
-TAS,193,Braddon,8404,Penguin,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,193,Braddon,8404,Penguin,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,193,Braddon,8404,Penguin,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,193,Braddon,8404,Penguin,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,12
-TAS,193,Braddon,8404,Penguin,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
-TAS,193,Braddon,8404,Penguin,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
-TAS,193,Braddon,8404,Penguin,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,193,Braddon,8404,Penguin,B,0,9998,Unapportioned,Pauline Hanson's One Nation,63
-TAS,193,Braddon,8404,Penguin,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
-TAS,193,Braddon,8404,Penguin,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
+TAS,193,Braddon,8404,Penguin,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,5
+TAS,193,Braddon,8404,Penguin,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,4
+TAS,193,Braddon,8404,Penguin,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,2
+TAS,193,Braddon,8404,Penguin,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,193,Braddon,8404,Penguin,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,58
+TAS,193,Braddon,8404,Penguin,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,11
+TAS,193,Braddon,8404,Penguin,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,1
+TAS,193,Braddon,8404,Penguin,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,193,Braddon,8404,Penguin,C,37934,0,C Above-the-line Votes,Animal Justice Party,13
+TAS,193,Braddon,8404,Penguin,C,36512,1,"DAVIS, Ivan",Animal Justice Party,1
 TAS,193,Braddon,8404,Penguin,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,193,Braddon,8404,Penguin,C,0,9998,Unapportioned,Animal Justice Party,15
-TAS,193,Braddon,8404,Penguin,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
-TAS,193,Braddon,8404,Penguin,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
-TAS,193,Braddon,8404,Penguin,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
-TAS,193,Braddon,8404,Penguin,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
+TAS,193,Braddon,8404,Penguin,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,193,Braddon,8404,Penguin,D,37940,0,D Above-the-line Votes,Australian Labor Party,243
+TAS,193,Braddon,8404,Penguin,D,37063,1,"URQUHART, Anne",Australian Labor Party,28
+TAS,193,Braddon,8404,Penguin,D,37079,2,"POLLEY, Helen",Australian Labor Party,3
+TAS,193,Braddon,8404,Penguin,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,3
 TAS,193,Braddon,8404,Penguin,D,37103,4,"HULME, Daniel",Australian Labor Party,0
-TAS,193,Braddon,8404,Penguin,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
-TAS,193,Braddon,8404,Penguin,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,193,Braddon,8404,Penguin,D,0,9998,Unapportioned,Australian Labor Party,272
-TAS,193,Braddon,8404,Penguin,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
-TAS,193,Braddon,8404,Penguin,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
-TAS,193,Braddon,8404,Penguin,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,193,Braddon,8404,Penguin,E,0,9998,Unapportioned,Legalise Cannabis Australia,41
-TAS,193,Braddon,8404,Penguin,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
-TAS,193,Braddon,8404,Penguin,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
+TAS,193,Braddon,8404,Penguin,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,1
+TAS,193,Braddon,8404,Penguin,D,37119,6,"GOURLAY, Chris",Australian Labor Party,3
+TAS,193,Braddon,8404,Penguin,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,193,Braddon,8404,Penguin,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,37
+TAS,193,Braddon,8404,Penguin,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,4
+TAS,193,Braddon,8404,Penguin,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,1
+TAS,193,Braddon,8404,Penguin,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,193,Braddon,8404,Penguin,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",32
+TAS,193,Braddon,8404,Penguin,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",6
 TAS,193,Braddon,8404,Penguin,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,193,Braddon,8404,Penguin,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,193,Braddon,8404,Penguin,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",38
-TAS,193,Braddon,8404,Penguin,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
+TAS,193,Braddon,8404,Penguin,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,193,Braddon,8404,Penguin,G,37943,0,G Above-the-line Votes,Australian Federation Party,1
 TAS,193,Braddon,8404,Penguin,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,193,Braddon,8404,Penguin,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,193,Braddon,8404,Penguin,G,0,9998,Unapportioned,Australian Federation Party,1
-TAS,193,Braddon,8404,Penguin,H,37931,0,H Above-the-line Votes,The Local Party,0
-TAS,193,Braddon,8404,Penguin,H,37054,1,"MINSHULL, Leanne",The Local Party,0
+TAS,193,Braddon,8404,Penguin,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,193,Braddon,8404,Penguin,H,37931,0,H Above-the-line Votes,The Local Party,8
+TAS,193,Braddon,8404,Penguin,H,37054,1,"MINSHULL, Leanne",The Local Party,1
 TAS,193,Braddon,8404,Penguin,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,193,Braddon,8404,Penguin,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,193,Braddon,8404,Penguin,H,0,9998,Unapportioned,The Local Party,8
-TAS,193,Braddon,8404,Penguin,I,37938,0,I Above-the-line Votes,The Greens,0
-TAS,193,Braddon,8404,Penguin,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
+TAS,193,Braddon,8404,Penguin,H,0,9998,Unapportioned,The Local Party,0
+TAS,193,Braddon,8404,Penguin,I,37938,0,I Above-the-line Votes,The Greens,122
+TAS,193,Braddon,8404,Penguin,I,37423,1,"WHISH-WILSON, Peter",The Greens,57
 TAS,193,Braddon,8404,Penguin,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,193,Braddon,8404,Penguin,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,193,Braddon,8404,Penguin,I,0,9998,Unapportioned,The Greens,178
-TAS,193,Braddon,8404,Penguin,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
-TAS,193,Braddon,8404,Penguin,J,37012,1,"FIELD, Topher",Liberal Democrats,0
+TAS,193,Braddon,8404,Penguin,I,0,9998,Unapportioned,The Greens,0
+TAS,193,Braddon,8404,Penguin,J,37935,0,J Above-the-line Votes,Liberal Democrats,23
+TAS,193,Braddon,8404,Penguin,J,37012,1,"FIELD, Topher",Liberal Democrats,2
 TAS,193,Braddon,8404,Penguin,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,193,Braddon,8404,Penguin,J,0,9998,Unapportioned,Liberal Democrats,24
-TAS,193,Braddon,8404,Penguin,K,37930,0,K Above-the-line Votes,United Australia Party,0
-TAS,193,Braddon,8404,Penguin,K,36282,1,"ADAMS, Diana",United Australia Party,0
+TAS,193,Braddon,8404,Penguin,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,193,Braddon,8404,Penguin,K,37930,0,K Above-the-line Votes,United Australia Party,19
+TAS,193,Braddon,8404,Penguin,K,36282,1,"ADAMS, Diana",United Australia Party,4
 TAS,193,Braddon,8404,Penguin,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,193,Braddon,8404,Penguin,K,0,9998,Unapportioned,United Australia Party,23
-TAS,193,Braddon,8404,Penguin,L,37937,0,L Above-the-line Votes,Liberal,0
-TAS,193,Braddon,8404,Penguin,L,37124,1,"DUNIAM, Jonno",Liberal,0
-TAS,193,Braddon,8404,Penguin,L,37131,2,"ASKEW, Wendy",Liberal,0
-TAS,193,Braddon,8404,Penguin,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,193,Braddon,8404,Penguin,L,0,9998,Unapportioned,Liberal,499
-TAS,193,Braddon,8404,Penguin,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
-TAS,193,Braddon,8404,Penguin,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
-TAS,193,Braddon,8404,Penguin,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
-TAS,193,Braddon,8404,Penguin,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,193,Braddon,8404,Penguin,M,0,9998,Unapportioned,Jacqui Lambie Network,182
-TAS,193,Braddon,8404,Penguin,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
-TAS,193,Braddon,8404,Penguin,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
+TAS,193,Braddon,8404,Penguin,K,0,9998,Unapportioned,United Australia Party,0
+TAS,193,Braddon,8404,Penguin,L,37937,0,L Above-the-line Votes,Liberal,433
+TAS,193,Braddon,8404,Penguin,L,37124,1,"DUNIAM, Jonno",Liberal,22
+TAS,193,Braddon,8404,Penguin,L,37131,2,"ASKEW, Wendy",Liberal,6
+TAS,193,Braddon,8404,Penguin,L,37132,3,"ABETZ, Eric",Liberal,54
+TAS,193,Braddon,8404,Penguin,L,0,9998,Unapportioned,Liberal,0
+TAS,193,Braddon,8404,Penguin,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,140
+TAS,193,Braddon,8404,Penguin,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,37
+TAS,193,Braddon,8404,Penguin,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,1
+TAS,193,Braddon,8404,Penguin,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,6
+TAS,193,Braddon,8404,Penguin,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,193,Braddon,8404,Penguin,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,2
+TAS,193,Braddon,8404,Penguin,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,2
 TAS,193,Braddon,8404,Penguin,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,193,Braddon,8404,Penguin,N,0,9998,Unapportioned,Informed Medical Options Party,4
+TAS,193,Braddon,8404,Penguin,N,0,9998,Unapportioned,Informed Medical Options Party,0
 TAS,193,Braddon,8404,Penguin,UG,37794,1,"CROTHERS, Steve",Independent,0
 TAS,193,Braddon,8404,Penguin,UG,36253,2,"EDWARDS, Fenella",Independent,3
-TAS,193,Braddon,8404,Penguin,ZZ,0,99,INFORMAL,,80
+TAS,193,Braddon,8404,Penguin,ZZ,0,99,INFORMAL,,44
 TAS,193,Braddon,8406,Preston,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,8406,Preston,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,8406,Preston,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,193,Braddon,8406,Preston,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,193,Braddon,8406,Preston,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,1
 TAS,193,Braddon,8406,Preston,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
 TAS,193,Braddon,8406,Preston,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,193,Braddon,8406,Preston,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,193,Braddon,8406,Preston,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,193,Braddon,8406,Preston,B,0,9998,Unapportioned,Pauline Hanson's One Nation,11
 TAS,193,Braddon,8406,Preston,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,193,Braddon,8406,Preston,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,193,Braddon,8406,Preston,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,193,Braddon,8406,Preston,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,193,Braddon,8406,Preston,C,0,9998,Unapportioned,Animal Justice Party,1
 TAS,193,Braddon,8406,Preston,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
 TAS,193,Braddon,8406,Preston,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
 TAS,193,Braddon,8406,Preston,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
@@ -1923,55 +1923,55 @@ TAS,193,Braddon,8406,Preston,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
 TAS,193,Braddon,8406,Preston,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,193,Braddon,8406,Preston,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,193,Braddon,8406,Preston,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,193,Braddon,8406,Preston,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,193,Braddon,8406,Preston,D,0,9998,Unapportioned,Australian Labor Party,21
 TAS,193,Braddon,8406,Preston,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
 TAS,193,Braddon,8406,Preston,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,193,Braddon,8406,Preston,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,193,Braddon,8406,Preston,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,193,Braddon,8406,Preston,E,0,9998,Unapportioned,Legalise Cannabis Australia,2
 TAS,193,Braddon,8406,Preston,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
 TAS,193,Braddon,8406,Preston,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,193,Braddon,8406,Preston,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,193,Braddon,8406,Preston,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,193,Braddon,8406,Preston,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,193,Braddon,8406,Preston,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",3
 TAS,193,Braddon,8406,Preston,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,193,Braddon,8406,Preston,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,193,Braddon,8406,Preston,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,193,Braddon,8406,Preston,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,193,Braddon,8406,Preston,G,0,9998,Unapportioned,Australian Federation Party,3
 TAS,193,Braddon,8406,Preston,H,37931,0,H Above-the-line Votes,The Local Party,0
 TAS,193,Braddon,8406,Preston,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,193,Braddon,8406,Preston,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,193,Braddon,8406,Preston,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,193,Braddon,8406,Preston,H,0,9998,Unapportioned,The Local Party,0
+TAS,193,Braddon,8406,Preston,H,0,9998,Unapportioned,The Local Party,2
 TAS,193,Braddon,8406,Preston,I,37938,0,I Above-the-line Votes,The Greens,0
 TAS,193,Braddon,8406,Preston,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
 TAS,193,Braddon,8406,Preston,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,193,Braddon,8406,Preston,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,193,Braddon,8406,Preston,I,0,9998,Unapportioned,The Greens,0
+TAS,193,Braddon,8406,Preston,I,0,9998,Unapportioned,The Greens,7
 TAS,193,Braddon,8406,Preston,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
 TAS,193,Braddon,8406,Preston,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,193,Braddon,8406,Preston,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,193,Braddon,8406,Preston,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,193,Braddon,8406,Preston,J,0,9998,Unapportioned,Liberal Democrats,7
 TAS,193,Braddon,8406,Preston,K,37930,0,K Above-the-line Votes,United Australia Party,0
 TAS,193,Braddon,8406,Preston,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,193,Braddon,8406,Preston,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,193,Braddon,8406,Preston,K,0,9998,Unapportioned,United Australia Party,0
+TAS,193,Braddon,8406,Preston,K,0,9998,Unapportioned,United Australia Party,2
 TAS,193,Braddon,8406,Preston,L,37937,0,L Above-the-line Votes,Liberal,0
 TAS,193,Braddon,8406,Preston,L,37124,1,"DUNIAM, Jonno",Liberal,0
 TAS,193,Braddon,8406,Preston,L,37131,2,"ASKEW, Wendy",Liberal,0
 TAS,193,Braddon,8406,Preston,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,193,Braddon,8406,Preston,L,0,9998,Unapportioned,Liberal,0
+TAS,193,Braddon,8406,Preston,L,0,9998,Unapportioned,Liberal,39
 TAS,193,Braddon,8406,Preston,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
 TAS,193,Braddon,8406,Preston,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
 TAS,193,Braddon,8406,Preston,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,193,Braddon,8406,Preston,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,193,Braddon,8406,Preston,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,193,Braddon,8406,Preston,M,0,9998,Unapportioned,Jacqui Lambie Network,13
 TAS,193,Braddon,8406,Preston,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,193,Braddon,8406,Preston,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,193,Braddon,8406,Preston,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
 TAS,193,Braddon,8406,Preston,N,0,9998,Unapportioned,Informed Medical Options Party,0
 TAS,193,Braddon,8406,Preston,UG,37794,1,"CROTHERS, Steve",Independent,0
 TAS,193,Braddon,8406,Preston,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,193,Braddon,8406,Preston,ZZ,0,99,INFORMAL,,0
+TAS,193,Braddon,8406,Preston,ZZ,0,99,INFORMAL,,10
 TAS,193,Braddon,8409,Riana,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,8409,Riana,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,8409,Riana,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -3400,74 +3400,74 @@ TAS,193,Braddon,8434,Wivenhoe,N,0,9998,Unapportioned,Informed Medical Options Pa
 TAS,193,Braddon,8434,Wivenhoe,UG,37794,1,"CROTHERS, Steve",Independent,0
 TAS,193,Braddon,8434,Wivenhoe,UG,36253,2,"EDWARDS, Fenella",Independent,0
 TAS,193,Braddon,8434,Wivenhoe,ZZ,0,99,INFORMAL,,48
-TAS,193,Braddon,8435,Wynyard Central,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,193,Braddon,8435,Wynyard Central,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,193,Braddon,8435,Wynyard Central,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,9
+TAS,193,Braddon,8435,Wynyard Central,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,6
 TAS,193,Braddon,8435,Wynyard Central,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,193,Braddon,8435,Wynyard Central,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,17
-TAS,193,Braddon,8435,Wynyard Central,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
-TAS,193,Braddon,8435,Wynyard Central,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
-TAS,193,Braddon,8435,Wynyard Central,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,193,Braddon,8435,Wynyard Central,B,0,9998,Unapportioned,Pauline Hanson's One Nation,55
-TAS,193,Braddon,8435,Wynyard Central,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
-TAS,193,Braddon,8435,Wynyard Central,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
-TAS,193,Braddon,8435,Wynyard Central,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,193,Braddon,8435,Wynyard Central,C,0,9998,Unapportioned,Animal Justice Party,22
-TAS,193,Braddon,8435,Wynyard Central,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
-TAS,193,Braddon,8435,Wynyard Central,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
-TAS,193,Braddon,8435,Wynyard Central,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
-TAS,193,Braddon,8435,Wynyard Central,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
-TAS,193,Braddon,8435,Wynyard Central,D,37103,4,"HULME, Daniel",Australian Labor Party,0
+TAS,193,Braddon,8435,Wynyard Central,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,193,Braddon,8435,Wynyard Central,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,42
+TAS,193,Braddon,8435,Wynyard Central,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,19
+TAS,193,Braddon,8435,Wynyard Central,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,1
+TAS,193,Braddon,8435,Wynyard Central,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,193,Braddon,8435,Wynyard Central,C,37934,0,C Above-the-line Votes,Animal Justice Party,20
+TAS,193,Braddon,8435,Wynyard Central,C,36512,1,"DAVIS, Ivan",Animal Justice Party,2
+TAS,193,Braddon,8435,Wynyard Central,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,1
+TAS,193,Braddon,8435,Wynyard Central,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,193,Braddon,8435,Wynyard Central,D,37940,0,D Above-the-line Votes,Australian Labor Party,327
+TAS,193,Braddon,8435,Wynyard Central,D,37063,1,"URQUHART, Anne",Australian Labor Party,43
+TAS,193,Braddon,8435,Wynyard Central,D,37079,2,"POLLEY, Helen",Australian Labor Party,2
+TAS,193,Braddon,8435,Wynyard Central,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,5
+TAS,193,Braddon,8435,Wynyard Central,D,37103,4,"HULME, Daniel",Australian Labor Party,2
 TAS,193,Braddon,8435,Wynyard Central,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
-TAS,193,Braddon,8435,Wynyard Central,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,193,Braddon,8435,Wynyard Central,D,0,9998,Unapportioned,Australian Labor Party,364
-TAS,193,Braddon,8435,Wynyard Central,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
-TAS,193,Braddon,8435,Wynyard Central,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
+TAS,193,Braddon,8435,Wynyard Central,D,37119,6,"GOURLAY, Chris",Australian Labor Party,1
+TAS,193,Braddon,8435,Wynyard Central,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,193,Braddon,8435,Wynyard Central,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,50
+TAS,193,Braddon,8435,Wynyard Central,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,3
 TAS,193,Braddon,8435,Wynyard Central,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,193,Braddon,8435,Wynyard Central,E,0,9998,Unapportioned,Legalise Cannabis Australia,50
-TAS,193,Braddon,8435,Wynyard Central,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
-TAS,193,Braddon,8435,Wynyard Central,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
+TAS,193,Braddon,8435,Wynyard Central,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,193,Braddon,8435,Wynyard Central,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",24
+TAS,193,Braddon,8435,Wynyard Central,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",1
 TAS,193,Braddon,8435,Wynyard Central,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,193,Braddon,8435,Wynyard Central,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,193,Braddon,8435,Wynyard Central,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",25
-TAS,193,Braddon,8435,Wynyard Central,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
-TAS,193,Braddon,8435,Wynyard Central,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
+TAS,193,Braddon,8435,Wynyard Central,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,193,Braddon,8435,Wynyard Central,G,37943,0,G Above-the-line Votes,Australian Federation Party,2
+TAS,193,Braddon,8435,Wynyard Central,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,3
 TAS,193,Braddon,8435,Wynyard Central,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,193,Braddon,8435,Wynyard Central,G,0,9998,Unapportioned,Australian Federation Party,6
-TAS,193,Braddon,8435,Wynyard Central,H,37931,0,H Above-the-line Votes,The Local Party,0
-TAS,193,Braddon,8435,Wynyard Central,H,37054,1,"MINSHULL, Leanne",The Local Party,0
-TAS,193,Braddon,8435,Wynyard Central,H,37062,2,"POULTON, Linda",The Local Party,0
-TAS,193,Braddon,8435,Wynyard Central,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,193,Braddon,8435,Wynyard Central,H,0,9998,Unapportioned,The Local Party,37
-TAS,193,Braddon,8435,Wynyard Central,I,37938,0,I Above-the-line Votes,The Greens,0
-TAS,193,Braddon,8435,Wynyard Central,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
-TAS,193,Braddon,8435,Wynyard Central,I,37427,2,"BLEYER, Vanessa",The Greens,0
-TAS,193,Braddon,8435,Wynyard Central,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,193,Braddon,8435,Wynyard Central,I,0,9998,Unapportioned,The Greens,95
-TAS,193,Braddon,8435,Wynyard Central,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
-TAS,193,Braddon,8435,Wynyard Central,J,37012,1,"FIELD, Topher",Liberal Democrats,0
+TAS,193,Braddon,8435,Wynyard Central,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,193,Braddon,8435,Wynyard Central,H,37931,0,H Above-the-line Votes,The Local Party,24
+TAS,193,Braddon,8435,Wynyard Central,H,37054,1,"MINSHULL, Leanne",The Local Party,8
+TAS,193,Braddon,8435,Wynyard Central,H,37062,2,"POULTON, Linda",The Local Party,2
+TAS,193,Braddon,8435,Wynyard Central,H,37066,3,"VAN RAAY, Lara",The Local Party,2
+TAS,193,Braddon,8435,Wynyard Central,H,0,9998,Unapportioned,The Local Party,0
+TAS,193,Braddon,8435,Wynyard Central,I,37938,0,I Above-the-line Votes,The Greens,70
+TAS,193,Braddon,8435,Wynyard Central,I,37423,1,"WHISH-WILSON, Peter",The Greens,24
+TAS,193,Braddon,8435,Wynyard Central,I,37427,2,"BLEYER, Vanessa",The Greens,1
+TAS,193,Braddon,8435,Wynyard Central,I,37431,3,"BADGER, Tabatha",The Greens,1
+TAS,193,Braddon,8435,Wynyard Central,I,0,9998,Unapportioned,The Greens,0
+TAS,193,Braddon,8435,Wynyard Central,J,37935,0,J Above-the-line Votes,Liberal Democrats,34
+TAS,193,Braddon,8435,Wynyard Central,J,37012,1,"FIELD, Topher",Liberal Democrats,3
 TAS,193,Braddon,8435,Wynyard Central,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,193,Braddon,8435,Wynyard Central,J,0,9998,Unapportioned,Liberal Democrats,30
-TAS,193,Braddon,8435,Wynyard Central,K,37930,0,K Above-the-line Votes,United Australia Party,0
-TAS,193,Braddon,8435,Wynyard Central,K,36282,1,"ADAMS, Diana",United Australia Party,0
-TAS,193,Braddon,8435,Wynyard Central,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,193,Braddon,8435,Wynyard Central,K,0,9998,Unapportioned,United Australia Party,23
-TAS,193,Braddon,8435,Wynyard Central,L,37937,0,L Above-the-line Votes,Liberal,0
-TAS,193,Braddon,8435,Wynyard Central,L,37124,1,"DUNIAM, Jonno",Liberal,0
-TAS,193,Braddon,8435,Wynyard Central,L,37131,2,"ASKEW, Wendy",Liberal,0
-TAS,193,Braddon,8435,Wynyard Central,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,193,Braddon,8435,Wynyard Central,L,0,9998,Unapportioned,Liberal,510
-TAS,193,Braddon,8435,Wynyard Central,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
-TAS,193,Braddon,8435,Wynyard Central,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
+TAS,193,Braddon,8435,Wynyard Central,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,193,Braddon,8435,Wynyard Central,K,37930,0,K Above-the-line Votes,United Australia Party,19
+TAS,193,Braddon,8435,Wynyard Central,K,36282,1,"ADAMS, Diana",United Australia Party,4
+TAS,193,Braddon,8435,Wynyard Central,K,36293,2,"HENNESSY, Alan",United Australia Party,1
+TAS,193,Braddon,8435,Wynyard Central,K,0,9998,Unapportioned,United Australia Party,0
+TAS,193,Braddon,8435,Wynyard Central,L,37937,0,L Above-the-line Votes,Liberal,448
+TAS,193,Braddon,8435,Wynyard Central,L,37124,1,"DUNIAM, Jonno",Liberal,37
+TAS,193,Braddon,8435,Wynyard Central,L,37131,2,"ASKEW, Wendy",Liberal,2
+TAS,193,Braddon,8435,Wynyard Central,L,37132,3,"ABETZ, Eric",Liberal,35
+TAS,193,Braddon,8435,Wynyard Central,L,0,9998,Unapportioned,Liberal,0
+TAS,193,Braddon,8435,Wynyard Central,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,134
+TAS,193,Braddon,8435,Wynyard Central,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,20
 TAS,193,Braddon,8435,Wynyard Central,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
-TAS,193,Braddon,8435,Wynyard Central,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,193,Braddon,8435,Wynyard Central,M,0,9998,Unapportioned,Jacqui Lambie Network,156
-TAS,193,Braddon,8435,Wynyard Central,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
-TAS,193,Braddon,8435,Wynyard Central,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
+TAS,193,Braddon,8435,Wynyard Central,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,7
+TAS,193,Braddon,8435,Wynyard Central,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,193,Braddon,8435,Wynyard Central,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,7
+TAS,193,Braddon,8435,Wynyard Central,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,3
 TAS,193,Braddon,8435,Wynyard Central,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,193,Braddon,8435,Wynyard Central,N,0,9998,Unapportioned,Informed Medical Options Party,10
+TAS,193,Braddon,8435,Wynyard Central,N,0,9998,Unapportioned,Informed Medical Options Party,0
 TAS,193,Braddon,8435,Wynyard Central,UG,37794,1,"CROTHERS, Steve",Independent,2
 TAS,193,Braddon,8435,Wynyard Central,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,193,Braddon,8435,Wynyard Central,ZZ,0,99,INFORMAL,,131
+TAS,193,Braddon,8435,Wynyard Central,ZZ,0,99,INFORMAL,,80
 TAS,193,Braddon,8437,Yolla,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,8437,Yolla,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,8437,Yolla,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -4012,74 +4012,74 @@ TAS,193,Braddon,8673,Strahan,N,0,9998,Unapportioned,Informed Medical Options Par
 TAS,193,Braddon,8673,Strahan,UG,37794,1,"CROTHERS, Steve",Independent,0
 TAS,193,Braddon,8673,Strahan,UG,36253,2,"EDWARDS, Fenella",Independent,0
 TAS,193,Braddon,8673,Strahan,ZZ,0,99,INFORMAL,,26
-TAS,193,Braddon,8679,Tullah,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,193,Braddon,8679,Tullah,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,1
 TAS,193,Braddon,8679,Tullah,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,8679,Tullah,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,193,Braddon,8679,Tullah,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,1
-TAS,193,Braddon,8679,Tullah,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
+TAS,193,Braddon,8679,Tullah,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,193,Braddon,8679,Tullah,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,5
 TAS,193,Braddon,8679,Tullah,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,193,Braddon,8679,Tullah,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,193,Braddon,8679,Tullah,B,0,9998,Unapportioned,Pauline Hanson's One Nation,5
+TAS,193,Braddon,8679,Tullah,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
 TAS,193,Braddon,8679,Tullah,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,193,Braddon,8679,Tullah,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,193,Braddon,8679,Tullah,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
 TAS,193,Braddon,8679,Tullah,C,0,9998,Unapportioned,Animal Justice Party,0
-TAS,193,Braddon,8679,Tullah,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
+TAS,193,Braddon,8679,Tullah,D,37940,0,D Above-the-line Votes,Australian Labor Party,20
 TAS,193,Braddon,8679,Tullah,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
-TAS,193,Braddon,8679,Tullah,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
+TAS,193,Braddon,8679,Tullah,D,37079,2,"POLLEY, Helen",Australian Labor Party,1
 TAS,193,Braddon,8679,Tullah,D,37085,3,"RAINBIRD, Kate",Australian Labor Party,0
 TAS,193,Braddon,8679,Tullah,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,193,Braddon,8679,Tullah,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,193,Braddon,8679,Tullah,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,193,Braddon,8679,Tullah,D,0,9998,Unapportioned,Australian Labor Party,21
-TAS,193,Braddon,8679,Tullah,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
+TAS,193,Braddon,8679,Tullah,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,193,Braddon,8679,Tullah,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,5
 TAS,193,Braddon,8679,Tullah,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,193,Braddon,8679,Tullah,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,193,Braddon,8679,Tullah,E,0,9998,Unapportioned,Legalise Cannabis Australia,3
-TAS,193,Braddon,8679,Tullah,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
+TAS,193,Braddon,8679,Tullah,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,193,Braddon,8679,Tullah,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",1
 TAS,193,Braddon,8679,Tullah,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,193,Braddon,8679,Tullah,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,193,Braddon,8679,Tullah,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
 TAS,193,Braddon,8679,Tullah,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
 TAS,193,Braddon,8679,Tullah,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
-TAS,193,Braddon,8679,Tullah,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
+TAS,193,Braddon,8679,Tullah,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,1
 TAS,193,Braddon,8679,Tullah,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,193,Braddon,8679,Tullah,G,0,9998,Unapportioned,Australian Federation Party,1
+TAS,193,Braddon,8679,Tullah,G,0,9998,Unapportioned,Australian Federation Party,0
 TAS,193,Braddon,8679,Tullah,H,37931,0,H Above-the-line Votes,The Local Party,0
 TAS,193,Braddon,8679,Tullah,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,193,Braddon,8679,Tullah,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,193,Braddon,8679,Tullah,H,37066,3,"VAN RAAY, Lara",The Local Party,0
 TAS,193,Braddon,8679,Tullah,H,0,9998,Unapportioned,The Local Party,0
-TAS,193,Braddon,8679,Tullah,I,37938,0,I Above-the-line Votes,The Greens,0
+TAS,193,Braddon,8679,Tullah,I,37938,0,I Above-the-line Votes,The Greens,4
 TAS,193,Braddon,8679,Tullah,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
 TAS,193,Braddon,8679,Tullah,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,193,Braddon,8679,Tullah,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,193,Braddon,8679,Tullah,I,0,9998,Unapportioned,The Greens,5
-TAS,193,Braddon,8679,Tullah,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
-TAS,193,Braddon,8679,Tullah,J,37012,1,"FIELD, Topher",Liberal Democrats,0
-TAS,193,Braddon,8679,Tullah,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,193,Braddon,8679,Tullah,J,0,9998,Unapportioned,Liberal Democrats,6
-TAS,193,Braddon,8679,Tullah,K,37930,0,K Above-the-line Votes,United Australia Party,0
+TAS,193,Braddon,8679,Tullah,I,0,9998,Unapportioned,The Greens,0
+TAS,193,Braddon,8679,Tullah,J,37935,0,J Above-the-line Votes,Liberal Democrats,6
+TAS,193,Braddon,8679,Tullah,J,37012,1,"FIELD, Topher",Liberal Democrats,1
+TAS,193,Braddon,8679,Tullah,J,37021,2,"CROFT, Chris",Liberal Democrats,1
+TAS,193,Braddon,8679,Tullah,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,193,Braddon,8679,Tullah,K,37930,0,K Above-the-line Votes,United Australia Party,1
 TAS,193,Braddon,8679,Tullah,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,193,Braddon,8679,Tullah,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,193,Braddon,8679,Tullah,K,0,9998,Unapportioned,United Australia Party,1
-TAS,193,Braddon,8679,Tullah,L,37937,0,L Above-the-line Votes,Liberal,0
-TAS,193,Braddon,8679,Tullah,L,37124,1,"DUNIAM, Jonno",Liberal,0
+TAS,193,Braddon,8679,Tullah,K,0,9998,Unapportioned,United Australia Party,0
+TAS,193,Braddon,8679,Tullah,L,37937,0,L Above-the-line Votes,Liberal,27
+TAS,193,Braddon,8679,Tullah,L,37124,1,"DUNIAM, Jonno",Liberal,2
 TAS,193,Braddon,8679,Tullah,L,37131,2,"ASKEW, Wendy",Liberal,0
-TAS,193,Braddon,8679,Tullah,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,193,Braddon,8679,Tullah,L,0,9998,Unapportioned,Liberal,33
-TAS,193,Braddon,8679,Tullah,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
-TAS,193,Braddon,8679,Tullah,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
+TAS,193,Braddon,8679,Tullah,L,37132,3,"ABETZ, Eric",Liberal,4
+TAS,193,Braddon,8679,Tullah,L,0,9998,Unapportioned,Liberal,0
+TAS,193,Braddon,8679,Tullah,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,10
+TAS,193,Braddon,8679,Tullah,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,2
 TAS,193,Braddon,8679,Tullah,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,193,Braddon,8679,Tullah,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,193,Braddon,8679,Tullah,M,0,9998,Unapportioned,Jacqui Lambie Network,11
+TAS,193,Braddon,8679,Tullah,M,0,9998,Unapportioned,Jacqui Lambie Network,0
 TAS,193,Braddon,8679,Tullah,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,193,Braddon,8679,Tullah,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,193,Braddon,8679,Tullah,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
 TAS,193,Braddon,8679,Tullah,N,0,9998,Unapportioned,Informed Medical Options Party,0
 TAS,193,Braddon,8679,Tullah,UG,37794,1,"CROTHERS, Steve",Independent,0
 TAS,193,Braddon,8679,Tullah,UG,36253,2,"EDWARDS, Fenella",Independent,1
-TAS,193,Braddon,8679,Tullah,ZZ,0,99,INFORMAL,,12
+TAS,193,Braddon,8679,Tullah,ZZ,0,99,INFORMAL,,7
 TAS,193,Braddon,8682,Waratah,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,8682,Waratah,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,8682,Waratah,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
@@ -4287,15 +4287,15 @@ TAS,193,Braddon,8696,Zeehan,ZZ,0,99,INFORMAL,,43
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,193,Braddon,33831,Devonport BRADDON PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,193,Braddon,33831,Devonport BRADDON PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,51
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,193,Braddon,33831,Devonport BRADDON PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,193,Braddon,33831,Devonport BRADDON PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,288
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,193,Braddon,33831,Devonport BRADDON PPVC,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,193,Braddon,33831,Devonport BRADDON PPVC,C,0,9998,Unapportioned,Animal Justice Party,74
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
@@ -4303,67 +4303,67 @@ TAS,193,Braddon,33831,Devonport BRADDON PPVC,D,37085,3,"RAINBIRD, Kate",Australi
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,193,Braddon,33831,Devonport BRADDON PPVC,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,193,Braddon,33831,Devonport BRADDON PPVC,D,0,9998,Unapportioned,Australian Labor Party,1848
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,193,Braddon,33831,Devonport BRADDON PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,193,Braddon,33831,Devonport BRADDON PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,155
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,193,Braddon,33831,Devonport BRADDON PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,193,Braddon,33831,Devonport BRADDON PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",126
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,193,Braddon,33831,Devonport BRADDON PPVC,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,193,Braddon,33831,Devonport BRADDON PPVC,G,0,9998,Unapportioned,Australian Federation Party,13
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,H,37931,0,H Above-the-line Votes,The Local Party,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,193,Braddon,33831,Devonport BRADDON PPVC,H,0,9998,Unapportioned,The Local Party,0
+TAS,193,Braddon,33831,Devonport BRADDON PPVC,H,0,9998,Unapportioned,The Local Party,61
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,I,37938,0,I Above-the-line Votes,The Greens,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,193,Braddon,33831,Devonport BRADDON PPVC,I,0,9998,Unapportioned,The Greens,0
+TAS,193,Braddon,33831,Devonport BRADDON PPVC,I,0,9998,Unapportioned,The Greens,555
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,193,Braddon,33831,Devonport BRADDON PPVC,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,193,Braddon,33831,Devonport BRADDON PPVC,J,0,9998,Unapportioned,Liberal Democrats,165
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,K,37930,0,K Above-the-line Votes,United Australia Party,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,193,Braddon,33831,Devonport BRADDON PPVC,K,0,9998,Unapportioned,United Australia Party,0
+TAS,193,Braddon,33831,Devonport BRADDON PPVC,K,0,9998,Unapportioned,United Australia Party,103
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,L,37937,0,L Above-the-line Votes,Liberal,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,L,37124,1,"DUNIAM, Jonno",Liberal,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,L,37131,2,"ASKEW, Wendy",Liberal,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,193,Braddon,33831,Devonport BRADDON PPVC,L,0,9998,Unapportioned,Liberal,0
+TAS,193,Braddon,33831,Devonport BRADDON PPVC,L,0,9998,Unapportioned,Liberal,2984
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,193,Braddon,33831,Devonport BRADDON PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,193,Braddon,33831,Devonport BRADDON PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,893
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,193,Braddon,33831,Devonport BRADDON PPVC,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,193,Braddon,33831,Devonport BRADDON PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,0
-TAS,193,Braddon,33831,Devonport BRADDON PPVC,UG,37794,1,"CROTHERS, Steve",Independent,0
-TAS,193,Braddon,33831,Devonport BRADDON PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,193,Braddon,33831,Devonport BRADDON PPVC,ZZ,0,99,INFORMAL,,0
+TAS,193,Braddon,33831,Devonport BRADDON PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,24
+TAS,193,Braddon,33831,Devonport BRADDON PPVC,UG,37794,1,"CROTHERS, Steve",Independent,6
+TAS,193,Braddon,33831,Devonport BRADDON PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,3
+TAS,193,Braddon,33831,Devonport BRADDON PPVC,ZZ,0,99,INFORMAL,,242
 TAS,193,Braddon,33832,Burnie PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,33832,Burnie PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,33832,Burnie PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,193,Braddon,33832,Burnie PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,193,Braddon,33832,Burnie PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,57
 TAS,193,Braddon,33832,Burnie PPVC,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
 TAS,193,Braddon,33832,Burnie PPVC,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,193,Braddon,33832,Burnie PPVC,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,193,Braddon,33832,Burnie PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,193,Braddon,33832,Burnie PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,223
 TAS,193,Braddon,33832,Burnie PPVC,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,193,Braddon,33832,Burnie PPVC,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,193,Braddon,33832,Burnie PPVC,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,193,Braddon,33832,Burnie PPVC,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,193,Braddon,33832,Burnie PPVC,C,0,9998,Unapportioned,Animal Justice Party,72
 TAS,193,Braddon,33832,Burnie PPVC,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
 TAS,193,Braddon,33832,Burnie PPVC,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
 TAS,193,Braddon,33832,Burnie PPVC,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
@@ -4371,67 +4371,67 @@ TAS,193,Braddon,33832,Burnie PPVC,D,37085,3,"RAINBIRD, Kate",Australian Labor Pa
 TAS,193,Braddon,33832,Burnie PPVC,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,193,Braddon,33832,Burnie PPVC,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,193,Braddon,33832,Burnie PPVC,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,193,Braddon,33832,Burnie PPVC,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,193,Braddon,33832,Burnie PPVC,D,0,9998,Unapportioned,Australian Labor Party,1636
 TAS,193,Braddon,33832,Burnie PPVC,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
 TAS,193,Braddon,33832,Burnie PPVC,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,193,Braddon,33832,Burnie PPVC,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,193,Braddon,33832,Burnie PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,193,Braddon,33832,Burnie PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,149
 TAS,193,Braddon,33832,Burnie PPVC,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
 TAS,193,Braddon,33832,Burnie PPVC,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,193,Braddon,33832,Burnie PPVC,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,193,Braddon,33832,Burnie PPVC,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,193,Braddon,33832,Burnie PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,193,Braddon,33832,Burnie PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",96
 TAS,193,Braddon,33832,Burnie PPVC,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,193,Braddon,33832,Burnie PPVC,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,193,Braddon,33832,Burnie PPVC,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,193,Braddon,33832,Burnie PPVC,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,193,Braddon,33832,Burnie PPVC,G,0,9998,Unapportioned,Australian Federation Party,6
 TAS,193,Braddon,33832,Burnie PPVC,H,37931,0,H Above-the-line Votes,The Local Party,0
 TAS,193,Braddon,33832,Burnie PPVC,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,193,Braddon,33832,Burnie PPVC,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,193,Braddon,33832,Burnie PPVC,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,193,Braddon,33832,Burnie PPVC,H,0,9998,Unapportioned,The Local Party,0
+TAS,193,Braddon,33832,Burnie PPVC,H,0,9998,Unapportioned,The Local Party,79
 TAS,193,Braddon,33832,Burnie PPVC,I,37938,0,I Above-the-line Votes,The Greens,0
 TAS,193,Braddon,33832,Burnie PPVC,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
 TAS,193,Braddon,33832,Burnie PPVC,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,193,Braddon,33832,Burnie PPVC,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,193,Braddon,33832,Burnie PPVC,I,0,9998,Unapportioned,The Greens,0
+TAS,193,Braddon,33832,Burnie PPVC,I,0,9998,Unapportioned,The Greens,440
 TAS,193,Braddon,33832,Burnie PPVC,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
 TAS,193,Braddon,33832,Burnie PPVC,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,193,Braddon,33832,Burnie PPVC,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,193,Braddon,33832,Burnie PPVC,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,193,Braddon,33832,Burnie PPVC,J,0,9998,Unapportioned,Liberal Democrats,118
 TAS,193,Braddon,33832,Burnie PPVC,K,37930,0,K Above-the-line Votes,United Australia Party,0
 TAS,193,Braddon,33832,Burnie PPVC,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,193,Braddon,33832,Burnie PPVC,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,193,Braddon,33832,Burnie PPVC,K,0,9998,Unapportioned,United Australia Party,0
+TAS,193,Braddon,33832,Burnie PPVC,K,0,9998,Unapportioned,United Australia Party,85
 TAS,193,Braddon,33832,Burnie PPVC,L,37937,0,L Above-the-line Votes,Liberal,0
 TAS,193,Braddon,33832,Burnie PPVC,L,37124,1,"DUNIAM, Jonno",Liberal,0
 TAS,193,Braddon,33832,Burnie PPVC,L,37131,2,"ASKEW, Wendy",Liberal,0
 TAS,193,Braddon,33832,Burnie PPVC,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,193,Braddon,33832,Burnie PPVC,L,0,9998,Unapportioned,Liberal,0
+TAS,193,Braddon,33832,Burnie PPVC,L,0,9998,Unapportioned,Liberal,2403
 TAS,193,Braddon,33832,Burnie PPVC,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
 TAS,193,Braddon,33832,Burnie PPVC,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
 TAS,193,Braddon,33832,Burnie PPVC,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,193,Braddon,33832,Burnie PPVC,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,193,Braddon,33832,Burnie PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,193,Braddon,33832,Burnie PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,980
 TAS,193,Braddon,33832,Burnie PPVC,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,193,Braddon,33832,Burnie PPVC,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,193,Braddon,33832,Burnie PPVC,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
-TAS,193,Braddon,33832,Burnie PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,0
-TAS,193,Braddon,33832,Burnie PPVC,UG,37794,1,"CROTHERS, Steve",Independent,0
-TAS,193,Braddon,33832,Burnie PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,193,Braddon,33832,Burnie PPVC,ZZ,0,99,INFORMAL,,0
+TAS,193,Braddon,33832,Burnie PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,25
+TAS,193,Braddon,33832,Burnie PPVC,UG,37794,1,"CROTHERS, Steve",Independent,4
+TAS,193,Braddon,33832,Burnie PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,4
+TAS,193,Braddon,33832,Burnie PPVC,ZZ,0,99,INFORMAL,,236
 TAS,193,Braddon,34052,Queenstown PPVC,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,34052,Queenstown PPVC,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,34052,Queenstown PPVC,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
-TAS,193,Braddon,34052,Queenstown PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
+TAS,193,Braddon,34052,Queenstown PPVC,A,0,9998,Unapportioned,Sustainable Australia Party - Stop Overdevelopment / Corruption,3
 TAS,193,Braddon,34052,Queenstown PPVC,B,37936,0,B Above-the-line Votes,Pauline Hanson's One Nation,0
 TAS,193,Braddon,34052,Queenstown PPVC,B,37419,1,"MAV, Steve",Pauline Hanson's One Nation,0
 TAS,193,Braddon,34052,Queenstown PPVC,B,37421,2,"BUTTON, Norelle",Pauline Hanson's One Nation,0
-TAS,193,Braddon,34052,Queenstown PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,0
+TAS,193,Braddon,34052,Queenstown PPVC,B,0,9998,Unapportioned,Pauline Hanson's One Nation,17
 TAS,193,Braddon,34052,Queenstown PPVC,C,37934,0,C Above-the-line Votes,Animal Justice Party,0
 TAS,193,Braddon,34052,Queenstown PPVC,C,36512,1,"DAVIS, Ivan",Animal Justice Party,0
 TAS,193,Braddon,34052,Queenstown PPVC,C,36517,2,"THOMAS-WURTH, Virginia",Animal Justice Party,0
-TAS,193,Braddon,34052,Queenstown PPVC,C,0,9998,Unapportioned,Animal Justice Party,0
+TAS,193,Braddon,34052,Queenstown PPVC,C,0,9998,Unapportioned,Animal Justice Party,5
 TAS,193,Braddon,34052,Queenstown PPVC,D,37940,0,D Above-the-line Votes,Australian Labor Party,0
 TAS,193,Braddon,34052,Queenstown PPVC,D,37063,1,"URQUHART, Anne",Australian Labor Party,0
 TAS,193,Braddon,34052,Queenstown PPVC,D,37079,2,"POLLEY, Helen",Australian Labor Party,0
@@ -4439,55 +4439,55 @@ TAS,193,Braddon,34052,Queenstown PPVC,D,37085,3,"RAINBIRD, Kate",Australian Labo
 TAS,193,Braddon,34052,Queenstown PPVC,D,37103,4,"HULME, Daniel",Australian Labor Party,0
 TAS,193,Braddon,34052,Queenstown PPVC,D,37113,5,"ROBERTS, Wayne",Australian Labor Party,0
 TAS,193,Braddon,34052,Queenstown PPVC,D,37119,6,"GOURLAY, Chris",Australian Labor Party,0
-TAS,193,Braddon,34052,Queenstown PPVC,D,0,9998,Unapportioned,Australian Labor Party,0
+TAS,193,Braddon,34052,Queenstown PPVC,D,0,9998,Unapportioned,Australian Labor Party,155
 TAS,193,Braddon,34052,Queenstown PPVC,E,37942,0,E Above-the-line Votes,Legalise Cannabis Australia,0
 TAS,193,Braddon,34052,Queenstown PPVC,E,37610,1,"OWEN, Matt",Legalise Cannabis Australia,0
 TAS,193,Braddon,34052,Queenstown PPVC,E,37612,2,"FITZGIBBON, Oliver",Legalise Cannabis Australia,0
-TAS,193,Braddon,34052,Queenstown PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,0
+TAS,193,Braddon,34052,Queenstown PPVC,E,0,9998,Unapportioned,Legalise Cannabis Australia,17
 TAS,193,Braddon,34052,Queenstown PPVC,F,37933,0,F Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
 TAS,193,Braddon,34052,Queenstown PPVC,F,36364,1,"WILLIAMS, Ray","Shooters, Fishers and Farmers Party",0
 TAS,193,Braddon,34052,Queenstown PPVC,F,36369,2,"DI FALCO, Carlo","Shooters, Fishers and Farmers Party",0
 TAS,193,Braddon,34052,Queenstown PPVC,F,36372,3,"JONES, Brenton Ronald","Shooters, Fishers and Farmers Party",0
-TAS,193,Braddon,34052,Queenstown PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",0
+TAS,193,Braddon,34052,Queenstown PPVC,F,0,9998,Unapportioned,"Shooters, Fishers and Farmers Party",7
 TAS,193,Braddon,34052,Queenstown PPVC,G,37943,0,G Above-the-line Votes,Australian Federation Party,0
 TAS,193,Braddon,34052,Queenstown PPVC,G,37791,1,"BROOMHALL, Ray",Australian Federation Party,0
 TAS,193,Braddon,34052,Queenstown PPVC,G,37793,2,"STRINGER, Justin",Australian Federation Party,0
-TAS,193,Braddon,34052,Queenstown PPVC,G,0,9998,Unapportioned,Australian Federation Party,0
+TAS,193,Braddon,34052,Queenstown PPVC,G,0,9998,Unapportioned,Australian Federation Party,1
 TAS,193,Braddon,34052,Queenstown PPVC,H,37931,0,H Above-the-line Votes,The Local Party,0
 TAS,193,Braddon,34052,Queenstown PPVC,H,37054,1,"MINSHULL, Leanne",The Local Party,0
 TAS,193,Braddon,34052,Queenstown PPVC,H,37062,2,"POULTON, Linda",The Local Party,0
 TAS,193,Braddon,34052,Queenstown PPVC,H,37066,3,"VAN RAAY, Lara",The Local Party,0
-TAS,193,Braddon,34052,Queenstown PPVC,H,0,9998,Unapportioned,The Local Party,0
+TAS,193,Braddon,34052,Queenstown PPVC,H,0,9998,Unapportioned,The Local Party,3
 TAS,193,Braddon,34052,Queenstown PPVC,I,37938,0,I Above-the-line Votes,The Greens,0
 TAS,193,Braddon,34052,Queenstown PPVC,I,37423,1,"WHISH-WILSON, Peter",The Greens,0
 TAS,193,Braddon,34052,Queenstown PPVC,I,37427,2,"BLEYER, Vanessa",The Greens,0
 TAS,193,Braddon,34052,Queenstown PPVC,I,37431,3,"BADGER, Tabatha",The Greens,0
-TAS,193,Braddon,34052,Queenstown PPVC,I,0,9998,Unapportioned,The Greens,0
+TAS,193,Braddon,34052,Queenstown PPVC,I,0,9998,Unapportioned,The Greens,23
 TAS,193,Braddon,34052,Queenstown PPVC,J,37935,0,J Above-the-line Votes,Liberal Democrats,0
 TAS,193,Braddon,34052,Queenstown PPVC,J,37012,1,"FIELD, Topher",Liberal Democrats,0
 TAS,193,Braddon,34052,Queenstown PPVC,J,37021,2,"CROFT, Chris",Liberal Democrats,0
-TAS,193,Braddon,34052,Queenstown PPVC,J,0,9998,Unapportioned,Liberal Democrats,0
+TAS,193,Braddon,34052,Queenstown PPVC,J,0,9998,Unapportioned,Liberal Democrats,19
 TAS,193,Braddon,34052,Queenstown PPVC,K,37930,0,K Above-the-line Votes,United Australia Party,0
 TAS,193,Braddon,34052,Queenstown PPVC,K,36282,1,"ADAMS, Diana",United Australia Party,0
 TAS,193,Braddon,34052,Queenstown PPVC,K,36293,2,"HENNESSY, Alan",United Australia Party,0
-TAS,193,Braddon,34052,Queenstown PPVC,K,0,9998,Unapportioned,United Australia Party,0
+TAS,193,Braddon,34052,Queenstown PPVC,K,0,9998,Unapportioned,United Australia Party,9
 TAS,193,Braddon,34052,Queenstown PPVC,L,37937,0,L Above-the-line Votes,Liberal,0
 TAS,193,Braddon,34052,Queenstown PPVC,L,37124,1,"DUNIAM, Jonno",Liberal,0
 TAS,193,Braddon,34052,Queenstown PPVC,L,37131,2,"ASKEW, Wendy",Liberal,0
 TAS,193,Braddon,34052,Queenstown PPVC,L,37132,3,"ABETZ, Eric",Liberal,0
-TAS,193,Braddon,34052,Queenstown PPVC,L,0,9998,Unapportioned,Liberal,0
+TAS,193,Braddon,34052,Queenstown PPVC,L,0,9998,Unapportioned,Liberal,142
 TAS,193,Braddon,34052,Queenstown PPVC,M,37941,0,M Above-the-line Votes,Jacqui Lambie Network,0
 TAS,193,Braddon,34052,Queenstown PPVC,M,37425,1,"TYRRELL, Tammy",Jacqui Lambie Network,0
 TAS,193,Braddon,34052,Queenstown PPVC,M,37430,2,"GROAT, Sarah",Jacqui Lambie Network,0
 TAS,193,Braddon,34052,Queenstown PPVC,M,37432,3,"LAMBIE, Tom",Jacqui Lambie Network,0
-TAS,193,Braddon,34052,Queenstown PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,0
+TAS,193,Braddon,34052,Queenstown PPVC,M,0,9998,Unapportioned,Jacqui Lambie Network,80
 TAS,193,Braddon,34052,Queenstown PPVC,N,37939,0,N Above-the-line Votes,Informed Medical Options Party,0
 TAS,193,Braddon,34052,Queenstown PPVC,N,37346,1,"KERSHAW, Lynne",Informed Medical Options Party,0
 TAS,193,Braddon,34052,Queenstown PPVC,N,37368,2,"PICKERING, Matthew",Informed Medical Options Party,0
 TAS,193,Braddon,34052,Queenstown PPVC,N,0,9998,Unapportioned,Informed Medical Options Party,0
-TAS,193,Braddon,34052,Queenstown PPVC,UG,37794,1,"CROTHERS, Steve",Independent,0
+TAS,193,Braddon,34052,Queenstown PPVC,UG,37794,1,"CROTHERS, Steve",Independent,3
 TAS,193,Braddon,34052,Queenstown PPVC,UG,36253,2,"EDWARDS, Fenella",Independent,0
-TAS,193,Braddon,34052,Queenstown PPVC,ZZ,0,99,INFORMAL,,0
+TAS,193,Braddon,34052,Queenstown PPVC,ZZ,0,99,INFORMAL,,15
 TAS,193,Braddon,34286,Devonport South,A,37932,0,A Above-the-line Votes,Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,34286,Devonport South,A,36347,1,"DUDLEY, Todd",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
 TAS,193,Braddon,34286,Devonport South,A,36352,2,"LOCKWOOD, Daria",Sustainable Australia Party - Stop Overdevelopment / Corruption,0
