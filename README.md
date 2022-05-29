@@ -4,10 +4,10 @@ Analysis of AEC and TEC data from previous elections.
 
 ## Maps
 
+- [2022 Federal Election, Greens Senate Primary Vote](https://public.tableau.com/app/profile/damien4566/viz/TGSenate22/TGSenate22)
+- [2022 Federal Election, Greens Senate Swing](https://public.tableau.com/app/profile/damien4566/viz/TGSenate22Swing/TGSenate22Swing)
 - [2021 Tasmanian State Election, Greens Primary Vote](https://public.tableau.com/app/profile/damien4566/viz/TGState21/TGState21)
 - [2021 Tasmanian State Election, Greens Swing](https://public.tableau.com/app/profile/damien4566/viz/TGState21Swing/TGState21Swing) 
-- [2019 Federal Election, Greens Senate Primary Vote](https://public.tableau.com/app/profile/damien4566/viz/TGSenate19/Primary)
-- [2019 Federal Election, Greens Senate Swing](https://public.tableau.com/app/profile/damien4566/viz/TGSenate19Swing/Swing)
 
 ## Data sources
 
