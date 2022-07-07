@@ -1,44 +1,44 @@
-﻿PollingPlaceName,Locality,PremiseName,PremiseAddress1,PremiseAddress2,PremiseLocality,PremiseState,PremisePostcode,LocationWithinPremise,AccessToLocation,Disabled Access
-Adventure Bay,Adventure Bay,Adventure Bay Hall,Adventure Bay Rd,,Adventure Bay,TAS,7150,,,None
-Alonnah,Alonnah,Bruny Island District School,15 School Rd,,Alonnah,TAS,7150,,,Assistance
-Clarence,Bellerive,Clarence High School,25 Wentworth St,,Bellerive,TAS,7018,ET Smith Hall - gymnasium,,Assistance
-Bellerive,Bellerive,Clarence Police & Community Youth Club Inc,10 Scott St,,Bellerive,TAS,7018,hall area,,Assistance
-Blackmans Bay,Blackmans Bay,Blackmans Bay Primary School,177 Roslyn Ave,,Blackmans Bay,TAS,7052,gymnasium,alternative access via Opal Dr,Assistance
-Blackmans Bay South,Blackmans Bay,Illawarra Primary School,6 Tinderbox Rd,,Blackmans Bay,TAS,7052,general purpose room,via Thornton Close,Full
-Cambridge,Cambridge,Cambridge Primary School,976 Cambridge Rd,,Cambridge,TAS,7170,multipurpose room,,Assistance
-Clarendon Vale,Clarendon Vale,Clarendon Vale Neighbourhood Centre,63 Mockridge Rd,,Clarendon Vale,TAS,7019,,,Assistance
-Cradoc,Cradoc,Cradoc Park,8247 Channel Hwy,,Cradoc,TAS,7109,,,Assistance
-Cygnet,Cygnet,Cygnet Town Hall,Mary St,,Cygnet,TAS,7112,,,Assistance
-Dover,Dover,Dover District School,6940 Huon Hwy,,Dover,TAS,7117,hall,,Assistance
-Franklin,Franklin,Palais Theatre,3388 Huon Hwy,,Franklin,TAS,7113,main hall,,Full
-Geeveston,Geeveston,Geeveston Primary School,63 Arve Rd,,Geeveston,TAS,7116,IT lab,via School Road,Assistance
-Geilston Bay,Geilston Bay,Lindisfarne North Primary School,271 East Derwent Hwy,,Geilston Bay,TAS,7015,gymnasium,,None
-Glen Huon,Glen Huon,Glen Huon Primary School,801 Glen Huon Rd,,Glen Huon,TAS,7109,multipurpose hall,,Assistance
-Howden,Howden,Howden Fire Station,Howden Rd,,Howden,TAS,7054,,,Assistance
-Howrah,Howrah,Howrah Scout Hall,Howrah Primary School,Howrah Rd,Howrah,TAS,7018,,,Assistance
-Tranmere,Howrah,Tranmere Hall,27 Tranmere Rd,,Howrah,TAS,7018,,,Assistance
-Huonville,Huonville,Huonville Primary School,74 Wilmot Rd,,Huonville,TAS,7109,multipurpose room,,Full
-Judbury,Judbury,Judbury Community Centre,1273 Glen Huon Rd,,Judbury,TAS,7109,,,Assistance
-Kettering,Kettering,Kettering Community Centre,2963 Channel Hwy,,Kettering,TAS,7050,,,Assistance
-Kingston,Kingston,Kingborough Council,15 Channel Hwy,,Kingston,TAS,7050,Council Chambers,,Full
-Maranoa Heights,Kingston,Southern Christian College,150 Redwood Rd,,Kingston,TAS,7050,Lower Hall,,Assistance
-Kingston Beach,Kingston Beach,Kingston Beach Community Hall,20 Beach Rd,,Kingston Beach,TAS,7050,,,Assistance
-Lauderdale,Lauderdale,Lauderdale Community Hall,528a South Arm Rd,,Lauderdale,TAS,7021,,,Assistance
-Lindisfarne,Lindisfarne,Lindisfarne Primary School,17 Loatta Rd,,Lindisfarne,TAS,7015,general purpose room,,Assistance
-Lindisfarne Village,Lindisfarne,St Aidans Church Hall,54 Lincoln St,,Lindisfarne,TAS,7015,,,Assistance
-Margate,Margate,Margate Hall,1744 Channel Hwy,,Margate,TAS,7054,,,Assistance
-Middleton,Middleton,South Channel Community Centre,McDowall St,,Middleton,TAS,7163,,,Assistance
-Montagu Bay,Montagu Bay,Montagu Bay Primary School,10 Conara Rd,,Montagu Bay,TAS,7018,hall,,Full
-Mornington,Mornington,Citywide Baptist Church,400 Cambridge Rd,,Mornington,TAS,7018,Rosny Room,,Assistance
-Mountain River,Mountain River,Mountain River Memorial Hall,263 Mountain River Rd,,Mountain River,TAS,7109,,,Assistance
-Ranelagh,Ranelagh,Ranelagh Soldiers Memorial Hall,40 Marguerite St,,Ranelagh,TAS,7109,,,Assistance
-Risdon Vale,Risdon Vale,Risdon Vale Primary School,2 Heather Rd,,Risdon Vale,TAS,7016,,,None
-Rokeby,Rokeby,Emmanuel Christian School,1 Chipmans Rd,,Rokeby,TAS,7019,Foyer,,Full
-Sandfly,Sandfly,Sandfly Hall,811 Sandfly Rd,,Sandfly,TAS,7150,,,Assistance
-Sandford,Sandford,Sandford Hall,949 South Arm Rd,,Sandford,TAS,7020,,,None
-Seven Mile Beach,Seven Mile Beach,Ramada Resort,78 Surf Rd,,Seven Mile Beach,TAS,7170,,,Assistance
-Snug,Snug,Snug Primary School,2208 Channel Hwy,,Snug,TAS,7054,hall,,Assistance
-South Arm,South Arm,South Arm Primary School,32 Harmony Lane,,South Arm,TAS,7022,gymnasium,,Assistance
-Southport,Southport,Southport Community Centre,8606 Huon Hwy,,Southport,TAS,7109,,,Assistance
-Warrane,Warrane,Warrane Primary School,213 Cambridge Rd,,Warrane,TAS,7018,hall,,Assistance
-Woodbridge,Woodbridge,Woodbridge Hall,3445 Channel Hwy,,Woodbridge,TAS,7162,,,Assistance
+﻿PollingPlaceNm,PremisesNm,PremisesAddress,PremisesSuburb
+Adventure Bay,Adventure Bay Hall,Adventure Bay Rd,Adventure Bay
+Alonnah,Bruny Island District School,15 School Rd,Alonnah
+Clarence,Clarence High School,25 Wentworth St,Bellerive
+Bellerive,Clarence Police & Community Youth Club Inc,10 Scott St,Bellerive
+Blackmans Bay,Blackmans Bay Primary School,177 Roslyn Ave,Blackmans Bay
+Blackmans Bay South,Illawarra Primary School,6 Tinderbox Rd,Blackmans Bay
+Cambridge,Cambridge Primary School,976 Cambridge Rd,Cambridge
+Clarendon Vale,Clarendon Vale Neighbourhood Centre,63 Mockridge Rd,Clarendon Vale
+Cradoc,Cradoc Park,8247 Channel Hwy,Cradoc
+Cygnet,Cygnet Town Hall,Mary St,Cygnet
+Dover,Dover District School,6940 Huon Hwy,Dover
+Franklin,Palais Theatre,3388 Huon Hwy,Franklin
+Geeveston,Geeveston Primary School,63 Arve Rd,Geeveston
+Geilston Bay,Lindisfarne North Primary School,271 East Derwent Hwy,Geilston Bay
+Glen Huon,Glen Huon Primary School,801 Glen Huon Rd,Glen Huon
+Howden,Howden Fire Station,Howden Rd,Howden
+Howrah,Howrah Scout Hall,Howrah Rd,Howrah
+Tranmere,Tranmere Hall,27 Tranmere Rd,Howrah
+Huonville,Huonville Primary School,74 Wilmot Rd,Huonville
+Judbury,Judbury Community Centre,1273 Glen Huon Rd,Judbury
+Kettering,Kettering Community Centre,2963 Channel Hwy,Kettering
+Kingston,Kingborough Council,15 Channel Hwy,Kingston
+Maranoa Heights,Southern Christian College,150 Redwood Rd,Kingston
+Kingston Beach,Kingston Beach Community Hall,20 Beach Rd,Kingston Beach
+Lauderdale,Lauderdale Community Hall,528a South Arm Rd,Lauderdale
+Lindisfarne,Lindisfarne Primary School,17 Loatta Rd,Lindisfarne
+Lindisfarne Village,St Aidans Church Hall,54 Lincoln St,Lindisfarne
+Margate,Margate Hall,1744 Channel Hwy,Margate
+Middleton,South Channel Community Centre,McDowall St,Middleton
+Montagu Bay,Montagu Bay Primary School,10 Conara Rd,Montagu Bay
+Mornington,Citywide Baptist Church,400 Cambridge Rd,Mornington
+Mountain River,Mountain River Memorial Hall,263 Mountain River Rd,Mountain River
+Ranelagh,Ranelagh Soldiers Memorial Hall,40 Marguerite St,Ranelagh
+Risdon Vale,Risdon Vale Primary School,2 Heather Rd,Risdon Vale
+Rokeby,Emmanuel Christian School,1 Chipmans Rd,Rokeby
+Sandfly,Sandfly Hall,811 Sandfly Rd,Sandfly
+Sandford,Sandford Hall,949 South Arm Rd,Sandford
+Seven Mile Beach,Ramada Resort,78 Surf Rd,Seven Mile Beach
+Snug,Snug Primary School,2208 Channel Hwy,Snug
+South Arm,South Arm Primary School,32 Harmony Lane,South Arm
+Southport,Southport Community Centre,8606 Huon Hwy,Southport
+Warrane,Warrane Primary School,213 Cambridge Rd,Warrane
+Woodbridge,Woodbridge Hall,3445 Channel Hwy,Woodbridge

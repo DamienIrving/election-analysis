@@ -1,8 +1,10 @@
 """Greens vote information from general electoral commission data"""
 
 import argparse
-import pandas as pd
 import pdb
+
+import numpy as np
+import pandas as pd
 
 
 def prepoll_filter(polling_place_name):
@@ -34,7 +36,7 @@ def get_name_and_address(polling_place, election_polling_places):
     else:
         assert ref_name in election_polling_place_list, 'Polling place name mismatch'
         selection = election_polling_places['PollingPlaceNm'] == ref_name
-        
+
     election_info = election_polling_places[selection]
     address_headers = [header for header in election_info.columns if 'PremisesAddress' in header]
     election_info['PremisesAddress'] = election_info[address_headers].apply(lambda x: ', '.join(x[x.notnull()]), axis=1)
@@ -92,14 +94,16 @@ def add_polling_place_info(votes_dict,
     return votes_dict
 
 
-def read_tec_votes(votes_file):
+def read_tec_votes(votes_file, thousands):
     """Read a TEC votes file."""
     
-    raw_votes_df = pd.read_csv(votes_file, thousands=' ', skipinitialspace=True)
+    thousands_dict = {'space': ' ', 'comma': ','}
+    raw_votes_df = pd.read_csv(votes_file, thousands=thousands_dict[thousands], skipinitialspace=True)
     raw_votes_df = raw_votes_df.dropna(axis=1, how='all')
-    polling_places = raw_votes_df.columns.values[1: -7]
-    total_votes = raw_votes_df[raw_votes_df['Candidates'] == 'Total Formal Votes'].values[0][1:-7]
-    greens_votes = raw_votes_df[raw_votes_df['Candidates'] == 'Tasmanian Greens'].values[0][1:-7]
+    column_end = np.where(raw_votes_df.columns.values == 'Total Ordinary Votes')[0][0]
+    polling_places = raw_votes_df.columns.values[1: column_end]
+    total_votes = raw_votes_df[raw_votes_df['Candidates'] == 'Total Formal Votes'].values[0][1:column_end]
+    greens_votes = raw_votes_df[raw_votes_df['Candidates'] == 'Tasmanian Greens'].values[0][1:column_end]
     greens_pct = (greens_votes / total_votes) * 100
     greens_pct = greens_pct.astype(float)
     
@@ -126,6 +130,8 @@ def read_senate_votes(votes_file):
     party_names = ['The Greens', 'Australian Greens']
     
     raw_votes_df = pd.read_csv(votes_file, skiprows=1)
+    informal_votes = raw_votes_df['CandidateDetails'] == 'INFORMAL'
+    raw_votes_df = raw_votes_df[~informal_votes]
 
     not_prepoll = raw_votes_df['PollingPlaceNm'].apply(prepoll_filter)
     raw_votes_df = raw_votes_df[not_prepoll]
@@ -160,7 +166,7 @@ def main(args):
     """Run the program."""   
 
     if args.election == 'state':
-        votes_dict = read_tec_votes(args.votes_file)
+        votes_dict = read_tec_votes(args.votes_file, args.thousands)
         election_polling_places = read_tec_polling_places(args.election_polling_places_file)
     elif args.election == 'senate':
         votes_dict = read_senate_votes(args.votes_file)
@@ -195,6 +201,9 @@ if __name__ == '__main__':
     parser.add_argument("election_polling_places_file", type=str, help="Election day polling place file")
     parser.add_argument("reference_polling_places_file", type=str, help="Reference polling place file")
     parser.add_argument("outfile", type=str, help="Output file")
+    
+    parser.add_argument("--thousands", type=str, choices=('comma', 'space'), default='space',
+                       help="Data file convention for denoting thousands separation in numbers")
     
     args = parser.parse_args()
     main(args)
