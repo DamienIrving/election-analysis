@@ -193,7 +193,7 @@ def main(args):
         ref_polling_places,
         args.division
     )
-      
+
     votes_df = pd.DataFrame(votes_dict)
     votes_df = votes_df.round({'GreensPercentage': 1})
     votes_df['Latitude'] = votes_df['Latitude'].map('{:.6f}'.format)
