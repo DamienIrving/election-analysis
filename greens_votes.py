@@ -1,7 +1,6 @@
 """Greens vote information from general electoral commission data"""
 
 import argparse
-import pdb
 
 import numpy as np
 import pandas as pd
@@ -47,10 +46,12 @@ def get_name_and_address(polling_place, election_polling_places):
     return ref_name, election_premises, election_address
     
 
-def add_polling_place_info(votes_dict,
-                           election_polling_places,
-                           ref_polling_places,
-                           division):
+def add_polling_place_info(
+        votes_dict,
+        election_polling_places,
+        ref_polling_places,
+        division
+    ):
     """Merge election day and reference polling place info."""
     
     votes_dict['DivisionNm'] = []
@@ -96,7 +97,7 @@ def add_polling_place_info(votes_dict,
 
 def read_tec_votes(votes_file, thousands):
     """Read a TEC votes file."""
-    
+
     thousands_dict = {'space': ' ', 'comma': ','}
     raw_votes_df = pd.read_csv(votes_file, thousands=thousands_dict[thousands], skipinitialspace=True)
     raw_votes_df = raw_votes_df.dropna(axis=1, how='all')
@@ -107,10 +108,12 @@ def read_tec_votes(votes_file, thousands):
     greens_pct = (greens_votes / total_votes) * 100
     greens_pct = greens_pct.astype(float)
     
-    votes_dict = {'PollingPlaceNm': polling_places,
-                  'GreensVotes': greens_votes,
-                  'TotalVotes': total_votes,
-                  'GreensPercentage': greens_pct}
+    votes_dict = {
+        'PollingPlaceNm': polling_places,
+        'GreensVotes': greens_votes,
+        'TotalVotes': total_votes,
+        'GreensPercentage': greens_pct
+    }
                  
     return votes_dict
     
@@ -118,8 +121,10 @@ def read_tec_votes(votes_file, thousands):
 def read_tec_polling_places(polling_places_file):
     """Read a TEC polling places file."""
     
-    polling_places = pd.read_csv(polling_places_file,
-                                 skipinitialspace=True)
+    polling_places = pd.read_csv(
+        polling_places_file,
+        skipinitialspace=True
+    )
     
     return polling_places
 
@@ -144,10 +149,12 @@ def read_senate_votes(votes_file):
     greens_pct = (greens_votes / total_votes) * 100
     greens_pct = greens_pct.astype(float)
     
-    votes_dict = {'PollingPlaceNm': list(polling_places),
-                  'GreensVotes': greens_votes,
-                  'TotalVotes': total_votes,
-                  'GreensPercentage': greens_pct}
+    votes_dict = {
+        'PollingPlaceNm': list(polling_places),
+        'GreensVotes': greens_votes,
+        'TotalVotes': total_votes,
+        'GreensPercentage': greens_pct
+    }
                   
     return votes_dict
 
@@ -174,13 +181,18 @@ def main(args):
     else:
         raise ValueError(f'unrecognised election: {election}')
         
-    ref_polling_places = pd.read_csv(args.reference_polling_places_file,
-                                     na_filter=False, skipinitialspace=True) 
+    ref_polling_places = pd.read_csv(
+        args.reference_polling_places_file,
+        na_filter=False,
+        skipinitialspace=True
+    ) 
         
-    votes_dict = add_polling_place_info(votes_dict,
-                                        election_polling_places,
-                                        ref_polling_places,
-                                        args.division)
+    votes_dict = add_polling_place_info(
+        votes_dict,
+        election_polling_places,
+        ref_polling_places,
+        args.division
+    )
       
     votes_df = pd.DataFrame(votes_dict)
     votes_df = votes_df.round({'GreensPercentage': 1})
