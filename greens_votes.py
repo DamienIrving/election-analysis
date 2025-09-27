@@ -24,6 +24,15 @@ def hospital_filter(polling_place_name):
     return not_hospital
 
 
+def mobile_filter(polling_place_name):
+    if 'mobile team' in polling_place_name.lower():
+        not_mobile = False
+    else:
+        not_mobile = True
+    
+    return not_mobile
+
+
 def get_name_and_address(polling_place, election_polling_places):
     """Get the PollingPlaceNm, PremisesNm and PremisesAddress."""
     
@@ -142,6 +151,8 @@ def read_senate_votes(votes_file):
     raw_votes_df = raw_votes_df[not_prepoll]
     not_hospital = raw_votes_df['PollingPlaceNm'].apply(hospital_filter)
     raw_votes_df = raw_votes_df[not_hospital]
+    not_mobile = raw_votes_df['PollingPlaceNm'].apply(mobile_filter)
+    raw_votes_df = raw_votes_df[not_mobile]
     
     polling_places = raw_votes_df['PollingPlaceNm'].unique()
     total_votes = raw_votes_df.groupby('PollingPlaceID').OrdinaryVotes.sum()

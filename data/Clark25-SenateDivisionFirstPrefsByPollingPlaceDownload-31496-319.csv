@@ -1,0 +1,2210 @@
+2025 Federal Election Senate First Preferences By Polling Place for Division 319 [Event:31496 Phase:FinalResults Generated:2025-06-16T10:39:34 Cycle:194a421d-c559-4a18-a78a-90c7cf2acb4e Created:2025-06-16T10:36:42 Environment:PROD Site:CANBERRA Server:Internal Version:10.11.386.0]
+StateAb,DivisionID,DivisionNm,PollingPlaceID,PollingPlaceNm,Group,CandidateID,BallotPosition,CandidateDetails,PartyNm,OrdinaryVotes
+TAS,319,Clark,8442,Battery Point,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,8
+TAS,319,Clark,8442,Battery Point,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,8442,Battery Point,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8442,Battery Point,B,42111,0,B Above-the-line Votes,Liberal,167
+TAS,319,Clark,8442,Battery Point,B,40691,1,"CHANDLER, Claire",Liberal,27
+TAS,319,Clark,8442,Battery Point,B,40692,2,"COLBECK, Richard Mansell",Liberal,4
+TAS,319,Clark,8442,Battery Point,B,40693,3,"MARTIN, Jacki",Liberal,1
+TAS,319,Clark,8442,Battery Point,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,8
+TAS,319,Clark,8442,Battery Point,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,1
+TAS,319,Clark,8442,Battery Point,C,41401,2,"KELLY, Matt",Trumpet of Patriots,1
+TAS,319,Clark,8442,Battery Point,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8442,Battery Point,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,8
+TAS,319,Clark,8442,Battery Point,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,1
+TAS,319,Clark,8442,Battery Point,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8442,Battery Point,E,42119,0,E Above-the-line Votes,Animal Justice Party,12
+TAS,319,Clark,8442,Battery Point,E,41753,1,"DAVIES, Casey",Animal Justice Party,1
+TAS,319,Clark,8442,Battery Point,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8442,Battery Point,F,42112,0,F Above-the-line Votes,The Greens,168
+TAS,319,Clark,8442,Battery Point,F,41165,1,"McKIM, Nick",The Greens,138
+TAS,319,Clark,8442,Battery Point,F,41168,2,"BLEYER, Vanessa",The Greens,5
+TAS,319,Clark,8442,Battery Point,F,41169,3,"JORDAN, Scott",The Greens,1
+TAS,319,Clark,8442,Battery Point,F,41171,4,"HOARE, Trenton",The Greens,2
+TAS,319,Clark,8442,Battery Point,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,26
+TAS,319,Clark,8442,Battery Point,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,24
+TAS,319,Clark,8442,Battery Point,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,1
+TAS,319,Clark,8442,Battery Point,H,42120,0,H Above-the-line Votes,Libertarian,4
+TAS,319,Clark,8442,Battery Point,H,41698,1,"ABRAHAM, Chrysten",Libertarian,1
+TAS,319,Clark,8442,Battery Point,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8442,Battery Point,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,9
+TAS,319,Clark,8442,Battery Point,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,3
+TAS,319,Clark,8442,Battery Point,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8442,Battery Point,J,42114,0,J Above-the-line Votes,Citizens Party,0
+TAS,319,Clark,8442,Battery Point,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8442,Battery Point,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8442,Battery Point,K,42116,0,K Above-the-line Votes,Australian Labor Party,171
+TAS,319,Clark,8442,Battery Point,K,41721,1,"BROWN, Carol",Australian Labor Party,44
+TAS,319,Clark,8442,Battery Point,K,41722,2,"DOWLING, Richard",Australian Labor Party,8
+TAS,319,Clark,8442,Battery Point,K,41724,3,"FALLS, Bailey",Australian Labor Party,4
+TAS,319,Clark,8442,Battery Point,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,0
+TAS,319,Clark,8442,Battery Point,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,1
+TAS,319,Clark,8442,Battery Point,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,4
+TAS,319,Clark,8442,Battery Point,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8442,Battery Point,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8442,Battery Point,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8442,Battery Point,UG,42066,1,"EDWARDS, Fenella",Independent,2
+TAS,319,Clark,8442,Battery Point,ZZ,0,99,INFORMAL,,15
+TAS,319,Clark,8443,Moonah East,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,17
+TAS,319,Clark,8443,Moonah East,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,10
+TAS,319,Clark,8443,Moonah East,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8443,Moonah East,B,42111,0,B Above-the-line Votes,Liberal,135
+TAS,319,Clark,8443,Moonah East,B,40691,1,"CHANDLER, Claire",Liberal,16
+TAS,319,Clark,8443,Moonah East,B,40692,2,"COLBECK, Richard Mansell",Liberal,8
+TAS,319,Clark,8443,Moonah East,B,40693,3,"MARTIN, Jacki",Liberal,6
+TAS,319,Clark,8443,Moonah East,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,46
+TAS,319,Clark,8443,Moonah East,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,4
+TAS,319,Clark,8443,Moonah East,C,41401,2,"KELLY, Matt",Trumpet of Patriots,1
+TAS,319,Clark,8443,Moonah East,C,41419,3,"SMITH, Greg",Trumpet of Patriots,1
+TAS,319,Clark,8443,Moonah East,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,55
+TAS,319,Clark,8443,Moonah East,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,4
+TAS,319,Clark,8443,Moonah East,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,1
+TAS,319,Clark,8443,Moonah East,E,42119,0,E Above-the-line Votes,Animal Justice Party,24
+TAS,319,Clark,8443,Moonah East,E,41753,1,"DAVIES, Casey",Animal Justice Party,3
+TAS,319,Clark,8443,Moonah East,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8443,Moonah East,F,42112,0,F Above-the-line Votes,The Greens,288
+TAS,319,Clark,8443,Moonah East,F,41165,1,"McKIM, Nick",The Greens,167
+TAS,319,Clark,8443,Moonah East,F,41168,2,"BLEYER, Vanessa",The Greens,15
+TAS,319,Clark,8443,Moonah East,F,41169,3,"JORDAN, Scott",The Greens,1
+TAS,319,Clark,8443,Moonah East,F,41171,4,"HOARE, Trenton",The Greens,4
+TAS,319,Clark,8443,Moonah East,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,55
+TAS,319,Clark,8443,Moonah East,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,21
+TAS,319,Clark,8443,Moonah East,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8443,Moonah East,H,42120,0,H Above-the-line Votes,Libertarian,4
+TAS,319,Clark,8443,Moonah East,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,8443,Moonah East,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8443,Moonah East,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,33
+TAS,319,Clark,8443,Moonah East,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,8
+TAS,319,Clark,8443,Moonah East,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8443,Moonah East,J,42114,0,J Above-the-line Votes,Citizens Party,2
+TAS,319,Clark,8443,Moonah East,J,40837,1,"STAGGARD, Daryl",Citizens Party,1
+TAS,319,Clark,8443,Moonah East,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8443,Moonah East,K,42116,0,K Above-the-line Votes,Australian Labor Party,521
+TAS,319,Clark,8443,Moonah East,K,41721,1,"BROWN, Carol",Australian Labor Party,71
+TAS,319,Clark,8443,Moonah East,K,41722,2,"DOWLING, Richard",Australian Labor Party,11
+TAS,319,Clark,8443,Moonah East,K,41724,3,"FALLS, Bailey",Australian Labor Party,5
+TAS,319,Clark,8443,Moonah East,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,2
+TAS,319,Clark,8443,Moonah East,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,4
+TAS,319,Clark,8443,Moonah East,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,8
+TAS,319,Clark,8443,Moonah East,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",17
+TAS,319,Clark,8443,Moonah East,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8443,Moonah East,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8443,Moonah East,UG,42066,1,"EDWARDS, Fenella",Independent,8
+TAS,319,Clark,8443,Moonah East,ZZ,0,99,INFORMAL,,68
+TAS,319,Clark,8445,Cascades,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,12
+TAS,319,Clark,8445,Cascades,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,2
+TAS,319,Clark,8445,Cascades,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8445,Cascades,B,42111,0,B Above-the-line Votes,Liberal,52
+TAS,319,Clark,8445,Cascades,B,40691,1,"CHANDLER, Claire",Liberal,5
+TAS,319,Clark,8445,Cascades,B,40692,2,"COLBECK, Richard Mansell",Liberal,6
+TAS,319,Clark,8445,Cascades,B,40693,3,"MARTIN, Jacki",Liberal,0
+TAS,319,Clark,8445,Cascades,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,3
+TAS,319,Clark,8445,Cascades,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,2
+TAS,319,Clark,8445,Cascades,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,8445,Cascades,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8445,Cascades,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,20
+TAS,319,Clark,8445,Cascades,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,6
+TAS,319,Clark,8445,Cascades,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8445,Cascades,E,42119,0,E Above-the-line Votes,Animal Justice Party,6
+TAS,319,Clark,8445,Cascades,E,41753,1,"DAVIES, Casey",Animal Justice Party,1
+TAS,319,Clark,8445,Cascades,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8445,Cascades,F,42112,0,F Above-the-line Votes,The Greens,341
+TAS,319,Clark,8445,Cascades,F,41165,1,"McKIM, Nick",The Greens,228
+TAS,319,Clark,8445,Cascades,F,41168,2,"BLEYER, Vanessa",The Greens,36
+TAS,319,Clark,8445,Cascades,F,41169,3,"JORDAN, Scott",The Greens,2
+TAS,319,Clark,8445,Cascades,F,41171,4,"HOARE, Trenton",The Greens,4
+TAS,319,Clark,8445,Cascades,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,24
+TAS,319,Clark,8445,Cascades,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,13
+TAS,319,Clark,8445,Cascades,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,1
+TAS,319,Clark,8445,Cascades,H,42120,0,H Above-the-line Votes,Libertarian,6
+TAS,319,Clark,8445,Cascades,H,41698,1,"ABRAHAM, Chrysten",Libertarian,1
+TAS,319,Clark,8445,Cascades,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8445,Cascades,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,16
+TAS,319,Clark,8445,Cascades,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,4
+TAS,319,Clark,8445,Cascades,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8445,Cascades,J,42114,0,J Above-the-line Votes,Citizens Party,3
+TAS,319,Clark,8445,Cascades,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8445,Cascades,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8445,Cascades,K,42116,0,K Above-the-line Votes,Australian Labor Party,172
+TAS,319,Clark,8445,Cascades,K,41721,1,"BROWN, Carol",Australian Labor Party,30
+TAS,319,Clark,8445,Cascades,K,41722,2,"DOWLING, Richard",Australian Labor Party,7
+TAS,319,Clark,8445,Cascades,K,41724,3,"FALLS, Bailey",Australian Labor Party,0
+TAS,319,Clark,8445,Cascades,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,3
+TAS,319,Clark,8445,Cascades,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,2
+TAS,319,Clark,8445,Cascades,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,6
+TAS,319,Clark,8445,Cascades,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",5
+TAS,319,Clark,8445,Cascades,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8445,Cascades,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8445,Cascades,UG,42066,1,"EDWARDS, Fenella",Independent,5
+TAS,319,Clark,8445,Cascades,ZZ,0,99,INFORMAL,,7
+TAS,319,Clark,8446,Chigwell,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,9
+TAS,319,Clark,8446,Chigwell,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,4
+TAS,319,Clark,8446,Chigwell,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8446,Chigwell,B,42111,0,B Above-the-line Votes,Liberal,130
+TAS,319,Clark,8446,Chigwell,B,40691,1,"CHANDLER, Claire",Liberal,10
+TAS,319,Clark,8446,Chigwell,B,40692,2,"COLBECK, Richard Mansell",Liberal,11
+TAS,319,Clark,8446,Chigwell,B,40693,3,"MARTIN, Jacki",Liberal,1
+TAS,319,Clark,8446,Chigwell,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,35
+TAS,319,Clark,8446,Chigwell,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,10
+TAS,319,Clark,8446,Chigwell,C,41401,2,"KELLY, Matt",Trumpet of Patriots,2
+TAS,319,Clark,8446,Chigwell,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8446,Chigwell,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,48
+TAS,319,Clark,8446,Chigwell,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,3
+TAS,319,Clark,8446,Chigwell,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8446,Chigwell,E,42119,0,E Above-the-line Votes,Animal Justice Party,18
+TAS,319,Clark,8446,Chigwell,E,41753,1,"DAVIES, Casey",Animal Justice Party,2
+TAS,319,Clark,8446,Chigwell,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,1
+TAS,319,Clark,8446,Chigwell,F,42112,0,F Above-the-line Votes,The Greens,100
+TAS,319,Clark,8446,Chigwell,F,41165,1,"McKIM, Nick",The Greens,25
+TAS,319,Clark,8446,Chigwell,F,41168,2,"BLEYER, Vanessa",The Greens,0
+TAS,319,Clark,8446,Chigwell,F,41169,3,"JORDAN, Scott",The Greens,1
+TAS,319,Clark,8446,Chigwell,F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,8446,Chigwell,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,45
+TAS,319,Clark,8446,Chigwell,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,20
+TAS,319,Clark,8446,Chigwell,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8446,Chigwell,H,42120,0,H Above-the-line Votes,Libertarian,7
+TAS,319,Clark,8446,Chigwell,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,8446,Chigwell,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8446,Chigwell,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,48
+TAS,319,Clark,8446,Chigwell,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,10
+TAS,319,Clark,8446,Chigwell,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,1
+TAS,319,Clark,8446,Chigwell,J,42114,0,J Above-the-line Votes,Citizens Party,3
+TAS,319,Clark,8446,Chigwell,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8446,Chigwell,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8446,Chigwell,K,42116,0,K Above-the-line Votes,Australian Labor Party,390
+TAS,319,Clark,8446,Chigwell,K,41721,1,"BROWN, Carol",Australian Labor Party,37
+TAS,319,Clark,8446,Chigwell,K,41722,2,"DOWLING, Richard",Australian Labor Party,3
+TAS,319,Clark,8446,Chigwell,K,41724,3,"FALLS, Bailey",Australian Labor Party,4
+TAS,319,Clark,8446,Chigwell,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,1
+TAS,319,Clark,8446,Chigwell,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,1
+TAS,319,Clark,8446,Chigwell,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,6
+TAS,319,Clark,8446,Chigwell,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",26
+TAS,319,Clark,8446,Chigwell,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8446,Chigwell,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8446,Chigwell,UG,42066,1,"EDWARDS, Fenella",Independent,3
+TAS,319,Clark,8446,Chigwell,ZZ,0,99,INFORMAL,,64
+TAS,319,Clark,8447,Claremont,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,8
+TAS,319,Clark,8447,Claremont,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8447,Claremont,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8447,Claremont,B,42111,0,B Above-the-line Votes,Liberal,109
+TAS,319,Clark,8447,Claremont,B,40691,1,"CHANDLER, Claire",Liberal,8
+TAS,319,Clark,8447,Claremont,B,40692,2,"COLBECK, Richard Mansell",Liberal,8
+TAS,319,Clark,8447,Claremont,B,40693,3,"MARTIN, Jacki",Liberal,7
+TAS,319,Clark,8447,Claremont,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,37
+TAS,319,Clark,8447,Claremont,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,3
+TAS,319,Clark,8447,Claremont,C,41401,2,"KELLY, Matt",Trumpet of Patriots,2
+TAS,319,Clark,8447,Claremont,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8447,Claremont,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,41
+TAS,319,Clark,8447,Claremont,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,12
+TAS,319,Clark,8447,Claremont,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8447,Claremont,E,42119,0,E Above-the-line Votes,Animal Justice Party,13
+TAS,319,Clark,8447,Claremont,E,41753,1,"DAVIES, Casey",Animal Justice Party,2
+TAS,319,Clark,8447,Claremont,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8447,Claremont,F,42112,0,F Above-the-line Votes,The Greens,87
+TAS,319,Clark,8447,Claremont,F,41165,1,"McKIM, Nick",The Greens,22
+TAS,319,Clark,8447,Claremont,F,41168,2,"BLEYER, Vanessa",The Greens,5
+TAS,319,Clark,8447,Claremont,F,41169,3,"JORDAN, Scott",The Greens,2
+TAS,319,Clark,8447,Claremont,F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,8447,Claremont,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,38
+TAS,319,Clark,8447,Claremont,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,13
+TAS,319,Clark,8447,Claremont,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8447,Claremont,H,42120,0,H Above-the-line Votes,Libertarian,4
+TAS,319,Clark,8447,Claremont,H,41698,1,"ABRAHAM, Chrysten",Libertarian,2
+TAS,319,Clark,8447,Claremont,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8447,Claremont,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,32
+TAS,319,Clark,8447,Claremont,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,7
+TAS,319,Clark,8447,Claremont,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8447,Claremont,J,42114,0,J Above-the-line Votes,Citizens Party,4
+TAS,319,Clark,8447,Claremont,J,40837,1,"STAGGARD, Daryl",Citizens Party,1
+TAS,319,Clark,8447,Claremont,J,40840,2,"WILLIAMS, Ray",Citizens Party,1
+TAS,319,Clark,8447,Claremont,K,42116,0,K Above-the-line Votes,Australian Labor Party,352
+TAS,319,Clark,8447,Claremont,K,41721,1,"BROWN, Carol",Australian Labor Party,37
+TAS,319,Clark,8447,Claremont,K,41722,2,"DOWLING, Richard",Australian Labor Party,8
+TAS,319,Clark,8447,Claremont,K,41724,3,"FALLS, Bailey",Australian Labor Party,0
+TAS,319,Clark,8447,Claremont,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,0
+TAS,319,Clark,8447,Claremont,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,2
+TAS,319,Clark,8447,Claremont,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,7
+TAS,319,Clark,8447,Claremont,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",19
+TAS,319,Clark,8447,Claremont,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",3
+TAS,319,Clark,8447,Claremont,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8447,Claremont,UG,42066,1,"EDWARDS, Fenella",Independent,1
+TAS,319,Clark,8447,Claremont,ZZ,0,99,INFORMAL,,39
+TAS,319,Clark,8448,Collinsvale,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,6
+TAS,319,Clark,8448,Collinsvale,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8448,Collinsvale,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8448,Collinsvale,B,42111,0,B Above-the-line Votes,Liberal,35
+TAS,319,Clark,8448,Collinsvale,B,40691,1,"CHANDLER, Claire",Liberal,7
+TAS,319,Clark,8448,Collinsvale,B,40692,2,"COLBECK, Richard Mansell",Liberal,2
+TAS,319,Clark,8448,Collinsvale,B,40693,3,"MARTIN, Jacki",Liberal,3
+TAS,319,Clark,8448,Collinsvale,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,7
+TAS,319,Clark,8448,Collinsvale,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,1
+TAS,319,Clark,8448,Collinsvale,C,41401,2,"KELLY, Matt",Trumpet of Patriots,1
+TAS,319,Clark,8448,Collinsvale,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8448,Collinsvale,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,16
+TAS,319,Clark,8448,Collinsvale,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,1
+TAS,319,Clark,8448,Collinsvale,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8448,Collinsvale,E,42119,0,E Above-the-line Votes,Animal Justice Party,2
+TAS,319,Clark,8448,Collinsvale,E,41753,1,"DAVIES, Casey",Animal Justice Party,2
+TAS,319,Clark,8448,Collinsvale,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8448,Collinsvale,F,42112,0,F Above-the-line Votes,The Greens,60
+TAS,319,Clark,8448,Collinsvale,F,41165,1,"McKIM, Nick",The Greens,32
+TAS,319,Clark,8448,Collinsvale,F,41168,2,"BLEYER, Vanessa",The Greens,5
+TAS,319,Clark,8448,Collinsvale,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,8448,Collinsvale,F,41171,4,"HOARE, Trenton",The Greens,2
+TAS,319,Clark,8448,Collinsvale,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,10
+TAS,319,Clark,8448,Collinsvale,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,7
+TAS,319,Clark,8448,Collinsvale,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8448,Collinsvale,H,42120,0,H Above-the-line Votes,Libertarian,0
+TAS,319,Clark,8448,Collinsvale,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,8448,Collinsvale,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8448,Collinsvale,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,11
+TAS,319,Clark,8448,Collinsvale,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,4
+TAS,319,Clark,8448,Collinsvale,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8448,Collinsvale,J,42114,0,J Above-the-line Votes,Citizens Party,1
+TAS,319,Clark,8448,Collinsvale,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8448,Collinsvale,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8448,Collinsvale,K,42116,0,K Above-the-line Votes,Australian Labor Party,88
+TAS,319,Clark,8448,Collinsvale,K,41721,1,"BROWN, Carol",Australian Labor Party,7
+TAS,319,Clark,8448,Collinsvale,K,41722,2,"DOWLING, Richard",Australian Labor Party,3
+TAS,319,Clark,8448,Collinsvale,K,41724,3,"FALLS, Bailey",Australian Labor Party,2
+TAS,319,Clark,8448,Collinsvale,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,0
+TAS,319,Clark,8448,Collinsvale,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,1
+TAS,319,Clark,8448,Collinsvale,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,0
+TAS,319,Clark,8448,Collinsvale,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",15
+TAS,319,Clark,8448,Collinsvale,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8448,Collinsvale,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",3
+TAS,319,Clark,8448,Collinsvale,UG,42066,1,"EDWARDS, Fenella",Independent,2
+TAS,319,Clark,8448,Collinsvale,ZZ,0,99,INFORMAL,,17
+TAS,319,Clark,8452,New Town West,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,16
+TAS,319,Clark,8452,New Town West,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,7
+TAS,319,Clark,8452,New Town West,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8452,New Town West,B,42111,0,B Above-the-line Votes,Liberal,211
+TAS,319,Clark,8452,New Town West,B,40691,1,"CHANDLER, Claire",Liberal,24
+TAS,319,Clark,8452,New Town West,B,40692,2,"COLBECK, Richard Mansell",Liberal,14
+TAS,319,Clark,8452,New Town West,B,40693,3,"MARTIN, Jacki",Liberal,3
+TAS,319,Clark,8452,New Town West,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,20
+TAS,319,Clark,8452,New Town West,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,5
+TAS,319,Clark,8452,New Town West,C,41401,2,"KELLY, Matt",Trumpet of Patriots,1
+TAS,319,Clark,8452,New Town West,C,41419,3,"SMITH, Greg",Trumpet of Patriots,1
+TAS,319,Clark,8452,New Town West,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,24
+TAS,319,Clark,8452,New Town West,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,6
+TAS,319,Clark,8452,New Town West,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8452,New Town West,E,42119,0,E Above-the-line Votes,Animal Justice Party,13
+TAS,319,Clark,8452,New Town West,E,41753,1,"DAVIES, Casey",Animal Justice Party,5
+TAS,319,Clark,8452,New Town West,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,3
+TAS,319,Clark,8452,New Town West,F,42112,0,F Above-the-line Votes,The Greens,270
+TAS,319,Clark,8452,New Town West,F,41165,1,"McKIM, Nick",The Greens,158
+TAS,319,Clark,8452,New Town West,F,41168,2,"BLEYER, Vanessa",The Greens,12
+TAS,319,Clark,8452,New Town West,F,41169,3,"JORDAN, Scott",The Greens,8
+TAS,319,Clark,8452,New Town West,F,41171,4,"HOARE, Trenton",The Greens,3
+TAS,319,Clark,8452,New Town West,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,45
+TAS,319,Clark,8452,New Town West,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,25
+TAS,319,Clark,8452,New Town West,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8452,New Town West,H,42120,0,H Above-the-line Votes,Libertarian,5
+TAS,319,Clark,8452,New Town West,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,8452,New Town West,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8452,New Town West,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,20
+TAS,319,Clark,8452,New Town West,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,8
+TAS,319,Clark,8452,New Town West,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8452,New Town West,J,42114,0,J Above-the-line Votes,Citizens Party,1
+TAS,319,Clark,8452,New Town West,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8452,New Town West,J,40840,2,"WILLIAMS, Ray",Citizens Party,1
+TAS,319,Clark,8452,New Town West,K,42116,0,K Above-the-line Votes,Australian Labor Party,410
+TAS,319,Clark,8452,New Town West,K,41721,1,"BROWN, Carol",Australian Labor Party,91
+TAS,319,Clark,8452,New Town West,K,41722,2,"DOWLING, Richard",Australian Labor Party,21
+TAS,319,Clark,8452,New Town West,K,41724,3,"FALLS, Bailey",Australian Labor Party,5
+TAS,319,Clark,8452,New Town West,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,4
+TAS,319,Clark,8452,New Town West,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,7
+TAS,319,Clark,8452,New Town West,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,18
+TAS,319,Clark,8452,New Town West,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",11
+TAS,319,Clark,8452,New Town West,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",2
+TAS,319,Clark,8452,New Town West,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8452,New Town West,UG,42066,1,"EDWARDS, Fenella",Independent,3
+TAS,319,Clark,8452,New Town West,ZZ,0,99,INFORMAL,,31
+TAS,319,Clark,8453,Sandy Bay Central,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,6
+TAS,319,Clark,8453,Sandy Bay Central,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,3
+TAS,319,Clark,8453,Sandy Bay Central,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8453,Sandy Bay Central,B,42111,0,B Above-the-line Votes,Liberal,180
+TAS,319,Clark,8453,Sandy Bay Central,B,40691,1,"CHANDLER, Claire",Liberal,23
+TAS,319,Clark,8453,Sandy Bay Central,B,40692,2,"COLBECK, Richard Mansell",Liberal,16
+TAS,319,Clark,8453,Sandy Bay Central,B,40693,3,"MARTIN, Jacki",Liberal,2
+TAS,319,Clark,8453,Sandy Bay Central,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,12
+TAS,319,Clark,8453,Sandy Bay Central,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,2
+TAS,319,Clark,8453,Sandy Bay Central,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,8453,Sandy Bay Central,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8453,Sandy Bay Central,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,9
+TAS,319,Clark,8453,Sandy Bay Central,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,1
+TAS,319,Clark,8453,Sandy Bay Central,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8453,Sandy Bay Central,E,42119,0,E Above-the-line Votes,Animal Justice Party,11
+TAS,319,Clark,8453,Sandy Bay Central,E,41753,1,"DAVIES, Casey",Animal Justice Party,2
+TAS,319,Clark,8453,Sandy Bay Central,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8453,Sandy Bay Central,F,42112,0,F Above-the-line Votes,The Greens,257
+TAS,319,Clark,8453,Sandy Bay Central,F,41165,1,"McKIM, Nick",The Greens,177
+TAS,319,Clark,8453,Sandy Bay Central,F,41168,2,"BLEYER, Vanessa",The Greens,12
+TAS,319,Clark,8453,Sandy Bay Central,F,41169,3,"JORDAN, Scott",The Greens,1
+TAS,319,Clark,8453,Sandy Bay Central,F,41171,4,"HOARE, Trenton",The Greens,3
+TAS,319,Clark,8453,Sandy Bay Central,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,30
+TAS,319,Clark,8453,Sandy Bay Central,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,23
+TAS,319,Clark,8453,Sandy Bay Central,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8453,Sandy Bay Central,H,42120,0,H Above-the-line Votes,Libertarian,7
+TAS,319,Clark,8453,Sandy Bay Central,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,8453,Sandy Bay Central,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8453,Sandy Bay Central,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,9
+TAS,319,Clark,8453,Sandy Bay Central,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,8
+TAS,319,Clark,8453,Sandy Bay Central,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8453,Sandy Bay Central,J,42114,0,J Above-the-line Votes,Citizens Party,1
+TAS,319,Clark,8453,Sandy Bay Central,J,40837,1,"STAGGARD, Daryl",Citizens Party,1
+TAS,319,Clark,8453,Sandy Bay Central,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8453,Sandy Bay Central,K,42116,0,K Above-the-line Votes,Australian Labor Party,268
+TAS,319,Clark,8453,Sandy Bay Central,K,41721,1,"BROWN, Carol",Australian Labor Party,55
+TAS,319,Clark,8453,Sandy Bay Central,K,41722,2,"DOWLING, Richard",Australian Labor Party,10
+TAS,319,Clark,8453,Sandy Bay Central,K,41724,3,"FALLS, Bailey",Australian Labor Party,2
+TAS,319,Clark,8453,Sandy Bay Central,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,0
+TAS,319,Clark,8453,Sandy Bay Central,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,3
+TAS,319,Clark,8453,Sandy Bay Central,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,5
+TAS,319,Clark,8453,Sandy Bay Central,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",3
+TAS,319,Clark,8453,Sandy Bay Central,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",4
+TAS,319,Clark,8453,Sandy Bay Central,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8453,Sandy Bay Central,UG,42066,1,"EDWARDS, Fenella",Independent,1
+TAS,319,Clark,8453,Sandy Bay Central,ZZ,0,99,INFORMAL,,18
+TAS,319,Clark,8456,Fern Tree,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,6
+TAS,319,Clark,8456,Fern Tree,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,2
+TAS,319,Clark,8456,Fern Tree,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8456,Fern Tree,B,42111,0,B Above-the-line Votes,Liberal,27
+TAS,319,Clark,8456,Fern Tree,B,40691,1,"CHANDLER, Claire",Liberal,3
+TAS,319,Clark,8456,Fern Tree,B,40692,2,"COLBECK, Richard Mansell",Liberal,2
+TAS,319,Clark,8456,Fern Tree,B,40693,3,"MARTIN, Jacki",Liberal,0
+TAS,319,Clark,8456,Fern Tree,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,7
+TAS,319,Clark,8456,Fern Tree,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,1
+TAS,319,Clark,8456,Fern Tree,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,8456,Fern Tree,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8456,Fern Tree,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,3
+TAS,319,Clark,8456,Fern Tree,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,4
+TAS,319,Clark,8456,Fern Tree,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8456,Fern Tree,E,42119,0,E Above-the-line Votes,Animal Justice Party,0
+TAS,319,Clark,8456,Fern Tree,E,41753,1,"DAVIES, Casey",Animal Justice Party,1
+TAS,319,Clark,8456,Fern Tree,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,1
+TAS,319,Clark,8456,Fern Tree,F,42112,0,F Above-the-line Votes,The Greens,141
+TAS,319,Clark,8456,Fern Tree,F,41165,1,"McKIM, Nick",The Greens,140
+TAS,319,Clark,8456,Fern Tree,F,41168,2,"BLEYER, Vanessa",The Greens,11
+TAS,319,Clark,8456,Fern Tree,F,41169,3,"JORDAN, Scott",The Greens,3
+TAS,319,Clark,8456,Fern Tree,F,41171,4,"HOARE, Trenton",The Greens,1
+TAS,319,Clark,8456,Fern Tree,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,8
+TAS,319,Clark,8456,Fern Tree,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,12
+TAS,319,Clark,8456,Fern Tree,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8456,Fern Tree,H,42120,0,H Above-the-line Votes,Libertarian,1
+TAS,319,Clark,8456,Fern Tree,H,41698,1,"ABRAHAM, Chrysten",Libertarian,1
+TAS,319,Clark,8456,Fern Tree,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8456,Fern Tree,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,12
+TAS,319,Clark,8456,Fern Tree,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,3
+TAS,319,Clark,8456,Fern Tree,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,1
+TAS,319,Clark,8456,Fern Tree,J,42114,0,J Above-the-line Votes,Citizens Party,0
+TAS,319,Clark,8456,Fern Tree,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8456,Fern Tree,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8456,Fern Tree,K,42116,0,K Above-the-line Votes,Australian Labor Party,87
+TAS,319,Clark,8456,Fern Tree,K,41721,1,"BROWN, Carol",Australian Labor Party,18
+TAS,319,Clark,8456,Fern Tree,K,41722,2,"DOWLING, Richard",Australian Labor Party,3
+TAS,319,Clark,8456,Fern Tree,K,41724,3,"FALLS, Bailey",Australian Labor Party,0
+TAS,319,Clark,8456,Fern Tree,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,1
+TAS,319,Clark,8456,Fern Tree,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,1
+TAS,319,Clark,8456,Fern Tree,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,2
+TAS,319,Clark,8456,Fern Tree,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8456,Fern Tree,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",2
+TAS,319,Clark,8456,Fern Tree,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8456,Fern Tree,UG,42066,1,"EDWARDS, Fenella",Independent,1
+TAS,319,Clark,8456,Fern Tree,ZZ,0,99,INFORMAL,,6
+TAS,319,Clark,8457,Glenorchy,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,36
+TAS,319,Clark,8457,Glenorchy,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,11
+TAS,319,Clark,8457,Glenorchy,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,3
+TAS,319,Clark,8457,Glenorchy,B,42111,0,B Above-the-line Votes,Liberal,268
+TAS,319,Clark,8457,Glenorchy,B,40691,1,"CHANDLER, Claire",Liberal,24
+TAS,319,Clark,8457,Glenorchy,B,40692,2,"COLBECK, Richard Mansell",Liberal,10
+TAS,319,Clark,8457,Glenorchy,B,40693,3,"MARTIN, Jacki",Liberal,2
+TAS,319,Clark,8457,Glenorchy,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,65
+TAS,319,Clark,8457,Glenorchy,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,11
+TAS,319,Clark,8457,Glenorchy,C,41401,2,"KELLY, Matt",Trumpet of Patriots,2
+TAS,319,Clark,8457,Glenorchy,C,41419,3,"SMITH, Greg",Trumpet of Patriots,1
+TAS,319,Clark,8457,Glenorchy,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,76
+TAS,319,Clark,8457,Glenorchy,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,10
+TAS,319,Clark,8457,Glenorchy,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,2
+TAS,319,Clark,8457,Glenorchy,E,42119,0,E Above-the-line Votes,Animal Justice Party,25
+TAS,319,Clark,8457,Glenorchy,E,41753,1,"DAVIES, Casey",Animal Justice Party,5
+TAS,319,Clark,8457,Glenorchy,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8457,Glenorchy,F,42112,0,F Above-the-line Votes,The Greens,197
+TAS,319,Clark,8457,Glenorchy,F,41165,1,"McKIM, Nick",The Greens,72
+TAS,319,Clark,8457,Glenorchy,F,41168,2,"BLEYER, Vanessa",The Greens,7
+TAS,319,Clark,8457,Glenorchy,F,41169,3,"JORDAN, Scott",The Greens,2
+TAS,319,Clark,8457,Glenorchy,F,41171,4,"HOARE, Trenton",The Greens,3
+TAS,319,Clark,8457,Glenorchy,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,91
+TAS,319,Clark,8457,Glenorchy,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,29
+TAS,319,Clark,8457,Glenorchy,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,1
+TAS,319,Clark,8457,Glenorchy,H,42120,0,H Above-the-line Votes,Libertarian,12
+TAS,319,Clark,8457,Glenorchy,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,8457,Glenorchy,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8457,Glenorchy,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,68
+TAS,319,Clark,8457,Glenorchy,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,20
+TAS,319,Clark,8457,Glenorchy,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8457,Glenorchy,J,42114,0,J Above-the-line Votes,Citizens Party,6
+TAS,319,Clark,8457,Glenorchy,J,40837,1,"STAGGARD, Daryl",Citizens Party,2
+TAS,319,Clark,8457,Glenorchy,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8457,Glenorchy,K,42116,0,K Above-the-line Votes,Australian Labor Party,695
+TAS,319,Clark,8457,Glenorchy,K,41721,1,"BROWN, Carol",Australian Labor Party,85
+TAS,319,Clark,8457,Glenorchy,K,41722,2,"DOWLING, Richard",Australian Labor Party,7
+TAS,319,Clark,8457,Glenorchy,K,41724,3,"FALLS, Bailey",Australian Labor Party,6
+TAS,319,Clark,8457,Glenorchy,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,6
+TAS,319,Clark,8457,Glenorchy,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,6
+TAS,319,Clark,8457,Glenorchy,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,15
+TAS,319,Clark,8457,Glenorchy,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",17
+TAS,319,Clark,8457,Glenorchy,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8457,Glenorchy,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",4
+TAS,319,Clark,8457,Glenorchy,UG,42066,1,"EDWARDS, Fenella",Independent,6
+TAS,319,Clark,8457,Glenorchy,ZZ,0,99,INFORMAL,,114
+TAS,319,Clark,8458,Glenorchy Central,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,7
+TAS,319,Clark,8458,Glenorchy Central,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,2
+TAS,319,Clark,8458,Glenorchy Central,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8458,Glenorchy Central,B,42111,0,B Above-the-line Votes,Liberal,54
+TAS,319,Clark,8458,Glenorchy Central,B,40691,1,"CHANDLER, Claire",Liberal,5
+TAS,319,Clark,8458,Glenorchy Central,B,40692,2,"COLBECK, Richard Mansell",Liberal,1
+TAS,319,Clark,8458,Glenorchy Central,B,40693,3,"MARTIN, Jacki",Liberal,1
+TAS,319,Clark,8458,Glenorchy Central,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,14
+TAS,319,Clark,8458,Glenorchy Central,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,0
+TAS,319,Clark,8458,Glenorchy Central,C,41401,2,"KELLY, Matt",Trumpet of Patriots,1
+TAS,319,Clark,8458,Glenorchy Central,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8458,Glenorchy Central,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,18
+TAS,319,Clark,8458,Glenorchy Central,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,1
+TAS,319,Clark,8458,Glenorchy Central,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8458,Glenorchy Central,E,42119,0,E Above-the-line Votes,Animal Justice Party,10
+TAS,319,Clark,8458,Glenorchy Central,E,41753,1,"DAVIES, Casey",Animal Justice Party,1
+TAS,319,Clark,8458,Glenorchy Central,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,1
+TAS,319,Clark,8458,Glenorchy Central,F,42112,0,F Above-the-line Votes,The Greens,78
+TAS,319,Clark,8458,Glenorchy Central,F,41165,1,"McKIM, Nick",The Greens,29
+TAS,319,Clark,8458,Glenorchy Central,F,41168,2,"BLEYER, Vanessa",The Greens,1
+TAS,319,Clark,8458,Glenorchy Central,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,8458,Glenorchy Central,F,41171,4,"HOARE, Trenton",The Greens,1
+TAS,319,Clark,8458,Glenorchy Central,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,12
+TAS,319,Clark,8458,Glenorchy Central,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,4
+TAS,319,Clark,8458,Glenorchy Central,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8458,Glenorchy Central,H,42120,0,H Above-the-line Votes,Libertarian,1
+TAS,319,Clark,8458,Glenorchy Central,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,8458,Glenorchy Central,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8458,Glenorchy Central,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,23
+TAS,319,Clark,8458,Glenorchy Central,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,3
+TAS,319,Clark,8458,Glenorchy Central,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8458,Glenorchy Central,J,42114,0,J Above-the-line Votes,Citizens Party,1
+TAS,319,Clark,8458,Glenorchy Central,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8458,Glenorchy Central,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8458,Glenorchy Central,K,42116,0,K Above-the-line Votes,Australian Labor Party,145
+TAS,319,Clark,8458,Glenorchy Central,K,41721,1,"BROWN, Carol",Australian Labor Party,17
+TAS,319,Clark,8458,Glenorchy Central,K,41722,2,"DOWLING, Richard",Australian Labor Party,5
+TAS,319,Clark,8458,Glenorchy Central,K,41724,3,"FALLS, Bailey",Australian Labor Party,0
+TAS,319,Clark,8458,Glenorchy Central,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,0
+TAS,319,Clark,8458,Glenorchy Central,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,1
+TAS,319,Clark,8458,Glenorchy Central,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,3
+TAS,319,Clark,8458,Glenorchy Central,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",8
+TAS,319,Clark,8458,Glenorchy Central,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",3
+TAS,319,Clark,8458,Glenorchy Central,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8458,Glenorchy Central,UG,42066,1,"EDWARDS, Fenella",Independent,0
+TAS,319,Clark,8458,Glenorchy Central,ZZ,0,99,INFORMAL,,10
+TAS,319,Clark,8459,Derwent Park North,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,8
+TAS,319,Clark,8459,Derwent Park North,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,8459,Derwent Park North,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8459,Derwent Park North,B,42111,0,B Above-the-line Votes,Liberal,33
+TAS,319,Clark,8459,Derwent Park North,B,40691,1,"CHANDLER, Claire",Liberal,3
+TAS,319,Clark,8459,Derwent Park North,B,40692,2,"COLBECK, Richard Mansell",Liberal,2
+TAS,319,Clark,8459,Derwent Park North,B,40693,3,"MARTIN, Jacki",Liberal,2
+TAS,319,Clark,8459,Derwent Park North,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,8
+TAS,319,Clark,8459,Derwent Park North,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,1
+TAS,319,Clark,8459,Derwent Park North,C,41401,2,"KELLY, Matt",Trumpet of Patriots,1
+TAS,319,Clark,8459,Derwent Park North,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8459,Derwent Park North,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,25
+TAS,319,Clark,8459,Derwent Park North,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,2
+TAS,319,Clark,8459,Derwent Park North,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8459,Derwent Park North,E,42119,0,E Above-the-line Votes,Animal Justice Party,4
+TAS,319,Clark,8459,Derwent Park North,E,41753,1,"DAVIES, Casey",Animal Justice Party,1
+TAS,319,Clark,8459,Derwent Park North,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8459,Derwent Park North,F,42112,0,F Above-the-line Votes,The Greens,34
+TAS,319,Clark,8459,Derwent Park North,F,41165,1,"McKIM, Nick",The Greens,22
+TAS,319,Clark,8459,Derwent Park North,F,41168,2,"BLEYER, Vanessa",The Greens,2
+TAS,319,Clark,8459,Derwent Park North,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,8459,Derwent Park North,F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,8459,Derwent Park North,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,11
+TAS,319,Clark,8459,Derwent Park North,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,11
+TAS,319,Clark,8459,Derwent Park North,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8459,Derwent Park North,H,42120,0,H Above-the-line Votes,Libertarian,1
+TAS,319,Clark,8459,Derwent Park North,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,8459,Derwent Park North,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8459,Derwent Park North,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,20
+TAS,319,Clark,8459,Derwent Park North,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,4
+TAS,319,Clark,8459,Derwent Park North,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8459,Derwent Park North,J,42114,0,J Above-the-line Votes,Citizens Party,0
+TAS,319,Clark,8459,Derwent Park North,J,40837,1,"STAGGARD, Daryl",Citizens Party,1
+TAS,319,Clark,8459,Derwent Park North,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8459,Derwent Park North,K,42116,0,K Above-the-line Votes,Australian Labor Party,117
+TAS,319,Clark,8459,Derwent Park North,K,41721,1,"BROWN, Carol",Australian Labor Party,19
+TAS,319,Clark,8459,Derwent Park North,K,41722,2,"DOWLING, Richard",Australian Labor Party,1
+TAS,319,Clark,8459,Derwent Park North,K,41724,3,"FALLS, Bailey",Australian Labor Party,1
+TAS,319,Clark,8459,Derwent Park North,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,1
+TAS,319,Clark,8459,Derwent Park North,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,0
+TAS,319,Clark,8459,Derwent Park North,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,2
+TAS,319,Clark,8459,Derwent Park North,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",3
+TAS,319,Clark,8459,Derwent Park North,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8459,Derwent Park North,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8459,Derwent Park North,UG,42066,1,"EDWARDS, Fenella",Independent,0
+TAS,319,Clark,8459,Derwent Park North,ZZ,0,99,INFORMAL,,13
+TAS,319,Clark,8461,Hobart City (Clark),A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,12
+TAS,319,Clark,8461,Hobart City (Clark),A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,2
+TAS,319,Clark,8461,Hobart City (Clark),A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8461,Hobart City (Clark),B,42111,0,B Above-the-line Votes,Liberal,84
+TAS,319,Clark,8461,Hobart City (Clark),B,40691,1,"CHANDLER, Claire",Liberal,5
+TAS,319,Clark,8461,Hobart City (Clark),B,40692,2,"COLBECK, Richard Mansell",Liberal,2
+TAS,319,Clark,8461,Hobart City (Clark),B,40693,3,"MARTIN, Jacki",Liberal,1
+TAS,319,Clark,8461,Hobart City (Clark),C,42115,0,C Above-the-line Votes,Trumpet of Patriots,10
+TAS,319,Clark,8461,Hobart City (Clark),C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,0
+TAS,319,Clark,8461,Hobart City (Clark),C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,8461,Hobart City (Clark),C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8461,Hobart City (Clark),D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,28
+TAS,319,Clark,8461,Hobart City (Clark),D,40841,1,"OWEN, Matt",Legalise Cannabis Party,4
+TAS,319,Clark,8461,Hobart City (Clark),D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8461,Hobart City (Clark),E,42119,0,E Above-the-line Votes,Animal Justice Party,14
+TAS,319,Clark,8461,Hobart City (Clark),E,41753,1,"DAVIES, Casey",Animal Justice Party,5
+TAS,319,Clark,8461,Hobart City (Clark),E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,1
+TAS,319,Clark,8461,Hobart City (Clark),F,42112,0,F Above-the-line Votes,The Greens,302
+TAS,319,Clark,8461,Hobart City (Clark),F,41165,1,"McKIM, Nick",The Greens,111
+TAS,319,Clark,8461,Hobart City (Clark),F,41168,2,"BLEYER, Vanessa",The Greens,7
+TAS,319,Clark,8461,Hobart City (Clark),F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,8461,Hobart City (Clark),F,41171,4,"HOARE, Trenton",The Greens,1
+TAS,319,Clark,8461,Hobart City (Clark),G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,13
+TAS,319,Clark,8461,Hobart City (Clark),G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,12
+TAS,319,Clark,8461,Hobart City (Clark),G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8461,Hobart City (Clark),H,42120,0,H Above-the-line Votes,Libertarian,6
+TAS,319,Clark,8461,Hobart City (Clark),H,41698,1,"ABRAHAM, Chrysten",Libertarian,2
+TAS,319,Clark,8461,Hobart City (Clark),H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8461,Hobart City (Clark),I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,13
+TAS,319,Clark,8461,Hobart City (Clark),I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,4
+TAS,319,Clark,8461,Hobart City (Clark),I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8461,Hobart City (Clark),J,42114,0,J Above-the-line Votes,Citizens Party,7
+TAS,319,Clark,8461,Hobart City (Clark),J,40837,1,"STAGGARD, Daryl",Citizens Party,2
+TAS,319,Clark,8461,Hobart City (Clark),J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8461,Hobart City (Clark),K,42116,0,K Above-the-line Votes,Australian Labor Party,234
+TAS,319,Clark,8461,Hobart City (Clark),K,41721,1,"BROWN, Carol",Australian Labor Party,37
+TAS,319,Clark,8461,Hobart City (Clark),K,41722,2,"DOWLING, Richard",Australian Labor Party,4
+TAS,319,Clark,8461,Hobart City (Clark),K,41724,3,"FALLS, Bailey",Australian Labor Party,3
+TAS,319,Clark,8461,Hobart City (Clark),K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,0
+TAS,319,Clark,8461,Hobart City (Clark),K,41730,5,"LUCKMAN, Greg",Australian Labor Party,2
+TAS,319,Clark,8461,Hobart City (Clark),K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,3
+TAS,319,Clark,8461,Hobart City (Clark),L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",5
+TAS,319,Clark,8461,Hobart City (Clark),L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",3
+TAS,319,Clark,8461,Hobart City (Clark),L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8461,Hobart City (Clark),UG,42066,1,"EDWARDS, Fenella",Independent,4
+TAS,319,Clark,8461,Hobart City (Clark),ZZ,0,99,INFORMAL,,17
+TAS,319,Clark,8464,South Hobart,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,10
+TAS,319,Clark,8464,South Hobart,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,2
+TAS,319,Clark,8464,South Hobart,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,3
+TAS,319,Clark,8464,South Hobart,B,42111,0,B Above-the-line Votes,Liberal,147
+TAS,319,Clark,8464,South Hobart,B,40691,1,"CHANDLER, Claire",Liberal,21
+TAS,319,Clark,8464,South Hobart,B,40692,2,"COLBECK, Richard Mansell",Liberal,10
+TAS,319,Clark,8464,South Hobart,B,40693,3,"MARTIN, Jacki",Liberal,1
+TAS,319,Clark,8464,South Hobart,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,13
+TAS,319,Clark,8464,South Hobart,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,2
+TAS,319,Clark,8464,South Hobart,C,41401,2,"KELLY, Matt",Trumpet of Patriots,2
+TAS,319,Clark,8464,South Hobart,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8464,South Hobart,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,15
+TAS,319,Clark,8464,South Hobart,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,2
+TAS,319,Clark,8464,South Hobart,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8464,South Hobart,E,42119,0,E Above-the-line Votes,Animal Justice Party,12
+TAS,319,Clark,8464,South Hobart,E,41753,1,"DAVIES, Casey",Animal Justice Party,2
+TAS,319,Clark,8464,South Hobart,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,1
+TAS,319,Clark,8464,South Hobart,F,42112,0,F Above-the-line Votes,The Greens,305
+TAS,319,Clark,8464,South Hobart,F,41165,1,"McKIM, Nick",The Greens,210
+TAS,319,Clark,8464,South Hobart,F,41168,2,"BLEYER, Vanessa",The Greens,16
+TAS,319,Clark,8464,South Hobart,F,41169,3,"JORDAN, Scott",The Greens,3
+TAS,319,Clark,8464,South Hobart,F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,8464,South Hobart,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,30
+TAS,319,Clark,8464,South Hobart,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,25
+TAS,319,Clark,8464,South Hobart,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,1
+TAS,319,Clark,8464,South Hobart,H,42120,0,H Above-the-line Votes,Libertarian,4
+TAS,319,Clark,8464,South Hobart,H,41698,1,"ABRAHAM, Chrysten",Libertarian,1
+TAS,319,Clark,8464,South Hobart,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8464,South Hobart,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,18
+TAS,319,Clark,8464,South Hobart,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,11
+TAS,319,Clark,8464,South Hobart,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8464,South Hobart,J,42114,0,J Above-the-line Votes,Citizens Party,2
+TAS,319,Clark,8464,South Hobart,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8464,South Hobart,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8464,South Hobart,K,42116,0,K Above-the-line Votes,Australian Labor Party,270
+TAS,319,Clark,8464,South Hobart,K,41721,1,"BROWN, Carol",Australian Labor Party,53
+TAS,319,Clark,8464,South Hobart,K,41722,2,"DOWLING, Richard",Australian Labor Party,4
+TAS,319,Clark,8464,South Hobart,K,41724,3,"FALLS, Bailey",Australian Labor Party,1
+TAS,319,Clark,8464,South Hobart,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,3
+TAS,319,Clark,8464,South Hobart,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,2
+TAS,319,Clark,8464,South Hobart,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,5
+TAS,319,Clark,8464,South Hobart,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",5
+TAS,319,Clark,8464,South Hobart,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8464,South Hobart,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8464,South Hobart,UG,42066,1,"EDWARDS, Fenella",Independent,3
+TAS,319,Clark,8464,South Hobart,ZZ,0,99,INFORMAL,,22
+TAS,319,Clark,8465,West Hobart South,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,5
+TAS,319,Clark,8465,West Hobart South,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,4
+TAS,319,Clark,8465,West Hobart South,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,8465,West Hobart South,B,42111,0,B Above-the-line Votes,Liberal,73
+TAS,319,Clark,8465,West Hobart South,B,40691,1,"CHANDLER, Claire",Liberal,15
+TAS,319,Clark,8465,West Hobart South,B,40692,2,"COLBECK, Richard Mansell",Liberal,5
+TAS,319,Clark,8465,West Hobart South,B,40693,3,"MARTIN, Jacki",Liberal,3
+TAS,319,Clark,8465,West Hobart South,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,6
+TAS,319,Clark,8465,West Hobart South,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,0
+TAS,319,Clark,8465,West Hobart South,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,8465,West Hobart South,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8465,West Hobart South,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,12
+TAS,319,Clark,8465,West Hobart South,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,5
+TAS,319,Clark,8465,West Hobart South,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8465,West Hobart South,E,42119,0,E Above-the-line Votes,Animal Justice Party,7
+TAS,319,Clark,8465,West Hobart South,E,41753,1,"DAVIES, Casey",Animal Justice Party,4
+TAS,319,Clark,8465,West Hobart South,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8465,West Hobart South,F,42112,0,F Above-the-line Votes,The Greens,273
+TAS,319,Clark,8465,West Hobart South,F,41165,1,"McKIM, Nick",The Greens,179
+TAS,319,Clark,8465,West Hobart South,F,41168,2,"BLEYER, Vanessa",The Greens,13
+TAS,319,Clark,8465,West Hobart South,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,8465,West Hobart South,F,41171,4,"HOARE, Trenton",The Greens,3
+TAS,319,Clark,8465,West Hobart South,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,16
+TAS,319,Clark,8465,West Hobart South,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,17
+TAS,319,Clark,8465,West Hobart South,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,1
+TAS,319,Clark,8465,West Hobart South,H,42120,0,H Above-the-line Votes,Libertarian,2
+TAS,319,Clark,8465,West Hobart South,H,41698,1,"ABRAHAM, Chrysten",Libertarian,1
+TAS,319,Clark,8465,West Hobart South,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8465,West Hobart South,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,7
+TAS,319,Clark,8465,West Hobart South,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,8
+TAS,319,Clark,8465,West Hobart South,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,1
+TAS,319,Clark,8465,West Hobart South,J,42114,0,J Above-the-line Votes,Citizens Party,1
+TAS,319,Clark,8465,West Hobart South,J,40837,1,"STAGGARD, Daryl",Citizens Party,2
+TAS,319,Clark,8465,West Hobart South,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8465,West Hobart South,K,42116,0,K Above-the-line Votes,Australian Labor Party,206
+TAS,319,Clark,8465,West Hobart South,K,41721,1,"BROWN, Carol",Australian Labor Party,54
+TAS,319,Clark,8465,West Hobart South,K,41722,2,"DOWLING, Richard",Australian Labor Party,8
+TAS,319,Clark,8465,West Hobart South,K,41724,3,"FALLS, Bailey",Australian Labor Party,2
+TAS,319,Clark,8465,West Hobart South,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,2
+TAS,319,Clark,8465,West Hobart South,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,1
+TAS,319,Clark,8465,West Hobart South,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,6
+TAS,319,Clark,8465,West Hobart South,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",6
+TAS,319,Clark,8465,West Hobart South,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8465,West Hobart South,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8465,West Hobart South,UG,42066,1,"EDWARDS, Fenella",Independent,5
+TAS,319,Clark,8465,West Hobart South,ZZ,0,99,INFORMAL,,14
+TAS,319,Clark,8466,West Hobart Central,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,11
+TAS,319,Clark,8466,West Hobart Central,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,5
+TAS,319,Clark,8466,West Hobart Central,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8466,West Hobart Central,B,42111,0,B Above-the-line Votes,Liberal,151
+TAS,319,Clark,8466,West Hobart Central,B,40691,1,"CHANDLER, Claire",Liberal,19
+TAS,319,Clark,8466,West Hobart Central,B,40692,2,"COLBECK, Richard Mansell",Liberal,21
+TAS,319,Clark,8466,West Hobart Central,B,40693,3,"MARTIN, Jacki",Liberal,1
+TAS,319,Clark,8466,West Hobart Central,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,15
+TAS,319,Clark,8466,West Hobart Central,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,2
+TAS,319,Clark,8466,West Hobart Central,C,41401,2,"KELLY, Matt",Trumpet of Patriots,1
+TAS,319,Clark,8466,West Hobart Central,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8466,West Hobart Central,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,37
+TAS,319,Clark,8466,West Hobart Central,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,8
+TAS,319,Clark,8466,West Hobart Central,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8466,West Hobart Central,E,42119,0,E Above-the-line Votes,Animal Justice Party,14
+TAS,319,Clark,8466,West Hobart Central,E,41753,1,"DAVIES, Casey",Animal Justice Party,9
+TAS,319,Clark,8466,West Hobart Central,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8466,West Hobart Central,F,42112,0,F Above-the-line Votes,The Greens,406
+TAS,319,Clark,8466,West Hobart Central,F,41165,1,"McKIM, Nick",The Greens,298
+TAS,319,Clark,8466,West Hobart Central,F,41168,2,"BLEYER, Vanessa",The Greens,15
+TAS,319,Clark,8466,West Hobart Central,F,41169,3,"JORDAN, Scott",The Greens,3
+TAS,319,Clark,8466,West Hobart Central,F,41171,4,"HOARE, Trenton",The Greens,2
+TAS,319,Clark,8466,West Hobart Central,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,36
+TAS,319,Clark,8466,West Hobart Central,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,34
+TAS,319,Clark,8466,West Hobart Central,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8466,West Hobart Central,H,42120,0,H Above-the-line Votes,Libertarian,5
+TAS,319,Clark,8466,West Hobart Central,H,41698,1,"ABRAHAM, Chrysten",Libertarian,1
+TAS,319,Clark,8466,West Hobart Central,H,41701,2,"ARMSTRONG, Nicole",Libertarian,1
+TAS,319,Clark,8466,West Hobart Central,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,33
+TAS,319,Clark,8466,West Hobart Central,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,10
+TAS,319,Clark,8466,West Hobart Central,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8466,West Hobart Central,J,42114,0,J Above-the-line Votes,Citizens Party,5
+TAS,319,Clark,8466,West Hobart Central,J,40837,1,"STAGGARD, Daryl",Citizens Party,1
+TAS,319,Clark,8466,West Hobart Central,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8466,West Hobart Central,K,42116,0,K Above-the-line Votes,Australian Labor Party,396
+TAS,319,Clark,8466,West Hobart Central,K,41721,1,"BROWN, Carol",Australian Labor Party,96
+TAS,319,Clark,8466,West Hobart Central,K,41722,2,"DOWLING, Richard",Australian Labor Party,13
+TAS,319,Clark,8466,West Hobart Central,K,41724,3,"FALLS, Bailey",Australian Labor Party,4
+TAS,319,Clark,8466,West Hobart Central,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,2
+TAS,319,Clark,8466,West Hobart Central,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,6
+TAS,319,Clark,8466,West Hobart Central,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,20
+TAS,319,Clark,8466,West Hobart Central,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",7
+TAS,319,Clark,8466,West Hobart Central,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8466,West Hobart Central,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8466,West Hobart Central,UG,42066,1,"EDWARDS, Fenella",Independent,5
+TAS,319,Clark,8466,West Hobart Central,ZZ,0,99,INFORMAL,,24
+TAS,319,Clark,8467,Lenah Valley,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,22
+TAS,319,Clark,8467,Lenah Valley,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,5
+TAS,319,Clark,8467,Lenah Valley,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8467,Lenah Valley,B,42111,0,B Above-the-line Votes,Liberal,252
+TAS,319,Clark,8467,Lenah Valley,B,40691,1,"CHANDLER, Claire",Liberal,27
+TAS,319,Clark,8467,Lenah Valley,B,40692,2,"COLBECK, Richard Mansell",Liberal,13
+TAS,319,Clark,8467,Lenah Valley,B,40693,3,"MARTIN, Jacki",Liberal,5
+TAS,319,Clark,8467,Lenah Valley,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,18
+TAS,319,Clark,8467,Lenah Valley,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,2
+TAS,319,Clark,8467,Lenah Valley,C,41401,2,"KELLY, Matt",Trumpet of Patriots,1
+TAS,319,Clark,8467,Lenah Valley,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8467,Lenah Valley,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,45
+TAS,319,Clark,8467,Lenah Valley,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,4
+TAS,319,Clark,8467,Lenah Valley,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8467,Lenah Valley,E,42119,0,E Above-the-line Votes,Animal Justice Party,17
+TAS,319,Clark,8467,Lenah Valley,E,41753,1,"DAVIES, Casey",Animal Justice Party,7
+TAS,319,Clark,8467,Lenah Valley,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,1
+TAS,319,Clark,8467,Lenah Valley,F,42112,0,F Above-the-line Votes,The Greens,414
+TAS,319,Clark,8467,Lenah Valley,F,41165,1,"McKIM, Nick",The Greens,283
+TAS,319,Clark,8467,Lenah Valley,F,41168,2,"BLEYER, Vanessa",The Greens,16
+TAS,319,Clark,8467,Lenah Valley,F,41169,3,"JORDAN, Scott",The Greens,1
+TAS,319,Clark,8467,Lenah Valley,F,41171,4,"HOARE, Trenton",The Greens,4
+TAS,319,Clark,8467,Lenah Valley,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,54
+TAS,319,Clark,8467,Lenah Valley,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,35
+TAS,319,Clark,8467,Lenah Valley,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8467,Lenah Valley,H,42120,0,H Above-the-line Votes,Libertarian,7
+TAS,319,Clark,8467,Lenah Valley,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,8467,Lenah Valley,H,41701,2,"ARMSTRONG, Nicole",Libertarian,1
+TAS,319,Clark,8467,Lenah Valley,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,34
+TAS,319,Clark,8467,Lenah Valley,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,11
+TAS,319,Clark,8467,Lenah Valley,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8467,Lenah Valley,J,42114,0,J Above-the-line Votes,Citizens Party,1
+TAS,319,Clark,8467,Lenah Valley,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8467,Lenah Valley,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8467,Lenah Valley,K,42116,0,K Above-the-line Votes,Australian Labor Party,635
+TAS,319,Clark,8467,Lenah Valley,K,41721,1,"BROWN, Carol",Australian Labor Party,133
+TAS,319,Clark,8467,Lenah Valley,K,41722,2,"DOWLING, Richard",Australian Labor Party,15
+TAS,319,Clark,8467,Lenah Valley,K,41724,3,"FALLS, Bailey",Australian Labor Party,5
+TAS,319,Clark,8467,Lenah Valley,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,2
+TAS,319,Clark,8467,Lenah Valley,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,7
+TAS,319,Clark,8467,Lenah Valley,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,23
+TAS,319,Clark,8467,Lenah Valley,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",10
+TAS,319,Clark,8467,Lenah Valley,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8467,Lenah Valley,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8467,Lenah Valley,UG,42066,1,"EDWARDS, Fenella",Independent,8
+TAS,319,Clark,8467,Lenah Valley,ZZ,0,99,INFORMAL,,52
+TAS,319,Clark,8468,Lower Sandy Bay,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,4
+TAS,319,Clark,8468,Lower Sandy Bay,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,8468,Lower Sandy Bay,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8468,Lower Sandy Bay,B,42111,0,B Above-the-line Votes,Liberal,240
+TAS,319,Clark,8468,Lower Sandy Bay,B,40691,1,"CHANDLER, Claire",Liberal,27
+TAS,319,Clark,8468,Lower Sandy Bay,B,40692,2,"COLBECK, Richard Mansell",Liberal,12
+TAS,319,Clark,8468,Lower Sandy Bay,B,40693,3,"MARTIN, Jacki",Liberal,5
+TAS,319,Clark,8468,Lower Sandy Bay,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,18
+TAS,319,Clark,8468,Lower Sandy Bay,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,2
+TAS,319,Clark,8468,Lower Sandy Bay,C,41401,2,"KELLY, Matt",Trumpet of Patriots,1
+TAS,319,Clark,8468,Lower Sandy Bay,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8468,Lower Sandy Bay,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,12
+TAS,319,Clark,8468,Lower Sandy Bay,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,1
+TAS,319,Clark,8468,Lower Sandy Bay,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,1
+TAS,319,Clark,8468,Lower Sandy Bay,E,42119,0,E Above-the-line Votes,Animal Justice Party,4
+TAS,319,Clark,8468,Lower Sandy Bay,E,41753,1,"DAVIES, Casey",Animal Justice Party,1
+TAS,319,Clark,8468,Lower Sandy Bay,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8468,Lower Sandy Bay,F,42112,0,F Above-the-line Votes,The Greens,123
+TAS,319,Clark,8468,Lower Sandy Bay,F,41165,1,"McKIM, Nick",The Greens,41
+TAS,319,Clark,8468,Lower Sandy Bay,F,41168,2,"BLEYER, Vanessa",The Greens,3
+TAS,319,Clark,8468,Lower Sandy Bay,F,41169,3,"JORDAN, Scott",The Greens,1
+TAS,319,Clark,8468,Lower Sandy Bay,F,41171,4,"HOARE, Trenton",The Greens,1
+TAS,319,Clark,8468,Lower Sandy Bay,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,17
+TAS,319,Clark,8468,Lower Sandy Bay,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,9
+TAS,319,Clark,8468,Lower Sandy Bay,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8468,Lower Sandy Bay,H,42120,0,H Above-the-line Votes,Libertarian,0
+TAS,319,Clark,8468,Lower Sandy Bay,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,8468,Lower Sandy Bay,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8468,Lower Sandy Bay,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,13
+TAS,319,Clark,8468,Lower Sandy Bay,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,5
+TAS,319,Clark,8468,Lower Sandy Bay,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8468,Lower Sandy Bay,J,42114,0,J Above-the-line Votes,Citizens Party,1
+TAS,319,Clark,8468,Lower Sandy Bay,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8468,Lower Sandy Bay,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8468,Lower Sandy Bay,K,42116,0,K Above-the-line Votes,Australian Labor Party,174
+TAS,319,Clark,8468,Lower Sandy Bay,K,41721,1,"BROWN, Carol",Australian Labor Party,40
+TAS,319,Clark,8468,Lower Sandy Bay,K,41722,2,"DOWLING, Richard",Australian Labor Party,5
+TAS,319,Clark,8468,Lower Sandy Bay,K,41724,3,"FALLS, Bailey",Australian Labor Party,1
+TAS,319,Clark,8468,Lower Sandy Bay,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,1
+TAS,319,Clark,8468,Lower Sandy Bay,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,0
+TAS,319,Clark,8468,Lower Sandy Bay,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,7
+TAS,319,Clark,8468,Lower Sandy Bay,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",2
+TAS,319,Clark,8468,Lower Sandy Bay,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8468,Lower Sandy Bay,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8468,Lower Sandy Bay,UG,42066,1,"EDWARDS, Fenella",Independent,2
+TAS,319,Clark,8468,Lower Sandy Bay,ZZ,0,99,INFORMAL,,11
+TAS,319,Clark,8471,Moonah,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,13
+TAS,319,Clark,8471,Moonah,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,4
+TAS,319,Clark,8471,Moonah,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,8471,Moonah,B,42111,0,B Above-the-line Votes,Liberal,138
+TAS,319,Clark,8471,Moonah,B,40691,1,"CHANDLER, Claire",Liberal,9
+TAS,319,Clark,8471,Moonah,B,40692,2,"COLBECK, Richard Mansell",Liberal,8
+TAS,319,Clark,8471,Moonah,B,40693,3,"MARTIN, Jacki",Liberal,4
+TAS,319,Clark,8471,Moonah,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,15
+TAS,319,Clark,8471,Moonah,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,3
+TAS,319,Clark,8471,Moonah,C,41401,2,"KELLY, Matt",Trumpet of Patriots,1
+TAS,319,Clark,8471,Moonah,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8471,Moonah,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,32
+TAS,319,Clark,8471,Moonah,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,4
+TAS,319,Clark,8471,Moonah,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8471,Moonah,E,42119,0,E Above-the-line Votes,Animal Justice Party,17
+TAS,319,Clark,8471,Moonah,E,41753,1,"DAVIES, Casey",Animal Justice Party,3
+TAS,319,Clark,8471,Moonah,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,2
+TAS,319,Clark,8471,Moonah,F,42112,0,F Above-the-line Votes,The Greens,220
+TAS,319,Clark,8471,Moonah,F,41165,1,"McKIM, Nick",The Greens,88
+TAS,319,Clark,8471,Moonah,F,41168,2,"BLEYER, Vanessa",The Greens,8
+TAS,319,Clark,8471,Moonah,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,8471,Moonah,F,41171,4,"HOARE, Trenton",The Greens,1
+TAS,319,Clark,8471,Moonah,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,36
+TAS,319,Clark,8471,Moonah,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,19
+TAS,319,Clark,8471,Moonah,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8471,Moonah,H,42120,0,H Above-the-line Votes,Libertarian,1
+TAS,319,Clark,8471,Moonah,H,41698,1,"ABRAHAM, Chrysten",Libertarian,2
+TAS,319,Clark,8471,Moonah,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8471,Moonah,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,26
+TAS,319,Clark,8471,Moonah,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,9
+TAS,319,Clark,8471,Moonah,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8471,Moonah,J,42114,0,J Above-the-line Votes,Citizens Party,2
+TAS,319,Clark,8471,Moonah,J,40837,1,"STAGGARD, Daryl",Citizens Party,1
+TAS,319,Clark,8471,Moonah,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8471,Moonah,K,42116,0,K Above-the-line Votes,Australian Labor Party,337
+TAS,319,Clark,8471,Moonah,K,41721,1,"BROWN, Carol",Australian Labor Party,53
+TAS,319,Clark,8471,Moonah,K,41722,2,"DOWLING, Richard",Australian Labor Party,5
+TAS,319,Clark,8471,Moonah,K,41724,3,"FALLS, Bailey",Australian Labor Party,4
+TAS,319,Clark,8471,Moonah,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,5
+TAS,319,Clark,8471,Moonah,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,0
+TAS,319,Clark,8471,Moonah,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,8
+TAS,319,Clark,8471,Moonah,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",6
+TAS,319,Clark,8471,Moonah,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8471,Moonah,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",4
+TAS,319,Clark,8471,Moonah,UG,42066,1,"EDWARDS, Fenella",Independent,0
+TAS,319,Clark,8471,Moonah,ZZ,0,99,INFORMAL,,30
+TAS,319,Clark,8472,Derwent Park,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,13
+TAS,319,Clark,8472,Derwent Park,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,5
+TAS,319,Clark,8472,Derwent Park,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8472,Derwent Park,B,42111,0,B Above-the-line Votes,Liberal,165
+TAS,319,Clark,8472,Derwent Park,B,40691,1,"CHANDLER, Claire",Liberal,19
+TAS,319,Clark,8472,Derwent Park,B,40692,2,"COLBECK, Richard Mansell",Liberal,3
+TAS,319,Clark,8472,Derwent Park,B,40693,3,"MARTIN, Jacki",Liberal,3
+TAS,319,Clark,8472,Derwent Park,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,31
+TAS,319,Clark,8472,Derwent Park,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,0
+TAS,319,Clark,8472,Derwent Park,C,41401,2,"KELLY, Matt",Trumpet of Patriots,2
+TAS,319,Clark,8472,Derwent Park,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8472,Derwent Park,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,66
+TAS,319,Clark,8472,Derwent Park,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,9
+TAS,319,Clark,8472,Derwent Park,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,1
+TAS,319,Clark,8472,Derwent Park,E,42119,0,E Above-the-line Votes,Animal Justice Party,14
+TAS,319,Clark,8472,Derwent Park,E,41753,1,"DAVIES, Casey",Animal Justice Party,7
+TAS,319,Clark,8472,Derwent Park,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,1
+TAS,319,Clark,8472,Derwent Park,F,42112,0,F Above-the-line Votes,The Greens,255
+TAS,319,Clark,8472,Derwent Park,F,41165,1,"McKIM, Nick",The Greens,111
+TAS,319,Clark,8472,Derwent Park,F,41168,2,"BLEYER, Vanessa",The Greens,12
+TAS,319,Clark,8472,Derwent Park,F,41169,3,"JORDAN, Scott",The Greens,2
+TAS,319,Clark,8472,Derwent Park,F,41171,4,"HOARE, Trenton",The Greens,1
+TAS,319,Clark,8472,Derwent Park,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,48
+TAS,319,Clark,8472,Derwent Park,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,33
+TAS,319,Clark,8472,Derwent Park,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8472,Derwent Park,H,42120,0,H Above-the-line Votes,Libertarian,6
+TAS,319,Clark,8472,Derwent Park,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,8472,Derwent Park,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8472,Derwent Park,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,30
+TAS,319,Clark,8472,Derwent Park,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,9
+TAS,319,Clark,8472,Derwent Park,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8472,Derwent Park,J,42114,0,J Above-the-line Votes,Citizens Party,2
+TAS,319,Clark,8472,Derwent Park,J,40837,1,"STAGGARD, Daryl",Citizens Party,1
+TAS,319,Clark,8472,Derwent Park,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8472,Derwent Park,K,42116,0,K Above-the-line Votes,Australian Labor Party,415
+TAS,319,Clark,8472,Derwent Park,K,41721,1,"BROWN, Carol",Australian Labor Party,62
+TAS,319,Clark,8472,Derwent Park,K,41722,2,"DOWLING, Richard",Australian Labor Party,9
+TAS,319,Clark,8472,Derwent Park,K,41724,3,"FALLS, Bailey",Australian Labor Party,3
+TAS,319,Clark,8472,Derwent Park,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,2
+TAS,319,Clark,8472,Derwent Park,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,6
+TAS,319,Clark,8472,Derwent Park,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,8
+TAS,319,Clark,8472,Derwent Park,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",21
+TAS,319,Clark,8472,Derwent Park,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",2
+TAS,319,Clark,8472,Derwent Park,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8472,Derwent Park,UG,42066,1,"EDWARDS, Fenella",Independent,4
+TAS,319,Clark,8472,Derwent Park,ZZ,0,99,INFORMAL,,52
+TAS,319,Clark,8473,Mount Nelson,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,4
+TAS,319,Clark,8473,Mount Nelson,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,4
+TAS,319,Clark,8473,Mount Nelson,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,8473,Mount Nelson,B,42111,0,B Above-the-line Votes,Liberal,142
+TAS,319,Clark,8473,Mount Nelson,B,40691,1,"CHANDLER, Claire",Liberal,19
+TAS,319,Clark,8473,Mount Nelson,B,40692,2,"COLBECK, Richard Mansell",Liberal,11
+TAS,319,Clark,8473,Mount Nelson,B,40693,3,"MARTIN, Jacki",Liberal,3
+TAS,319,Clark,8473,Mount Nelson,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,14
+TAS,319,Clark,8473,Mount Nelson,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,1
+TAS,319,Clark,8473,Mount Nelson,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,8473,Mount Nelson,C,41419,3,"SMITH, Greg",Trumpet of Patriots,1
+TAS,319,Clark,8473,Mount Nelson,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,10
+TAS,319,Clark,8473,Mount Nelson,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,4
+TAS,319,Clark,8473,Mount Nelson,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8473,Mount Nelson,E,42119,0,E Above-the-line Votes,Animal Justice Party,7
+TAS,319,Clark,8473,Mount Nelson,E,41753,1,"DAVIES, Casey",Animal Justice Party,3
+TAS,319,Clark,8473,Mount Nelson,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8473,Mount Nelson,F,42112,0,F Above-the-line Votes,The Greens,259
+TAS,319,Clark,8473,Mount Nelson,F,41165,1,"McKIM, Nick",The Greens,160
+TAS,319,Clark,8473,Mount Nelson,F,41168,2,"BLEYER, Vanessa",The Greens,11
+TAS,319,Clark,8473,Mount Nelson,F,41169,3,"JORDAN, Scott",The Greens,2
+TAS,319,Clark,8473,Mount Nelson,F,41171,4,"HOARE, Trenton",The Greens,7
+TAS,319,Clark,8473,Mount Nelson,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,26
+TAS,319,Clark,8473,Mount Nelson,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,25
+TAS,319,Clark,8473,Mount Nelson,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,2
+TAS,319,Clark,8473,Mount Nelson,H,42120,0,H Above-the-line Votes,Libertarian,9
+TAS,319,Clark,8473,Mount Nelson,H,41698,1,"ABRAHAM, Chrysten",Libertarian,1
+TAS,319,Clark,8473,Mount Nelson,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8473,Mount Nelson,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,17
+TAS,319,Clark,8473,Mount Nelson,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,6
+TAS,319,Clark,8473,Mount Nelson,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8473,Mount Nelson,J,42114,0,J Above-the-line Votes,Citizens Party,0
+TAS,319,Clark,8473,Mount Nelson,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8473,Mount Nelson,J,40840,2,"WILLIAMS, Ray",Citizens Party,1
+TAS,319,Clark,8473,Mount Nelson,K,42116,0,K Above-the-line Votes,Australian Labor Party,313
+TAS,319,Clark,8473,Mount Nelson,K,41721,1,"BROWN, Carol",Australian Labor Party,62
+TAS,319,Clark,8473,Mount Nelson,K,41722,2,"DOWLING, Richard",Australian Labor Party,12
+TAS,319,Clark,8473,Mount Nelson,K,41724,3,"FALLS, Bailey",Australian Labor Party,3
+TAS,319,Clark,8473,Mount Nelson,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,0
+TAS,319,Clark,8473,Mount Nelson,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,2
+TAS,319,Clark,8473,Mount Nelson,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,6
+TAS,319,Clark,8473,Mount Nelson,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",7
+TAS,319,Clark,8473,Mount Nelson,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8473,Mount Nelson,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8473,Mount Nelson,UG,42066,1,"EDWARDS, Fenella",Independent,4
+TAS,319,Clark,8473,Mount Nelson,ZZ,0,99,INFORMAL,,28
+TAS,319,Clark,8474,Mount Stuart,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,6
+TAS,319,Clark,8474,Mount Stuart,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,5
+TAS,319,Clark,8474,Mount Stuart,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8474,Mount Stuart,B,42111,0,B Above-the-line Votes,Liberal,91
+TAS,319,Clark,8474,Mount Stuart,B,40691,1,"CHANDLER, Claire",Liberal,15
+TAS,319,Clark,8474,Mount Stuart,B,40692,2,"COLBECK, Richard Mansell",Liberal,8
+TAS,319,Clark,8474,Mount Stuart,B,40693,3,"MARTIN, Jacki",Liberal,1
+TAS,319,Clark,8474,Mount Stuart,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,3
+TAS,319,Clark,8474,Mount Stuart,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,3
+TAS,319,Clark,8474,Mount Stuart,C,41401,2,"KELLY, Matt",Trumpet of Patriots,1
+TAS,319,Clark,8474,Mount Stuart,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8474,Mount Stuart,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,9
+TAS,319,Clark,8474,Mount Stuart,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,3
+TAS,319,Clark,8474,Mount Stuart,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8474,Mount Stuart,E,42119,0,E Above-the-line Votes,Animal Justice Party,5
+TAS,319,Clark,8474,Mount Stuart,E,41753,1,"DAVIES, Casey",Animal Justice Party,2
+TAS,319,Clark,8474,Mount Stuart,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8474,Mount Stuart,F,42112,0,F Above-the-line Votes,The Greens,208
+TAS,319,Clark,8474,Mount Stuart,F,41165,1,"McKIM, Nick",The Greens,135
+TAS,319,Clark,8474,Mount Stuart,F,41168,2,"BLEYER, Vanessa",The Greens,8
+TAS,319,Clark,8474,Mount Stuart,F,41169,3,"JORDAN, Scott",The Greens,2
+TAS,319,Clark,8474,Mount Stuart,F,41171,4,"HOARE, Trenton",The Greens,1
+TAS,319,Clark,8474,Mount Stuart,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,15
+TAS,319,Clark,8474,Mount Stuart,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,19
+TAS,319,Clark,8474,Mount Stuart,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8474,Mount Stuart,H,42120,0,H Above-the-line Votes,Libertarian,0
+TAS,319,Clark,8474,Mount Stuart,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,8474,Mount Stuart,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8474,Mount Stuart,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,9
+TAS,319,Clark,8474,Mount Stuart,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,2
+TAS,319,Clark,8474,Mount Stuart,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8474,Mount Stuart,J,42114,0,J Above-the-line Votes,Citizens Party,0
+TAS,319,Clark,8474,Mount Stuart,J,40837,1,"STAGGARD, Daryl",Citizens Party,1
+TAS,319,Clark,8474,Mount Stuart,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8474,Mount Stuart,K,42116,0,K Above-the-line Votes,Australian Labor Party,217
+TAS,319,Clark,8474,Mount Stuart,K,41721,1,"BROWN, Carol",Australian Labor Party,63
+TAS,319,Clark,8474,Mount Stuart,K,41722,2,"DOWLING, Richard",Australian Labor Party,7
+TAS,319,Clark,8474,Mount Stuart,K,41724,3,"FALLS, Bailey",Australian Labor Party,2
+TAS,319,Clark,8474,Mount Stuart,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,2
+TAS,319,Clark,8474,Mount Stuart,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,5
+TAS,319,Clark,8474,Mount Stuart,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,8
+TAS,319,Clark,8474,Mount Stuart,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",2
+TAS,319,Clark,8474,Mount Stuart,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8474,Mount Stuart,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8474,Mount Stuart,UG,42066,1,"EDWARDS, Fenella",Independent,3
+TAS,319,Clark,8474,Mount Stuart,ZZ,0,99,INFORMAL,,12
+TAS,319,Clark,8476,North Hobart,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,5
+TAS,319,Clark,8476,North Hobart,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,8476,North Hobart,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8476,North Hobart,B,42111,0,B Above-the-line Votes,Liberal,96
+TAS,319,Clark,8476,North Hobart,B,40691,1,"CHANDLER, Claire",Liberal,18
+TAS,319,Clark,8476,North Hobart,B,40692,2,"COLBECK, Richard Mansell",Liberal,5
+TAS,319,Clark,8476,North Hobart,B,40693,3,"MARTIN, Jacki",Liberal,2
+TAS,319,Clark,8476,North Hobart,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,6
+TAS,319,Clark,8476,North Hobart,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,3
+TAS,319,Clark,8476,North Hobart,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,8476,North Hobart,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8476,North Hobart,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,4
+TAS,319,Clark,8476,North Hobart,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,2
+TAS,319,Clark,8476,North Hobart,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8476,North Hobart,E,42119,0,E Above-the-line Votes,Animal Justice Party,4
+TAS,319,Clark,8476,North Hobart,E,41753,1,"DAVIES, Casey",Animal Justice Party,1
+TAS,319,Clark,8476,North Hobart,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8476,North Hobart,F,42112,0,F Above-the-line Votes,The Greens,157
+TAS,319,Clark,8476,North Hobart,F,41165,1,"McKIM, Nick",The Greens,92
+TAS,319,Clark,8476,North Hobart,F,41168,2,"BLEYER, Vanessa",The Greens,7
+TAS,319,Clark,8476,North Hobart,F,41169,3,"JORDAN, Scott",The Greens,1
+TAS,319,Clark,8476,North Hobart,F,41171,4,"HOARE, Trenton",The Greens,4
+TAS,319,Clark,8476,North Hobart,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,25
+TAS,319,Clark,8476,North Hobart,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,14
+TAS,319,Clark,8476,North Hobart,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8476,North Hobart,H,42120,0,H Above-the-line Votes,Libertarian,1
+TAS,319,Clark,8476,North Hobart,H,41698,1,"ABRAHAM, Chrysten",Libertarian,1
+TAS,319,Clark,8476,North Hobart,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8476,North Hobart,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,7
+TAS,319,Clark,8476,North Hobart,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,5
+TAS,319,Clark,8476,North Hobart,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8476,North Hobart,J,42114,0,J Above-the-line Votes,Citizens Party,0
+TAS,319,Clark,8476,North Hobart,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8476,North Hobart,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8476,North Hobart,K,42116,0,K Above-the-line Votes,Australian Labor Party,160
+TAS,319,Clark,8476,North Hobart,K,41721,1,"BROWN, Carol",Australian Labor Party,32
+TAS,319,Clark,8476,North Hobart,K,41722,2,"DOWLING, Richard",Australian Labor Party,5
+TAS,319,Clark,8476,North Hobart,K,41724,3,"FALLS, Bailey",Australian Labor Party,3
+TAS,319,Clark,8476,North Hobart,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,1
+TAS,319,Clark,8476,North Hobart,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,5
+TAS,319,Clark,8476,North Hobart,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,9
+TAS,319,Clark,8476,North Hobart,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8476,North Hobart,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8476,North Hobart,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8476,North Hobart,UG,42066,1,"EDWARDS, Fenella",Independent,3
+TAS,319,Clark,8476,North Hobart,ZZ,0,99,INFORMAL,,17
+TAS,319,Clark,8478,Claremont North,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,13
+TAS,319,Clark,8478,Claremont North,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,3
+TAS,319,Clark,8478,Claremont North,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8478,Claremont North,B,42111,0,B Above-the-line Votes,Liberal,70
+TAS,319,Clark,8478,Claremont North,B,40691,1,"CHANDLER, Claire",Liberal,6
+TAS,319,Clark,8478,Claremont North,B,40692,2,"COLBECK, Richard Mansell",Liberal,2
+TAS,319,Clark,8478,Claremont North,B,40693,3,"MARTIN, Jacki",Liberal,1
+TAS,319,Clark,8478,Claremont North,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,18
+TAS,319,Clark,8478,Claremont North,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,4
+TAS,319,Clark,8478,Claremont North,C,41401,2,"KELLY, Matt",Trumpet of Patriots,2
+TAS,319,Clark,8478,Claremont North,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8478,Claremont North,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,41
+TAS,319,Clark,8478,Claremont North,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,3
+TAS,319,Clark,8478,Claremont North,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,1
+TAS,319,Clark,8478,Claremont North,E,42119,0,E Above-the-line Votes,Animal Justice Party,4
+TAS,319,Clark,8478,Claremont North,E,41753,1,"DAVIES, Casey",Animal Justice Party,2
+TAS,319,Clark,8478,Claremont North,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,1
+TAS,319,Clark,8478,Claremont North,F,42112,0,F Above-the-line Votes,The Greens,56
+TAS,319,Clark,8478,Claremont North,F,41165,1,"McKIM, Nick",The Greens,22
+TAS,319,Clark,8478,Claremont North,F,41168,2,"BLEYER, Vanessa",The Greens,2
+TAS,319,Clark,8478,Claremont North,F,41169,3,"JORDAN, Scott",The Greens,1
+TAS,319,Clark,8478,Claremont North,F,41171,4,"HOARE, Trenton",The Greens,1
+TAS,319,Clark,8478,Claremont North,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,35
+TAS,319,Clark,8478,Claremont North,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,14
+TAS,319,Clark,8478,Claremont North,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8478,Claremont North,H,42120,0,H Above-the-line Votes,Libertarian,4
+TAS,319,Clark,8478,Claremont North,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,8478,Claremont North,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8478,Claremont North,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,42
+TAS,319,Clark,8478,Claremont North,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,5
+TAS,319,Clark,8478,Claremont North,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8478,Claremont North,J,42114,0,J Above-the-line Votes,Citizens Party,1
+TAS,319,Clark,8478,Claremont North,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8478,Claremont North,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8478,Claremont North,K,42116,0,K Above-the-line Votes,Australian Labor Party,253
+TAS,319,Clark,8478,Claremont North,K,41721,1,"BROWN, Carol",Australian Labor Party,31
+TAS,319,Clark,8478,Claremont North,K,41722,2,"DOWLING, Richard",Australian Labor Party,1
+TAS,319,Clark,8478,Claremont North,K,41724,3,"FALLS, Bailey",Australian Labor Party,4
+TAS,319,Clark,8478,Claremont North,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,1
+TAS,319,Clark,8478,Claremont North,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,2
+TAS,319,Clark,8478,Claremont North,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,5
+TAS,319,Clark,8478,Claremont North,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",20
+TAS,319,Clark,8478,Claremont North,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",4
+TAS,319,Clark,8478,Claremont North,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8478,Claremont North,UG,42066,1,"EDWARDS, Fenella",Independent,1
+TAS,319,Clark,8478,Claremont North,ZZ,0,99,INFORMAL,,20
+TAS,319,Clark,8481,Hobart,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,4
+TAS,319,Clark,8481,Hobart,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,8481,Hobart,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8481,Hobart,B,42111,0,B Above-the-line Votes,Liberal,30
+TAS,319,Clark,8481,Hobart,B,40691,1,"CHANDLER, Claire",Liberal,3
+TAS,319,Clark,8481,Hobart,B,40692,2,"COLBECK, Richard Mansell",Liberal,1
+TAS,319,Clark,8481,Hobart,B,40693,3,"MARTIN, Jacki",Liberal,0
+TAS,319,Clark,8481,Hobart,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,2
+TAS,319,Clark,8481,Hobart,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,0
+TAS,319,Clark,8481,Hobart,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,8481,Hobart,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8481,Hobart,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,8
+TAS,319,Clark,8481,Hobart,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,2
+TAS,319,Clark,8481,Hobart,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8481,Hobart,E,42119,0,E Above-the-line Votes,Animal Justice Party,2
+TAS,319,Clark,8481,Hobart,E,41753,1,"DAVIES, Casey",Animal Justice Party,0
+TAS,319,Clark,8481,Hobart,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8481,Hobart,F,42112,0,F Above-the-line Votes,The Greens,56
+TAS,319,Clark,8481,Hobart,F,41165,1,"McKIM, Nick",The Greens,35
+TAS,319,Clark,8481,Hobart,F,41168,2,"BLEYER, Vanessa",The Greens,2
+TAS,319,Clark,8481,Hobart,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,8481,Hobart,F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,8481,Hobart,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,7
+TAS,319,Clark,8481,Hobart,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,3
+TAS,319,Clark,8481,Hobart,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8481,Hobart,H,42120,0,H Above-the-line Votes,Libertarian,0
+TAS,319,Clark,8481,Hobart,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,8481,Hobart,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8481,Hobart,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,4
+TAS,319,Clark,8481,Hobart,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,0
+TAS,319,Clark,8481,Hobart,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8481,Hobart,J,42114,0,J Above-the-line Votes,Citizens Party,0
+TAS,319,Clark,8481,Hobart,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8481,Hobart,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8481,Hobart,K,42116,0,K Above-the-line Votes,Australian Labor Party,71
+TAS,319,Clark,8481,Hobart,K,41721,1,"BROWN, Carol",Australian Labor Party,14
+TAS,319,Clark,8481,Hobart,K,41722,2,"DOWLING, Richard",Australian Labor Party,3
+TAS,319,Clark,8481,Hobart,K,41724,3,"FALLS, Bailey",Australian Labor Party,1
+TAS,319,Clark,8481,Hobart,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,2
+TAS,319,Clark,8481,Hobart,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,1
+TAS,319,Clark,8481,Hobart,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,0
+TAS,319,Clark,8481,Hobart,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",4
+TAS,319,Clark,8481,Hobart,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8481,Hobart,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8481,Hobart,UG,42066,1,"EDWARDS, Fenella",Independent,2
+TAS,319,Clark,8481,Hobart,ZZ,0,99,INFORMAL,,6
+TAS,319,Clark,8482,Sandy Bay,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,12
+TAS,319,Clark,8482,Sandy Bay,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,2
+TAS,319,Clark,8482,Sandy Bay,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,2
+TAS,319,Clark,8482,Sandy Bay,B,42111,0,B Above-the-line Votes,Liberal,251
+TAS,319,Clark,8482,Sandy Bay,B,40691,1,"CHANDLER, Claire",Liberal,42
+TAS,319,Clark,8482,Sandy Bay,B,40692,2,"COLBECK, Richard Mansell",Liberal,19
+TAS,319,Clark,8482,Sandy Bay,B,40693,3,"MARTIN, Jacki",Liberal,5
+TAS,319,Clark,8482,Sandy Bay,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,15
+TAS,319,Clark,8482,Sandy Bay,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,2
+TAS,319,Clark,8482,Sandy Bay,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,8482,Sandy Bay,C,41419,3,"SMITH, Greg",Trumpet of Patriots,1
+TAS,319,Clark,8482,Sandy Bay,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,26
+TAS,319,Clark,8482,Sandy Bay,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,1
+TAS,319,Clark,8482,Sandy Bay,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8482,Sandy Bay,E,42119,0,E Above-the-line Votes,Animal Justice Party,7
+TAS,319,Clark,8482,Sandy Bay,E,41753,1,"DAVIES, Casey",Animal Justice Party,2
+TAS,319,Clark,8482,Sandy Bay,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8482,Sandy Bay,F,42112,0,F Above-the-line Votes,The Greens,218
+TAS,319,Clark,8482,Sandy Bay,F,41165,1,"McKIM, Nick",The Greens,92
+TAS,319,Clark,8482,Sandy Bay,F,41168,2,"BLEYER, Vanessa",The Greens,3
+TAS,319,Clark,8482,Sandy Bay,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,8482,Sandy Bay,F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,8482,Sandy Bay,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,34
+TAS,319,Clark,8482,Sandy Bay,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,31
+TAS,319,Clark,8482,Sandy Bay,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8482,Sandy Bay,H,42120,0,H Above-the-line Votes,Libertarian,4
+TAS,319,Clark,8482,Sandy Bay,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,8482,Sandy Bay,H,41701,2,"ARMSTRONG, Nicole",Libertarian,1
+TAS,319,Clark,8482,Sandy Bay,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,17
+TAS,319,Clark,8482,Sandy Bay,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,19
+TAS,319,Clark,8482,Sandy Bay,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8482,Sandy Bay,J,42114,0,J Above-the-line Votes,Citizens Party,2
+TAS,319,Clark,8482,Sandy Bay,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8482,Sandy Bay,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8482,Sandy Bay,K,42116,0,K Above-the-line Votes,Australian Labor Party,305
+TAS,319,Clark,8482,Sandy Bay,K,41721,1,"BROWN, Carol",Australian Labor Party,60
+TAS,319,Clark,8482,Sandy Bay,K,41722,2,"DOWLING, Richard",Australian Labor Party,3
+TAS,319,Clark,8482,Sandy Bay,K,41724,3,"FALLS, Bailey",Australian Labor Party,6
+TAS,319,Clark,8482,Sandy Bay,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,1
+TAS,319,Clark,8482,Sandy Bay,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,3
+TAS,319,Clark,8482,Sandy Bay,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,5
+TAS,319,Clark,8482,Sandy Bay,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",4
+TAS,319,Clark,8482,Sandy Bay,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8482,Sandy Bay,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8482,Sandy Bay,UG,42066,1,"EDWARDS, Fenella",Independent,3
+TAS,319,Clark,8482,Sandy Bay,ZZ,0,99,INFORMAL,,28
+TAS,319,Clark,8483,Sandy Bay Beach,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,8483,Sandy Bay Beach,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,8483,Sandy Bay Beach,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8483,Sandy Bay Beach,B,42111,0,B Above-the-line Votes,Liberal,216
+TAS,319,Clark,8483,Sandy Bay Beach,B,40691,1,"CHANDLER, Claire",Liberal,28
+TAS,319,Clark,8483,Sandy Bay Beach,B,40692,2,"COLBECK, Richard Mansell",Liberal,6
+TAS,319,Clark,8483,Sandy Bay Beach,B,40693,3,"MARTIN, Jacki",Liberal,3
+TAS,319,Clark,8483,Sandy Bay Beach,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,10
+TAS,319,Clark,8483,Sandy Bay Beach,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,0
+TAS,319,Clark,8483,Sandy Bay Beach,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,8483,Sandy Bay Beach,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8483,Sandy Bay Beach,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,3
+TAS,319,Clark,8483,Sandy Bay Beach,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,1
+TAS,319,Clark,8483,Sandy Bay Beach,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8483,Sandy Bay Beach,E,42119,0,E Above-the-line Votes,Animal Justice Party,3
+TAS,319,Clark,8483,Sandy Bay Beach,E,41753,1,"DAVIES, Casey",Animal Justice Party,1
+TAS,319,Clark,8483,Sandy Bay Beach,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8483,Sandy Bay Beach,F,42112,0,F Above-the-line Votes,The Greens,67
+TAS,319,Clark,8483,Sandy Bay Beach,F,41165,1,"McKIM, Nick",The Greens,41
+TAS,319,Clark,8483,Sandy Bay Beach,F,41168,2,"BLEYER, Vanessa",The Greens,4
+TAS,319,Clark,8483,Sandy Bay Beach,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,8483,Sandy Bay Beach,F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,8483,Sandy Bay Beach,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,22
+TAS,319,Clark,8483,Sandy Bay Beach,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,15
+TAS,319,Clark,8483,Sandy Bay Beach,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8483,Sandy Bay Beach,H,42120,0,H Above-the-line Votes,Libertarian,0
+TAS,319,Clark,8483,Sandy Bay Beach,H,41698,1,"ABRAHAM, Chrysten",Libertarian,1
+TAS,319,Clark,8483,Sandy Bay Beach,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8483,Sandy Bay Beach,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,6
+TAS,319,Clark,8483,Sandy Bay Beach,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,4
+TAS,319,Clark,8483,Sandy Bay Beach,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8483,Sandy Bay Beach,J,42114,0,J Above-the-line Votes,Citizens Party,1
+TAS,319,Clark,8483,Sandy Bay Beach,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8483,Sandy Bay Beach,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8483,Sandy Bay Beach,K,42116,0,K Above-the-line Votes,Australian Labor Party,122
+TAS,319,Clark,8483,Sandy Bay Beach,K,41721,1,"BROWN, Carol",Australian Labor Party,26
+TAS,319,Clark,8483,Sandy Bay Beach,K,41722,2,"DOWLING, Richard",Australian Labor Party,3
+TAS,319,Clark,8483,Sandy Bay Beach,K,41724,3,"FALLS, Bailey",Australian Labor Party,0
+TAS,319,Clark,8483,Sandy Bay Beach,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,1
+TAS,319,Clark,8483,Sandy Bay Beach,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,0
+TAS,319,Clark,8483,Sandy Bay Beach,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,1
+TAS,319,Clark,8483,Sandy Bay Beach,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",2
+TAS,319,Clark,8483,Sandy Bay Beach,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",2
+TAS,319,Clark,8483,Sandy Bay Beach,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8483,Sandy Bay Beach,UG,42066,1,"EDWARDS, Fenella",Independent,2
+TAS,319,Clark,8483,Sandy Bay Beach,ZZ,0,99,INFORMAL,,13
+TAS,319,Clark,8484,North Hobart Central,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,8
+TAS,319,Clark,8484,North Hobart Central,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,6
+TAS,319,Clark,8484,North Hobart Central,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,8484,North Hobart Central,B,42111,0,B Above-the-line Votes,Liberal,137
+TAS,319,Clark,8484,North Hobart Central,B,40691,1,"CHANDLER, Claire",Liberal,10
+TAS,319,Clark,8484,North Hobart Central,B,40692,2,"COLBECK, Richard Mansell",Liberal,6
+TAS,319,Clark,8484,North Hobart Central,B,40693,3,"MARTIN, Jacki",Liberal,3
+TAS,319,Clark,8484,North Hobart Central,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,11
+TAS,319,Clark,8484,North Hobart Central,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,2
+TAS,319,Clark,8484,North Hobart Central,C,41401,2,"KELLY, Matt",Trumpet of Patriots,1
+TAS,319,Clark,8484,North Hobart Central,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8484,North Hobart Central,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,26
+TAS,319,Clark,8484,North Hobart Central,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,5
+TAS,319,Clark,8484,North Hobart Central,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8484,North Hobart Central,E,42119,0,E Above-the-line Votes,Animal Justice Party,12
+TAS,319,Clark,8484,North Hobart Central,E,41753,1,"DAVIES, Casey",Animal Justice Party,7
+TAS,319,Clark,8484,North Hobart Central,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,2
+TAS,319,Clark,8484,North Hobart Central,F,42112,0,F Above-the-line Votes,The Greens,310
+TAS,319,Clark,8484,North Hobart Central,F,41165,1,"McKIM, Nick",The Greens,186
+TAS,319,Clark,8484,North Hobart Central,F,41168,2,"BLEYER, Vanessa",The Greens,16
+TAS,319,Clark,8484,North Hobart Central,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,8484,North Hobart Central,F,41171,4,"HOARE, Trenton",The Greens,4
+TAS,319,Clark,8484,North Hobart Central,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,32
+TAS,319,Clark,8484,North Hobart Central,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,31
+TAS,319,Clark,8484,North Hobart Central,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,1
+TAS,319,Clark,8484,North Hobart Central,H,42120,0,H Above-the-line Votes,Libertarian,4
+TAS,319,Clark,8484,North Hobart Central,H,41698,1,"ABRAHAM, Chrysten",Libertarian,2
+TAS,319,Clark,8484,North Hobart Central,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8484,North Hobart Central,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,21
+TAS,319,Clark,8484,North Hobart Central,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,9
+TAS,319,Clark,8484,North Hobart Central,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,1
+TAS,319,Clark,8484,North Hobart Central,J,42114,0,J Above-the-line Votes,Citizens Party,4
+TAS,319,Clark,8484,North Hobart Central,J,40837,1,"STAGGARD, Daryl",Citizens Party,1
+TAS,319,Clark,8484,North Hobart Central,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8484,North Hobart Central,K,42116,0,K Above-the-line Votes,Australian Labor Party,342
+TAS,319,Clark,8484,North Hobart Central,K,41721,1,"BROWN, Carol",Australian Labor Party,61
+TAS,319,Clark,8484,North Hobart Central,K,41722,2,"DOWLING, Richard",Australian Labor Party,9
+TAS,319,Clark,8484,North Hobart Central,K,41724,3,"FALLS, Bailey",Australian Labor Party,4
+TAS,319,Clark,8484,North Hobart Central,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,2
+TAS,319,Clark,8484,North Hobart Central,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,4
+TAS,319,Clark,8484,North Hobart Central,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,5
+TAS,319,Clark,8484,North Hobart Central,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",5
+TAS,319,Clark,8484,North Hobart Central,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8484,North Hobart Central,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8484,North Hobart Central,UG,42066,1,"EDWARDS, Fenella",Independent,7
+TAS,319,Clark,8484,North Hobart Central,ZZ,0,99,INFORMAL,,22
+TAS,319,Clark,8485,Glenorchy West,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,22
+TAS,319,Clark,8485,Glenorchy West,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,8
+TAS,319,Clark,8485,Glenorchy West,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8485,Glenorchy West,B,42111,0,B Above-the-line Votes,Liberal,163
+TAS,319,Clark,8485,Glenorchy West,B,40691,1,"CHANDLER, Claire",Liberal,24
+TAS,319,Clark,8485,Glenorchy West,B,40692,2,"COLBECK, Richard Mansell",Liberal,10
+TAS,319,Clark,8485,Glenorchy West,B,40693,3,"MARTIN, Jacki",Liberal,2
+TAS,319,Clark,8485,Glenorchy West,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,46
+TAS,319,Clark,8485,Glenorchy West,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,6
+TAS,319,Clark,8485,Glenorchy West,C,41401,2,"KELLY, Matt",Trumpet of Patriots,1
+TAS,319,Clark,8485,Glenorchy West,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8485,Glenorchy West,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,74
+TAS,319,Clark,8485,Glenorchy West,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,12
+TAS,319,Clark,8485,Glenorchy West,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,1
+TAS,319,Clark,8485,Glenorchy West,E,42119,0,E Above-the-line Votes,Animal Justice Party,19
+TAS,319,Clark,8485,Glenorchy West,E,41753,1,"DAVIES, Casey",Animal Justice Party,4
+TAS,319,Clark,8485,Glenorchy West,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8485,Glenorchy West,F,42112,0,F Above-the-line Votes,The Greens,195
+TAS,319,Clark,8485,Glenorchy West,F,41165,1,"McKIM, Nick",The Greens,51
+TAS,319,Clark,8485,Glenorchy West,F,41168,2,"BLEYER, Vanessa",The Greens,8
+TAS,319,Clark,8485,Glenorchy West,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,8485,Glenorchy West,F,41171,4,"HOARE, Trenton",The Greens,1
+TAS,319,Clark,8485,Glenorchy West,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,51
+TAS,319,Clark,8485,Glenorchy West,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,19
+TAS,319,Clark,8485,Glenorchy West,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8485,Glenorchy West,H,42120,0,H Above-the-line Votes,Libertarian,10
+TAS,319,Clark,8485,Glenorchy West,H,41698,1,"ABRAHAM, Chrysten",Libertarian,1
+TAS,319,Clark,8485,Glenorchy West,H,41701,2,"ARMSTRONG, Nicole",Libertarian,1
+TAS,319,Clark,8485,Glenorchy West,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,48
+TAS,319,Clark,8485,Glenorchy West,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,9
+TAS,319,Clark,8485,Glenorchy West,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,1
+TAS,319,Clark,8485,Glenorchy West,J,42114,0,J Above-the-line Votes,Citizens Party,7
+TAS,319,Clark,8485,Glenorchy West,J,40837,1,"STAGGARD, Daryl",Citizens Party,1
+TAS,319,Clark,8485,Glenorchy West,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8485,Glenorchy West,K,42116,0,K Above-the-line Votes,Australian Labor Party,517
+TAS,319,Clark,8485,Glenorchy West,K,41721,1,"BROWN, Carol",Australian Labor Party,67
+TAS,319,Clark,8485,Glenorchy West,K,41722,2,"DOWLING, Richard",Australian Labor Party,7
+TAS,319,Clark,8485,Glenorchy West,K,41724,3,"FALLS, Bailey",Australian Labor Party,4
+TAS,319,Clark,8485,Glenorchy West,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,0
+TAS,319,Clark,8485,Glenorchy West,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,3
+TAS,319,Clark,8485,Glenorchy West,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,3
+TAS,319,Clark,8485,Glenorchy West,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",10
+TAS,319,Clark,8485,Glenorchy West,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",7
+TAS,319,Clark,8485,Glenorchy West,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8485,Glenorchy West,UG,42066,1,"EDWARDS, Fenella",Independent,7
+TAS,319,Clark,8485,Glenorchy West,ZZ,0,99,INFORMAL,,81
+TAS,319,Clark,8486,Sandy Bay South,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,5
+TAS,319,Clark,8486,Sandy Bay South,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,2
+TAS,319,Clark,8486,Sandy Bay South,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,8486,Sandy Bay South,B,42111,0,B Above-the-line Votes,Liberal,279
+TAS,319,Clark,8486,Sandy Bay South,B,40691,1,"CHANDLER, Claire",Liberal,37
+TAS,319,Clark,8486,Sandy Bay South,B,40692,2,"COLBECK, Richard Mansell",Liberal,11
+TAS,319,Clark,8486,Sandy Bay South,B,40693,3,"MARTIN, Jacki",Liberal,7
+TAS,319,Clark,8486,Sandy Bay South,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,8
+TAS,319,Clark,8486,Sandy Bay South,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,1
+TAS,319,Clark,8486,Sandy Bay South,C,41401,2,"KELLY, Matt",Trumpet of Patriots,1
+TAS,319,Clark,8486,Sandy Bay South,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8486,Sandy Bay South,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,17
+TAS,319,Clark,8486,Sandy Bay South,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,1
+TAS,319,Clark,8486,Sandy Bay South,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8486,Sandy Bay South,E,42119,0,E Above-the-line Votes,Animal Justice Party,12
+TAS,319,Clark,8486,Sandy Bay South,E,41753,1,"DAVIES, Casey",Animal Justice Party,1
+TAS,319,Clark,8486,Sandy Bay South,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8486,Sandy Bay South,F,42112,0,F Above-the-line Votes,The Greens,181
+TAS,319,Clark,8486,Sandy Bay South,F,41165,1,"McKIM, Nick",The Greens,91
+TAS,319,Clark,8486,Sandy Bay South,F,41168,2,"BLEYER, Vanessa",The Greens,10
+TAS,319,Clark,8486,Sandy Bay South,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,8486,Sandy Bay South,F,41171,4,"HOARE, Trenton",The Greens,1
+TAS,319,Clark,8486,Sandy Bay South,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,25
+TAS,319,Clark,8486,Sandy Bay South,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,22
+TAS,319,Clark,8486,Sandy Bay South,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8486,Sandy Bay South,H,42120,0,H Above-the-line Votes,Libertarian,6
+TAS,319,Clark,8486,Sandy Bay South,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,8486,Sandy Bay South,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8486,Sandy Bay South,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,6
+TAS,319,Clark,8486,Sandy Bay South,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,5
+TAS,319,Clark,8486,Sandy Bay South,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,1
+TAS,319,Clark,8486,Sandy Bay South,J,42114,0,J Above-the-line Votes,Citizens Party,1
+TAS,319,Clark,8486,Sandy Bay South,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8486,Sandy Bay South,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8486,Sandy Bay South,K,42116,0,K Above-the-line Votes,Australian Labor Party,254
+TAS,319,Clark,8486,Sandy Bay South,K,41721,1,"BROWN, Carol",Australian Labor Party,46
+TAS,319,Clark,8486,Sandy Bay South,K,41722,2,"DOWLING, Richard",Australian Labor Party,12
+TAS,319,Clark,8486,Sandy Bay South,K,41724,3,"FALLS, Bailey",Australian Labor Party,2
+TAS,319,Clark,8486,Sandy Bay South,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,0
+TAS,319,Clark,8486,Sandy Bay South,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,2
+TAS,319,Clark,8486,Sandy Bay South,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,4
+TAS,319,Clark,8486,Sandy Bay South,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",5
+TAS,319,Clark,8486,Sandy Bay South,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8486,Sandy Bay South,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8486,Sandy Bay South,UG,42066,1,"EDWARDS, Fenella",Independent,4
+TAS,319,Clark,8486,Sandy Bay South,ZZ,0,99,INFORMAL,,19
+TAS,319,Clark,8487,Claremont South,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,25
+TAS,319,Clark,8487,Claremont South,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,9
+TAS,319,Clark,8487,Claremont South,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,8487,Claremont South,B,42111,0,B Above-the-line Votes,Liberal,201
+TAS,319,Clark,8487,Claremont South,B,40691,1,"CHANDLER, Claire",Liberal,14
+TAS,319,Clark,8487,Claremont South,B,40692,2,"COLBECK, Richard Mansell",Liberal,7
+TAS,319,Clark,8487,Claremont South,B,40693,3,"MARTIN, Jacki",Liberal,7
+TAS,319,Clark,8487,Claremont South,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,65
+TAS,319,Clark,8487,Claremont South,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,3
+TAS,319,Clark,8487,Claremont South,C,41401,2,"KELLY, Matt",Trumpet of Patriots,2
+TAS,319,Clark,8487,Claremont South,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8487,Claremont South,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,62
+TAS,319,Clark,8487,Claremont South,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,10
+TAS,319,Clark,8487,Claremont South,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8487,Claremont South,E,42119,0,E Above-the-line Votes,Animal Justice Party,25
+TAS,319,Clark,8487,Claremont South,E,41753,1,"DAVIES, Casey",Animal Justice Party,2
+TAS,319,Clark,8487,Claremont South,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,1
+TAS,319,Clark,8487,Claremont South,F,42112,0,F Above-the-line Votes,The Greens,131
+TAS,319,Clark,8487,Claremont South,F,41165,1,"McKIM, Nick",The Greens,61
+TAS,319,Clark,8487,Claremont South,F,41168,2,"BLEYER, Vanessa",The Greens,5
+TAS,319,Clark,8487,Claremont South,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,8487,Claremont South,F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,8487,Claremont South,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,71
+TAS,319,Clark,8487,Claremont South,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,26
+TAS,319,Clark,8487,Claremont South,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8487,Claremont South,H,42120,0,H Above-the-line Votes,Libertarian,3
+TAS,319,Clark,8487,Claremont South,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,8487,Claremont South,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8487,Claremont South,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,70
+TAS,319,Clark,8487,Claremont South,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,20
+TAS,319,Clark,8487,Claremont South,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,1
+TAS,319,Clark,8487,Claremont South,J,42114,0,J Above-the-line Votes,Citizens Party,5
+TAS,319,Clark,8487,Claremont South,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8487,Claremont South,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8487,Claremont South,K,42116,0,K Above-the-line Votes,Australian Labor Party,488
+TAS,319,Clark,8487,Claremont South,K,41721,1,"BROWN, Carol",Australian Labor Party,54
+TAS,319,Clark,8487,Claremont South,K,41722,2,"DOWLING, Richard",Australian Labor Party,5
+TAS,319,Clark,8487,Claremont South,K,41724,3,"FALLS, Bailey",Australian Labor Party,3
+TAS,319,Clark,8487,Claremont South,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,3
+TAS,319,Clark,8487,Claremont South,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,5
+TAS,319,Clark,8487,Claremont South,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,9
+TAS,319,Clark,8487,Claremont South,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",19
+TAS,319,Clark,8487,Claremont South,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",6
+TAS,319,Clark,8487,Claremont South,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8487,Claremont South,UG,42066,1,"EDWARDS, Fenella",Independent,3
+TAS,319,Clark,8487,Claremont South,ZZ,0,99,INFORMAL,,57
+TAS,319,Clark,8495,Austins Ferry,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,11
+TAS,319,Clark,8495,Austins Ferry,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,2
+TAS,319,Clark,8495,Austins Ferry,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,8495,Austins Ferry,B,42111,0,B Above-the-line Votes,Liberal,280
+TAS,319,Clark,8495,Austins Ferry,B,40691,1,"CHANDLER, Claire",Liberal,27
+TAS,319,Clark,8495,Austins Ferry,B,40692,2,"COLBECK, Richard Mansell",Liberal,5
+TAS,319,Clark,8495,Austins Ferry,B,40693,3,"MARTIN, Jacki",Liberal,2
+TAS,319,Clark,8495,Austins Ferry,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,59
+TAS,319,Clark,8495,Austins Ferry,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,3
+TAS,319,Clark,8495,Austins Ferry,C,41401,2,"KELLY, Matt",Trumpet of Patriots,5
+TAS,319,Clark,8495,Austins Ferry,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8495,Austins Ferry,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,34
+TAS,319,Clark,8495,Austins Ferry,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,3
+TAS,319,Clark,8495,Austins Ferry,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,8495,Austins Ferry,E,42119,0,E Above-the-line Votes,Animal Justice Party,20
+TAS,319,Clark,8495,Austins Ferry,E,41753,1,"DAVIES, Casey",Animal Justice Party,0
+TAS,319,Clark,8495,Austins Ferry,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,1
+TAS,319,Clark,8495,Austins Ferry,F,42112,0,F Above-the-line Votes,The Greens,106
+TAS,319,Clark,8495,Austins Ferry,F,41165,1,"McKIM, Nick",The Greens,44
+TAS,319,Clark,8495,Austins Ferry,F,41168,2,"BLEYER, Vanessa",The Greens,6
+TAS,319,Clark,8495,Austins Ferry,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,8495,Austins Ferry,F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,8495,Austins Ferry,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,64
+TAS,319,Clark,8495,Austins Ferry,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,17
+TAS,319,Clark,8495,Austins Ferry,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8495,Austins Ferry,H,42120,0,H Above-the-line Votes,Libertarian,5
+TAS,319,Clark,8495,Austins Ferry,H,41698,1,"ABRAHAM, Chrysten",Libertarian,2
+TAS,319,Clark,8495,Austins Ferry,H,41701,2,"ARMSTRONG, Nicole",Libertarian,2
+TAS,319,Clark,8495,Austins Ferry,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,53
+TAS,319,Clark,8495,Austins Ferry,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,9
+TAS,319,Clark,8495,Austins Ferry,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8495,Austins Ferry,J,42114,0,J Above-the-line Votes,Citizens Party,1
+TAS,319,Clark,8495,Austins Ferry,J,40837,1,"STAGGARD, Daryl",Citizens Party,1
+TAS,319,Clark,8495,Austins Ferry,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8495,Austins Ferry,K,42116,0,K Above-the-line Votes,Australian Labor Party,546
+TAS,319,Clark,8495,Austins Ferry,K,41721,1,"BROWN, Carol",Australian Labor Party,63
+TAS,319,Clark,8495,Austins Ferry,K,41722,2,"DOWLING, Richard",Australian Labor Party,6
+TAS,319,Clark,8495,Austins Ferry,K,41724,3,"FALLS, Bailey",Australian Labor Party,2
+TAS,319,Clark,8495,Austins Ferry,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,4
+TAS,319,Clark,8495,Austins Ferry,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,4
+TAS,319,Clark,8495,Austins Ferry,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,12
+TAS,319,Clark,8495,Austins Ferry,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",22
+TAS,319,Clark,8495,Austins Ferry,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",2
+TAS,319,Clark,8495,Austins Ferry,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,8495,Austins Ferry,UG,42066,1,"EDWARDS, Fenella",Independent,0
+TAS,319,Clark,8495,Austins Ferry,ZZ,0,99,INFORMAL,,58
+TAS,319,Clark,8542,Taroona,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,7
+TAS,319,Clark,8542,Taroona,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,5
+TAS,319,Clark,8542,Taroona,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,2
+TAS,319,Clark,8542,Taroona,B,42111,0,B Above-the-line Votes,Liberal,133
+TAS,319,Clark,8542,Taroona,B,40691,1,"CHANDLER, Claire",Liberal,15
+TAS,319,Clark,8542,Taroona,B,40692,2,"COLBECK, Richard Mansell",Liberal,8
+TAS,319,Clark,8542,Taroona,B,40693,3,"MARTIN, Jacki",Liberal,3
+TAS,319,Clark,8542,Taroona,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,9
+TAS,319,Clark,8542,Taroona,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,0
+TAS,319,Clark,8542,Taroona,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,8542,Taroona,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,8542,Taroona,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,20
+TAS,319,Clark,8542,Taroona,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,2
+TAS,319,Clark,8542,Taroona,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,1
+TAS,319,Clark,8542,Taroona,E,42119,0,E Above-the-line Votes,Animal Justice Party,5
+TAS,319,Clark,8542,Taroona,E,41753,1,"DAVIES, Casey",Animal Justice Party,3
+TAS,319,Clark,8542,Taroona,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,8542,Taroona,F,42112,0,F Above-the-line Votes,The Greens,358
+TAS,319,Clark,8542,Taroona,F,41165,1,"McKIM, Nick",The Greens,211
+TAS,319,Clark,8542,Taroona,F,41168,2,"BLEYER, Vanessa",The Greens,12
+TAS,319,Clark,8542,Taroona,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,8542,Taroona,F,41171,4,"HOARE, Trenton",The Greens,1
+TAS,319,Clark,8542,Taroona,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,32
+TAS,319,Clark,8542,Taroona,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,24
+TAS,319,Clark,8542,Taroona,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,8542,Taroona,H,42120,0,H Above-the-line Votes,Libertarian,2
+TAS,319,Clark,8542,Taroona,H,41698,1,"ABRAHAM, Chrysten",Libertarian,1
+TAS,319,Clark,8542,Taroona,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,8542,Taroona,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,17
+TAS,319,Clark,8542,Taroona,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,8
+TAS,319,Clark,8542,Taroona,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,8542,Taroona,J,42114,0,J Above-the-line Votes,Citizens Party,2
+TAS,319,Clark,8542,Taroona,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,8542,Taroona,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,8542,Taroona,K,42116,0,K Above-the-line Votes,Australian Labor Party,322
+TAS,319,Clark,8542,Taroona,K,41721,1,"BROWN, Carol",Australian Labor Party,74
+TAS,319,Clark,8542,Taroona,K,41722,2,"DOWLING, Richard",Australian Labor Party,6
+TAS,319,Clark,8542,Taroona,K,41724,3,"FALLS, Bailey",Australian Labor Party,0
+TAS,319,Clark,8542,Taroona,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,2
+TAS,319,Clark,8542,Taroona,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,3
+TAS,319,Clark,8542,Taroona,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,6
+TAS,319,Clark,8542,Taroona,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",8
+TAS,319,Clark,8542,Taroona,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8542,Taroona,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,8542,Taroona,UG,42066,1,"EDWARDS, Fenella",Independent,4
+TAS,319,Clark,8542,Taroona,ZZ,0,99,INFORMAL,,14
+TAS,319,Clark,31107,Hobart CLARK PPVC,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,42
+TAS,319,Clark,31107,Hobart CLARK PPVC,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,20
+TAS,319,Clark,31107,Hobart CLARK PPVC,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,2
+TAS,319,Clark,31107,Hobart CLARK PPVC,B,42111,0,B Above-the-line Votes,Liberal,1028
+TAS,319,Clark,31107,Hobart CLARK PPVC,B,40691,1,"CHANDLER, Claire",Liberal,131
+TAS,319,Clark,31107,Hobart CLARK PPVC,B,40692,2,"COLBECK, Richard Mansell",Liberal,72
+TAS,319,Clark,31107,Hobart CLARK PPVC,B,40693,3,"MARTIN, Jacki",Liberal,16
+TAS,319,Clark,31107,Hobart CLARK PPVC,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,56
+TAS,319,Clark,31107,Hobart CLARK PPVC,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,10
+TAS,319,Clark,31107,Hobart CLARK PPVC,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,31107,Hobart CLARK PPVC,C,41419,3,"SMITH, Greg",Trumpet of Patriots,2
+TAS,319,Clark,31107,Hobart CLARK PPVC,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,85
+TAS,319,Clark,31107,Hobart CLARK PPVC,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,11
+TAS,319,Clark,31107,Hobart CLARK PPVC,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,1
+TAS,319,Clark,31107,Hobart CLARK PPVC,E,42119,0,E Above-the-line Votes,Animal Justice Party,51
+TAS,319,Clark,31107,Hobart CLARK PPVC,E,41753,1,"DAVIES, Casey",Animal Justice Party,11
+TAS,319,Clark,31107,Hobart CLARK PPVC,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,3
+TAS,319,Clark,31107,Hobart CLARK PPVC,F,42112,0,F Above-the-line Votes,The Greens,1481
+TAS,319,Clark,31107,Hobart CLARK PPVC,F,41165,1,"McKIM, Nick",The Greens,817
+TAS,319,Clark,31107,Hobart CLARK PPVC,F,41168,2,"BLEYER, Vanessa",The Greens,65
+TAS,319,Clark,31107,Hobart CLARK PPVC,F,41169,3,"JORDAN, Scott",The Greens,13
+TAS,319,Clark,31107,Hobart CLARK PPVC,F,41171,4,"HOARE, Trenton",The Greens,9
+TAS,319,Clark,31107,Hobart CLARK PPVC,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,174
+TAS,319,Clark,31107,Hobart CLARK PPVC,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,170
+TAS,319,Clark,31107,Hobart CLARK PPVC,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,31107,Hobart CLARK PPVC,H,42120,0,H Above-the-line Votes,Libertarian,12
+TAS,319,Clark,31107,Hobart CLARK PPVC,H,41698,1,"ABRAHAM, Chrysten",Libertarian,4
+TAS,319,Clark,31107,Hobart CLARK PPVC,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,31107,Hobart CLARK PPVC,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,84
+TAS,319,Clark,31107,Hobart CLARK PPVC,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,35
+TAS,319,Clark,31107,Hobart CLARK PPVC,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,31107,Hobart CLARK PPVC,J,42114,0,J Above-the-line Votes,Citizens Party,14
+TAS,319,Clark,31107,Hobart CLARK PPVC,J,40837,1,"STAGGARD, Daryl",Citizens Party,2
+TAS,319,Clark,31107,Hobart CLARK PPVC,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,31107,Hobart CLARK PPVC,K,42116,0,K Above-the-line Votes,Australian Labor Party,1475
+TAS,319,Clark,31107,Hobart CLARK PPVC,K,41721,1,"BROWN, Carol",Australian Labor Party,276
+TAS,319,Clark,31107,Hobart CLARK PPVC,K,41722,2,"DOWLING, Richard",Australian Labor Party,47
+TAS,319,Clark,31107,Hobart CLARK PPVC,K,41724,3,"FALLS, Bailey",Australian Labor Party,15
+TAS,319,Clark,31107,Hobart CLARK PPVC,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,9
+TAS,319,Clark,31107,Hobart CLARK PPVC,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,13
+TAS,319,Clark,31107,Hobart CLARK PPVC,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,41
+TAS,319,Clark,31107,Hobart CLARK PPVC,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",29
+TAS,319,Clark,31107,Hobart CLARK PPVC,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",6
+TAS,319,Clark,31107,Hobart CLARK PPVC,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,31107,Hobart CLARK PPVC,UG,42066,1,"EDWARDS, Fenella",Independent,15
+TAS,319,Clark,31107,Hobart CLARK PPVC,ZZ,0,99,INFORMAL,,85
+TAS,319,Clark,46852,Kingston (Clark),A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,6
+TAS,319,Clark,46852,Kingston (Clark),A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,46852,Kingston (Clark),A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,46852,Kingston (Clark),B,42111,0,B Above-the-line Votes,Liberal,85
+TAS,319,Clark,46852,Kingston (Clark),B,40691,1,"CHANDLER, Claire",Liberal,4
+TAS,319,Clark,46852,Kingston (Clark),B,40692,2,"COLBECK, Richard Mansell",Liberal,2
+TAS,319,Clark,46852,Kingston (Clark),B,40693,3,"MARTIN, Jacki",Liberal,1
+TAS,319,Clark,46852,Kingston (Clark),C,42115,0,C Above-the-line Votes,Trumpet of Patriots,13
+TAS,319,Clark,46852,Kingston (Clark),C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,3
+TAS,319,Clark,46852,Kingston (Clark),C,41401,2,"KELLY, Matt",Trumpet of Patriots,1
+TAS,319,Clark,46852,Kingston (Clark),C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,46852,Kingston (Clark),D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,18
+TAS,319,Clark,46852,Kingston (Clark),D,40841,1,"OWEN, Matt",Legalise Cannabis Party,2
+TAS,319,Clark,46852,Kingston (Clark),D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,46852,Kingston (Clark),E,42119,0,E Above-the-line Votes,Animal Justice Party,13
+TAS,319,Clark,46852,Kingston (Clark),E,41753,1,"DAVIES, Casey",Animal Justice Party,4
+TAS,319,Clark,46852,Kingston (Clark),E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,46852,Kingston (Clark),F,42112,0,F Above-the-line Votes,The Greens,113
+TAS,319,Clark,46852,Kingston (Clark),F,41165,1,"McKIM, Nick",The Greens,75
+TAS,319,Clark,46852,Kingston (Clark),F,41168,2,"BLEYER, Vanessa",The Greens,3
+TAS,319,Clark,46852,Kingston (Clark),F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,46852,Kingston (Clark),F,41171,4,"HOARE, Trenton",The Greens,1
+TAS,319,Clark,46852,Kingston (Clark),G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,18
+TAS,319,Clark,46852,Kingston (Clark),G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,9
+TAS,319,Clark,46852,Kingston (Clark),G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,46852,Kingston (Clark),H,42120,0,H Above-the-line Votes,Libertarian,2
+TAS,319,Clark,46852,Kingston (Clark),H,41698,1,"ABRAHAM, Chrysten",Libertarian,1
+TAS,319,Clark,46852,Kingston (Clark),H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,46852,Kingston (Clark),I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,14
+TAS,319,Clark,46852,Kingston (Clark),I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,7
+TAS,319,Clark,46852,Kingston (Clark),I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,46852,Kingston (Clark),J,42114,0,J Above-the-line Votes,Citizens Party,1
+TAS,319,Clark,46852,Kingston (Clark),J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,46852,Kingston (Clark),J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,46852,Kingston (Clark),K,42116,0,K Above-the-line Votes,Australian Labor Party,164
+TAS,319,Clark,46852,Kingston (Clark),K,41721,1,"BROWN, Carol",Australian Labor Party,25
+TAS,319,Clark,46852,Kingston (Clark),K,41722,2,"DOWLING, Richard",Australian Labor Party,2
+TAS,319,Clark,46852,Kingston (Clark),K,41724,3,"FALLS, Bailey",Australian Labor Party,1
+TAS,319,Clark,46852,Kingston (Clark),K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,0
+TAS,319,Clark,46852,Kingston (Clark),K,41730,5,"LUCKMAN, Greg",Australian Labor Party,1
+TAS,319,Clark,46852,Kingston (Clark),K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,5
+TAS,319,Clark,46852,Kingston (Clark),L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",10
+TAS,319,Clark,46852,Kingston (Clark),L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",2
+TAS,319,Clark,46852,Kingston (Clark),L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,46852,Kingston (Clark),UG,42066,1,"EDWARDS, Fenella",Independent,5
+TAS,319,Clark,46852,Kingston (Clark),ZZ,0,99,INFORMAL,,17
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,82
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,16
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,4
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,B,42111,0,B Above-the-line Votes,Liberal,1337
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,B,40691,1,"CHANDLER, Claire",Liberal,107
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,B,40692,2,"COLBECK, Richard Mansell",Liberal,64
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,B,40693,3,"MARTIN, Jacki",Liberal,20
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,220
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,17
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,C,41401,2,"KELLY, Matt",Trumpet of Patriots,6
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,C,41419,3,"SMITH, Greg",Trumpet of Patriots,2
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,182
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,14
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,2
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,E,42119,0,E Above-the-line Votes,Animal Justice Party,75
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,E,41753,1,"DAVIES, Casey",Animal Justice Party,16
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,3
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,F,42112,0,F Above-the-line Votes,The Greens,690
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,F,41165,1,"McKIM, Nick",The Greens,312
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,F,41168,2,"BLEYER, Vanessa",The Greens,34
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,F,41169,3,"JORDAN, Scott",The Greens,3
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,F,41171,4,"HOARE, Trenton",The Greens,3
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,487
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,193
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,2
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,H,42120,0,H Above-the-line Votes,Libertarian,20
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,H,41698,1,"ABRAHAM, Chrysten",Libertarian,3
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,227
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,44
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,1
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,J,42114,0,J Above-the-line Votes,Citizens Party,12
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,J,40837,1,"STAGGARD, Daryl",Citizens Party,1
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,J,40840,2,"WILLIAMS, Ray",Citizens Party,1
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,K,42116,0,K Above-the-line Votes,Australian Labor Party,2770
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,K,41721,1,"BROWN, Carol",Australian Labor Party,371
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,K,41722,2,"DOWLING, Richard",Australian Labor Party,49
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,K,41724,3,"FALLS, Bailey",Australian Labor Party,19
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,18
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,22
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,53
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",80
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",20
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,UG,42066,1,"EDWARDS, Fenella",Independent,18
+TAS,319,Clark,58685,Glenorchy CLARK PPVC,ZZ,0,99,INFORMAL,,262
+TAS,319,Clark,65559,EAV Clark PPVC,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,65559,EAV Clark PPVC,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,65559,EAV Clark PPVC,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,65559,EAV Clark PPVC,B,42111,0,B Above-the-line Votes,Liberal,0
+TAS,319,Clark,65559,EAV Clark PPVC,B,40691,1,"CHANDLER, Claire",Liberal,0
+TAS,319,Clark,65559,EAV Clark PPVC,B,40692,2,"COLBECK, Richard Mansell",Liberal,0
+TAS,319,Clark,65559,EAV Clark PPVC,B,40693,3,"MARTIN, Jacki",Liberal,0
+TAS,319,Clark,65559,EAV Clark PPVC,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,0
+TAS,319,Clark,65559,EAV Clark PPVC,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,0
+TAS,319,Clark,65559,EAV Clark PPVC,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,65559,EAV Clark PPVC,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,65559,EAV Clark PPVC,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,0
+TAS,319,Clark,65559,EAV Clark PPVC,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,0
+TAS,319,Clark,65559,EAV Clark PPVC,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,1
+TAS,319,Clark,65559,EAV Clark PPVC,E,42119,0,E Above-the-line Votes,Animal Justice Party,1
+TAS,319,Clark,65559,EAV Clark PPVC,E,41753,1,"DAVIES, Casey",Animal Justice Party,0
+TAS,319,Clark,65559,EAV Clark PPVC,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,65559,EAV Clark PPVC,F,42112,0,F Above-the-line Votes,The Greens,6
+TAS,319,Clark,65559,EAV Clark PPVC,F,41165,1,"McKIM, Nick",The Greens,0
+TAS,319,Clark,65559,EAV Clark PPVC,F,41168,2,"BLEYER, Vanessa",The Greens,0
+TAS,319,Clark,65559,EAV Clark PPVC,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,65559,EAV Clark PPVC,F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,65559,EAV Clark PPVC,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,2
+TAS,319,Clark,65559,EAV Clark PPVC,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,0
+TAS,319,Clark,65559,EAV Clark PPVC,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,65559,EAV Clark PPVC,H,42120,0,H Above-the-line Votes,Libertarian,1
+TAS,319,Clark,65559,EAV Clark PPVC,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,65559,EAV Clark PPVC,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,65559,EAV Clark PPVC,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,0
+TAS,319,Clark,65559,EAV Clark PPVC,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,0
+TAS,319,Clark,65559,EAV Clark PPVC,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,65559,EAV Clark PPVC,J,42114,0,J Above-the-line Votes,Citizens Party,0
+TAS,319,Clark,65559,EAV Clark PPVC,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,65559,EAV Clark PPVC,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,65559,EAV Clark PPVC,K,42116,0,K Above-the-line Votes,Australian Labor Party,8
+TAS,319,Clark,65559,EAV Clark PPVC,K,41721,1,"BROWN, Carol",Australian Labor Party,0
+TAS,319,Clark,65559,EAV Clark PPVC,K,41722,2,"DOWLING, Richard",Australian Labor Party,0
+TAS,319,Clark,65559,EAV Clark PPVC,K,41724,3,"FALLS, Bailey",Australian Labor Party,0
+TAS,319,Clark,65559,EAV Clark PPVC,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,0
+TAS,319,Clark,65559,EAV Clark PPVC,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,0
+TAS,319,Clark,65559,EAV Clark PPVC,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,0
+TAS,319,Clark,65559,EAV Clark PPVC,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,65559,EAV Clark PPVC,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,65559,EAV Clark PPVC,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,65559,EAV Clark PPVC,UG,42066,1,"EDWARDS, Fenella",Independent,0
+TAS,319,Clark,65559,EAV Clark PPVC,ZZ,0,99,INFORMAL,,0
+TAS,319,Clark,83688,Rosetta,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,9
+TAS,319,Clark,83688,Rosetta,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,83688,Rosetta,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,83688,Rosetta,B,42111,0,B Above-the-line Votes,Liberal,73
+TAS,319,Clark,83688,Rosetta,B,40691,1,"CHANDLER, Claire",Liberal,11
+TAS,319,Clark,83688,Rosetta,B,40692,2,"COLBECK, Richard Mansell",Liberal,5
+TAS,319,Clark,83688,Rosetta,B,40693,3,"MARTIN, Jacki",Liberal,1
+TAS,319,Clark,83688,Rosetta,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,23
+TAS,319,Clark,83688,Rosetta,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,3
+TAS,319,Clark,83688,Rosetta,C,41401,2,"KELLY, Matt",Trumpet of Patriots,1
+TAS,319,Clark,83688,Rosetta,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,83688,Rosetta,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,29
+TAS,319,Clark,83688,Rosetta,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,5
+TAS,319,Clark,83688,Rosetta,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,83688,Rosetta,E,42119,0,E Above-the-line Votes,Animal Justice Party,3
+TAS,319,Clark,83688,Rosetta,E,41753,1,"DAVIES, Casey",Animal Justice Party,3
+TAS,319,Clark,83688,Rosetta,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,83688,Rosetta,F,42112,0,F Above-the-line Votes,The Greens,93
+TAS,319,Clark,83688,Rosetta,F,41165,1,"McKIM, Nick",The Greens,48
+TAS,319,Clark,83688,Rosetta,F,41168,2,"BLEYER, Vanessa",The Greens,6
+TAS,319,Clark,83688,Rosetta,F,41169,3,"JORDAN, Scott",The Greens,1
+TAS,319,Clark,83688,Rosetta,F,41171,4,"HOARE, Trenton",The Greens,1
+TAS,319,Clark,83688,Rosetta,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,17
+TAS,319,Clark,83688,Rosetta,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,12
+TAS,319,Clark,83688,Rosetta,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,83688,Rosetta,H,42120,0,H Above-the-line Votes,Libertarian,2
+TAS,319,Clark,83688,Rosetta,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,83688,Rosetta,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,83688,Rosetta,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,18
+TAS,319,Clark,83688,Rosetta,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,6
+TAS,319,Clark,83688,Rosetta,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,83688,Rosetta,J,42114,0,J Above-the-line Votes,Citizens Party,1
+TAS,319,Clark,83688,Rosetta,J,40837,1,"STAGGARD, Daryl",Citizens Party,1
+TAS,319,Clark,83688,Rosetta,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,83688,Rosetta,K,42116,0,K Above-the-line Votes,Australian Labor Party,210
+TAS,319,Clark,83688,Rosetta,K,41721,1,"BROWN, Carol",Australian Labor Party,35
+TAS,319,Clark,83688,Rosetta,K,41722,2,"DOWLING, Richard",Australian Labor Party,7
+TAS,319,Clark,83688,Rosetta,K,41724,3,"FALLS, Bailey",Australian Labor Party,1
+TAS,319,Clark,83688,Rosetta,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,2
+TAS,319,Clark,83688,Rosetta,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,0
+TAS,319,Clark,83688,Rosetta,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,9
+TAS,319,Clark,83688,Rosetta,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",13
+TAS,319,Clark,83688,Rosetta,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,83688,Rosetta,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,83688,Rosetta,UG,42066,1,"EDWARDS, Fenella",Independent,2
+TAS,319,Clark,83688,Rosetta,ZZ,0,99,INFORMAL,,15
+TAS,319,Clark,97480,Kingston Beach (Clark),A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,3
+TAS,319,Clark,97480,Kingston Beach (Clark),A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,97480,Kingston Beach (Clark),A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,97480,Kingston Beach (Clark),B,42111,0,B Above-the-line Votes,Liberal,32
+TAS,319,Clark,97480,Kingston Beach (Clark),B,40691,1,"CHANDLER, Claire",Liberal,3
+TAS,319,Clark,97480,Kingston Beach (Clark),B,40692,2,"COLBECK, Richard Mansell",Liberal,1
+TAS,319,Clark,97480,Kingston Beach (Clark),B,40693,3,"MARTIN, Jacki",Liberal,0
+TAS,319,Clark,97480,Kingston Beach (Clark),C,42115,0,C Above-the-line Votes,Trumpet of Patriots,3
+TAS,319,Clark,97480,Kingston Beach (Clark),C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,0
+TAS,319,Clark,97480,Kingston Beach (Clark),C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,97480,Kingston Beach (Clark),C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,97480,Kingston Beach (Clark),D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,1
+TAS,319,Clark,97480,Kingston Beach (Clark),D,40841,1,"OWEN, Matt",Legalise Cannabis Party,0
+TAS,319,Clark,97480,Kingston Beach (Clark),D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,97480,Kingston Beach (Clark),E,42119,0,E Above-the-line Votes,Animal Justice Party,2
+TAS,319,Clark,97480,Kingston Beach (Clark),E,41753,1,"DAVIES, Casey",Animal Justice Party,1
+TAS,319,Clark,97480,Kingston Beach (Clark),E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,97480,Kingston Beach (Clark),F,42112,0,F Above-the-line Votes,The Greens,41
+TAS,319,Clark,97480,Kingston Beach (Clark),F,41165,1,"McKIM, Nick",The Greens,21
+TAS,319,Clark,97480,Kingston Beach (Clark),F,41168,2,"BLEYER, Vanessa",The Greens,3
+TAS,319,Clark,97480,Kingston Beach (Clark),F,41169,3,"JORDAN, Scott",The Greens,1
+TAS,319,Clark,97480,Kingston Beach (Clark),F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,97480,Kingston Beach (Clark),G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,1
+TAS,319,Clark,97480,Kingston Beach (Clark),G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,2
+TAS,319,Clark,97480,Kingston Beach (Clark),G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,97480,Kingston Beach (Clark),H,42120,0,H Above-the-line Votes,Libertarian,0
+TAS,319,Clark,97480,Kingston Beach (Clark),H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,97480,Kingston Beach (Clark),H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,97480,Kingston Beach (Clark),I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,10
+TAS,319,Clark,97480,Kingston Beach (Clark),I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,2
+TAS,319,Clark,97480,Kingston Beach (Clark),I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,97480,Kingston Beach (Clark),J,42114,0,J Above-the-line Votes,Citizens Party,0
+TAS,319,Clark,97480,Kingston Beach (Clark),J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,97480,Kingston Beach (Clark),J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,97480,Kingston Beach (Clark),K,42116,0,K Above-the-line Votes,Australian Labor Party,39
+TAS,319,Clark,97480,Kingston Beach (Clark),K,41721,1,"BROWN, Carol",Australian Labor Party,4
+TAS,319,Clark,97480,Kingston Beach (Clark),K,41722,2,"DOWLING, Richard",Australian Labor Party,1
+TAS,319,Clark,97480,Kingston Beach (Clark),K,41724,3,"FALLS, Bailey",Australian Labor Party,0
+TAS,319,Clark,97480,Kingston Beach (Clark),K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,0
+TAS,319,Clark,97480,Kingston Beach (Clark),K,41730,5,"LUCKMAN, Greg",Australian Labor Party,0
+TAS,319,Clark,97480,Kingston Beach (Clark),K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,2
+TAS,319,Clark,97480,Kingston Beach (Clark),L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,97480,Kingston Beach (Clark),L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,97480,Kingston Beach (Clark),L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,97480,Kingston Beach (Clark),UG,42066,1,"EDWARDS, Fenella",Independent,2
+TAS,319,Clark,97480,Kingston Beach (Clark),ZZ,0,99,INFORMAL,,2
+TAS,319,Clark,97939,New Town Central,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,8
+TAS,319,Clark,97939,New Town Central,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,6
+TAS,319,Clark,97939,New Town Central,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,97939,New Town Central,B,42111,0,B Above-the-line Votes,Liberal,59
+TAS,319,Clark,97939,New Town Central,B,40691,1,"CHANDLER, Claire",Liberal,10
+TAS,319,Clark,97939,New Town Central,B,40692,2,"COLBECK, Richard Mansell",Liberal,3
+TAS,319,Clark,97939,New Town Central,B,40693,3,"MARTIN, Jacki",Liberal,0
+TAS,319,Clark,97939,New Town Central,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,2
+TAS,319,Clark,97939,New Town Central,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,3
+TAS,319,Clark,97939,New Town Central,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,97939,New Town Central,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,97939,New Town Central,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,9
+TAS,319,Clark,97939,New Town Central,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,0
+TAS,319,Clark,97939,New Town Central,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,97939,New Town Central,E,42119,0,E Above-the-line Votes,Animal Justice Party,7
+TAS,319,Clark,97939,New Town Central,E,41753,1,"DAVIES, Casey",Animal Justice Party,1
+TAS,319,Clark,97939,New Town Central,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,97939,New Town Central,F,42112,0,F Above-the-line Votes,The Greens,119
+TAS,319,Clark,97939,New Town Central,F,41165,1,"McKIM, Nick",The Greens,68
+TAS,319,Clark,97939,New Town Central,F,41168,2,"BLEYER, Vanessa",The Greens,4
+TAS,319,Clark,97939,New Town Central,F,41169,3,"JORDAN, Scott",The Greens,1
+TAS,319,Clark,97939,New Town Central,F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,97939,New Town Central,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,19
+TAS,319,Clark,97939,New Town Central,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,12
+TAS,319,Clark,97939,New Town Central,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,97939,New Town Central,H,42120,0,H Above-the-line Votes,Libertarian,2
+TAS,319,Clark,97939,New Town Central,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,97939,New Town Central,H,41701,2,"ARMSTRONG, Nicole",Libertarian,1
+TAS,319,Clark,97939,New Town Central,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,8
+TAS,319,Clark,97939,New Town Central,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,3
+TAS,319,Clark,97939,New Town Central,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,97939,New Town Central,J,42114,0,J Above-the-line Votes,Citizens Party,2
+TAS,319,Clark,97939,New Town Central,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,97939,New Town Central,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,97939,New Town Central,K,42116,0,K Above-the-line Votes,Australian Labor Party,186
+TAS,319,Clark,97939,New Town Central,K,41721,1,"BROWN, Carol",Australian Labor Party,37
+TAS,319,Clark,97939,New Town Central,K,41722,2,"DOWLING, Richard",Australian Labor Party,5
+TAS,319,Clark,97939,New Town Central,K,41724,3,"FALLS, Bailey",Australian Labor Party,2
+TAS,319,Clark,97939,New Town Central,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,2
+TAS,319,Clark,97939,New Town Central,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,1
+TAS,319,Clark,97939,New Town Central,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,5
+TAS,319,Clark,97939,New Town Central,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",3
+TAS,319,Clark,97939,New Town Central,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,97939,New Town Central,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,97939,New Town Central,UG,42066,1,"EDWARDS, Fenella",Independent,1
+TAS,319,Clark,97939,New Town Central,ZZ,0,99,INFORMAL,,10
+TAS,319,Clark,108404,Special Hospital Team 1,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,3
+TAS,319,Clark,108404,Special Hospital Team 1,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,108404,Special Hospital Team 1,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,108404,Special Hospital Team 1,B,42111,0,B Above-the-line Votes,Liberal,58
+TAS,319,Clark,108404,Special Hospital Team 1,B,40691,1,"CHANDLER, Claire",Liberal,3
+TAS,319,Clark,108404,Special Hospital Team 1,B,40692,2,"COLBECK, Richard Mansell",Liberal,0
+TAS,319,Clark,108404,Special Hospital Team 1,B,40693,3,"MARTIN, Jacki",Liberal,0
+TAS,319,Clark,108404,Special Hospital Team 1,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,4
+TAS,319,Clark,108404,Special Hospital Team 1,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,0
+TAS,319,Clark,108404,Special Hospital Team 1,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,108404,Special Hospital Team 1,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,108404,Special Hospital Team 1,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,4
+TAS,319,Clark,108404,Special Hospital Team 1,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,0
+TAS,319,Clark,108404,Special Hospital Team 1,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,108404,Special Hospital Team 1,E,42119,0,E Above-the-line Votes,Animal Justice Party,2
+TAS,319,Clark,108404,Special Hospital Team 1,E,41753,1,"DAVIES, Casey",Animal Justice Party,0
+TAS,319,Clark,108404,Special Hospital Team 1,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,108404,Special Hospital Team 1,F,42112,0,F Above-the-line Votes,The Greens,13
+TAS,319,Clark,108404,Special Hospital Team 1,F,41165,1,"McKIM, Nick",The Greens,4
+TAS,319,Clark,108404,Special Hospital Team 1,F,41168,2,"BLEYER, Vanessa",The Greens,1
+TAS,319,Clark,108404,Special Hospital Team 1,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,108404,Special Hospital Team 1,F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,108404,Special Hospital Team 1,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,15
+TAS,319,Clark,108404,Special Hospital Team 1,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,3
+TAS,319,Clark,108404,Special Hospital Team 1,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,108404,Special Hospital Team 1,H,42120,0,H Above-the-line Votes,Libertarian,1
+TAS,319,Clark,108404,Special Hospital Team 1,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,108404,Special Hospital Team 1,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,108404,Special Hospital Team 1,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,2
+TAS,319,Clark,108404,Special Hospital Team 1,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,0
+TAS,319,Clark,108404,Special Hospital Team 1,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,108404,Special Hospital Team 1,J,42114,0,J Above-the-line Votes,Citizens Party,1
+TAS,319,Clark,108404,Special Hospital Team 1,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,108404,Special Hospital Team 1,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,108404,Special Hospital Team 1,K,42116,0,K Above-the-line Votes,Australian Labor Party,73
+TAS,319,Clark,108404,Special Hospital Team 1,K,41721,1,"BROWN, Carol",Australian Labor Party,9
+TAS,319,Clark,108404,Special Hospital Team 1,K,41722,2,"DOWLING, Richard",Australian Labor Party,1
+TAS,319,Clark,108404,Special Hospital Team 1,K,41724,3,"FALLS, Bailey",Australian Labor Party,0
+TAS,319,Clark,108404,Special Hospital Team 1,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,2
+TAS,319,Clark,108404,Special Hospital Team 1,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,0
+TAS,319,Clark,108404,Special Hospital Team 1,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,1
+TAS,319,Clark,108404,Special Hospital Team 1,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,108404,Special Hospital Team 1,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,108404,Special Hospital Team 1,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,108404,Special Hospital Team 1,UG,42066,1,"EDWARDS, Fenella",Independent,1
+TAS,319,Clark,108404,Special Hospital Team 1,ZZ,0,99,INFORMAL,,18
+TAS,319,Clark,108854,Kingston CLARK PPVC,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,14
+TAS,319,Clark,108854,Kingston CLARK PPVC,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,6
+TAS,319,Clark,108854,Kingston CLARK PPVC,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,2
+TAS,319,Clark,108854,Kingston CLARK PPVC,B,42111,0,B Above-the-line Votes,Liberal,353
+TAS,319,Clark,108854,Kingston CLARK PPVC,B,40691,1,"CHANDLER, Claire",Liberal,42
+TAS,319,Clark,108854,Kingston CLARK PPVC,B,40692,2,"COLBECK, Richard Mansell",Liberal,27
+TAS,319,Clark,108854,Kingston CLARK PPVC,B,40693,3,"MARTIN, Jacki",Liberal,4
+TAS,319,Clark,108854,Kingston CLARK PPVC,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,41
+TAS,319,Clark,108854,Kingston CLARK PPVC,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,4
+TAS,319,Clark,108854,Kingston CLARK PPVC,C,41401,2,"KELLY, Matt",Trumpet of Patriots,1
+TAS,319,Clark,108854,Kingston CLARK PPVC,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,108854,Kingston CLARK PPVC,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,28
+TAS,319,Clark,108854,Kingston CLARK PPVC,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,8
+TAS,319,Clark,108854,Kingston CLARK PPVC,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,108854,Kingston CLARK PPVC,E,42119,0,E Above-the-line Votes,Animal Justice Party,20
+TAS,319,Clark,108854,Kingston CLARK PPVC,E,41753,1,"DAVIES, Casey",Animal Justice Party,4
+TAS,319,Clark,108854,Kingston CLARK PPVC,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,1
+TAS,319,Clark,108854,Kingston CLARK PPVC,F,42112,0,F Above-the-line Votes,The Greens,334
+TAS,319,Clark,108854,Kingston CLARK PPVC,F,41165,1,"McKIM, Nick",The Greens,208
+TAS,319,Clark,108854,Kingston CLARK PPVC,F,41168,2,"BLEYER, Vanessa",The Greens,12
+TAS,319,Clark,108854,Kingston CLARK PPVC,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,108854,Kingston CLARK PPVC,F,41171,4,"HOARE, Trenton",The Greens,1
+TAS,319,Clark,108854,Kingston CLARK PPVC,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,82
+TAS,319,Clark,108854,Kingston CLARK PPVC,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,45
+TAS,319,Clark,108854,Kingston CLARK PPVC,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,108854,Kingston CLARK PPVC,H,42120,0,H Above-the-line Votes,Libertarian,4
+TAS,319,Clark,108854,Kingston CLARK PPVC,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,108854,Kingston CLARK PPVC,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,108854,Kingston CLARK PPVC,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,34
+TAS,319,Clark,108854,Kingston CLARK PPVC,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,17
+TAS,319,Clark,108854,Kingston CLARK PPVC,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,108854,Kingston CLARK PPVC,J,42114,0,J Above-the-line Votes,Citizens Party,3
+TAS,319,Clark,108854,Kingston CLARK PPVC,J,40837,1,"STAGGARD, Daryl",Citizens Party,1
+TAS,319,Clark,108854,Kingston CLARK PPVC,J,40840,2,"WILLIAMS, Ray",Citizens Party,1
+TAS,319,Clark,108854,Kingston CLARK PPVC,K,42116,0,K Above-the-line Votes,Australian Labor Party,511
+TAS,319,Clark,108854,Kingston CLARK PPVC,K,41721,1,"BROWN, Carol",Australian Labor Party,97
+TAS,319,Clark,108854,Kingston CLARK PPVC,K,41722,2,"DOWLING, Richard",Australian Labor Party,13
+TAS,319,Clark,108854,Kingston CLARK PPVC,K,41724,3,"FALLS, Bailey",Australian Labor Party,1
+TAS,319,Clark,108854,Kingston CLARK PPVC,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,2
+TAS,319,Clark,108854,Kingston CLARK PPVC,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,3
+TAS,319,Clark,108854,Kingston CLARK PPVC,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,14
+TAS,319,Clark,108854,Kingston CLARK PPVC,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",18
+TAS,319,Clark,108854,Kingston CLARK PPVC,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",3
+TAS,319,Clark,108854,Kingston CLARK PPVC,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,108854,Kingston CLARK PPVC,UG,42066,1,"EDWARDS, Fenella",Independent,8
+TAS,319,Clark,108854,Kingston CLARK PPVC,ZZ,0,99,INFORMAL,,46
+TAS,319,Clark,108897,Glenorchy South,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,9
+TAS,319,Clark,108897,Glenorchy South,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,5
+TAS,319,Clark,108897,Glenorchy South,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,108897,Glenorchy South,B,42111,0,B Above-the-line Votes,Liberal,70
+TAS,319,Clark,108897,Glenorchy South,B,40691,1,"CHANDLER, Claire",Liberal,5
+TAS,319,Clark,108897,Glenorchy South,B,40692,2,"COLBECK, Richard Mansell",Liberal,4
+TAS,319,Clark,108897,Glenorchy South,B,40693,3,"MARTIN, Jacki",Liberal,3
+TAS,319,Clark,108897,Glenorchy South,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,24
+TAS,319,Clark,108897,Glenorchy South,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,3
+TAS,319,Clark,108897,Glenorchy South,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,108897,Glenorchy South,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,108897,Glenorchy South,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,21
+TAS,319,Clark,108897,Glenorchy South,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,2
+TAS,319,Clark,108897,Glenorchy South,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,1
+TAS,319,Clark,108897,Glenorchy South,E,42119,0,E Above-the-line Votes,Animal Justice Party,10
+TAS,319,Clark,108897,Glenorchy South,E,41753,1,"DAVIES, Casey",Animal Justice Party,1
+TAS,319,Clark,108897,Glenorchy South,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,108897,Glenorchy South,F,42112,0,F Above-the-line Votes,The Greens,99
+TAS,319,Clark,108897,Glenorchy South,F,41165,1,"McKIM, Nick",The Greens,38
+TAS,319,Clark,108897,Glenorchy South,F,41168,2,"BLEYER, Vanessa",The Greens,4
+TAS,319,Clark,108897,Glenorchy South,F,41169,3,"JORDAN, Scott",The Greens,2
+TAS,319,Clark,108897,Glenorchy South,F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,108897,Glenorchy South,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,22
+TAS,319,Clark,108897,Glenorchy South,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,17
+TAS,319,Clark,108897,Glenorchy South,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,108897,Glenorchy South,H,42120,0,H Above-the-line Votes,Libertarian,3
+TAS,319,Clark,108897,Glenorchy South,H,41698,1,"ABRAHAM, Chrysten",Libertarian,1
+TAS,319,Clark,108897,Glenorchy South,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,108897,Glenorchy South,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,28
+TAS,319,Clark,108897,Glenorchy South,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,15
+TAS,319,Clark,108897,Glenorchy South,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,1
+TAS,319,Clark,108897,Glenorchy South,J,42114,0,J Above-the-line Votes,Citizens Party,2
+TAS,319,Clark,108897,Glenorchy South,J,40837,1,"STAGGARD, Daryl",Citizens Party,2
+TAS,319,Clark,108897,Glenorchy South,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,108897,Glenorchy South,K,42116,0,K Above-the-line Votes,Australian Labor Party,273
+TAS,319,Clark,108897,Glenorchy South,K,41721,1,"BROWN, Carol",Australian Labor Party,32
+TAS,319,Clark,108897,Glenorchy South,K,41722,2,"DOWLING, Richard",Australian Labor Party,4
+TAS,319,Clark,108897,Glenorchy South,K,41724,3,"FALLS, Bailey",Australian Labor Party,0
+TAS,319,Clark,108897,Glenorchy South,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,2
+TAS,319,Clark,108897,Glenorchy South,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,2
+TAS,319,Clark,108897,Glenorchy South,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,8
+TAS,319,Clark,108897,Glenorchy South,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",7
+TAS,319,Clark,108897,Glenorchy South,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,108897,Glenorchy South,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,108897,Glenorchy South,UG,42066,1,"EDWARDS, Fenella",Independent,3
+TAS,319,Clark,108897,Glenorchy South,ZZ,0,99,INFORMAL,,52
+TAS,319,Clark,109411,Other Mobile Team 1,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,109411,Other Mobile Team 1,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,109411,Other Mobile Team 1,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,109411,Other Mobile Team 1,B,42111,0,B Above-the-line Votes,Liberal,0
+TAS,319,Clark,109411,Other Mobile Team 1,B,40691,1,"CHANDLER, Claire",Liberal,0
+TAS,319,Clark,109411,Other Mobile Team 1,B,40692,2,"COLBECK, Richard Mansell",Liberal,0
+TAS,319,Clark,109411,Other Mobile Team 1,B,40693,3,"MARTIN, Jacki",Liberal,0
+TAS,319,Clark,109411,Other Mobile Team 1,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,1
+TAS,319,Clark,109411,Other Mobile Team 1,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,0
+TAS,319,Clark,109411,Other Mobile Team 1,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,109411,Other Mobile Team 1,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,109411,Other Mobile Team 1,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,2
+TAS,319,Clark,109411,Other Mobile Team 1,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,0
+TAS,319,Clark,109411,Other Mobile Team 1,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,109411,Other Mobile Team 1,E,42119,0,E Above-the-line Votes,Animal Justice Party,0
+TAS,319,Clark,109411,Other Mobile Team 1,E,41753,1,"DAVIES, Casey",Animal Justice Party,0
+TAS,319,Clark,109411,Other Mobile Team 1,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,109411,Other Mobile Team 1,F,42112,0,F Above-the-line Votes,The Greens,0
+TAS,319,Clark,109411,Other Mobile Team 1,F,41165,1,"McKIM, Nick",The Greens,0
+TAS,319,Clark,109411,Other Mobile Team 1,F,41168,2,"BLEYER, Vanessa",The Greens,0
+TAS,319,Clark,109411,Other Mobile Team 1,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,109411,Other Mobile Team 1,F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,109411,Other Mobile Team 1,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,0
+TAS,319,Clark,109411,Other Mobile Team 1,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,0
+TAS,319,Clark,109411,Other Mobile Team 1,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,109411,Other Mobile Team 1,H,42120,0,H Above-the-line Votes,Libertarian,0
+TAS,319,Clark,109411,Other Mobile Team 1,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,109411,Other Mobile Team 1,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,109411,Other Mobile Team 1,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,0
+TAS,319,Clark,109411,Other Mobile Team 1,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,0
+TAS,319,Clark,109411,Other Mobile Team 1,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,109411,Other Mobile Team 1,J,42114,0,J Above-the-line Votes,Citizens Party,0
+TAS,319,Clark,109411,Other Mobile Team 1,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,109411,Other Mobile Team 1,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,109411,Other Mobile Team 1,K,42116,0,K Above-the-line Votes,Australian Labor Party,1
+TAS,319,Clark,109411,Other Mobile Team 1,K,41721,1,"BROWN, Carol",Australian Labor Party,0
+TAS,319,Clark,109411,Other Mobile Team 1,K,41722,2,"DOWLING, Richard",Australian Labor Party,0
+TAS,319,Clark,109411,Other Mobile Team 1,K,41724,3,"FALLS, Bailey",Australian Labor Party,0
+TAS,319,Clark,109411,Other Mobile Team 1,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,0
+TAS,319,Clark,109411,Other Mobile Team 1,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,0
+TAS,319,Clark,109411,Other Mobile Team 1,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,0
+TAS,319,Clark,109411,Other Mobile Team 1,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,109411,Other Mobile Team 1,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,109411,Other Mobile Team 1,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,109411,Other Mobile Team 1,UG,42066,1,"EDWARDS, Fenella",Independent,0
+TAS,319,Clark,109411,Other Mobile Team 1,ZZ,0,99,INFORMAL,,0
+TAS,319,Clark,109415,Other Mobile Team 2,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,109415,Other Mobile Team 2,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,109415,Other Mobile Team 2,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,109415,Other Mobile Team 2,B,42111,0,B Above-the-line Votes,Liberal,1
+TAS,319,Clark,109415,Other Mobile Team 2,B,40691,1,"CHANDLER, Claire",Liberal,0
+TAS,319,Clark,109415,Other Mobile Team 2,B,40692,2,"COLBECK, Richard Mansell",Liberal,0
+TAS,319,Clark,109415,Other Mobile Team 2,B,40693,3,"MARTIN, Jacki",Liberal,0
+TAS,319,Clark,109415,Other Mobile Team 2,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,3
+TAS,319,Clark,109415,Other Mobile Team 2,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,0
+TAS,319,Clark,109415,Other Mobile Team 2,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,109415,Other Mobile Team 2,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,109415,Other Mobile Team 2,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,4
+TAS,319,Clark,109415,Other Mobile Team 2,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,0
+TAS,319,Clark,109415,Other Mobile Team 2,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,109415,Other Mobile Team 2,E,42119,0,E Above-the-line Votes,Animal Justice Party,0
+TAS,319,Clark,109415,Other Mobile Team 2,E,41753,1,"DAVIES, Casey",Animal Justice Party,0
+TAS,319,Clark,109415,Other Mobile Team 2,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,109415,Other Mobile Team 2,F,42112,0,F Above-the-line Votes,The Greens,3
+TAS,319,Clark,109415,Other Mobile Team 2,F,41165,1,"McKIM, Nick",The Greens,1
+TAS,319,Clark,109415,Other Mobile Team 2,F,41168,2,"BLEYER, Vanessa",The Greens,0
+TAS,319,Clark,109415,Other Mobile Team 2,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,109415,Other Mobile Team 2,F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,109415,Other Mobile Team 2,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,2
+TAS,319,Clark,109415,Other Mobile Team 2,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,0
+TAS,319,Clark,109415,Other Mobile Team 2,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,109415,Other Mobile Team 2,H,42120,0,H Above-the-line Votes,Libertarian,0
+TAS,319,Clark,109415,Other Mobile Team 2,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,109415,Other Mobile Team 2,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,109415,Other Mobile Team 2,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,0
+TAS,319,Clark,109415,Other Mobile Team 2,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,0
+TAS,319,Clark,109415,Other Mobile Team 2,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,109415,Other Mobile Team 2,J,42114,0,J Above-the-line Votes,Citizens Party,0
+TAS,319,Clark,109415,Other Mobile Team 2,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,109415,Other Mobile Team 2,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,109415,Other Mobile Team 2,K,42116,0,K Above-the-line Votes,Australian Labor Party,10
+TAS,319,Clark,109415,Other Mobile Team 2,K,41721,1,"BROWN, Carol",Australian Labor Party,0
+TAS,319,Clark,109415,Other Mobile Team 2,K,41722,2,"DOWLING, Richard",Australian Labor Party,0
+TAS,319,Clark,109415,Other Mobile Team 2,K,41724,3,"FALLS, Bailey",Australian Labor Party,0
+TAS,319,Clark,109415,Other Mobile Team 2,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,0
+TAS,319,Clark,109415,Other Mobile Team 2,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,0
+TAS,319,Clark,109415,Other Mobile Team 2,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,0
+TAS,319,Clark,109415,Other Mobile Team 2,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,109415,Other Mobile Team 2,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,109415,Other Mobile Team 2,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,109415,Other Mobile Team 2,UG,42066,1,"EDWARDS, Fenella",Independent,0
+TAS,319,Clark,109415,Other Mobile Team 2,ZZ,0,99,INFORMAL,,1
+TAS,319,Clark,109421,Special Hospital Team 2,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,3
+TAS,319,Clark,109421,Special Hospital Team 2,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,2
+TAS,319,Clark,109421,Special Hospital Team 2,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,109421,Special Hospital Team 2,B,42111,0,B Above-the-line Votes,Liberal,31
+TAS,319,Clark,109421,Special Hospital Team 2,B,40691,1,"CHANDLER, Claire",Liberal,2
+TAS,319,Clark,109421,Special Hospital Team 2,B,40692,2,"COLBECK, Richard Mansell",Liberal,0
+TAS,319,Clark,109421,Special Hospital Team 2,B,40693,3,"MARTIN, Jacki",Liberal,1
+TAS,319,Clark,109421,Special Hospital Team 2,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,8
+TAS,319,Clark,109421,Special Hospital Team 2,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,1
+TAS,319,Clark,109421,Special Hospital Team 2,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,109421,Special Hospital Team 2,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,109421,Special Hospital Team 2,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,3
+TAS,319,Clark,109421,Special Hospital Team 2,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,0
+TAS,319,Clark,109421,Special Hospital Team 2,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,109421,Special Hospital Team 2,E,42119,0,E Above-the-line Votes,Animal Justice Party,3
+TAS,319,Clark,109421,Special Hospital Team 2,E,41753,1,"DAVIES, Casey",Animal Justice Party,1
+TAS,319,Clark,109421,Special Hospital Team 2,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,109421,Special Hospital Team 2,F,42112,0,F Above-the-line Votes,The Greens,3
+TAS,319,Clark,109421,Special Hospital Team 2,F,41165,1,"McKIM, Nick",The Greens,0
+TAS,319,Clark,109421,Special Hospital Team 2,F,41168,2,"BLEYER, Vanessa",The Greens,0
+TAS,319,Clark,109421,Special Hospital Team 2,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,109421,Special Hospital Team 2,F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,109421,Special Hospital Team 2,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,13
+TAS,319,Clark,109421,Special Hospital Team 2,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,3
+TAS,319,Clark,109421,Special Hospital Team 2,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,109421,Special Hospital Team 2,H,42120,0,H Above-the-line Votes,Libertarian,0
+TAS,319,Clark,109421,Special Hospital Team 2,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,109421,Special Hospital Team 2,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,109421,Special Hospital Team 2,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,2
+TAS,319,Clark,109421,Special Hospital Team 2,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,1
+TAS,319,Clark,109421,Special Hospital Team 2,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,109421,Special Hospital Team 2,J,42114,0,J Above-the-line Votes,Citizens Party,0
+TAS,319,Clark,109421,Special Hospital Team 2,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,109421,Special Hospital Team 2,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,109421,Special Hospital Team 2,K,42116,0,K Above-the-line Votes,Australian Labor Party,68
+TAS,319,Clark,109421,Special Hospital Team 2,K,41721,1,"BROWN, Carol",Australian Labor Party,9
+TAS,319,Clark,109421,Special Hospital Team 2,K,41722,2,"DOWLING, Richard",Australian Labor Party,1
+TAS,319,Clark,109421,Special Hospital Team 2,K,41724,3,"FALLS, Bailey",Australian Labor Party,0
+TAS,319,Clark,109421,Special Hospital Team 2,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,0
+TAS,319,Clark,109421,Special Hospital Team 2,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,0
+TAS,319,Clark,109421,Special Hospital Team 2,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,0
+TAS,319,Clark,109421,Special Hospital Team 2,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,109421,Special Hospital Team 2,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",1
+TAS,319,Clark,109421,Special Hospital Team 2,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,109421,Special Hospital Team 2,UG,42066,1,"EDWARDS, Fenella",Independent,0
+TAS,319,Clark,109421,Special Hospital Team 2,ZZ,0,99,INFORMAL,,11
+TAS,319,Clark,110738,Special Hospital Team 3,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,110738,Special Hospital Team 3,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,110738,Special Hospital Team 3,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,110738,Special Hospital Team 3,B,42111,0,B Above-the-line Votes,Liberal,17
+TAS,319,Clark,110738,Special Hospital Team 3,B,40691,1,"CHANDLER, Claire",Liberal,0
+TAS,319,Clark,110738,Special Hospital Team 3,B,40692,2,"COLBECK, Richard Mansell",Liberal,0
+TAS,319,Clark,110738,Special Hospital Team 3,B,40693,3,"MARTIN, Jacki",Liberal,0
+TAS,319,Clark,110738,Special Hospital Team 3,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,1
+TAS,319,Clark,110738,Special Hospital Team 3,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,0
+TAS,319,Clark,110738,Special Hospital Team 3,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,110738,Special Hospital Team 3,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,110738,Special Hospital Team 3,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,3
+TAS,319,Clark,110738,Special Hospital Team 3,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,0
+TAS,319,Clark,110738,Special Hospital Team 3,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,110738,Special Hospital Team 3,E,42119,0,E Above-the-line Votes,Animal Justice Party,0
+TAS,319,Clark,110738,Special Hospital Team 3,E,41753,1,"DAVIES, Casey",Animal Justice Party,0
+TAS,319,Clark,110738,Special Hospital Team 3,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,110738,Special Hospital Team 3,F,42112,0,F Above-the-line Votes,The Greens,15
+TAS,319,Clark,110738,Special Hospital Team 3,F,41165,1,"McKIM, Nick",The Greens,7
+TAS,319,Clark,110738,Special Hospital Team 3,F,41168,2,"BLEYER, Vanessa",The Greens,1
+TAS,319,Clark,110738,Special Hospital Team 3,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,110738,Special Hospital Team 3,F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,110738,Special Hospital Team 3,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,5
+TAS,319,Clark,110738,Special Hospital Team 3,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,1
+TAS,319,Clark,110738,Special Hospital Team 3,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,110738,Special Hospital Team 3,H,42120,0,H Above-the-line Votes,Libertarian,1
+TAS,319,Clark,110738,Special Hospital Team 3,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,110738,Special Hospital Team 3,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,110738,Special Hospital Team 3,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,0
+TAS,319,Clark,110738,Special Hospital Team 3,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,0
+TAS,319,Clark,110738,Special Hospital Team 3,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,110738,Special Hospital Team 3,J,42114,0,J Above-the-line Votes,Citizens Party,0
+TAS,319,Clark,110738,Special Hospital Team 3,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,110738,Special Hospital Team 3,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,110738,Special Hospital Team 3,K,42116,0,K Above-the-line Votes,Australian Labor Party,21
+TAS,319,Clark,110738,Special Hospital Team 3,K,41721,1,"BROWN, Carol",Australian Labor Party,2
+TAS,319,Clark,110738,Special Hospital Team 3,K,41722,2,"DOWLING, Richard",Australian Labor Party,0
+TAS,319,Clark,110738,Special Hospital Team 3,K,41724,3,"FALLS, Bailey",Australian Labor Party,1
+TAS,319,Clark,110738,Special Hospital Team 3,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,0
+TAS,319,Clark,110738,Special Hospital Team 3,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,0
+TAS,319,Clark,110738,Special Hospital Team 3,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,1
+TAS,319,Clark,110738,Special Hospital Team 3,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,110738,Special Hospital Team 3,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,110738,Special Hospital Team 3,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,110738,Special Hospital Team 3,UG,42066,1,"EDWARDS, Fenella",Independent,0
+TAS,319,Clark,110738,Special Hospital Team 3,ZZ,0,99,INFORMAL,,1
+TAS,319,Clark,112280,Special Hospital Team 4,A,42122,0,A Above-the-line Votes,Sustainable Australia Party - Universal Basic Income,1
+TAS,319,Clark,112280,Special Hospital Team 4,A,42009,1,"BILIC, Dennis",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,112280,Special Hospital Team 4,A,42013,2,"RICHARDSON, Pierre",Sustainable Australia Party - Universal Basic Income,0
+TAS,319,Clark,112280,Special Hospital Team 4,B,42111,0,B Above-the-line Votes,Liberal,11
+TAS,319,Clark,112280,Special Hospital Team 4,B,40691,1,"CHANDLER, Claire",Liberal,1
+TAS,319,Clark,112280,Special Hospital Team 4,B,40692,2,"COLBECK, Richard Mansell",Liberal,0
+TAS,319,Clark,112280,Special Hospital Team 4,B,40693,3,"MARTIN, Jacki",Liberal,0
+TAS,319,Clark,112280,Special Hospital Team 4,C,42115,0,C Above-the-line Votes,Trumpet of Patriots,0
+TAS,319,Clark,112280,Special Hospital Team 4,C,41393,1,"MOORE, Wayne Leslie",Trumpet of Patriots,1
+TAS,319,Clark,112280,Special Hospital Team 4,C,41401,2,"KELLY, Matt",Trumpet of Patriots,0
+TAS,319,Clark,112280,Special Hospital Team 4,C,41419,3,"SMITH, Greg",Trumpet of Patriots,0
+TAS,319,Clark,112280,Special Hospital Team 4,D,42113,0,D Above-the-line Votes,Legalise Cannabis Party,1
+TAS,319,Clark,112280,Special Hospital Team 4,D,40841,1,"OWEN, Matt",Legalise Cannabis Party,0
+TAS,319,Clark,112280,Special Hospital Team 4,D,40847,2,"HESTER, Gail",Legalise Cannabis Party,0
+TAS,319,Clark,112280,Special Hospital Team 4,E,42119,0,E Above-the-line Votes,Animal Justice Party,0
+TAS,319,Clark,112280,Special Hospital Team 4,E,41753,1,"DAVIES, Casey",Animal Justice Party,0
+TAS,319,Clark,112280,Special Hospital Team 4,E,41757,2,"LUCAS, Kate Elizabeth",Animal Justice Party,0
+TAS,319,Clark,112280,Special Hospital Team 4,F,42112,0,F Above-the-line Votes,The Greens,14
+TAS,319,Clark,112280,Special Hospital Team 4,F,41165,1,"McKIM, Nick",The Greens,6
+TAS,319,Clark,112280,Special Hospital Team 4,F,41168,2,"BLEYER, Vanessa",The Greens,0
+TAS,319,Clark,112280,Special Hospital Team 4,F,41169,3,"JORDAN, Scott",The Greens,0
+TAS,319,Clark,112280,Special Hospital Team 4,F,41171,4,"HOARE, Trenton",The Greens,0
+TAS,319,Clark,112280,Special Hospital Team 4,G,42117,0,G Above-the-line Votes,Jacqui Lambie Network,5
+TAS,319,Clark,112280,Special Hospital Team 4,G,41773,1,"LAMBIE, Jacqui",Jacqui Lambie Network,2
+TAS,319,Clark,112280,Special Hospital Team 4,G,41779,2,"HANNAN, Christine",Jacqui Lambie Network,0
+TAS,319,Clark,112280,Special Hospital Team 4,H,42120,0,H Above-the-line Votes,Libertarian,0
+TAS,319,Clark,112280,Special Hospital Team 4,H,41698,1,"ABRAHAM, Chrysten",Libertarian,0
+TAS,319,Clark,112280,Special Hospital Team 4,H,41701,2,"ARMSTRONG, Nicole",Libertarian,0
+TAS,319,Clark,112280,Special Hospital Team 4,I,42118,0,I Above-the-line Votes,Pauline Hanson's One Nation,1
+TAS,319,Clark,112280,Special Hospital Team 4,I,41175,1,"HANSON, Lee",Pauline Hanson's One Nation,1
+TAS,319,Clark,112280,Special Hospital Team 4,I,41177,2,"DUNN, James",Pauline Hanson's One Nation,0
+TAS,319,Clark,112280,Special Hospital Team 4,J,42114,0,J Above-the-line Votes,Citizens Party,0
+TAS,319,Clark,112280,Special Hospital Team 4,J,40837,1,"STAGGARD, Daryl",Citizens Party,0
+TAS,319,Clark,112280,Special Hospital Team 4,J,40840,2,"WILLIAMS, Ray",Citizens Party,0
+TAS,319,Clark,112280,Special Hospital Team 4,K,42116,0,K Above-the-line Votes,Australian Labor Party,26
+TAS,319,Clark,112280,Special Hospital Team 4,K,41721,1,"BROWN, Carol",Australian Labor Party,1
+TAS,319,Clark,112280,Special Hospital Team 4,K,41722,2,"DOWLING, Richard",Australian Labor Party,0
+TAS,319,Clark,112280,Special Hospital Team 4,K,41724,3,"FALLS, Bailey",Australian Labor Party,0
+TAS,319,Clark,112280,Special Hospital Team 4,K,41728,4,"O'DONNELL, Saxon",Australian Labor Party,0
+TAS,319,Clark,112280,Special Hospital Team 4,K,41730,5,"LUCKMAN, Greg",Australian Labor Party,2
+TAS,319,Clark,112280,Special Hospital Team 4,K,41734,6,"MEYERS, Amelia Louise",Australian Labor Party,0
+TAS,319,Clark,112280,Special Hospital Team 4,L,42121,0,L Above-the-line Votes,"Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,112280,Special Hospital Team 4,L,42012,1,"BIGG, Phillip","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,112280,Special Hospital Team 4,L,42014,2,"ROACH, Melanie","Shooters, Fishers and Farmers Party",0
+TAS,319,Clark,112280,Special Hospital Team 4,UG,42066,1,"EDWARDS, Fenella",Independent,0
+TAS,319,Clark,112280,Special Hospital Team 4,ZZ,0,99,INFORMAL,,1

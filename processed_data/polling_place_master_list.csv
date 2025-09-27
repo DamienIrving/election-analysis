@@ -1,6 +1,7 @@
 DivisionNm,LegCo,LocalCouncil,PollingPlaceID,PollingPlaceNm,PremisesNm,PremisesAddress,PremisesSuburb,PremisesPostCode,Latitude,Longitude
 Bass,Rosevears,West Tamar,8553,Beaconsfield,Beaconsfield Senior Citizens' Hall,121 Weld St,BEACONSFIELD,7270,-41.2024,146.819
 Bass,Rosevears,West Tamar,,Beaconsfield,Beaconsfield House Inc,33 Grubb St,BEACONSFIELD,7270,-41.20200704,146.8209173
+Bass,Rosevears,West Tamar,,Beaconsfield,Beaconsfield Community Centre,92 Weld St,BEACONSFIELD,7270,-41.20299261388977,146.8186079471246
 Bass,Rosevears,West Tamar,8608,Beauty Point,Tamar Yacht Club,1 Wharf Rd,BEAUTY POINT,7270,-41.1574613,146.822319
 Bass,Rosevears,West Tamar,,Beauty Point,Beauty Point Uniting Church Hall,Beatty St,BEAUTY POINT,7270,-41.14898279,146.817506
 Bass,Rosevears,West Tamar,,Beauty Point,Beauty Point (Sandy Beach) Bowls Club Hall,11 Mainwaring St,BEAUTY POINT,7270,-41.14680314,146.814733
@@ -27,8 +28,10 @@ Bass,Rosevears,West Tamar,,Gravelly Beach,Gravelly Beach Main Hall,"Edinburgh Pa
 Bass,Rosevears,West Tamar,,Gravelly Beach,Gravelly Beach Fire Station,4 Tomah Pl,GRAVELLY BEACH,7276,-41.29248635,146.9695574
 Bass,Windermere,George Town,8304,Hillwood,Hillwood Memorial Hall,280 Hillwood Jetty Rd,HILLWOOD,7252,-41.236252,146.974945
 Bass,Windermere,Launceston City,8305,Inveresk,Invermay Primary School,35-43 Mayne St,INVERMAY,7248,-41.421676,147.131233
+Bass,Windermere,Launceston City,,Invermay Central,Invermay Primary School,35-43 Mayne St,INVERMAY,7248,-41.421676,147.131233
 Bass,Windermere,Launceston City,8306,Invermay,St Finn Barr's School,247 Invermay Rd,INVERMAY,7248,-41.4157,147.132
 Bass,Windermere,Launceston City,,Invermay,The Tramsheds Function Centre,4 Invermay Rd,INVERMAY,7248,-41.428417,147.138618
+Bass,Windermere,Launceston City,,Invermay South,Tramsheds,2-4 Invermay Rd,INVERMAY,7248,-41.428417,147.138618
 Bass,Windermere,Launceston City,8308,Karoola,Karoola Hall,1126 Pipers River Rd,KAROOLA,7267,-41.2539,147.148
 Bass,Rosevears,West Tamar,31784,Kelso,Kelso Community Centre,Foreshore Rd,KELSO,7270,-41.1037,146.794
 Bass,Launceston,Launceston City,8309,Kings Meadows,YMCA Centre,8A Blaydon St,KINGS MEADOWS,7249,-41.4677,147.16
@@ -37,7 +40,9 @@ Bass,Launceston,Launceston City,,Kings Meadows South,Kings Meadows High School,9
 Bass,McIntyre,Flinders,8310,Lady Barron,Lady Barron Memorial Hall,Main St,LADY BARRON,7255,-40.2110811,148.240354
 Bass,McIntyre,Flinders,,Lady Barron,Holloway Park Building,Barr St,LADY BARRON,7255,-40.2105,148.24342
 Bass,Launceston,Launceston City,8311,Launceston,Pilgrim Hall,36 Paterson St,LAUNCESTON,7250,-41.4366,147.137
+Bass,Launceston,Launceston City,,Launceston Central,Pilgrim Hall,36 Paterson St,LAUNCESTON,7250,-41.4366,147.137
 Bass,Launceston,Launceston City,,Launceston,Launceston Voting Centre,182-192 Cimitiere St,LAUNCESTON,7250,-41.4349144217468,147.136038535581
+Bass,Launceston,Launceston City,,Launceston,Sacred Heart Catholic Primary School,227 York St,LAUNCESTON,7250,-41.44267601267048,147.13260635767298
 Bass,Launceston,Launceston City,8312,Launceston Central,N/A,59 Bathurst St,LAUNCESTON,7250,-41.4421509,147.1368194
 Bass,Launceston,Launceston City,,Launceston Central,Chalmers Hall,163 St John St,LAUNCESTON,7250,-41.441,147.14205
 Bass,Launceston,Launceston City,,Launceston Central,Launceston Central Polling Booth,85a George St,LAUNCESTON,7250,-41.43600104,147.1405793
@@ -48,31 +53,39 @@ Bass,Rosevears,West Tamar,97469,Legana Central,Legana Regis,1-9 Freshwater Point
 Bass,Rosevears,West Tamar,,Legana Central,Legana Christian Church,1 Gerrard Cl,LEGANA,7277,-41.37014221,147.0404247
 Bass,Windermere,Launceston City,8319,Lilydale,Lilydale Memorial Hall,1949 Main Rd,LILYDALE,7268,-41.2523,147.216
 Bass,Windermere,Launceston City,8321,Mowbray,Launceston Church Grammar School,36 Button St,MOWBRAY,7248,-41.4081402,147.131059
+Bass,Windermere,Launceston City,,Mowbray,Mowbray Heights Primary School,20-30 Cadorna St,MOWBRAY,7248,-41.40229305652337,147.13286246769914
 Bass,Windermere,Launceston City,8288,Newnham,Launceston North Uniting Church,128-132 George Town Rd,NEWNHAM,7248,-41.3873,147.128
 Bass,Windermere,Launceston City,83667,Newnham Alanvale,North Launceston Bowls and Community Club,1B George Town Rd,NEWNHAM,7248,-41.4002846,147.128665
+Bass,Windermere,Launceston City,,Newnham South,North Launceston Bowls and Community Club,1B George Town Rd,NEWNHAM,7248,-41.4002846,147.128665
 Bass,Launceston,Launceston City,8326,Newstead,Police Citizens & Youth Club,148 Abbott St,NEWSTEAD,7250,-41.4472,147.157
 Bass,Launceston,Launceston City,,Newstead,Newstead Baptist Church,14 Wentworth St,NEWSTEAD,7250,-41.44598633,147.1604931
+Bass,Launceston,Launceston City,,Newstead,Newstead Christian School,31-37 Tudor Ave,NEWSTEAD,7250,-41.43815859894034,147.16500947604857
 Bass,Launceston,Launceston City,8328,Norwood,Norwood Primary School,103 Norwood Ave,NORWOOD,7250,-41.4621,147.174
 Bass,Launceston,Launceston City,83668,Norwood North,Queechy High School,161 Penquite Rd,NORWOOD,7250,-41.4519533,147.176075
 Bass,Windermere,Launceston City,8329,Nunamara,Nunamara Memorial Hall,39461 Tasman Hwy,NUNAMARA,7259,-41.394,147.296
 Bass,Windermere,George Town,8332,Pipers River,Pipers River Fire Station,76 School Rd,PIPERS RIVER,7252,-41.1006,147.091
 Bass,Rosevears,Launceston City,8333,Prospect,St Patrick's College,282 Westbury Rd,PROSPECT,7250,-41.472,147.126
 Bass,Rosevears,Launceston City,,Prospect,Prospect High School,30-32 Ralph St,PROSPECT,7250,-41.4755168831562,147.13106053219
+Bass,Rosevears,Launceston City,,Prospect East,Silverdome,55 Oakden Rd,PROSPECT,7250,-41.475306479210005,147.14017153886664
 Bass,Windermere,Launceston City,8334,Ravenswood,Ravenswood Primary School,27 Prossers Forest Rd,RAVENSWOOD,7250,-41.4159553,147.1796536
 Bass,McIntyre,Dorset,8335,Ringarooma,Ringarooma Hall,4 Charles St,RINGAROOMA,7263,-41.24241,147.73568
 Bass,Rosevears,West Tamar,8336,Riverside,Launceston Christian School,452a West Tamar Rd,RIVERSIDE,7250,-41.4005824,147.0913273
 Bass,Rosevears,West Tamar,,Riverside,Riverside High School,354 West Tamar Hwy,RIVERSIDE,7250,-41.40936,147.09861
 Bass,Rosevears,West Tamar,97468,Riverside North,Riverside Gospel Chapel,453 West Tamar Rd,RIVERSIDE,7250,-41.40312,147.0890916
 Bass,Rosevears,West Tamar,8336,Riverside North,Launceston Christian School,452a West Tamar Rd,RIVERSIDE,7250,-41.4005824,147.0913273
+Bass,Rosevears,West Tamar,8336,Riverside North,Windsor Community Centre,1 Windsor Dr,RIVERSIDE,7250,-41.403988007933584,147.0933295253722
 Bass,Rosevears,West Tamar,,Riverside West,Trevallyn Life Church,34 Pitt Ave,TREVALLYN,7250,-41.4301,147.106
 Bass,Windermere,Launceston City,8864,Rocherlea,Brooks High School,215 George Town Rd,ROCHERLEA,7248,-41.3785314,147.1215034
 Bass,Windermere,Launceston City,,Rocherlea,Rocherlea Memorial Hall,23-41 Archer St,ROCHERLEA,7248,-41.37297473,147.1302399
+Bass,Windermere,Launceston City,,Rocherlea,Life Without Barriers,3 Archer St,ROCHERLEA,7248,-41.37451987911754,147.1291848388612
 Bass,Windermere,Launceston City,8339,St Leonards,St Leonards Primary School,330-342 St Leonards Rd,ST LEONARDS,7250,-41.4597,147.2
 Bass,McIntyre,Dorset,8340,Scottsdale,Scottsdale High School,20 Coplestone Rd,SCOTTSDALE,7260,-41.1571174,147.5086738
 Bass,McIntyre,Dorset,,Scottsdale,St Barnabas' Church Hall,55 King St,SCOTTSDALE,7260,-41.16255,147.51491
 Bass,Rosevears,West Tamar,8671,Sidmouth,Sidmouth Community Centre,255 Batman Hwy,SIDMOUTH,7270,-41.2221,146.887
 Bass,Rosevears,Launceston City,8330,South Launceston,Door of Hope,50 Glen Dhu Street,LAUNCESTON,7250,-41.4552869,147.1404286
 Bass,Rosevears,Launceston City,,South Launceston,Launceston RSL,313-315 Wellington St,LAUNCESTON,7250,-41.45296,147.14393
+Bass,Rosevears,Launceston City,,South Launceston East,St Marks Hall,2-6 Hobart Rd,SOUTH LAUNCESTON,7249,-41.459328671504146,147.15391158465405
+Bass,Rosevears,Launceston City,,South Launceston West,Launceston Conference Centre,50 Glen Dhu St,SOUTH LAUNCESTON,7249,-41.45567871682845,147.14132043886568
 Bass,Rosevears,Launceston City,,Summerhill,Summerdale Community Centre,82-84 Stanley St,SUMMERHILL,7250,-41.4683,147.12971
 Bass,Rosevears,Launceston City,33084,Summerhill,Summerhill Baptist Church,87 Stanley St,SUMMERHILL,7250,-41.4657984,147.1272384
 Bass,Windermere,Launceston City,,Targa,Myrtle Park Hall,38250 Tasman Hwy,TARGA,7259,-41.31087564,147.3641043
@@ -92,6 +105,7 @@ Braddon,Montgomery,Burnie City,8359,Acton,Burnie Child and Family Centre,36 Thor
 Braddon,Mersey,Devonport City,,Ambleside,Mersey Rowing Club,52 River Rd,AMBLESIDE,7310,-41.19720933,146.3671715
 Braddon,Murchison,Waratah-Wynyard,8362,Boat Harbour,Boat Harbour Primary School,17386 Bass Hwy,BOAT HARBOUR,7321,-40.9452,145.636
 Braddon,Murchison,Burnie City,8365,Burnie,Burnie City Council Offices,80 Wilson St,BURNIE,7320,-41.0532,145.906
+Braddon,Murchison,Burnie City,,Burnie,Burnie Senior Citizens Club Association,6 Jones St,BURNIE,7320,-41.05232520541725,145.90244901349047
 Braddon,Murchison,Waratah-Wynyard,8367,Calder,Calder Hall,1320 Calder Rd,CALDER,7325,-41.0685,145.631
 Braddon,Murchison,Burnie City,8368,Cooee,Cooee Primary School,30 Fidler St,COOEE,7320,-41.04076,145.86801
 Braddon,Murchison,King Island,8370,Currie,Currie Town Hall,10 George St,CURRIE,7256,-39.9298,143.855
@@ -100,9 +114,11 @@ Braddon,Mersey,Devonport City,8371,Devonport Central,Old Devonport Regional Gall
 Braddon,Mersey,Devonport City,,Devonport Central,St Johns Parish Hall,Fenton St,DEVONPORT,7310,-41.178994,146.3582738
 Braddon,Mersey,Devonport City,,Devonport Central,Devonport Primary School,57A Stewart St,DEVONPORT,7310,-41.1800402,146.358108
 Braddon,Mersey,Devonport City,,Devonport North,Mersey Bluff Church of Christ,232 William St,DEVONPORT,7310,-41.16671713,146.3537429
+Braddon,Mersey,Devonport City,,Devonport North,Don College,87-121 Watkinson St,DEVONPORT,7310,-41.168831835170195,146.3339304676864
 Braddon,Mersey,Devonport City,8401,Devonport North West,Nixon Street Primary School,60 Nixon St,DEVONPORT,7310,-41.1728,146.337
 Braddon,Mersey,Devonport City,34286,Devonport South,Reece High School,41-43 Middle Rd,DEVONPORT,7310,-41.1893,146.349
 Braddon,Mersey,Devonport City,8432,Devonport West,TasTafe,20-36 Valley Rd,DEVONPORT,7310,-41.1864,146.345
+Braddon,Mersey,Devonport City,,Devonport West,Devonport Christian School,3-11 Jiloa Way,DON,7310,-41.181538320220966,146.32241456768705
 Braddon,Mersey,Devonport City,8375,Don,Don Memorial Hall,17 Forth Rd,DON,7310,-41.1827,146.318
 Braddon,Mersey,Devonport City,8372,East Devonport,East Devonport Primary School,19-21 Thomas St,EAST DEVONPORT,7310,-41.1779,146.372
 Braddon,Murchison,Circular Head,8376,Edith Creek,Edith Creek Primary School,1282 Trowutta Rd,EDITH CREEK,7330,-40.9705,145.092
@@ -129,7 +145,7 @@ Braddon,Mersey,Devonport City,,Miandetta,School of Special Education,113 Middle 
 Braddon,Murchison,Circular Head,,Montagu,Montagu Fire Station,1691 Montagu Rd,MONTAGU,7330,-40.77709431,144.9522609
 Braddon,Murchison,Burnie City,8396,Montello,Montello Primary School,83 Bird St,MONTELLO,7320,-41.0605,145.898
 Braddon,Murchison,Waratah-Wynyard,8398,Moorleah,Moorleah Community Centre,720 Preolenna Rd,MOORLEAH,7321,-40.981,145.616
-Braddon,Mersey,Latrobe,8634,Moriarty,Moriarty Hall,1 Bonneys Lane,MORIARTY,7307,-41.2172056,146.4813083
+Braddon,Mersey,Latrobe,8634,Moriarty,Moriarty Hall,1 Bonneys La,MORIARTY,7307,-41.2172056,146.4813083
 Braddon,Montgomery,Burnie City,8399,Natone,Natone Primary School,100 Upper Natone Rd,NATONE,7321,-41.1701,145.922
 Braddon,Montgomery,Central Coast,8402,North Motton,North Motton Hall,578 Preston Rd,NORTH MOTTON,7315,-41.20637,146.10937
 Braddon,Montgomery,Central Coast,8404,Penguin,Penguin Uniting Church Hall,50 Main Rd,PENGUIN,7316,-41.112,146.071
@@ -178,6 +194,7 @@ Braddon,Mersey,Latrobe,8685,Wesley Vale,Andrews Creek Primary School,20 Westwind
 Braddon,Montgomery,Central Coast,8428,West Ulverstone,West Ulverstone Primary School,34 Maud St,WEST ULVERSTONE,7315,-41.1482,146.16
 Braddon,Montgomery,Burnie City,8434,Wivenhoe,Leighland Christian School (Wivenhoe Campus),Stowport Rd,WIVENHOE,7320,-41.06904,145.93609
 Braddon,Murchison,Waratah-Wynyard,8435,Wynyard Central,Wynyard Senior Citizens Club Rooms,28 Jackson St,WYNYARD,7325,-40.9909,145.729
+Braddon,Murchison,Waratah-Wynyard,,Wynyard Central,Wynyard Railway Institute Hall,2 Station St,WYNYARD,7325,-40.99181706033309,145.72261798302256
 Braddon,Murchison,Waratah-Wynyard,8433,Wynyard West,Wynyard High School,30 Church St,WYNYARD,7325,-40.9867,145.717
 Braddon,Murchison,Waratah-Wynyard,8437,Yolla,Yolla District High School,School Lane,YOLLA,7325,-41.1237,145.719
 Braddon,Murchison,West Coast,8696,Zeehan,Zeehan Primary School,7 Belstead St,ZEEHAN,7469,-41.888,145.34
@@ -186,6 +203,7 @@ Clark,Hobart,Hobart City,8442,Battery Point,Albuera Street Primary School,10A Al
 Clark,Hobart,Hobart City,,Battery Point West,Albuera Street Primary School,10A Albuera St,BATTERY POINT,7004,-42.8912,147.326
 Clark,Hobart,Hobart City,,Battery Point,10th Hobart Scout Hall,Marieville Esp,SANDY BAY,7004,-42.8960232,147.3339125
 Clark,Hobart,Hobart City,,Battery Point,St George's Church Hall,28 Cromwell St,BATTERY POINT,7004,-42.89155914,147.3326626
+Clark,Hobart,Hobart City,,Battery Point,St George's Anglican Church,30 Cromwell St,BATTERY POINT,7004,-42.89155914,147.3326626
 Clark,Hobart,Hobart City,8445,Cascades,South Hobart Primary School,59 Anglesea St,SOUTH HOBART,7004,-42.8924944,147.310633
 Clark,Hobart,Hobart City,,Cascades,Badminton Association Centre,101 Cascade Rd,SOUTH HOBART,7004,-42.89502326,147.2998449
 Clark,Hobart,Hobart City,,Cascades,C3 Church Convention Centre,64 Anglesea St,SOUTH HOBART,7004,-42.89316512,147.3077398
@@ -193,8 +211,12 @@ Clark,Derwent,Glenorchy City,8446,Chigwell,Chigwell Barn,10 Bucaan St,CHIGWELL,7
 Clark,Derwent,Glenorchy City,8447,Claremont,Holy Rosary Catholic School,29 Wyndham Rd,CLAREMONT,7011,-42.789471,147.2484692
 Clark,Derwent,Glenorchy City,,Claremont,Claremont Girl Guides Hall,3 Boxhill Rd,CLAREMONT,7011,-42.7923075,147.2559987
 Clark,Derwent,Glenorchy City,,Claremont,Claremont College,61 Claremont Link Rd,CLAREMONT,7011,-42.7941601771296,147.249718323844
+Clark,Derwent,Glenorchy City,,Claremont North,Austins Ferry Primary School,13 Brodie St,CLAREMONT,7011,-42.7861799,147.2405494
+Clark,Derwent,Glenorchy City,,Claremont South,Windermere Primary School,2 Cadbury Rd,CLAREMONT,7011,-42.80013,147.259102
 Clark,Elwick,Glenorchy City,8448,Collinsvale,Collinsvale Primary School,508 Collinsvale Rd,COLLINSVALE,7012,-42.8367,147.198
 Clark,Elwick,Glenorchy City,,Derwent Park,Cosgrove High School,286 Main Rd,DERWENT PARK,7010,-42.83534065,147.2834817
+Clark,Elwick,Glenorchy City,,Derwent Park,Moonah Primary School,40 Derwent Park Rd,MOONAH,7009,-42.838,147.296
+Clark,Elwick,Glenorchy City,,Derwent Park North,Goodwood Primary School,454-458 Brooker Hwy,DERWENT PARK,7009,-42.83168903,147.2937435
 Clark,Nelson,Hobart City,8453,Dynnyrne,Princes Street Primary School,Randall St,SANDY BAY,7005,-42.8984,147.319
 Clark,Hobart,Hobart City,8456,Fern Tree,Fern Tree Community Centre,8 Stephenson Pl,FERN TREE,7054,-42.9223,147.262
 Clark,Hobart,Hobart City,,Fern Tree,Fern Tree Fire Station,7 Summerleas Rd,FERN TREE,7054,-42.92324765,147.2604407
@@ -204,9 +226,13 @@ Clark,Elwick,Glenorchy City,,Elwick,Glenorchy YMCA,8A Constance Ave,GLENORCHY,70
 Clark,Elwick,Glenorchy City,,Glenorchy Central,St Matthews Church,Cnr Tolosa St and Main Rd,GLENORCHY,7010,-42.83306637,147.2742919
 Clark,Elwick,Glenorchy City,,Glenorchy Central,Glenorchy Civic Centre,Cooper St,GLENORCHY,7010,-42.8340896,147.2761589
 Clark,Elwick,Glenorchy City,,Glenorchy Central,Cosgrove High School,286-294 Main Rd,GLENORCHY,7010,-42.8365061,147.283187
+Clark,Elwick,Glenorchy City,,Glenorchy Central,MyState Bank Arena (Derwent Room),601 Brooker Hwy,GLENORCHY,7010,-42.824260098985754,147.28272219661503
+Clark,Elwick,Glenorchy City,,Glenorchy West,Tolosa Hall,148 Tolosa St,GLENORCHY,7010,-42.8455,147.265
+Clark,Elwick,Glenorchy City,,Glenorchy South,Glenorchy Library,4 Terry St,GLENORCHY,7010,-42.8455,147.265
 Clark,Elwick,Glenorchy City,8459,Goodwood,Karadi Aboriginal Corporation,4 Rothesay Cir,GOODWOOD,7010,-42.8267634,147.2926827
 Clark,Elwick,Glenorchy City,,Goodwood,Goodwood Primary School,Elmsleigh Rd,MOONAH,7009,-42.83168903,147.2937435
 Clark,Hobart,Hobart City,,Hobart,G A Wood Hall,29 Bathurst St,HOBART,7000,-42.87859204,147.3277113
+Clark,Hobart,Hobart City,,Hobart,Guilford Young College (Hobart Campus),94 Barrack St,HOBART,7000,-42.88284746,147.3176315
 Clark,Hobart,Hobart City,8461,Hobart City,Hobart Voting Centre,144 Macquarie St,HOBART,7000,-42.8852235,147.327458
 Clark,Hobart,Hobart City,,Hobart City,Hobart City Hall,57-63 Macquarie St,HOBART,7000,-42.88047788,147.3315536
 Clark,Hobart,Hobart City,,Hobart City,Harris Scarfe Building,91 Collins St,HOBART,7000,-42.88250179,147.3276947
@@ -233,6 +259,7 @@ Clark,Hobart,Hobart City,,New Town,Polish Association,22-24 New Town Rd,NEW TOWN
 Clark,Hobart,Hobart City,,New Town Central,New Town Primary School,36 Forster St,NEW TOWN,7008,-42.85768273,147.3005755
 Clark,Hobart,Hobart City,8452,New Town West,Sacred Heart College,67 Clare St,NEW TOWN,7008,-42.8615,147.304
 Clark,Hobart,Hobart City,,North Hobart,Elizabeth College,256 Elizabeth St,NORTH HOBART,7000,-42.87760158,147.3177552
+Clark,Hobart,Hobart City,,North Hobart,The Friends School,395 Argyle St,NORTH HOBART,7000,-42.867,147.316
 Clark,Hobart,Hobart City,8484,North Hobart Central,Hobart North Uniting Church,2 Swan St,NORTH HOBART,7000,-42.8728,147.314
 Clark,Derwent,Glenorchy City,8478,Roseneath,Austins Ferry Primary School,13 Brodie St,CLAREMONT,7011,-42.7861799,147.2405494
 Clark,Elwick,Glenorchy City,83688,Rosetta,Rosetta Primary School,32 Riverview Pde,ROSETTA,7010,-42.8214368,147.2587376
@@ -241,6 +268,8 @@ Clark,Elwick,Glenorchy City,,Rosetta,Montrose Bay Yacht Club,Foreshore Rd,ROSETT
 Clark,Huon,Kingborough,46859,Sandfly,Sandfly Hall,811 Sandfly Rd,SANDFLY,7150,-42.985,147.196
 Clark,Nelson,Hobart City,8482,Sandy Bay,Wellspring Anglican Church Hall,43 Grosvenor St,SANDY BAY,7005,-42.8992,147.327
 Clark,Nelson,Hobart City,8483,Sandy Bay Beach,Harold Gregg Centre,1 Southerwood Dr,SANDY BAY,7005,-42.9138,147.355
+Clark,Nelson,Hobart City,,Sandy Bay Central,Princes Street Primary School,Randall St,SANDY BAY,7005,-42.8984,147.319
+Clark,Nelson,Hobart City,,Sandy Bay South,Waimea Heights Primary School,12 Balfour Ct,SANDY BAY,7005,-42.9090106,147.3367403
 Clark,Hobart,Hobart City,8464,South Hobart,St Francis Xavier's Church Hall,34 Anglesea St,SOUTH HOBART,7004,-42.8949,147.312
 Clark,Nelson,Hobart City,8542,Taroona,Taroona Primary School,104 Channel Hwy,TAROONA,7053,-42.9433021,147.3527368
 Clark,Nelson,Hobart City,8486,Waimea Heights,Waimea Heights Primary School,12 Balfour Ct,SANDY BAY,7005,-42.9090106,147.3367403
@@ -258,6 +287,7 @@ Franklin,Huon,Kingborough,,Barnes Bay,Barnes Bay CWA Rooms,678 Bruny Island Main
 Franklin,Pembroke,Clarence City,8497,Bellerive,St Mark's Church,cnr Clarence St & Scott St,BELLERIVE,7018,-42.8751559,147.3713784
 Franklin,Pembroke,Clarence City,,Bellerive,Clarence Police & Community Youth Club Inc,10 Scott St,BELLERIVE,7018,-42.87605998,147.3709545
 Franklin,Pembroke,Clarence City,,Bellerive,Bellerive Primary School,20 Leslie St,BELLERIVE,7018,-42.87297432,147.3727908
+Franklin,Pembroke,Clarence City,,Bellerive East,Clarence High School,25 Wentworth St,BELLERIVE,7018,-42.8784,147.389
 Franklin,Nelson,Kingborough,8498,Blackmans Bay,Blackmans Bay Primary School,177 Roslyn Ave,BLACKMANS BAY,7052,-42.996938,147.3212189
 Franklin,Nelson,Kingborough,,Blackmans Bay,The Salvation Army Kingborough,3 Opal Dr,BLACKMANS BAY,7052,-42.99873483,147.3182753
 Franklin,Huon,Kingborough,83602,Blackmans Bay South,Blackmans Bay Hall,24 Ocean Esp,BLACKMANS BAY,7052,-43.0025,147.324
@@ -273,6 +303,7 @@ Franklin,Huon,Huon Valley,,Cygnet,Cygnet Sports Centre,19 Louisa St,CYGNET,7112,
 Franklin,Huon,Huon Valley,8506,Dover,Dover District High School,6940 Huon Hwy,DOVER,7117,-43.3105,147.013
 Franklin,Huon,Huon Valley,8508,Franklin,Franklin Primary School,10 New Rd,FRANKLIN,7113,-43.0856539,147.0120184
 Franklin,Huon,Huon Valley,,Franklin,Palais Theatre,3388 Huon Hwy,FRANKLIN,7113,-43.08902675,147.0105237
+Franklin,Huon,Huon Valley,,Franklin Township,Palais Theatre,3388 Huon Hwy,FRANKLIN,7113,-43.08902675,147.0105237
 Franklin,Huon,Huon Valley,8511,Geeveston,Geeveston Primary School,63 Arve Rd,GEEVESTON,7116,-43.1625,146.922
 Franklin,Huon,Huon Valley,,Geeveston,Geeveston Community Hall,7 Brady St,GEEVESTON,7116,-43.16394933,146.9244316
 Franklin,Pembroke,Clarence City,8512,Geilston Bay,Lindisfarne North Primary School,271 East Derwent Hwy,GEILSTON BAY,7015,-42.8383,147.349
@@ -282,6 +313,8 @@ Franklin,N/A,N/A,83941,Hobart City,144 Macquarie St,Level 1,HOBART,7000,-42.8852
 Franklin,N/A,N/A,,Hobart City,Hobart City Hall,57-63 Macquarie St,HOBART,7000,-42.88047788,147.3315536
 Franklin,Huon,Kingborough,8515,Howden,Howden Fire Station,392 Howden Rd,HOWDEN,7054,-43.0191283,147.2915454
 Franklin,Pembroke,Clarence City,8516,Howrah,"Howrah Scout Hall, Howrah Primary School",7 Howrah Rd,HOWRAH,7018,-42.8819,147.404
+Franklin,Pembroke,Clarence City,,Howrah East,Howrah Church of Christ,30 Holland St,HOWRAH,7018,-42.88707419311061,147.41718978127255
+Franklin,Pembroke,Clarence City,,Howrah South,Tranmere Hall,27 Tranmere Rd,HOWRAH,7018,-42.8911,147.409
 Franklin,Huon,Huon Valley,8517,Huonville,Huonville Primary School,74 Wilmot Rd,HUONVILLE,7109,-43.0242397,147.0447827
 Franklin,Huon,Huon Valley,,Huonville,Salvation Army Hall,31 Wilmot Rd,HUONVILLE,7109,-43.02906708,147.0469088
 Franklin,Huon,Huon Valley,8518,Judbury,Judbury Hall,1273 Glen Huon Rd,JUDBURY,7109,-42.9982,146.9283
@@ -290,6 +323,7 @@ Franklin,Nelson,Kingborough,8520,Kingston,Kingborough Community Hub,7 Goshawk Wa
 Franklin,Nelson,Kingborough,,Kingston,Kingborough Council,15 Channel Hwy,KINGSTON,7050,-42.9754184,147.3116498
 Franklin,Nelson,Kingborough,8521,Kingston Beach,Kingston Beach Hall,20 Beach Rd,KINGSTON BEACH,7050,-42.9815337,147.3235074
 Franklin,Nelson,Kingborough,,Kingston South,Kingston Scout Hall,Kingston View Drive,KINGSTON,7050,-42.97283148,147.284727
+Franklin,Nelson,Kingborough,,Kingston West,Southern Christian College,150 Redwood Rd,KINGSTON,7050,-42.9896,147.309
 Franklin,Rumney,Clarence City,8522,Lauderdale,Lauderdale Community Hall,528A South Arm Rd,LAUDERDALE,7021,-42.9136629,147.4862704
 Franklin,Rumney,Clarence City,,Lauderdale,Lauderdale Primary Sports Centre,3 Acton Rd,LAUDERDALE,7021,-42.90425383,147.4784906
 Franklin,Pembroke,Clarence City,8524,Lindisfarne,Lindisfarne Primary School,17 Loatta Rd,LINDISFARNE,7015,-42.8519,147.363
@@ -301,7 +335,9 @@ Franklin,Huon,Kingborough,,Margate,Margate Primary School,7 Van Morey Rd,MARGATE
 Franklin,Huon,Kingborough,8526,Middleton,South Channel Community Centre,25 McDowall St,MIDDLETON,7163,-43.2311,147.256
 Franklin,Pembroke,Clarence City,8527,Montagu Bay,Montagu Bay Primary School,10 Conara Rd,MONTAGU BAY,7018,-42.8646,147.353
 Franklin,Pembroke,Clarence City,8528,Mornington,Citywide Baptist Church,400 Cambridge Rd,MORNINGTON,7018,-42.8563512,147.4017533
+Franklin,Pembroke,Clarence City,,Mornington,MacKillop Catholic College,2 Goondi St,MORNINGTON,7018,-42.85712256554291,147.40019922545338
 Franklin,Huon,Huon Valley,8514,Mountain River,Mountain River Memorial Hall,263 Mountain River Rd,MOUNTAIN RIVER,7109,-42.9614,147.109
+Franklin,Huon,Kingborough,,North Bruny,Barnes Bay CWA Hall,680 Bruny Island Main Rd,NORTH BRUNY,7150,-43.11260291,147.3734144
 Franklin,Huon,Huon Valley,,Port Huon,Port Huon Sports & Aquatic Centre,Huon Hwy,PORT HUON,7116,-43.15668251,146.9574075
 Franklin,Huon,Huon Valley,8531,Ranelagh,Ranelagh Memorial Hall,40 Marguerite St,RANELAGH,7109,-43.0086,147.039
 Franklin,Rumney,Clarence City,8532,Risdon Vale,Risdon Vale Primary School,2 Heather Rd,RISDON VALE,7016,-42.8131,147.354
@@ -326,10 +362,12 @@ Lyons,Prosser,Southern Midlands,8551,Bagdad,Bagdad Primary School,46 School Rd,B
 Lyons,Prosser,Glamorgan-Spring Bay,8556,Bicheno,Bicheno War Memorial Hall,78 Burgess St,BICHENO,7215,-41.8743,148.3003
 Lyons,Prosser,Glamorgan-Spring Bay,,Bicheno,Bicheno Beachfront,Sinclair St,BICHENO,7215,-41.87436309,148.2998814
 Lyons,McIntyre,Northern Midlands,,Bishopsbourne,Bishopsbourne Community Centre,1111 Bishopsbourne Rd,BISHOPSBOURNE,7310,-41.61596813,146.9957648
+Lyons,Launceston,Meander Valley,,Blackstone Heights,Blackstone Christian Centre,8 Neptune Dr,BLACKSTONE HEIGHTS,7250,-41.468281123069374,147.09108739653922
 Lyons,Derwent,Central Highlands,8559,Bothwell,Bothwell Council Chambers,19 Alexander St,BOTHWELL,7030,-42.3819,147.006
 Lyons,McIntyre,Meander Valley,8560,Bracknell,Bracknell War Memorial Hall,Louisa St,BRACKNELL,7302,-41.6512,146.943
 Lyons,Derwent,Brighton,8500,Bridgewater,Brighton Civic Centre,25 Green Point Rd,BRIDGEWATER,7030,-42.7391644,147.2435117
 Lyons,Derwent,Brighton,,Bridgewater,JRLF Senior School,55 Eddington St,BRIDGEWATER,7030,-42.7386711818849,147.240941430074
+Lyons,Derwent,Brighton,,Bridgewater North,Bridgewater Coronation Hall,25 Old Main Rd,BRIDGEWATER,7030,-42.73673013772879,147.22743047653842
 Lyons,Derwent,Brighton,8562,Brighton,Brighton Primary School,27 Downie St,BRIGHTON,7030,-42.6991,147.258
 Lyons,Prosser,Southern Midlands,8563,Broadmarsh,Broadmarsh Hall,1218 Elderslie Rd,BROADMARSH,7030,-42.6567,147.126
 Lyons,Derwent,Central Highlands,,Bronte,Bronte Park Highland Village,378 Marlborough Rd,BRONTE PARK,7140,-42.13599746,146.4915556
@@ -423,6 +461,7 @@ Lyons,McIntyre,Break O'Day,,Scamander,Scamander Fire Station,Campbell St,SCAMAND
 Lyons,Montgomery,Kentish,8670,Sheffield,Sheffield School,12 Henry St,SHEFFIELD,7306,-41.3806889,146.3303161
 Lyons,Prosser,Sorell,8672,Sorell,Sorell Memorial Hall,47 Cole St,SORELL,7172,-42.780612,147.560628
 Lyons,Prosser,Sorell,,Sorell,Sorell School,41 Gordon St,SORELL,7172,-42.7859,147.561
+Lyons,Prosser,Sorell,,Sorell,Sorell Bowls Club,11 Parsonage Pl,SORELL,7172,-42.78440184489098,147.56406784772
 Lyons,Prosser,Sorell,83677,Sorell South,Sorell School,41 Gordon St,SORELL,7172,-42.7859,147.561
 Lyons,Rosevears,Launceston City,95002,Summerhill,Summerhill Baptist Church,87 Stanley St,SUMMERHILL,7250,-41.4657984,147.1272384
 Lyons,Rosevears,Launceston City,95002,Summerhill,Summerdale Community Hall,82-84 Stanley St,SUMMERHILL,7250,-41.46765888,147.1300219
