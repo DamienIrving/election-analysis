@@ -11,6 +11,7 @@ Bass,McIntyre,Dorset,8291,Bridport,Bridport Hall,Main St,BRIDPORT,7262,-41.0026,
 Bass,Launceston,Launceston City,,Cosgrove Park,Cosgrove Park Bowls Club,25 Waveney St,SOUTH LAUNCESTON,7249,-41.46171648,147.1496418
 Bass,McIntyre,Dorset,8295,Derby,Derby Town Hall,1 Krushka St,DERBY,7264,-41.14933,147.80236
 Bass,Windermere,Launceston City,8296,Dilston,Dilston War Memorial Hall,308 John Lees Dr,DILSTON,7252,-41.3368,147.082
+Bass,Windermere,Launceston City,8296,Dilston,Dilston Fire Station,642 John Lees Dr,DILSTON,7252,-41.3368,147.082
 Bass,Launceston,Launceston City,8313,East Launceston,East Launceston Primary School,18 Mary St,EAST LAUNCESTON,7250,-41.4414396,147.1513724
 Bass,Launceston,Launceston City,,East Launceston,Easst Launceston Pavillion,16-28 Oxford St,EAST LAUNCESTON,7250,-41.44151159,147.1509867
 Bass,Windermere,Launceston City,,Elphin,Newstead College,30 Cypress St,NEWSTEAD,7250,-41.43310278,147.1607993
@@ -52,6 +53,7 @@ Bass,Rosevears,West Tamar,8616,Legana,Legana Memorial Hall,43 Fulton St,LEGANA,7
 Bass,Rosevears,West Tamar,97469,Legana Central,Legana Regis,1-9 Freshwater Point Rd,LEGANA,7277,-41.3635893,147.0397975
 Bass,Rosevears,West Tamar,,Legana Central,Legana Christian Church,1 Gerrard Cl,LEGANA,7277,-41.37014221,147.0404247
 Bass,Windermere,Launceston City,8319,Lilydale,Lilydale Memorial Hall,1949 Main Rd,LILYDALE,7268,-41.2523,147.216
+Bass,Windermere,Launceston City,8319,Lilydale,Lilydale District High School,1947 Main Rd,LILYDALE,7268,-41.2523,147.216
 Bass,Windermere,Launceston City,8321,Mowbray,Launceston Church Grammar School,36 Button St,MOWBRAY,7248,-41.4081402,147.131059
 Bass,Windermere,Launceston City,,Mowbray,Mowbray Heights Primary School,20-30 Cadorna St,MOWBRAY,7248,-41.40229305652337,147.13286246769914
 Bass,Windermere,Launceston City,8288,Newnham,Launceston North Uniting Church,128-132 George Town Rd,NEWNHAM,7248,-41.3873,147.128
@@ -84,6 +86,7 @@ Bass,McIntyre,Dorset,,Scottsdale,St Barnabas' Church Hall,55 King St,SCOTTSDALE,
 Bass,Rosevears,West Tamar,8671,Sidmouth,Sidmouth Community Centre,255 Batman Hwy,SIDMOUTH,7270,-41.2221,146.887
 Bass,Rosevears,Launceston City,8330,South Launceston,Door of Hope,50 Glen Dhu Street,LAUNCESTON,7250,-41.4552869,147.1404286
 Bass,Rosevears,Launceston City,,South Launceston,Launceston RSL,313-315 Wellington St,LAUNCESTON,7250,-41.45296,147.14393
+Bass,Rosevears,Launceston City,,South Launceston,Launceston Conference Centre,50 Glen Dhu St,SOUTH LAUNCESTON,7249,-41.45567871682845,147.14132043886568
 Bass,Rosevears,Launceston City,,South Launceston East,St Marks Hall,2-6 Hobart Rd,SOUTH LAUNCESTON,7249,-41.459328671504146,147.15391158465405
 Bass,Rosevears,Launceston City,,South Launceston West,Launceston Conference Centre,50 Glen Dhu St,SOUTH LAUNCESTON,7249,-41.45567871682845,147.14132043886568
 Bass,Rosevears,Launceston City,,Summerhill,Summerdale Community Centre,82-84 Stanley St,SUMMERHILL,7250,-41.4683,147.12971
@@ -193,6 +196,7 @@ Braddon,Murchison,Waratah-Wynyard,,Waratah,Waratah Athenaeum Hall,18 Smith St,WA
 Braddon,Mersey,Latrobe,8685,Wesley Vale,Andrews Creek Primary School,20 Westwind Dr,WESLEY VALE,7307,-41.1888279,146.4564013
 Braddon,Montgomery,Central Coast,8428,West Ulverstone,West Ulverstone Primary School,34 Maud St,WEST ULVERSTONE,7315,-41.1482,146.16
 Braddon,Montgomery,Burnie City,8434,Wivenhoe,Leighland Christian School (Wivenhoe Campus),Stowport Rd,WIVENHOE,7320,-41.06904,145.93609
+Braddon,Montgomery,Burnie City,8434,Wivenhoe,Leighland Christian School Brunie Campus,Hull St,WIVENHOE,7320,-41.0695,145.93556
 Braddon,Murchison,Waratah-Wynyard,8435,Wynyard Central,Wynyard Senior Citizens Club Rooms,28 Jackson St,WYNYARD,7325,-40.9909,145.729
 Braddon,Murchison,Waratah-Wynyard,,Wynyard Central,Wynyard Railway Institute Hall,2 Station St,WYNYARD,7325,-40.99181706033309,145.72261798302256
 Braddon,Murchison,Waratah-Wynyard,8433,Wynyard West,Wynyard High School,30 Church St,WYNYARD,7325,-40.9867,145.717
@@ -337,6 +341,7 @@ Franklin,Pembroke,Clarence City,8527,Montagu Bay,Montagu Bay Primary School,10 C
 Franklin,Pembroke,Clarence City,8528,Mornington,Citywide Baptist Church,400 Cambridge Rd,MORNINGTON,7018,-42.8563512,147.4017533
 Franklin,Pembroke,Clarence City,,Mornington,MacKillop Catholic College,2 Goondi St,MORNINGTON,7018,-42.85712256554291,147.40019922545338
 Franklin,Huon,Huon Valley,8514,Mountain River,Mountain River Memorial Hall,263 Mountain River Rd,MOUNTAIN RIVER,7109,-42.9614,147.109
+Franklin,Huon,Huon Valley,,Mountain River,Grove Fire Station,41 Crabtree Rd,GROVE,7109,-42.976,147.094
 Franklin,Huon,Kingborough,,North Bruny,Barnes Bay CWA Hall,680 Bruny Island Main Rd,NORTH BRUNY,7150,-43.11260291,147.3734144
 Franklin,Huon,Huon Valley,,Port Huon,Port Huon Sports & Aquatic Centre,Huon Hwy,PORT HUON,7116,-43.15668251,146.9574075
 Franklin,Huon,Huon Valley,8531,Ranelagh,Ranelagh Memorial Hall,40 Marguerite St,RANELAGH,7109,-43.0086,147.039
@@ -354,6 +359,7 @@ Franklin,Huon,Huon Valley,,Southport,Southport Fire Station,3 Cathkit St,SOUTHPO
 Franklin,Huon,Huon Valley,,Surges Bay,Surges Bay Hall,72 Esperance Coast Rd,SURGES BAY,7116,-43.21957298,146.9981777
 Franklin,Pembroke,Clarence City,8543,Tranmere,Tranmere Hall,27 Tranmere Rd,HOWRAH,7018,-42.8911,147.409
 Franklin,Pembroke,Clarence City,8544,Warrane,Warrane Primary School,213 Cambridge Rd,WARRANE,7018,-42.8611504,147.3825601
+Franklin,Pembroke,Clarence City,,Warrane,Eastside Lutheran College,15 Acorn Dr,WARRANE,7018,-42.852,147.385
 Franklin,Pembroke,Clarence City,,Warrane North,Warrane Mornington Neighbourhood Centre,150a Bligh St,WARRANE,7018,-42.85701221,147.3808921
 Franklin,Huon,Kingborough,8546,Woodbridge,Woodbridge Hall,3445 Channel Hwy,WOODBRIDGE,7162,-43.1601,147.239
 Lyons,McIntyre,Northern Midlands,8550,Avoca,Avoca Primary School,26-30 St Pauls St,AVOCA,7213,-41.782233,147.7266848
